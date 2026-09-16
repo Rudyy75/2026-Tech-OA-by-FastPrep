@@ -2,13 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**84 questions**
+**85 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
 |**Amazon**|[Design Usage Billing for One Account](https://www.fastprep.io/low-level-design/single-account-usage-billing)|[![Practice][p]](https://www.fastprep.io/low-level-design/single-account-usage-billing)|🔥 Sep 14, 2026|
+|**Unattributed**|[Design and Implement a Concurrency-Safe Wallet](https://www.fastprep.io/low-level-design/concurrency-safe-wallet)|[![Practice][p]](https://www.fastprep.io/low-level-design/concurrency-safe-wallet)|🔥 Sep 14, 2026|
 |**Amazon**|[Design an In-Memory Publish-Subscribe Library](https://www.fastprep.io/low-level-design/in-memory-publish-subscribe-library)|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-publish-subscribe-library)|🔥 Sep 13, 2026|
 |**Amazon**|[Design a Return Drop-Store Booking System](https://www.fastprep.io/low-level-design/return-drop-store-booking)|[![Practice][p]](https://www.fastprep.io/low-level-design/return-drop-store-booking)|🔥 Sep 13, 2026|
 |**Amazon**|[Design a Playlist Source Mixer](https://www.fastprep.io/low-level-design/playlist-source-mixer)|[![Practice][p]](https://www.fastprep.io/low-level-design/playlist-source-mixer)|🔥 Sep 13, 2026|
