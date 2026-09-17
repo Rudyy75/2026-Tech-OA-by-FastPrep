@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**2,038 questions**
+**2,039 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Tesla**|[Swap Even and Odd Bits](https://www.fastprep.io/problems/tesla-swap-even-and-odd-bits)|[![Practice][p]](https://www.fastprep.io/problems/tesla-swap-even-and-odd-bits)|🔥 Sep 16, 2026|
 |**Uber**|[First Unique IP Hitting the Server](https://www.fastprep.io/problems/uber-first-unique-ip-hitting-server)|[![Practice][p]](https://www.fastprep.io/problems/uber-first-unique-ip-hitting-server)|🔥 Sep 14, 2026|
 |**Amazon**|[Root-to-Leaf Paths with a Target Sum](https://www.fastprep.io/problems/amazon-root-to-leaf-target-sum-paths)|[![Practice][p]](https://www.fastprep.io/problems/amazon-root-to-leaf-target-sum-paths)|🔥 Sep 14, 2026|
 |**Amazon**|[First Non-Repeating Character](https://www.fastprep.io/problems/amazon-first-non-repeating-character)|[![Practice][p]](https://www.fastprep.io/problems/amazon-first-non-repeating-character)|🔥 Sep 14, 2026|
@@ -1917,5 +1918,4 @@
 |**Snowflake**|[Efficient Deployments](https://www.fastprep.io/problems/snowflake-efficient-deployments)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-efficient-deployments)|Feb 18, 2024|
 |**Amazon**|[Fortune Telling](https://www.fastprep.io/problems/amazon-minimize-the-range)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimize-the-range)|Feb 17, 2024|
 |**Amazon**|[Max User Traffic](https://www.fastprep.io/problems/amazon-maximum-user-traffic)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-user-traffic)|Feb 17, 2024|
-|**Amazon**|[Find Min Trips](https://www.fastprep.io/problems/amazon-find-min-trips)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-min-trips)|Feb 17, 2024|
 <a id="bottom"></a>
