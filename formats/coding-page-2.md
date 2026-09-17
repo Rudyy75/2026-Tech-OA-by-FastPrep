@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,052 questions**
+**2,053 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**IBM**|[Get Min Time](https://www.fastprep.io/problems/ibm-get-min-time)|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-min-time)|Feb 20, 2024|
+|**Oracle**|[Add Numbers](https://www.fastprep.io/problems/oracle-add-numbers)|[![Practice][p]](https://www.fastprep.io/problems/oracle-add-numbers)|Feb 20, 2024|
 |**Walleye Capital**|[Get Min Time](https://www.fastprep.io/problems/walleye-get-min-time)|[![Practice][p]](https://www.fastprep.io/problems/walleye-get-min-time)|Feb 20, 2024|
 |**Amazon**|[Get Min Num Moves](https://www.fastprep.io/problems/amazon-get-min-num-moves)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-num-moves)|Feb 19, 2024|
 |**Amazon**|[Count Distinct Passwords](https://www.fastprep.io/problems/amazon-count-distinct-passwords)|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-distinct-passwords)|Feb 19, 2024|
