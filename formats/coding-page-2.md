@@ -2,12 +2,24 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,038 questions**
+**2,053 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**IBM**|[Get Min Time](https://www.fastprep.io/problems/ibm-get-min-time)|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-min-time)|Feb 20, 2024|
+|**Oracle**|[Add Numbers](https://www.fastprep.io/problems/oracle-add-numbers)|[![Practice][p]](https://www.fastprep.io/problems/oracle-add-numbers)|Feb 20, 2024|
+|**Walleye Capital**|[Get Min Time](https://www.fastprep.io/problems/walleye-get-min-time)|[![Practice][p]](https://www.fastprep.io/problems/walleye-get-min-time)|Feb 20, 2024|
+|**Amazon**|[Get Min Num Moves](https://www.fastprep.io/problems/amazon-get-min-num-moves)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-num-moves)|Feb 19, 2024|
+|**Amazon**|[Count Distinct Passwords](https://www.fastprep.io/problems/amazon-count-distinct-passwords)|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-distinct-passwords)|Feb 19, 2024|
+|**Citadel**|[Max the Lottery ID](https://www.fastprep.io/problems/citadel-maximize-the-lottery-id)|[![Practice][p]](https://www.fastprep.io/problems/citadel-maximize-the-lottery-id)|Feb 19, 2024|
+|**Meta**|[Search Mysterious Grid](https://www.fastprep.io/problems/mt-search-myterious-grid)|[![Practice][p]](https://www.fastprep.io/problems/mt-search-myterious-grid)|Feb 18, 2024|
+|**Meta**|[Enumerating Narrative Sections](https://www.fastprep.io/problems/mt-enumerating-narrative-sections)|[![Practice][p]](https://www.fastprep.io/problems/mt-enumerating-narrative-sections)|Feb 18, 2024|
+|**Snowflake**|[Efficient Deployments](https://www.fastprep.io/problems/snowflake-efficient-deployments)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-efficient-deployments)|Feb 18, 2024|
+|**Amazon**|[Fortune Telling](https://www.fastprep.io/problems/amazon-minimize-the-range)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimize-the-range)|Feb 17, 2024|
+|**Amazon**|[Max User Traffic](https://www.fastprep.io/problems/amazon-maximum-user-traffic)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-user-traffic)|Feb 17, 2024|
+|**Amazon**|[Find Min Trips](https://www.fastprep.io/problems/amazon-find-min-trips)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-min-trips)|Feb 17, 2024|
 |**Meta**|[Closest Landmark](https://www.fastprep.io/problems/mt-closest-land-mark)|[![Practice][p]](https://www.fastprep.io/problems/mt-closest-land-mark)|Feb 17, 2024|
 |**Google**|[Min Amplitude](https://www.fastprep.io/problems/google-min-amplitude)|[![Practice][p]](https://www.fastprep.io/problems/google-min-amplitude)|Feb 16, 2024|
 |**Google**|[Ways to Split a String](https://www.fastprep.io/problems/google-number-of-ways-to-split-a-string)|[![Practice][p]](https://www.fastprep.io/problems/google-number-of-ways-to-split-a-string)|Feb 16, 2024|
@@ -122,11 +134,15 @@
 |**Arcesium**|[Robo Data Sharing Direction](https://www.fastprep.io/problems/arcesium-robo-data-sharing-direction)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-robo-data-sharing-direction)|Jul 17, 2023|
 |**IMC**|[Busy Intersection](https://www.fastprep.io/problems/imc-busy-intersection)|[![Practice][p]](https://www.fastprep.io/problems/imc-busy-intersection)|Mar 27, 2023|
 |**Odoo**|[Maximum Profit from an Increasing Price Triplet](https://www.fastprep.io/problems/odoo-maximum-profit-increasing-triplet)|[![Practice][p]](https://www.fastprep.io/problems/odoo-maximum-profit-increasing-triplet)|Jan 24, 2023|
+|**Tesla**|[Find the Intersection Node of Two Linked Lists](https://www.fastprep.io/problems/tesla-linked-list-intersection-node)|[![Practice][p]](https://www.fastprep.io/problems/tesla-linked-list-intersection-node)|Oct 17, 2022|
 |**IMC**|[Reaching Points with Perfect-Square Obstacles](https://www.fastprep.io/problems/imc-perfect-square-forbidden-reaching-points)|[![Practice][p]](https://www.fastprep.io/problems/imc-perfect-square-forbidden-reaching-points)|Sep 07, 2022|
+|**Rippling**|[Layered Rectangle Canvas](https://www.fastprep.io/problems/rippling-matrix-rectangle-canvas)|[![Practice][p]](https://www.fastprep.io/problems/rippling-matrix-rectangle-canvas)|Jan 15, 2022|
 |**FlexTrade**|[Merge Two Sorted Arrays](https://www.fastprep.io/problems/flextrade-merge-two-sorted-arrays)|[![Practice][p]](https://www.fastprep.io/problems/flextrade-merge-two-sorted-arrays)|Nov 16, 2021|
 |**FlexTrade**|[Minimum Number of Taps to Water a Garden](https://www.fastprep.io/problems/flextrade-minimum-number-of-taps-to-water-a-garden)|[![Practice][p]](https://www.fastprep.io/problems/flextrade-minimum-number-of-taps-to-water-a-garden)|Nov 16, 2021|
+|**Tesla**|[Maximum Even-Sum Adjacent Pairs in a Circular Array](https://www.fastprep.io/problems/tesla-maximum-even-sum-adjacent-pairs)|[![Practice][p]](https://www.fastprep.io/problems/tesla-maximum-even-sum-adjacent-pairs)|Oct 17, 2021|
 |**IMC**|[Adding Stack 2.0](https://www.fastprep.io/problems/imc-adding-stack-2-0)|[![Practice][p]](https://www.fastprep.io/problems/imc-adding-stack-2-0)|Sep 24, 2021|
 |**IMC**|[Knight Minimum Moves with a Fixed Bishop](https://www.fastprep.io/problems/imc-knight-minimum-moves-fixed-bishop)|[![Practice][p]](https://www.fastprep.io/problems/imc-knight-minimum-moves-fixed-bishop)|Sep 24, 2021|
+|**Tesla**|[Priority, Expiration, and LRU Eviction](https://www.fastprep.io/problems/tesla-priority-expiration-lru-eviction)|[![Practice][p]](https://www.fastprep.io/problems/tesla-priority-expiration-lru-eviction)|Mar 18, 2021|
 |**Arcesium**|[Capital Gains Tax from Trades](https://www.fastprep.io/problems/arcesium-capital-gains-tax-from-trades)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-capital-gains-tax-from-trades)|Feb 23, 2021|
 |**IMC**|[Hidden Artifacts](https://www.fastprep.io/problems/imc-hidden-artifacts)|[![Practice][p]](https://www.fastprep.io/problems/imc-hidden-artifacts)|Oct 20, 2020|
 |**Postman**|[Configuration System](https://www.fastprep.io/problems/postman-configuration-system)|[![Practice][p]](https://www.fastprep.io/problems/postman-configuration-system)|Sep 23, 2020|
@@ -134,6 +150,7 @@
 |**Postman**|[Minimum Swaps to Sort an Array](https://www.fastprep.io/problems/postman-minimum-swaps-to-sort)|[![Practice][p]](https://www.fastprep.io/problems/postman-minimum-swaps-to-sort)|Aug 27, 2020|
 |**Postman**|[Validate IP Address](https://www.fastprep.io/problems/postman-validate-ip-address)|[![Practice][p]](https://www.fastprep.io/problems/postman-validate-ip-address)|Aug 27, 2020|
 |**Arcesium**|[K-th Character in an Infinite String](https://www.fastprep.io/problems/arcesium-kth-character-in-infinite-string)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-kth-character-in-infinite-string)|Aug 08, 2020|
+|**Tesla**|[Batched Strided Convolution](https://www.fastprep.io/problems/tesla-batched-strided-convolution)|[![Practice][p]](https://www.fastprep.io/problems/tesla-batched-strided-convolution)|Nov 13, 2019|
 |**Postman**|[Without Whitespaces](https://www.fastprep.io/problems/postman-without-whitespaces)|[![Practice][p]](https://www.fastprep.io/problems/postman-without-whitespaces)|Sep 26, 2019|
 |**Postman**|[Maximum Laptop Rating in a Price Range](https://www.fastprep.io/problems/postman-maximum-laptop-rating)|[![Practice][p]](https://www.fastprep.io/problems/postman-maximum-laptop-rating)|Aug 30, 2019|
 <a id="bottom"></a>
