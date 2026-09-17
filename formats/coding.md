@@ -2,15 +2,17 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**2,053 questions**
+**2,055 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Citadel**|[Top Ten Trades by Notional Value](https://www.fastprep.io/problems/citadel-top-ten-trades-by-notional)|[![Practice][p]](https://www.fastprep.io/problems/citadel-top-ten-trades-by-notional)|🔥 Sep 17, 2026|
+|**Citadel**|[Reconcile Unmatched Trades with Timestamp Tolerance](https://www.fastprep.io/problems/citadel-reconcile-unmatched-trades)|[![Practice][p]](https://www.fastprep.io/problems/citadel-reconcile-unmatched-trades)|🔥 Sep 17, 2026|
+|**Uber**|[First Unique IP Hitting the Server](https://www.fastprep.io/problems/uber-first-unique-ip-hitting-server)|[![Practice][p]](https://www.fastprep.io/problems/uber-first-unique-ip-hitting-server)|🔥 Sep 17, 2026|
 |**Tesla**|[Swap Even and Odd Bits](https://www.fastprep.io/problems/tesla-swap-even-and-odd-bits)|[![Practice][p]](https://www.fastprep.io/problems/tesla-swap-even-and-odd-bits)|🔥 Sep 16, 2026|
 |**Stripe**|[Split Tender Transactions Part 1 - Basic Split Tendering](https://www.fastprep.io/problems/stripe-split-tender-basic)|[![Practice][p]](https://www.fastprep.io/problems/stripe-split-tender-basic)|🔥 Sep 16, 2026|
-|**Uber**|[First Unique IP Hitting the Server](https://www.fastprep.io/problems/uber-first-unique-ip-hitting-server)|[![Practice][p]](https://www.fastprep.io/problems/uber-first-unique-ip-hitting-server)|🔥 Sep 14, 2026|
 |**Amazon**|[Root-to-Leaf Paths with a Target Sum](https://www.fastprep.io/problems/amazon-root-to-leaf-target-sum-paths)|[![Practice][p]](https://www.fastprep.io/problems/amazon-root-to-leaf-target-sum-paths)|🔥 Sep 14, 2026|
 |**Amazon**|[First Non-Repeating Character](https://www.fastprep.io/problems/amazon-first-non-repeating-character)|[![Practice][p]](https://www.fastprep.io/problems/amazon-first-non-repeating-character)|🔥 Sep 14, 2026|
 |**Akuna Capital**|[Count Server Replacements](https://www.fastprep.io/problems/akuna-count-server-replacements)|[![Practice][p]](https://www.fastprep.io/problems/akuna-count-server-replacements)|🔥 Sep 14, 2026|
@@ -1914,6 +1916,4 @@
 |**ZipRecruiter**|[Cycle Shift](https://www.fastprep.io/problems/ziprecruiter-cycle-shift)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-cycle-shift)|Feb 21, 2024|
 |**Pure Storage**|[Find Doubles](https://www.fastprep.io/problems/purestorage-find-doubles)|[![Practice][p]](https://www.fastprep.io/problems/purestorage-find-doubles)|Feb 21, 2024|
 |**Palantir**|[Get Phone Numbers](https://www.fastprep.io/problems/palantir-get-phone-numbers)|[![Practice][p]](https://www.fastprep.io/problems/palantir-get-phone-numbers)|Feb 21, 2024|
-|**Palantir**|[Get Largest Number](https://www.fastprep.io/problems/palantir-get-largest-number)|[![Practice][p]](https://www.fastprep.io/problems/palantir-get-largest-number)|Feb 21, 2024|
-|**Amazon**|[Get Max Racers](https://www.fastprep.io/problems/amazon-get-max-racers)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-racers)|Feb 20, 2024|
 <a id="bottom"></a>
