@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,053 questions**
+**2,055 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Palantir**|[Get Largest Number](https://www.fastprep.io/problems/palantir-get-largest-number)|[![Practice][p]](https://www.fastprep.io/problems/palantir-get-largest-number)|Feb 21, 2024|
+|**Amazon**|[Get Max Racers](https://www.fastprep.io/problems/amazon-get-max-racers)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-racers)|Feb 20, 2024|
 |**IBM**|[Get Min Time](https://www.fastprep.io/problems/ibm-get-min-time)|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-min-time)|Feb 20, 2024|
 |**Oracle**|[Add Numbers](https://www.fastprep.io/problems/oracle-add-numbers)|[![Practice][p]](https://www.fastprep.io/problems/oracle-add-numbers)|Feb 20, 2024|
 |**Walleye Capital**|[Get Min Time](https://www.fastprep.io/problems/walleye-get-min-time)|[![Practice][p]](https://www.fastprep.io/problems/walleye-get-min-time)|Feb 20, 2024|

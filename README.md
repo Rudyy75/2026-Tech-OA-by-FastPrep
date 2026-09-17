@@ -23,7 +23,7 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,053)](formats/coding.md) · [SQL (36)](formats/sql.md) · [System design (324)](formats/system-design.md) · [Low-level design (85)](formats/low-level-design.md) · [AI coding (37)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,055)](formats/coding.md) · [SQL (36)](formats/sql.md) · [System design (324)](formats/system-design.md) · [Low-level design (85)](formats/low-level-design.md) · [AI coding (37)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -33,12 +33,14 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 <!-- question-pages:end -->
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Citadel**|[Top Ten Trades by Notional Value](https://www.fastprep.io/problems/citadel-top-ten-trades-by-notional)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-top-ten-trades-by-notional)|🔥 Sep 17, 2026|
+|**Citadel**|[Reconcile Unmatched Trades with Timestamp Tolerance](https://www.fastprep.io/problems/citadel-reconcile-unmatched-trades)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-reconcile-unmatched-trades)|🔥 Sep 17, 2026|
+|**Uber**|[First Unique IP Hitting the Server](https://www.fastprep.io/problems/uber-first-unique-ip-hitting-server)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-first-unique-ip-hitting-server)|🔥 Sep 17, 2026|
 |**IBM**|[Repair Event Pre-Save Validation](https://www.fastprep.io/project-coding/ibm-event-presave-validation)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/ibm-event-presave-validation)|🔥 Sep 16, 2026|
 |**Tesla**|[Swap Even and Odd Bits](https://www.fastprep.io/problems/tesla-swap-even-and-odd-bits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tesla-swap-even-and-odd-bits)|🔥 Sep 16, 2026|
 |**Stripe**|[Split Tender Transactions Part 1 - Basic Split Tendering](https://www.fastprep.io/problems/stripe-split-tender-basic)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-split-tender-basic)|🔥 Sep 16, 2026|
 |**Salesforce / Replit / Sarvam AI / Microsoft / Gojek / Goldman Sachs / Amazon / Blinkit / Reddit / Qualified Health AI**|[Design an Event-Driven Notification System](https://www.fastprep.io/system-design/event-driven-notification-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/event-driven-notification-system)|🔥 Sep 15, 2026|
 |**Amazon**|[Design Usage Billing for One Account](https://www.fastprep.io/low-level-design/single-account-usage-billing)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/single-account-usage-billing)|🔥 Sep 14, 2026|
-|**Uber**|[First Unique IP Hitting the Server](https://www.fastprep.io/problems/uber-first-unique-ip-hitting-server)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-first-unique-ip-hitting-server)|🔥 Sep 14, 2026|
 |**Amazon**|[Root-to-Leaf Paths with a Target Sum](https://www.fastprep.io/problems/amazon-root-to-leaf-target-sum-paths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-root-to-leaf-target-sum-paths)|🔥 Sep 14, 2026|
 |**Amazon**|[First Non-Repeating Character](https://www.fastprep.io/problems/amazon-first-non-repeating-character)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-first-non-repeating-character)|🔥 Sep 14, 2026|
 |**Unattributed**|[Design and Implement a Concurrency-Safe Wallet](https://www.fastprep.io/low-level-design/concurrency-safe-wallet)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/concurrency-safe-wallet)|🔥 Sep 14, 2026|
@@ -1742,6 +1744,4 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**Amazon**|[Get Max Stability](https://www.fastprep.io/problems/amazon-minimum-swaps-to-make-palindrome)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-swaps-to-make-palindrome)|Dec 20, 2024|
 |**Amazon**|[Get Max Stability](https://www.fastprep.io/problems/amazon-get-max-stability)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-stability)|Dec 20, 2024|
 |**Google**|[Set Total Palindrome Tranformation Cost](https://www.fastprep.io/problems/google-set-total-palindrome-transformation-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-set-total-palindrome-transformation-cost)|Dec 20, 2024|
-|**Trend Micro**|[Change Segment Colors](https://www.fastprep.io/problems/trendmicro-change-segment-colors)|Coding|[![Practice][p]](https://www.fastprep.io/problems/trendmicro-change-segment-colors)|Dec 20, 2024|
-|**Google**|[Find Optimal Input](https://www.fastprep.io/problems/google-find-optimal-input)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-optimal-input)|Dec 18, 2024|
 <a id="bottom"></a>
