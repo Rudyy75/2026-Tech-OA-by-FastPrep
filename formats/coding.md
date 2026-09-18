@@ -13,6 +13,8 @@
 |**Uber**|[First Unique IP Hitting the Server](https://www.fastprep.io/problems/uber-first-unique-ip-hitting-server)|[![Practice][p]](https://www.fastprep.io/problems/uber-first-unique-ip-hitting-server)|🔥 Sep 17, 2026|
 |**Susquehanna International Group (SIG)**|[Leftmost Memory Block Allocator](https://www.fastprep.io/problems/susquehanna-leftmost-memory-block-allocator)|[![Practice][p]](https://www.fastprep.io/problems/susquehanna-leftmost-memory-block-allocator)|🔥 Sep 17, 2026|
 |**Susquehanna International Group (SIG)**|[Sort Matrix Borders](https://www.fastprep.io/problems/susquehanna-sort-matrix-borders)|[![Practice][p]](https://www.fastprep.io/problems/susquehanna-sort-matrix-borders)|🔥 Sep 17, 2026|
+|**Google**|[Count Score Categories](https://www.fastprep.io/problems/google-count-score-categories)|[![Practice][p]](https://www.fastprep.io/problems/google-count-score-categories)|🔥 Sep 17, 2026|
+|**Google**|[Book Reading Evenings](https://www.fastprep.io/problems/google-book-reading-evenings)|[![Practice][p]](https://www.fastprep.io/problems/google-book-reading-evenings)|🔥 Sep 17, 2026|
 |**Tesla**|[Swap Even and Odd Bits](https://www.fastprep.io/problems/tesla-swap-even-and-odd-bits)|[![Practice][p]](https://www.fastprep.io/problems/tesla-swap-even-and-odd-bits)|🔥 Sep 16, 2026|
 |**Stripe**|[Split Tender Transactions Part 1 - Basic Split Tendering](https://www.fastprep.io/problems/stripe-split-tender-basic)|[![Practice][p]](https://www.fastprep.io/problems/stripe-split-tender-basic)|🔥 Sep 16, 2026|
 |**Amazon**|[Root-to-Leaf Paths with a Target Sum](https://www.fastprep.io/problems/amazon-root-to-leaf-target-sum-paths)|[![Practice][p]](https://www.fastprep.io/problems/amazon-root-to-leaf-target-sum-paths)|🔥 Sep 14, 2026|
@@ -147,8 +149,6 @@
 |**Wayfair**|[Assign Distinct Letter Values to Minimize XOR](https://www.fastprep.io/problems/wayfair-distinct-letter-values-minimum-xor)|[![Practice][p]](https://www.fastprep.io/problems/wayfair-distinct-letter-values-minimum-xor)|🔥 Sep 11, 2026|
 |**Wayfair**|[Moving Cost by Volume and Category](https://www.fastprep.io/problems/wayfair-moving-cost-calculator)|[![Practice][p]](https://www.fastprep.io/problems/wayfair-moving-cost-calculator)|🔥 Sep 11, 2026|
 |**Waymo**|[Shortest Paths to Multiple Targets](https://www.fastprep.io/problems/waymo-shortest-paths-to-multiple-targets)|[![Practice][p]](https://www.fastprep.io/problems/waymo-shortest-paths-to-multiple-targets)|🔥 Sep 11, 2026|
-|**Google**|[Count Score Categories](https://www.fastprep.io/problems/google-count-score-categories)|[![Practice][p]](https://www.fastprep.io/problems/google-count-score-categories)|🔥 Sep 10, 2026|
-|**Google**|[Book Reading Evenings](https://www.fastprep.io/problems/google-book-reading-evenings)|[![Practice][p]](https://www.fastprep.io/problems/google-book-reading-evenings)|🔥 Sep 10, 2026|
 |**IBM**|[Alphabetically Smallest Palindrome](https://www.fastprep.io/problems/ibm-alphabetically-smallest-palindrome)|[![Practice][p]](https://www.fastprep.io/problems/ibm-alphabetically-smallest-palindrome)|🔥 Sep 10, 2026|
 |**Akuna Capital**|[Items Sort](https://www.fastprep.io/problems/akuna-items-sort)|[![Practice][p]](https://www.fastprep.io/problems/akuna-items-sort)|🔥 Sep 10, 2026|
 |**Akuna Capital**|[Two Sum](https://www.fastprep.io/problems/akuna-two-sum)|[![Practice][p]](https://www.fastprep.io/problems/akuna-two-sum)|🔥 Sep 10, 2026|
