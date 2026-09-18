@@ -23,7 +23,7 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,058)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (344)](formats/system-design.md) · [Low-level design (90)](formats/low-level-design.md) · [AI coding (38)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,058)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (344)](formats/system-design.md) · [Low-level design (90)](formats/low-level-design.md) · [AI coding (39)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -88,6 +88,7 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**Rubrik**|[Design Cross-Region Versioned Map Reconciliation](https://www.fastprep.io/system-design/cross-region-versioned-map-reconciliation)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cross-region-versioned-map-reconciliation)|🔥 Sep 16, 2026|
 |**Harness**|[Design Rolling Top-N Movie Recommendations](https://www.fastprep.io/system-design/rolling-top-n-movie-views)|System design|[![Practice][p]](https://www.fastprep.io/system-design/rolling-top-n-movie-views)|🔥 Sep 16, 2026|
 |**Rubrik**|[Design a Thread-Safe One-Dimensional Parking Lot](https://www.fastprep.io/low-level-design/thread-safe-linear-parking-lot)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-linear-parking-lot)|🔥 Sep 16, 2026|
+|**Walmart**|[Repair Movie Watchlist Synchronization](https://www.fastprep.io/project-coding/walmart-repair-movie-watchlist)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/walmart-repair-movie-watchlist)|🔥 Sep 16, 2026|
 |**Salesforce / Replit / Sarvam AI / Microsoft / Gojek / Goldman Sachs / Amazon / Blinkit / Reddit / Qualified Health AI**|[Design an Event-Driven Notification System](https://www.fastprep.io/system-design/event-driven-notification-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/event-driven-notification-system)|🔥 Sep 15, 2026|
 |**Infosys / Waymo / Goldman Sachs / Onehouse / Amazon / Meta**|[Design Ride-Hailing Dispatch and Trip Lifecycle](https://www.fastprep.io/system-design/regional-ride-hailing-dispatch-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/regional-ride-hailing-dispatch-system)|🔥 Sep 15, 2026|
 |**Pinterest / Instacart**|[Design an Inventory Management Service](https://www.fastprep.io/system-design/inventory-management-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/inventory-management-service)|🔥 Sep 15, 2026|
@@ -1735,6 +1736,4 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**Google**|[Maximum Subarray](https://www.fastprep.io/problems/google-maximum-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-subarray)|Feb 13, 2025|
 |**Google**|[Merge Intervals](https://www.fastprep.io/problems/google-merge-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-merge-intervals)|Feb 13, 2025|
 |**Amazon**|[Get The Most Out Of The Data](https://www.fastprep.io/problems/amazon-get-most-out-of-the-data)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-most-out-of-the-data)|Feb 10, 2025|
-|**TikTok**|[Playlist Partitioning](https://www.fastprep.io/problems/tiktok-playlist-partitioning)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-playlist-partitioning)|Feb 09, 2025|
-|**TikTok**|[Change Username](https://www.fastprep.io/problems/tiktok-changing-username)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-changing-username)|Feb 09, 2025|
 <a id="bottom"></a>
