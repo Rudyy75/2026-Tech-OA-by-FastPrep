@@ -9,6 +9,18 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Capital One**|[Sum Digits Until One](https://www.fastprep.io/problems/capitalone-sum-digits-until-one)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capitalone-sum-digits-until-one)|Dec 23, 2024|
+|**IBM**|[Min Cost](https://www.fastprep.io/problems/ibm-get-minimum-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-minimum-cost)|Dec 23, 2024|
+|**IBM**|[Min Difference](https://www.fastprep.io/problems/ibm-minimum-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-minimum-difference)|Dec 23, 2024|
+|**IBM**|[Max Profit](https://www.fastprep.io/problems/ibm-max-profit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-max-profit)|Dec 23, 2024|
+|**Amazon**|[Max Transfer Rate](https://www.fastprep.io/problems/amazon-max-transfer-rate)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-max-transfer-rate)|Dec 22, 2024|
+|**Amazon**|[Get Final Location](https://www.fastprep.io/problems/amazon-get-final-locations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-final-locations)|Dec 22, 2024|
+|**Amazon**|[Get Stable Periods Count](https://www.fastprep.io/problems/amazon-get-stable-periods-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-stable-periods-count)|Dec 22, 2024|
+|**Amazon**|[Calculate Max Profit](https://www.fastprep.io/problems/amazon-calculate-max-profit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-calculate-max-profit)|Dec 22, 2024|
+|**Google**|[Max Break Time](https://www.fastprep.io/problems/google-reschedule-k-meetings-to-find-maximum-break-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-reschedule-k-meetings-to-find-maximum-break-time)|Dec 22, 2024|
+|**Microsoft**|[Three Partition Array](https://www.fastprep.io/problems/microsoft-three-partition-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-three-partition-array)|Dec 22, 2024|
+|**Amazon**|[Min Operations](https://www.fastprep.io/problems/amazon-make-array-zero-by-subtracting-equal-amounts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-make-array-zero-by-subtracting-equal-amounts)|Dec 20, 2024|
+|**Amazon**|[Get Max Stability](https://www.fastprep.io/problems/amazon-minimum-swaps-to-make-palindrome)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-swaps-to-make-palindrome)|Dec 20, 2024|
 |**Amazon**|[Get Max Stability](https://www.fastprep.io/problems/amazon-get-max-stability)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-stability)|Dec 20, 2024|
 |**Google**|[Set Total Palindrome Tranformation Cost](https://www.fastprep.io/problems/google-set-total-palindrome-transformation-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-set-total-palindrome-transformation-cost)|Dec 20, 2024|
 |**Trend Micro**|[Change Segment Colors](https://www.fastprep.io/problems/trendmicro-change-segment-colors)|Coding|[![Practice][p]](https://www.fastprep.io/problems/trendmicro-change-segment-colors)|Dec 20, 2024|
