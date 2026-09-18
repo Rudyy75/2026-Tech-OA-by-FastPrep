@@ -2,16 +2,20 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**86 questions**
+**90 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Kotak Mahindra Bank**|[Design a Food Delivery Order Domain](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|🔥 Sep 17, 2026|
+|**Kotak Mahindra Bank**|[Design a Showroom Vehicle Booking and Loan Workflow](https://www.fastprep.io/low-level-design/showroom-vehicle-booking-loan-workflow)|[![Practice][p]](https://www.fastprep.io/low-level-design/showroom-vehicle-booking-loan-workflow)|🔥 Sep 17, 2026|
+|**Fox Corporation**|[Design and Implement a Structured Content Query Library](https://www.fastprep.io/low-level-design/streaming-content-query-library)|[![Practice][p]](https://www.fastprep.io/low-level-design/streaming-content-query-library)|🔥 Sep 17, 2026|
 |**Gatik AI**|[Design a Configurable Point-Cloud Transformation Pipeline](https://www.fastprep.io/low-level-design/configurable-point-cloud-transformation-pipeline)|[![Practice][p]](https://www.fastprep.io/low-level-design/configurable-point-cloud-transformation-pipeline)|🔥 Sep 16, 2026|
 |**Amazon / Goldman Sachs / Salesforce / Harness**|[Design an In-Memory Job Scheduler](https://www.fastprep.io/low-level-design/in-memory-job-scheduler)|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-job-scheduler)|🔥 Sep 16, 2026|
 |**Netflix / Amazon**|[Design a Parking Lot with Flexible Fees](https://www.fastprep.io/low-level-design/parking-lot-with-flexible-fees)|[![Practice][p]](https://www.fastprep.io/low-level-design/parking-lot-with-flexible-fees)|🔥 Sep 16, 2026|
 |**Tekion / Amazon**|[Design a Configurable Logging Framework](https://www.fastprep.io/low-level-design/logging-framework)|[![Practice][p]](https://www.fastprep.io/low-level-design/logging-framework)|🔥 Sep 16, 2026|
+|**Rubrik**|[Design a Thread-Safe One-Dimensional Parking Lot](https://www.fastprep.io/low-level-design/thread-safe-linear-parking-lot)|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-linear-parking-lot)|🔥 Sep 16, 2026|
 |**Amazon**|[Design Usage Billing for One Account](https://www.fastprep.io/low-level-design/single-account-usage-billing)|[![Practice][p]](https://www.fastprep.io/low-level-design/single-account-usage-billing)|🔥 Sep 14, 2026|
 |**Unattributed**|[Design and Implement a Concurrency-Safe Wallet](https://www.fastprep.io/low-level-design/concurrency-safe-wallet)|[![Practice][p]](https://www.fastprep.io/low-level-design/concurrency-safe-wallet)|🔥 Sep 14, 2026|
 |**Salesforce / The Trade Desk**|[Design an Elevator Control System](https://www.fastprep.io/low-level-design/elevator-dispatch-control-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/elevator-dispatch-control-domain)|🔥 Sep 14, 2026|
