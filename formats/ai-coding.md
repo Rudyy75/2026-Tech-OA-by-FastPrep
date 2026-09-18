@@ -2,17 +2,20 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**39 questions**
+**42 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Unattributed**|[Filter and Batch Concurrent Logs](https://www.fastprep.io/project-coding/concurrent-log-filter-batcher)|[![Practice][p]](https://www.fastprep.io/project-coding/concurrent-log-filter-batcher)|🔥 Sep 18, 2026|
+|**Zip**|[Cache Ticket Alerts for Approval](https://www.fastprep.io/project-coding/zip-ticket-alert-approval-cache)|[![Practice][p]](https://www.fastprep.io/project-coding/zip-ticket-alert-approval-cache)|🔥 Sep 17, 2026|
 |**IBM**|[Repair Event Pre-Save Validation](https://www.fastprep.io/project-coding/ibm-event-presave-validation)|[![Practice][p]](https://www.fastprep.io/project-coding/ibm-event-presave-validation)|🔥 Sep 16, 2026|
 |**DoorDash**|[Build a Refund DAG with Local HTTP Services](https://www.fastprep.io/project-coding/doordash-refund-dag-local-services)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-refund-dag-local-services)|🔥 Sep 16, 2026|
 |**DoorDash**|[Debug Two Routing Strategies](https://www.fastprep.io/project-coding/doordash-routing-strategy-debugger)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-routing-strategy-debugger)|🔥 Sep 16, 2026|
 |**DoorDash**|[Integrate Three Profile Services](https://www.fastprep.io/project-coding/doordash-service-profile-aggregator)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-service-profile-aggregator)|🔥 Sep 16, 2026|
 |**Walmart**|[Repair Movie Watchlist Synchronization](https://www.fastprep.io/project-coding/walmart-repair-movie-watchlist)|[![Practice][p]](https://www.fastprep.io/project-coding/walmart-repair-movie-watchlist)|🔥 Sep 16, 2026|
+|**Mercor**|[Repair a Concurrent Read-Through Cache](https://www.fastprep.io/project-coding/mercor-concurrent-read-through-cache)|[![Practice][p]](https://www.fastprep.io/project-coding/mercor-concurrent-read-through-cache)|🔥 Sep 16, 2026|
 |**Amazon**|[Repair Django Ticket Creation and Replies](https://www.fastprep.io/project-coding/amazon-django-ticket-replies)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-django-ticket-replies)|🔥 Sep 15, 2026|
 |**Scribd**|[Build a Reliable Event Write Handler](https://www.fastprep.io/project-coding/scribd-reliable-event-write-handler)|[![Practice][p]](https://www.fastprep.io/project-coding/scribd-reliable-event-write-handler)|🔥 Sep 13, 2026|
 |**Amazon / Goldman Sachs**|[Repair recurring payments in the Wallet backend](https://www.fastprep.io/project-coding/repair-recurring-wallet-payments)|[![Practice][p]](https://www.fastprep.io/project-coding/repair-recurring-wallet-payments)|🔥 Sep 12, 2026|
