@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Snowflake**|[Remove Stones to Minimize the Total](https://www.fastprep.io/problems/snowflake-remove-stones-to-minimize-the-total)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-remove-stones-to-minimize-the-total)|Dec 28, 2024|
+|**Snowflake**|[Find the Max Len of A Good Subsequence I](https://www.fastprep.io/problems/snowflake-find-the-maximum-length-of-a-good-subsequence-i)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-find-the-maximum-length-of-a-good-subsequence-i)|Dec 28, 2024|
+|**Microsoft**|[Sum with Tiles](https://www.fastprep.io/problems/microsoft-sum-with-tiles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-sum-with-tiles)|Dec 24, 2024|
+|**Microsoft**|[Maximize Sum of Two Non Overlapping Fragments](https://www.fastprep.io/problems/microsoft-maximize-sum-of-two-non-overlapping-fragments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximize-sum-of-two-non-overlapping-fragments)|Dec 24, 2024|
 |**Capital One**|[Sum Digits Until One](https://www.fastprep.io/problems/capitalone-sum-digits-until-one)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capitalone-sum-digits-until-one)|Dec 23, 2024|
 |**IBM**|[Min Cost](https://www.fastprep.io/problems/ibm-get-minimum-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-minimum-cost)|Dec 23, 2024|
 |**IBM**|[Min Difference](https://www.fastprep.io/problems/ibm-minimum-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-minimum-difference)|Dec 23, 2024|

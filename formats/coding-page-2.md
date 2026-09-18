@@ -2,12 +2,16 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,055 questions**
+**2,058 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**ZipRecruiter**|[Count Triple](https://www.fastprep.io/problems/ziprecruiter-count-triple)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-triple)|Feb 21, 2024|
+|**ZipRecruiter**|[Cycle Shift](https://www.fastprep.io/problems/ziprecruiter-cycle-shift)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-cycle-shift)|Feb 21, 2024|
+|**Pure Storage**|[Find Doubles](https://www.fastprep.io/problems/purestorage-find-doubles)|[![Practice][p]](https://www.fastprep.io/problems/purestorage-find-doubles)|Feb 21, 2024|
+|**Palantir**|[Get Phone Numbers](https://www.fastprep.io/problems/palantir-get-phone-numbers)|[![Practice][p]](https://www.fastprep.io/problems/palantir-get-phone-numbers)|Feb 21, 2024|
 |**Palantir**|[Get Largest Number](https://www.fastprep.io/problems/palantir-get-largest-number)|[![Practice][p]](https://www.fastprep.io/problems/palantir-get-largest-number)|Feb 21, 2024|
 |**Amazon**|[Get Max Racers](https://www.fastprep.io/problems/amazon-get-max-racers)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-racers)|Feb 20, 2024|
 |**IBM**|[Get Min Time](https://www.fastprep.io/problems/ibm-get-min-time)|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-min-time)|Feb 20, 2024|
