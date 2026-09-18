@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Get Max Stability](https://www.fastprep.io/problems/amazon-get-max-stability)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-stability)|Dec 20, 2024|
+|**Google**|[Set Total Palindrome Tranformation Cost](https://www.fastprep.io/problems/google-set-total-palindrome-transformation-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-set-total-palindrome-transformation-cost)|Dec 20, 2024|
 |**Trend Micro**|[Change Segment Colors](https://www.fastprep.io/problems/trendmicro-change-segment-colors)|Coding|[![Practice][p]](https://www.fastprep.io/problems/trendmicro-change-segment-colors)|Dec 20, 2024|
 |**Google**|[Find Optimal Input](https://www.fastprep.io/problems/google-find-optimal-input)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-optimal-input)|Dec 18, 2024|
 |**Google**|[Calculate Min Satellites Required](https://www.fastprep.io/problems/google-calculate-minimum-satellites-required)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-calculate-minimum-satellites-required)|Dec 18, 2024|

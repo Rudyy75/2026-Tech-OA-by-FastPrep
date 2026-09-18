@@ -2,16 +2,17 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**85 questions**
+**86 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Gatik AI**|[Design a Configurable Point-Cloud Transformation Pipeline](https://www.fastprep.io/low-level-design/configurable-point-cloud-transformation-pipeline)|[![Practice][p]](https://www.fastprep.io/low-level-design/configurable-point-cloud-transformation-pipeline)|🔥 Sep 16, 2026|
 |**Amazon**|[Design Usage Billing for One Account](https://www.fastprep.io/low-level-design/single-account-usage-billing)|[![Practice][p]](https://www.fastprep.io/low-level-design/single-account-usage-billing)|🔥 Sep 14, 2026|
 |**Unattributed**|[Design and Implement a Concurrency-Safe Wallet](https://www.fastprep.io/low-level-design/concurrency-safe-wallet)|[![Practice][p]](https://www.fastprep.io/low-level-design/concurrency-safe-wallet)|🔥 Sep 14, 2026|
 |**Salesforce / The Trade Desk**|[Design an Elevator Control System](https://www.fastprep.io/low-level-design/elevator-dispatch-control-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/elevator-dispatch-control-domain)|🔥 Sep 14, 2026|
-|**Amazon**|[Design an In-Memory Publish-Subscribe Library](https://www.fastprep.io/low-level-design/in-memory-publish-subscribe-library)|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-publish-subscribe-library)|🔥 Sep 13, 2026|
+|**Amazon / The Trade Desk**|[Design an In-Memory Publish-Subscribe Library](https://www.fastprep.io/low-level-design/in-memory-publish-subscribe-library)|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-publish-subscribe-library)|🔥 Sep 14, 2026|
 |**Amazon**|[Design a Return Drop-Store Booking System](https://www.fastprep.io/low-level-design/return-drop-store-booking)|[![Practice][p]](https://www.fastprep.io/low-level-design/return-drop-store-booking)|🔥 Sep 13, 2026|
 |**Amazon**|[Design a Playlist Source Mixer](https://www.fastprep.io/low-level-design/playlist-source-mixer)|[![Practice][p]](https://www.fastprep.io/low-level-design/playlist-source-mixer)|🔥 Sep 13, 2026|
 |**Amazon**|[Design File-System Search with Symlink Safety](https://www.fastprep.io/low-level-design/filesystem-search-with-symlink-safety)|[![Practice][p]](https://www.fastprep.io/low-level-design/filesystem-search-with-symlink-safety)|🔥 Sep 13, 2026|
