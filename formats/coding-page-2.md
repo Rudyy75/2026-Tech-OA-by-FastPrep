@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,057 questions**
+**2,058 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**ZipRecruiter**|[Count Triple](https://www.fastprep.io/problems/ziprecruiter-count-triple)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-triple)|Feb 21, 2024|
 |**ZipRecruiter**|[Cycle Shift](https://www.fastprep.io/problems/ziprecruiter-cycle-shift)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-cycle-shift)|Feb 21, 2024|
 |**Pure Storage**|[Find Doubles](https://www.fastprep.io/problems/purestorage-find-doubles)|[![Practice][p]](https://www.fastprep.io/problems/purestorage-find-doubles)|Feb 21, 2024|
 |**Palantir**|[Get Phone Numbers](https://www.fastprep.io/problems/palantir-get-phone-numbers)|[![Practice][p]](https://www.fastprep.io/problems/palantir-get-phone-numbers)|Feb 21, 2024|

@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**2,057 questions**
+**2,058 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -17,6 +17,7 @@
 |**Google**|[Book Reading Evenings](https://www.fastprep.io/problems/google-book-reading-evenings)|[![Practice][p]](https://www.fastprep.io/problems/google-book-reading-evenings)|🔥 Sep 17, 2026|
 |**Tesla**|[Swap Even and Odd Bits](https://www.fastprep.io/problems/tesla-swap-even-and-odd-bits)|[![Practice][p]](https://www.fastprep.io/problems/tesla-swap-even-and-odd-bits)|🔥 Sep 16, 2026|
 |**Stripe**|[Split Tender Transactions Part 1 - Basic Split Tendering](https://www.fastprep.io/problems/stripe-split-tender-basic)|[![Practice][p]](https://www.fastprep.io/problems/stripe-split-tender-basic)|🔥 Sep 16, 2026|
+|**IBM**|[Minimum Additions to Make a Valid ABC String](https://www.fastprep.io/problems/ibm-minimum-additions-to-make-valid-abc-string)|[![Practice][p]](https://www.fastprep.io/problems/ibm-minimum-additions-to-make-valid-abc-string)|🔥 Sep 16, 2026|
 |**Amazon**|[Root-to-Leaf Paths with a Target Sum](https://www.fastprep.io/problems/amazon-root-to-leaf-target-sum-paths)|[![Practice][p]](https://www.fastprep.io/problems/amazon-root-to-leaf-target-sum-paths)|🔥 Sep 14, 2026|
 |**Amazon**|[First Non-Repeating Character](https://www.fastprep.io/problems/amazon-first-non-repeating-character)|[![Practice][p]](https://www.fastprep.io/problems/amazon-first-non-repeating-character)|🔥 Sep 14, 2026|
 |**Akuna Capital**|[Count Server Replacements](https://www.fastprep.io/problems/akuna-count-server-replacements)|[![Practice][p]](https://www.fastprep.io/problems/akuna-count-server-replacements)|🔥 Sep 14, 2026|
@@ -1914,5 +1915,4 @@
 |**Oracle**|[Merge Arrays](https://www.fastprep.io/problems/oracle-merge-arrays)|[![Practice][p]](https://www.fastprep.io/problems/oracle-merge-arrays)|Feb 21, 2024|
 |**Oracle**|[Is Power](https://www.fastprep.io/problems/oracle-is-power)|[![Practice][p]](https://www.fastprep.io/problems/oracle-is-power)|Feb 21, 2024|
 |**MathWorks**|[Load Balancing](https://www.fastprep.io/problems/mathwork-load-balancing)|[![Practice][p]](https://www.fastprep.io/problems/mathwork-load-balancing)|Feb 21, 2024|
-|**ZipRecruiter**|[Count Triple](https://www.fastprep.io/problems/ziprecruiter-count-triple)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-triple)|Feb 21, 2024|
 <a id="bottom"></a>
