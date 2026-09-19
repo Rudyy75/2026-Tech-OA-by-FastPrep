@@ -2,12 +2,34 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,110 questions**
+**2,130 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Microsoft**|[Prepare Notification](https://www.fastprep.io/problems/microsoft-prepare-notification)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-prepare-notification)|Mar 18, 2024|
+|**Microsoft**|[Side Largest Square](https://www.fastprep.io/problems/microsoft-side-largest-square)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-side-largest-square)|Mar 18, 2024|
+|**Microsoft**|[Str with Longgest Len](https://www.fastprep.io/problems/microsoft-str-with-longest-len)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-str-with-longest-len)|Mar 18, 2024|
+|**Geneva Trading**|[Min Num of Permutation Operations](https://www.fastprep.io/problems/geneva-trading-minimum-number-of-permutation-operations)|[![Practice][p]](https://www.fastprep.io/problems/geneva-trading-minimum-number-of-permutation-operations)|Mar 18, 2024|
+|**ServiceNow**|[Max Sum of Balanced Sequence](https://www.fastprep.io/problems/service-now-maximum-sum-of-balanced-subsequence)|[![Practice][p]](https://www.fastprep.io/problems/service-now-maximum-sum-of-balanced-subsequence)|Mar 18, 2024|
+|**ServiceNow**|[Find Max Min Val Using K Elements](https://www.fastprep.io/problems/service-now-find-max-minimum-value-using-k-elements)|[![Practice][p]](https://www.fastprep.io/problems/service-now-find-max-minimum-value-using-k-elements)|Mar 18, 2024|
+|**General Motors**|[Prepare Notification](https://www.fastprep.io/problems/general-motors-prepare-notification)|[![Practice][p]](https://www.fastprep.io/problems/general-motors-prepare-notification)|Mar 17, 2024|
+|**General Motors**|[Smallest But Greater](https://www.fastprep.io/problems/gms-find-the-tinest-greater-than-a-specifc-num)|[![Practice][p]](https://www.fastprep.io/problems/gms-find-the-tinest-greater-than-a-specifc-num)|Mar 17, 2024|
+|**Microsoft**|[Cleaning Bot (Microsoft India)](https://www.fastprep.io/problems/microsoft-cleaning-bot)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-cleaning-bot)|Mar 16, 2024|
+|**Morgan Stanley**|[Get Subsequence Count](https://www.fastprep.io/problems/stanley-get-subsequence-count)|[![Practice][p]](https://www.fastprep.io/problems/stanley-get-subsequence-count)|Mar 16, 2024|
+|**Amazon**|[Match Strings](https://www.fastprep.io/problems/amazon-match-strings)|[![Practice][p]](https://www.fastprep.io/problems/amazon-match-strings)|Mar 14, 2024|
+|**DoorDash**|[Sizes of Friend Groups](https://www.fastprep.io/problems/doordash-get-sizes-of-friends-groups)|[![Practice][p]](https://www.fastprep.io/problems/doordash-get-sizes-of-friends-groups)|Mar 14, 2024|
+|**TikTok**|[Minimum Buckets](https://www.fastprep.io/problems/tiktok-minimum-buckets)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-minimum-buckets)|Mar 13, 2024|
+|**TikTok**|[URL Hashing](https://www.fastprep.io/problems/tiktok-url-hashing)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-url-hashing)|Mar 13, 2024|
+|**TikTok**|[Three Knights](https://www.fastprep.io/problems/tiktok-find-the-number-of-possible-placements-for-the-three-knights)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-find-the-number-of-possible-placements-for-the-three-knights)|Mar 13, 2024|
+|**IBM**|[Arr Subsets](https://www.fastprep.io/problems/ibm-subset-a)|[![Practice][p]](https://www.fastprep.io/problems/ibm-subset-a)|Mar 13, 2024|
+|**IBM**|[Table of Contents](https://www.fastprep.io/problems/ibm-table-of-contents)|[![Practice][p]](https://www.fastprep.io/problems/ibm-table-of-contents)|Mar 13, 2024|
+|**Amazon**|[Num of Possible Unique Strings](https://www.fastprep.io/problems/amazon-find-number-of-possible-unique-strings)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-number-of-possible-unique-strings)|Mar 12, 2024|
+|**Amazon**|[Find Encrypted Password](https://www.fastprep.io/problems/amazon-find-encrypted-password)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-encrypted-password)|Mar 12, 2024|
+|**Amazon**|[Lexicographically Smallest Palindrome Possible](https://www.fastprep.io/problems/amazon-lexicographically-smallest-palindrome-possible)|[![Practice][p]](https://www.fastprep.io/problems/amazon-lexicographically-smallest-palindrome-possible)|Mar 09, 2024|
+|**IBM**|[Get Potential of Winners](https://www.fastprep.io/problems/ibm-get-potential-of-winner)|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-potential-of-winner)|Mar 09, 2024|
+|**DE Shaw**|[Cop](https://www.fastprep.io/problems/deshaw-min-acquire-cost)|[![Practice][p]](https://www.fastprep.io/problems/deshaw-min-acquire-cost)|Mar 09, 2024|
 |**Atlassian**|[Flower Bouquets](https://www.fastprep.io/problems/atlanssian-flower-bouquets)|[![Practice][p]](https://www.fastprep.io/problems/atlanssian-flower-bouquets)|Mar 09, 2024|
 |**Atlassian**|[Better Compression](https://www.fastprep.io/problems/atlanssian-better-compression)|[![Practice][p]](https://www.fastprep.io/problems/atlanssian-better-compression)|Mar 09, 2024|
 |**Atlassian**|[Romanizer](https://www.fastprep.io/problems/atlanssian-romanizer)|[![Practice][p]](https://www.fastprep.io/problems/atlanssian-romanizer)|Mar 09, 2024|
