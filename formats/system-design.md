@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**346 questions**
+**348 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -15,6 +15,8 @@
 |**Snowflake / Dropbox**|[Design a Fault-Tolerant Cloud Queue Service](https://www.fastprep.io/system-design/fault-tolerant-cloud-queue-service)|[![Practice][p]](https://www.fastprep.io/system-design/fault-tolerant-cloud-queue-service)|🔥 Sep 18, 2026|
 |**Amazon**|[Design a Large-Scale File Change Watcher](https://www.fastprep.io/system-design/large-scale-file-change-watcher)|[![Practice][p]](https://www.fastprep.io/system-design/large-scale-file-change-watcher)|🔥 Sep 18, 2026|
 |**Amazon**|[Design Robot-Assisted Restaurant Orchestration](https://www.fastprep.io/system-design/robot-assisted-restaurant-orchestration)|[![Practice][p]](https://www.fastprep.io/system-design/robot-assisted-restaurant-orchestration)|🔥 Sep 18, 2026|
+|**Amazon**|[Design an Employee Directory and Organization Hierarchy](https://www.fastprep.io/system-design/employee-directory-and-org-hierarchy)|[![Practice][p]](https://www.fastprep.io/system-design/employee-directory-and-org-hierarchy)|🔥 Sep 18, 2026|
+|**JioStar**|[Design Streaming Home Personalization](https://www.fastprep.io/system-design/streaming-home-personalization)|[![Practice][p]](https://www.fastprep.io/system-design/streaming-home-personalization)|🔥 Sep 18, 2026|
 |**Microsoft**|[Design Distributed LLM Embedding and Output Sharding](https://www.fastprep.io/system-design/distributed-llm-embedding-and-output-sharding)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-llm-embedding-and-output-sharding)|🔥 Sep 17, 2026|
 |**Postman / Uber Freight / LinkedIn**|[Design a Calendar Event Collaboration System](https://www.fastprep.io/system-design/calendar-event-collaboration-system)|[![Practice][p]](https://www.fastprep.io/system-design/calendar-event-collaboration-system)|🔥 Sep 17, 2026|
 |**Amazon / Lyft / Google / Pinterest / Snowflake**|[Design a Web Crawler](https://www.fastprep.io/system-design/web-crawler)|[![Practice][p]](https://www.fastprep.io/system-design/web-crawler)|🔥 Sep 17, 2026|
