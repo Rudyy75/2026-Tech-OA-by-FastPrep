@@ -8,6 +8,7 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Amazon**|[Design File-System Search with Symlink Safety](https://www.fastprep.io/low-level-design/filesystem-search-with-symlink-safety)|[![Practice][p]](https://www.fastprep.io/low-level-design/filesystem-search-with-symlink-safety)|🔥 Sep 18, 2026|
 |**Kotak Mahindra Bank**|[Design a Food Delivery Order Domain](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|🔥 Sep 17, 2026|
 |**Kotak Mahindra Bank**|[Design a Showroom Vehicle Booking and Loan Workflow](https://www.fastprep.io/low-level-design/showroom-vehicle-booking-loan-workflow)|[![Practice][p]](https://www.fastprep.io/low-level-design/showroom-vehicle-booking-loan-workflow)|🔥 Sep 17, 2026|
 |**Fox Corporation**|[Design and Implement a Structured Content Query Library](https://www.fastprep.io/low-level-design/streaming-content-query-library)|[![Practice][p]](https://www.fastprep.io/low-level-design/streaming-content-query-library)|🔥 Sep 17, 2026|
@@ -22,7 +23,6 @@
 |**Amazon / The Trade Desk**|[Design an In-Memory Publish-Subscribe Library](https://www.fastprep.io/low-level-design/in-memory-publish-subscribe-library)|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-publish-subscribe-library)|🔥 Sep 14, 2026|
 |**Amazon**|[Design a Return Drop-Store Booking System](https://www.fastprep.io/low-level-design/return-drop-store-booking)|[![Practice][p]](https://www.fastprep.io/low-level-design/return-drop-store-booking)|🔥 Sep 13, 2026|
 |**Amazon**|[Design a Playlist Source Mixer](https://www.fastprep.io/low-level-design/playlist-source-mixer)|[![Practice][p]](https://www.fastprep.io/low-level-design/playlist-source-mixer)|🔥 Sep 13, 2026|
-|**Amazon**|[Design File-System Search with Symlink Safety](https://www.fastprep.io/low-level-design/filesystem-search-with-symlink-safety)|[![Practice][p]](https://www.fastprep.io/low-level-design/filesystem-search-with-symlink-safety)|🔥 Sep 13, 2026|
 |**Amazon**|[Design an Extensible Shipping Cost Calculator](https://www.fastprep.io/low-level-design/extensible-shipping-cost-calculator)|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-shipping-cost-calculator)|🔥 Sep 13, 2026|
 |**Bobyard**|[Design an Ordered Canvas Operation Coordinator](https://www.fastprep.io/low-level-design/ordered-canvas-operation-coordinator)|[![Practice][p]](https://www.fastprep.io/low-level-design/ordered-canvas-operation-coordinator)|🔥 Sep 12, 2026|
 |**Google**|[Design and Implement a Highway Toll Session Domain](https://www.fastprep.io/low-level-design/highway-toll-session-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/highway-toll-session-domain)|🔥 Sep 12, 2026|
@@ -37,8 +37,8 @@
 |**Wex**|[Design a Threshold Logging and Alerting Model](https://www.fastprep.io/low-level-design/threshold-logging-alerting)|[![Practice][p]](https://www.fastprep.io/low-level-design/threshold-logging-alerting)|🔥 Sep 08, 2026|
 |**Salesforce**|[Ludo Game Object Model](https://www.fastprep.io/low-level-design/ludo-game-object-model)|[![Practice][p]](https://www.fastprep.io/low-level-design/ludo-game-object-model)|🔥 Sep 08, 2026|
 |**Tekion**|[Design an Inventory Stock Control Domain](https://www.fastprep.io/low-level-design/inventory-stock-control-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/inventory-stock-control-domain)|🔥 Sep 05, 2026|
-|**The Walt Disney Company**|[Design an Authentication Session Lifecycle](https://www.fastprep.io/low-level-design/authentication-session-lifecycle)|[![Practice][p]](https://www.fastprep.io/low-level-design/authentication-session-lifecycle)|🔥 Sep 04, 2026|
-|**Amazon / Omnissa**|[Design an Extensible Multi-Channel Alerting Platform](https://www.fastprep.io/low-level-design/extensible-multi-channel-alerting-platform)|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-multi-channel-alerting-platform)|🔥 Sep 04, 2026|
+|**The Walt Disney Company**|[Design an Authentication Session Lifecycle](https://www.fastprep.io/low-level-design/authentication-session-lifecycle)|[![Practice][p]](https://www.fastprep.io/low-level-design/authentication-session-lifecycle)|🆕 Sep 04, 2026|
+|**Amazon / Omnissa**|[Design an Extensible Multi-Channel Alerting Platform](https://www.fastprep.io/low-level-design/extensible-multi-channel-alerting-platform)|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-multi-channel-alerting-platform)|🆕 Sep 04, 2026|
 |**SentinelOne**|[Design a Thread-Safe Queryable Logger Library](https://www.fastprep.io/low-level-design/thread-safe-queryable-logger-library)|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-queryable-logger-library)|🆕 Sep 03, 2026|
 |**SentinelOne**|[Design and Implement a Concurrent Web Crawler Library](https://www.fastprep.io/low-level-design/concurrent-web-crawler-library)|[![Practice][p]](https://www.fastprep.io/low-level-design/concurrent-web-crawler-library)|🆕 Sep 03, 2026|
 |**Amazon**|[Design and Implement a Train Route Fare Calculator](https://www.fastprep.io/low-level-design/train-route-fare-calculator)|[![Practice][p]](https://www.fastprep.io/low-level-design/train-route-fare-calculator)|🆕 Sep 03, 2026|
