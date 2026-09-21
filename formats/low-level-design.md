@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**92 questions**
+**93 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Kotak Mahindra Bank**|[Design a Movie Ticket Booking Platform](https://www.fastprep.io/low-level-design/movie-ticket-booking-platform)|[![Practice][p]](https://www.fastprep.io/low-level-design/movie-ticket-booking-platform)|🔥 Sep 20, 2026|
 |**GoodScore**|[Design and Implement a Thread-Safe In-Memory Task Queue](https://www.fastprep.io/low-level-design/thread-safe-in-memory-task-queue)|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-in-memory-task-queue)|🔥 Sep 19, 2026|
 |**Amazon**|[Design File-System Search with Symlink Safety](https://www.fastprep.io/low-level-design/filesystem-search-with-symlink-safety)|[![Practice][p]](https://www.fastprep.io/low-level-design/filesystem-search-with-symlink-safety)|🔥 Sep 18, 2026|
 |**JioStar**|[Design and Implement a Parameterized Configuration Library](https://www.fastprep.io/low-level-design/parameterized-configuration-library)|[![Practice][p]](https://www.fastprep.io/low-level-design/parameterized-configuration-library)|🔥 Sep 18, 2026|
