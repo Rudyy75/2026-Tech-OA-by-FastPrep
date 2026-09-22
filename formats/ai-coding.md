@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**42 questions**
+**43 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Pinterest**|[Implement a Product Read-Through Cache](https://www.fastprep.io/project-coding/pinterest-product-read-through-cache)|[![Practice][p]](https://www.fastprep.io/project-coding/pinterest-product-read-through-cache)|🔥 Sep 21, 2026|
 |**Amazon**|[Repair MovieDB Follows and Notifications](https://www.fastprep.io/project-coding/amazon-repair-moviedb-follows-notifications)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-moviedb-follows-notifications)|🔥 Sep 20, 2026|
 |**Unattributed**|[Filter and Batch Concurrent Logs](https://www.fastprep.io/project-coding/concurrent-log-filter-batcher)|[![Practice][p]](https://www.fastprep.io/project-coding/concurrent-log-filter-batcher)|🔥 Sep 17, 2026|
 |**Zip**|[Cache Ticket Alerts for Approval](https://www.fastprep.io/project-coding/zip-ticket-alert-approval-cache)|[![Practice][p]](https://www.fastprep.io/project-coding/zip-ticket-alert-approval-cache)|🔥 Sep 16, 2026|
