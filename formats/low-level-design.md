@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**94 questions**
+**95 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Micro1 / Amazon**|[Design an In-Memory Action Rate Limiter](https://www.fastprep.io/low-level-design/in-memory-action-rate-limiter)|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-action-rate-limiter)|🔥 Sep 23, 2026|
+|**PayPay**|[Design a Pluggable Random Value Library](https://www.fastprep.io/low-level-design/pluggable-random-value-library)|[![Practice][p]](https://www.fastprep.io/low-level-design/pluggable-random-value-library)|🔥 Sep 22, 2026|
 |**Tekion**|[Design and Implement a TTL Cache Library](https://www.fastprep.io/low-level-design/in-memory-ttl-cache-library)|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-ttl-cache-library)|🔥 Sep 21, 2026|
 |**Kotak Mahindra Bank**|[Design a Movie Ticket Booking Platform](https://www.fastprep.io/low-level-design/movie-ticket-booking-platform)|[![Practice][p]](https://www.fastprep.io/low-level-design/movie-ticket-booking-platform)|🔥 Sep 20, 2026|
 |**GoodScore**|[Design and Implement a Thread-Safe In-Memory Task Queue](https://www.fastprep.io/low-level-design/thread-safe-in-memory-task-queue)|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-in-memory-task-queue)|🔥 Sep 19, 2026|
@@ -34,9 +36,9 @@
 |**The D.E. Shaw Group**|[Design a Ride-Hailing Class Model](https://www.fastprep.io/low-level-design/ride-hailing-class-design)|[![Practice][p]](https://www.fastprep.io/low-level-design/ride-hailing-class-design)|🔥 Sep 11, 2026|
 |**Wayfair**|[Design a Rental Product Circulation Domain](https://www.fastprep.io/low-level-design/rental-product-circulation-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/rental-product-circulation-domain)|🔥 Sep 11, 2026|
 |**Amazon**|[Design and Implement a Shopping Cart Price Calculator](https://www.fastprep.io/low-level-design/shopping-cart-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/shopping-cart-domain)|🔥 Sep 10, 2026|
-|**Syfe**|[Allocate And Release Brokerage Inventory](https://www.fastprep.io/low-level-design/brokerage-inventory-allocation)|[![Practice][p]](https://www.fastprep.io/low-level-design/brokerage-inventory-allocation)|🔥 Sep 09, 2026|
-|**Commvault**|[Design a Chess Move Validation Model](https://www.fastprep.io/low-level-design/chess-move-validation)|[![Practice][p]](https://www.fastprep.io/low-level-design/chess-move-validation)|🔥 Sep 09, 2026|
-|**Get My Parking**|[List Failed And TTL-Expired Pending Payments](https://www.fastprep.io/low-level-design/failed-and-expired-pending-transactions)|[![Practice][p]](https://www.fastprep.io/low-level-design/failed-and-expired-pending-transactions)|🔥 Sep 09, 2026|
+|**Syfe**|[Allocate And Release Brokerage Inventory](https://www.fastprep.io/low-level-design/brokerage-inventory-allocation)|[![Practice][p]](https://www.fastprep.io/low-level-design/brokerage-inventory-allocation)|🆕 Sep 09, 2026|
+|**Commvault**|[Design a Chess Move Validation Model](https://www.fastprep.io/low-level-design/chess-move-validation)|[![Practice][p]](https://www.fastprep.io/low-level-design/chess-move-validation)|🆕 Sep 09, 2026|
+|**Get My Parking**|[List Failed And TTL-Expired Pending Payments](https://www.fastprep.io/low-level-design/failed-and-expired-pending-transactions)|[![Practice][p]](https://www.fastprep.io/low-level-design/failed-and-expired-pending-transactions)|🆕 Sep 09, 2026|
 |**Jane Street**|[Design a Cross-Exchange Arbitrage Engine](https://www.fastprep.io/low-level-design/cross-exchange-arbitrage-engine)|[![Practice][p]](https://www.fastprep.io/low-level-design/cross-exchange-arbitrage-engine)|🆕 Sep 08, 2026|
 |**Wex**|[Design a Threshold Logging and Alerting Model](https://www.fastprep.io/low-level-design/threshold-logging-alerting)|[![Practice][p]](https://www.fastprep.io/low-level-design/threshold-logging-alerting)|🆕 Sep 08, 2026|
 |**Salesforce**|[Ludo Game Object Model](https://www.fastprep.io/low-level-design/ludo-game-object-model)|[![Practice][p]](https://www.fastprep.io/low-level-design/ludo-game-object-model)|🆕 Sep 08, 2026|
@@ -58,15 +60,14 @@
 |**Walmart**|[Design a Job Marketplace Domain](https://www.fastprep.io/low-level-design/job-marketplace-person-job-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/job-marketplace-person-job-domain)|🆕 Aug 23, 2026|
 |**Tekion**|[Design a Workflow Orchestrator Domain](https://www.fastprep.io/low-level-design/workflow-orchestration-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/workflow-orchestration-domain)|🆕 Aug 23, 2026|
 |**Amazon**|[Design and Implement Movie Theater Ticket Pricing](https://www.fastprep.io/low-level-design/movie-theater-ticket-pricing)|[![Practice][p]](https://www.fastprep.io/low-level-design/movie-theater-ticket-pricing)|🆕 Aug 20, 2026|
-|**Micro1**|[Design an In-Memory Action Rate Limiter](https://www.fastprep.io/low-level-design/in-memory-action-rate-limiter)|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-action-rate-limiter)|🆕 Aug 19, 2026|
 |**Micro1**|[Design an In-Memory Read-Through Cache](https://www.fastprep.io/low-level-design/in-memory-read-through-cache)|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-read-through-cache)|🆕 Aug 19, 2026|
 |**Microsoft**|[Desktop Notification Center](https://www.fastprep.io/low-level-design/desktop-notification-center)|[![Practice][p]](https://www.fastprep.io/low-level-design/desktop-notification-center)|🆕 Aug 15, 2026|
 |**Shopify**|[Design an Extensible Text Editor](https://www.fastprep.io/low-level-design/extensible-text-editor)|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-text-editor)|🆕 Aug 12, 2026|
 |**Amazon**|[Design a Multi-Stage Audio Buffer Pipeline](https://www.fastprep.io/low-level-design/multi-stage-audio-buffer-pipeline)|[![Practice][p]](https://www.fastprep.io/low-level-design/multi-stage-audio-buffer-pipeline)|🆕 Aug 12, 2026|
 |**Microsoft**|[Design a Library Circulation System](https://www.fastprep.io/low-level-design/library-circulation-management)|[![Practice][p]](https://www.fastprep.io/low-level-design/library-circulation-management)|🆕 Aug 11, 2026|
 |**Pinterest**|[Design a Blackjack Table Game](https://www.fastprep.io/low-level-design/blackjack-table-game)|[![Practice][p]](https://www.fastprep.io/low-level-design/blackjack-table-game)|🆕 Aug 10, 2026|
-|**Adobe**|[Design Infinite Scroll for Mutable Data](https://www.fastprep.io/low-level-design/adobe-mutable-infinite-scroll)|[![Practice][p]](https://www.fastprep.io/low-level-design/adobe-mutable-infinite-scroll)|🆕 Aug 09, 2026|
-|**Adobe**|[Design a Promotion Display Decision Engine](https://www.fastprep.io/low-level-design/promotion-display-decision-engine)|[![Practice][p]](https://www.fastprep.io/low-level-design/promotion-display-decision-engine)|🆕 Aug 09, 2026|
+|**Adobe**|[Design Infinite Scroll for Mutable Data](https://www.fastprep.io/low-level-design/adobe-mutable-infinite-scroll)|[![Practice][p]](https://www.fastprep.io/low-level-design/adobe-mutable-infinite-scroll)|Aug 09, 2026|
+|**Adobe**|[Design a Promotion Display Decision Engine](https://www.fastprep.io/low-level-design/promotion-display-decision-engine)|[![Practice][p]](https://www.fastprep.io/low-level-design/promotion-display-decision-engine)|Aug 09, 2026|
 |**Amazon / Goldman Sachs / Wayfair**|[Design a Multi-Floor Parking Lot](https://www.fastprep.io/low-level-design/multi-floor-parking-lot)|[![Practice][p]](https://www.fastprep.io/low-level-design/multi-floor-parking-lot)|Aug 06, 2026|
 |**Asana**|[Design a Rectangular Jigsaw Puzzle](https://www.fastprep.io/low-level-design/rectangular-jigsaw-puzzle)|[![Practice][p]](https://www.fastprep.io/low-level-design/rectangular-jigsaw-puzzle)|Aug 02, 2026|
 |**Susquehanna International Group (SIG)**|[Design a Cash Register with Inventory and Profit Tracking](https://www.fastprep.io/low-level-design/cash-register-inventory-and-profit)|[![Practice][p]](https://www.fastprep.io/low-level-design/cash-register-inventory-and-profit)|Jul 30, 2026|
