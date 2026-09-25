@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airt
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,130)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (367)](formats/system-design.md) · [Low-level design (96)](formats/low-level-design.md) · [AI coding (48)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,130)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (367)](formats/system-design.md) · [Low-level design (96)](formats/low-level-design.md) · [AI coding (51)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -1587,6 +1587,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airt
 |**Uber**|[Kth Largest Subarray Bitwise OR](https://www.fastprep.io/problems/uber-kth-largest-subarray-bitwise-or)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-kth-largest-subarray-bitwise-or)|Feb 24, 2026|
 |**Uber**|[Minimum Spanning Tree Weight in a Complete Binary Graph](https://www.fastprep.io/problems/uber-minimum-spanning-tree-weight-in-complete-binary-graph)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-minimum-spanning-tree-weight-in-complete-binary-graph)|Feb 24, 2026|
 |**Datadog**|[Latency Bucket Counter](https://www.fastprep.io/problems/datadog-latency-bucket-counter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-latency-bucket-counter)|Feb 20, 2026|
+|**Stripe**|[Repair Template Lookup Edge Cases](https://www.fastprep.io/project-coding/stripe-template-lookup-debugging)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-template-lookup-debugging)|Feb 20, 2026|
 |**Uber**|[Balanced Prefix Permutation](https://www.fastprep.io/problems/uber-balanced-prefix-permutation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-balanced-prefix-permutation)|Feb 19, 2026|
 |**Uber**|[Minimum Euclidean Plate Collection Time](https://www.fastprep.io/problems/uber-minimum-euclidean-plate-collection-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-minimum-euclidean-plate-collection-time)|Feb 19, 2026|
 |**Infosys**|[Maximum Subarray Sum After Swaps](https://www.fastprep.io/problems/infosys-maximum-subarray-sum-after-swaps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/infosys-maximum-subarray-sum-after-swaps)|Feb 19, 2026|
@@ -1617,6 +1618,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airt
 |**JP Morgan**|[Count Dropped Requests](https://www.fastprep.io/problems/jpmorgan-count-dropped-requests)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-count-dropped-requests)|Jan 19, 2026|
 |**JP Morgan**|[Generate Table of Contents](https://www.fastprep.io/problems/jpmorgan-generate-table-of-contents)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-generate-table-of-contents)|Jan 19, 2026|
 |**FlexTrade**|[Course Schedule](https://www.fastprep.io/problems/flextrade-course-schedule)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flextrade-course-schedule)|Jan 17, 2026|
+|**Stripe**|[Repair Dynamic-ID Request Replay](https://www.fastprep.io/project-coding/stripe-request-replay-integration)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-request-replay-integration)|Jan 15, 2026|
 |**Tesla**|[Coordinate Parallel Runs Across Two Exclusive Targets](https://www.fastprep.io/project-coding/tesla-dual-target-parallel-runner)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/tesla-dual-target-parallel-runner)|Jan 14, 2026|
 |**Walmart**|[Sort Real Number Strings](https://www.fastprep.io/problems/walmart-sort-real-number-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/walmart-sort-real-number-strings)|Jan 12, 2026|
 |**SavantLabs**|[Minutes to Infect Tree](https://www.fastprep.io/problems/savantlabs-minutes-to-infect-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/savantlabs-minutes-to-infect-tree)|Jan 12, 2026|
@@ -1650,6 +1652,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airt
 |**HSBC**|[Minimum Markers to Clear Line Segments](https://www.fastprep.io/problems/hsbc-minimum-markers-to-clear-line-segments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-minimum-markers-to-clear-line-segments)|Nov 19, 2025|
 |**MathWorks**|[Balancing Teams](https://www.fastprep.io/problems/mathworks-balancing-teams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathworks-balancing-teams)|Nov 16, 2025|
 |**MathWorks**|[Largest Sub-Grid](https://www.fastprep.io/problems/mathworks-largest-sub-grid)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathworks-largest-sub-grid)|Nov 16, 2025|
+|**Stripe**|[Repair Redirected Request Body Replay](https://www.fastprep.io/project-coding/stripe-redirect-stream-replay)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-redirect-stream-replay)|Nov 12, 2025|
 |**Stripe**|[Complete a Two-Label Tabular Model Pipeline](https://www.fastprep.io/project-coding/stripe-tabular-two-label-model-pipeline)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-tabular-two-label-model-pipeline)|Nov 11, 2025|
 |**Two Sigma**|[Calculate y/x using Patch](https://www.fastprep.io/problems/twosigma-calculate-y-over-x)|Coding|[![Practice][p]](https://www.fastprep.io/problems/twosigma-calculate-y-over-x)|Nov 09, 2025|
 |**Google**|[Lexicographically Smallest Array with K-Limited Right Moves](https://www.fastprep.io/problems/google-lexicographically-smallest-k-limited-right-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-lexicographically-smallest-k-limited-right-moves)|Nov 08, 2025|
@@ -1714,8 +1717,4 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airt
 |**Tekion**|[Koko Eating Bananas](https://www.fastprep.io/problems/tekion-koko-eating-bananas)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-koko-eating-bananas)|Jul 26, 2025|
 |**Tekion**|[Maximum Sum of a Unique-Element Subarray](https://www.fastprep.io/problems/tekion-maximum-sum-unique-element-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-maximum-sum-unique-element-subarray)|Jul 26, 2025|
 |**Tekion**|[Minimum Size Subarray Sum With Negatives](https://www.fastprep.io/problems/tekion-minimum-size-subarray-sum-with-negatives)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-minimum-size-subarray-sum-with-negatives)|Jul 26, 2025|
-|**Tekion**|[Number of Islands](https://www.fastprep.io/problems/tekion-number-of-islands)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-number-of-islands)|Jul 26, 2025|
-|**Tekion**|[Set Matrix Zeroes](https://www.fastprep.io/problems/tekion-set-matrix-zeroes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-set-matrix-zeroes)|Jul 26, 2025|
-|**TikTok**|[Can Reach the Exit with Teleports](https://www.fastprep.io/problems/tiktok-teleport-labyrinth)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-teleport-labyrinth)|Jul 26, 2025|
-|**TikTok**|[Check Monotonic Triples](https://www.fastprep.io/problems/tiktok-check-monotonic-triples)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-check-monotonic-triples)|Jul 26, 2025|
 <a id="bottom"></a>

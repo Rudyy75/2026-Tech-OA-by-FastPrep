@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Tekion**|[Number of Islands](https://www.fastprep.io/problems/tekion-number-of-islands)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-number-of-islands)|Jul 26, 2025|
+|**Tekion**|[Set Matrix Zeroes](https://www.fastprep.io/problems/tekion-set-matrix-zeroes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-set-matrix-zeroes)|Jul 26, 2025|
+|**TikTok**|[Can Reach the Exit with Teleports](https://www.fastprep.io/problems/tiktok-teleport-labyrinth)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-teleport-labyrinth)|Jul 26, 2025|
+|**TikTok**|[Check Monotonic Triples](https://www.fastprep.io/problems/tiktok-check-monotonic-triples)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-check-monotonic-triples)|Jul 26, 2025|
 |**TikTok**|[Shift Every K-th Consonant](https://www.fastprep.io/problems/tiktok-shift-every-kth-consonant)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-shift-every-kth-consonant)|Jul 26, 2025|
 |**Together AI**|[Find GPU Capacity and Drain a Node](https://www.fastprep.io/problems/together-ai-gpu-node-rescheduling)|Coding|[![Practice][p]](https://www.fastprep.io/problems/together-ai-gpu-node-rescheduling)|Jul 26, 2025|
 |**Virtu Financial**|[Count Substrings With Identical Characters](https://www.fastprep.io/problems/virtu-count-identical-character-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/virtu-count-identical-character-substrings)|Jul 26, 2025|
