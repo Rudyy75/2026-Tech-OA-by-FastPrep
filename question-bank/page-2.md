@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Snowflake**|[Simulate a Queued Multi-Rule Rate Limiter](https://www.fastprep.io/problems/snowflake-queued-multi-rule-rate-limiter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-queued-multi-rule-rate-limiter)|Jul 26, 2025|
+|**Tekion**|[Koko Eating Bananas](https://www.fastprep.io/problems/tekion-koko-eating-bananas)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-koko-eating-bananas)|Jul 26, 2025|
+|**Tekion**|[Maximum Sum of a Unique-Element Subarray](https://www.fastprep.io/problems/tekion-maximum-sum-unique-element-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-maximum-sum-unique-element-subarray)|Jul 26, 2025|
+|**Tekion**|[Minimum Size Subarray Sum With Negatives](https://www.fastprep.io/problems/tekion-minimum-size-subarray-sum-with-negatives)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-minimum-size-subarray-sum-with-negatives)|Jul 26, 2025|
 |**Tekion**|[Number of Islands](https://www.fastprep.io/problems/tekion-number-of-islands)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-number-of-islands)|Jul 26, 2025|
 |**Tekion**|[Set Matrix Zeroes](https://www.fastprep.io/problems/tekion-set-matrix-zeroes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-set-matrix-zeroes)|Jul 26, 2025|
 |**TikTok**|[Can Reach the Exit with Teleports](https://www.fastprep.io/problems/tiktok-teleport-labyrinth)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-teleport-labyrinth)|Jul 26, 2025|
@@ -80,6 +84,7 @@
 |**Juspay**|[Converging Maze: Nearest meeting cell](https://www.fastprep.io/problems/juspay-nearest-meeting-cell)|Coding|[![Practice][p]](https://www.fastprep.io/problems/juspay-nearest-meeting-cell)|May 25, 2025|
 |**Postman**|[Design a Dating Application](https://www.fastprep.io/low-level-design/dating-application-object-model)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/dating-application-object-model)|May 15, 2025|
 |**Postman**|[Design a Location-Aware Dating Application](https://www.fastprep.io/low-level-design/location-aware-dating-application)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/location-aware-dating-application)|May 15, 2025|
+|**ElevenLabs**|[Collaborative Dubbing Review Platform](https://www.fastprep.io/system-design/collaborative-dubbing-review-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/collaborative-dubbing-review-platform)|May 01, 2025|
 |**Amazon**|[Min Dock Bays](https://www.fastprep.io/problems/amazon-get-minimum-dock-bays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-minimum-dock-bays)|Apr 27, 2025|
 |**Amazon**|[Find Idle Skill Query](https://www.fastprep.io/problems/amazon-find-idle-skills-query)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-idle-skills-query)|Apr 27, 2025|
 |**Amazon**|[Compute Beauty of Array Products](https://www.fastprep.io/problems/amazon-compute-beauty-of-array-products)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-compute-beauty-of-array-products)|Apr 27, 2025|
@@ -662,6 +667,7 @@
 |**Microsoft**|[Assign Value](https://www.fastprep.io/problems/microsoft-assign-values)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-assign-values)|May 04, 2024|
 |**Microsoft**|[Construct Max Balanced Circle](https://www.fastprep.io/problems/microsoft-construct-maximum-balanced-circle)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-construct-maximum-balanced-circle)|May 04, 2024|
 |**Microsoft**|[Find Suitable Locations](https://www.fastprep.io/problems/findSuitableLocations-microsoft)|Coding|[![Practice][p]](https://www.fastprep.io/problems/findSuitableLocations-microsoft)|May 04, 2024|
+|**Mercury**|[Real-Time Payment Fraud Detection](https://www.fastprep.io/system-design/real-time-payment-fraud-detection)|System design|[![Practice][p]](https://www.fastprep.io/system-design/real-time-payment-fraud-detection)|May 03, 2024|
 |**IBM**|[Get Optimal String Length](https://www.fastprep.io/problems/ibm-get-optimal-string-length)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-optimal-string-length)|Apr 27, 2024|
 |**DE Shaw**|[Maximum Size Subarray Sum](https://www.fastprep.io/problems/deshaw-maximum-size-subarray-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/deshaw-maximum-size-subarray-sum)|Apr 27, 2024|
 |**Nutanix**|[Minimum Operations to Convert Array](https://www.fastprep.io/problems/nutanix-minimum-operations-to-convert-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nutanix-minimum-operations-to-convert-array)|Apr 27, 2024|
@@ -970,6 +976,7 @@
 |**Arcesium**|[Reverse First K Characters in Every 2K Block](https://www.fastprep.io/problems/arcesium-reverse-first-k-every-2k-block)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-reverse-first-k-every-2k-block)|Aug 05, 2023|
 |**Arcesium**|[Detect a Cycle in Directed Hate Relationships](https://www.fastprep.io/problems/arcesium-detect-cycle-in-directed-hate-graph)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-detect-cycle-in-directed-hate-graph)|Aug 05, 2023|
 |**Arcesium**|[Robo Data Sharing Direction](https://www.fastprep.io/problems/arcesium-robo-data-sharing-direction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-robo-data-sharing-direction)|Jul 17, 2023|
+|**Runway**|[Video Content Analysis Platform](https://www.fastprep.io/system-design/video-content-analysis-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/video-content-analysis-platform)|Apr 04, 2023|
 |**IMC**|[Busy Intersection](https://www.fastprep.io/problems/imc-busy-intersection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/imc-busy-intersection)|Mar 27, 2023|
 |**Odoo**|[Maximum Profit from an Increasing Price Triplet](https://www.fastprep.io/problems/odoo-maximum-profit-increasing-triplet)|Coding|[![Practice][p]](https://www.fastprep.io/problems/odoo-maximum-profit-increasing-triplet)|Jan 24, 2023|
 |**Confluent**|[Design a Resilient Infinite-Scroll Social Feed](https://www.fastprep.io/system-design/resilient-infinite-scroll-social-feed)|System design|[![Practice][p]](https://www.fastprep.io/system-design/resilient-infinite-scroll-social-feed)|Oct 18, 2022|
