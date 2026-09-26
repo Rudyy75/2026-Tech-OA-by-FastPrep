@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**ByteDance**|[Longest Repeating Character Replacement](https://www.fastprep.io/problems/bytedance-longest-repeating-character-replacement)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-longest-repeating-character-replacement)|Jul 26, 2025|
 |**ByteDance**|[QuickSelect Kth Smallest](https://www.fastprep.io/problems/bytedance-quickselect-kth-smallest)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-quickselect-kth-smallest)|Jul 26, 2025|
 |**ByteDance**|[Search in Rotated Sorted Array](https://www.fastprep.io/problems/bytedance-search-in-rotated-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-search-in-rotated-sorted-array)|Jul 26, 2025|
 |**Capillary Technologies**|[Delete a Linked-List Node Without the Head](https://www.fastprep.io/problems/capillary-delete-linked-list-node-without-head)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capillary-delete-linked-list-node-without-head)|Jul 26, 2025|

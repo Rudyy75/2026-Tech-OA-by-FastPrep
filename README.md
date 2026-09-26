@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airt
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,130)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (399)](formats/system-design.md) · [Low-level design (96)](formats/low-level-design.md) · [AI coding (51)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,130)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (399)](formats/system-design.md) · [Low-level design (97)](formats/low-level-design.md) · [AI coding (51)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -63,6 +63,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airt
 |**Harvey**|[Design a Long-Horizon Agent Training Environment Platform](https://www.fastprep.io/system-design/long-horizon-agent-training-environment-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/long-horizon-agent-training-environment-platform)|🔥 Sep 24, 2026|
 |**Tesla**|[Design an Electric-Vehicle Charging Platform](https://www.fastprep.io/system-design/electric-vehicle-charging-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/electric-vehicle-charging-platform)|🔥 Sep 24, 2026|
 |**Meta**|[Design Real-Time Chatbot Training and Evaluation](https://www.fastprep.io/system-design/real-time-chatbot-training-and-evaluation)|System design|[![Practice][p]](https://www.fastprep.io/system-design/real-time-chatbot-training-and-evaluation)|🔥 Sep 24, 2026|
+|**Tekion / Amazon / Oracle**|[Design a Configurable Logging Framework](https://www.fastprep.io/low-level-design/logging-framework)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/logging-framework)|🔥 Sep 24, 2026|
 |**Amazon / Postman**|[Social News Feed With Live Engagement](https://www.fastprep.io/system-design/social-news-feed-with-live-engagement)|System design|[![Practice][p]](https://www.fastprep.io/system-design/social-news-feed-with-live-engagement)|🔥 Sep 23, 2026|
 |**Amazon / Groww**|[Design and Implement a Shopping Cart Price Calculator](https://www.fastprep.io/low-level-design/shopping-cart-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/shopping-cart-domain)|🔥 Sep 23, 2026|
 |**Amazon / Omnissa**|[Design an Extensible Multi-Channel Alerting Platform](https://www.fastprep.io/low-level-design/extensible-multi-channel-alerting-platform)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-multi-channel-alerting-platform)|🔥 Sep 23, 2026|
@@ -82,6 +83,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airt
 |**Amazon**|[Design a Large-Model Inference Serving Platform](https://www.fastprep.io/system-design/large-model-inference-serving-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/large-model-inference-serving-platform)|🔥 Sep 23, 2026|
 |**Atlassian**|[Design a Searchable Emoji Picker](https://www.fastprep.io/system-design/searchable-emoji-picker-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/searchable-emoji-picker-service)|🔥 Sep 23, 2026|
 |**Google**|[Design a Smile-Detection Evaluation Platform](https://www.fastprep.io/system-design/smile-detection-evaluation-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/smile-detection-evaluation-platform)|🔥 Sep 23, 2026|
+|**Amazon**|[Design a Pizza Ordering Domain](https://www.fastprep.io/low-level-design/pizza-order-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/pizza-order-domain)|🔥 Sep 23, 2026|
 |**Harvey**|[Design Human-Governed File Review Agents](https://www.fastprep.io/system-design/human-governed-file-review-agents)|System design|[![Practice][p]](https://www.fastprep.io/system-design/human-governed-file-review-agents)|🔥 Sep 22, 2026|
 |**Anthropic / Snap Inc. / Lyft / Fivetran**|[One-to-One Chat Service](https://www.fastprep.io/system-design/one-to-one-chat-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/one-to-one-chat-service)|🔥 Sep 22, 2026|
 |**OpenAI / Commvault**|[Design an Online Chess Platform](https://www.fastprep.io/system-design/online-chess-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/online-chess-platform)|🔥 Sep 22, 2026|
@@ -210,7 +212,6 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airt
 |**Salesforce**|[Design Coffee-Shop Ordering and Fulfillment](https://www.fastprep.io/system-design/coffee-shop-ordering-and-fulfillment)|System design|[![Practice][p]](https://www.fastprep.io/system-design/coffee-shop-ordering-and-fulfillment)|🔥 Sep 16, 2026|
 |**Amazon / Goldman Sachs / Salesforce / Harness**|[Design an In-Memory Job Scheduler](https://www.fastprep.io/low-level-design/in-memory-job-scheduler)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-job-scheduler)|🔥 Sep 16, 2026|
 |**Netflix / Amazon**|[Design a Parking Lot with Flexible Fees](https://www.fastprep.io/low-level-design/parking-lot-with-flexible-fees)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/parking-lot-with-flexible-fees)|🔥 Sep 16, 2026|
-|**Tekion / Amazon**|[Design a Configurable Logging Framework](https://www.fastprep.io/low-level-design/logging-framework)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/logging-framework)|🔥 Sep 16, 2026|
 |**Amazon**|[Design a Continental Temperature Heatmap](https://www.fastprep.io/system-design/continental-temperature-heatmap)|System design|[![Practice][p]](https://www.fastprep.io/system-design/continental-temperature-heatmap)|🔥 Sep 16, 2026|
 |**DocuSign**|[Design a Live Location Tracking Service](https://www.fastprep.io/system-design/live-location-tracking-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/live-location-tracking-service)|🔥 Sep 16, 2026|
 |**ThoughtSpot**|[Design a Priority-Aware Database Request Gateway](https://www.fastprep.io/system-design/priority-aware-database-request-gateway)|System design|[![Practice][p]](https://www.fastprep.io/system-design/priority-aware-database-request-gateway)|🔥 Sep 16, 2026|
@@ -1713,5 +1714,4 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airt
 |**Amazon**|[First Valid Word Segmentation](https://www.fastprep.io/problems/amazon-first-word-segmentation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-first-word-segmentation)|Jul 26, 2025|
 |**Amazon**|[Nearby Fulfillment Centers with Inventory](https://www.fastprep.io/problems/amazon-nearby-fulfillment-centers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-nearby-fulfillment-centers)|Jul 26, 2025|
 |**Amperity**|[Draw Overlapping ASCII Rectangles](https://www.fastprep.io/problems/amperity-ascii-rectangle-canvas)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amperity-ascii-rectangle-canvas)|Jul 26, 2025|
-|**ByteDance**|[Longest Repeating Character Replacement](https://www.fastprep.io/problems/bytedance-longest-repeating-character-replacement)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-longest-repeating-character-replacement)|Jul 26, 2025|
 <a id="bottom"></a>
