@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**407 questions**
+**410 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -141,6 +141,7 @@
 |**Anthropic**|[Design a Gang-Scheduled GPU Inference Pool](https://www.fastprep.io/system-design/gang-scheduled-gpu-inference-pool)|[![Practice][p]](https://www.fastprep.io/system-design/gang-scheduled-gpu-inference-pool)|🆕 Sep 11, 2026|
 |**Wayfair**|[Design an Audio Fingerprint Recognition Service](https://www.fastprep.io/system-design/audio-fingerprint-recognition-service)|[![Practice][p]](https://www.fastprep.io/system-design/audio-fingerprint-recognition-service)|🆕 Sep 11, 2026|
 |**Capital One**|[Design a Credit Card Account and Authorization Platform](https://www.fastprep.io/system-design/credit-card-account-authorization-platform)|[![Practice][p]](https://www.fastprep.io/system-design/credit-card-account-authorization-platform)|🆕 Sep 11, 2026|
+|**Ambience Healthcare**|[Design a Medical Case ICD-10 Suggestion System](https://www.fastprep.io/system-design/medical-case-icd10-suggestion-system)|[![Practice][p]](https://www.fastprep.io/system-design/medical-case-icd10-suggestion-system)|🆕 Sep 11, 2026|
 |**OnePay / Razorpay / Infosys**|[Durable Messaging Chat System](https://www.fastprep.io/system-design/durable-messaging-chat-system)|[![Practice][p]](https://www.fastprep.io/system-design/durable-messaging-chat-system)|🆕 Sep 10, 2026|
 |**Atlassian / Abnormal Security**|[Audit a Service Architecture for Reliability](https://www.fastprep.io/system-design/architecture-observability-reliability-audit)|[![Practice][p]](https://www.fastprep.io/system-design/architecture-observability-reliability-audit)|🆕 Sep 10, 2026|
 |**Attentive / Oracle / Amperity / Snap Inc. / Waabi**|[Design a Time Series Metrics Database](https://www.fastprep.io/system-design/time-series-metrics-database)|[![Practice][p]](https://www.fastprep.io/system-design/time-series-metrics-database)|🆕 Sep 10, 2026|
@@ -177,6 +178,7 @@
 |**Roblox**|[Design Shared To-Do List Synchronization](https://www.fastprep.io/system-design/shared-task-list-synchronization)|[![Practice][p]](https://www.fastprep.io/system-design/shared-task-list-synchronization)|🆕 Sep 05, 2026|
 |**World Wide Technology**|[Design a Prompt-Aware RAG Query Service](https://www.fastprep.io/system-design/prompt-aware-rag-query-service)|[![Practice][p]](https://www.fastprep.io/system-design/prompt-aware-rag-query-service)|🆕 Sep 04, 2026|
 |**Commure**|[Design Monthly Stream Royalties and Artist Payouts](https://www.fastprep.io/system-design/monthly-stream-royalty-payouts)|[![Practice][p]](https://www.fastprep.io/system-design/monthly-stream-royalty-payouts)|🆕 Sep 04, 2026|
+|**David AI**|[Design an Audio AI Processing Backend](https://www.fastprep.io/system-design/audio-ai-processing-backend)|[![Practice][p]](https://www.fastprep.io/system-design/audio-ai-processing-backend)|🆕 Sep 04, 2026|
 |**Astrotalk**|[Design a Cached Astrologer Listing Service](https://www.fastprep.io/system-design/cached-astrologer-listing-service)|[![Practice][p]](https://www.fastprep.io/system-design/cached-astrologer-listing-service)|🆕 Sep 03, 2026|
 |**Verkada**|[Design a Live A-or-B Survey](https://www.fastprep.io/system-design/live-binary-survey)|[![Practice][p]](https://www.fastprep.io/system-design/live-binary-survey)|🆕 Sep 03, 2026|
 |**eBay**|[Design a Shopping Search Bar](https://www.fastprep.io/system-design/shopping-search-bar)|[![Practice][p]](https://www.fastprep.io/system-design/shopping-search-bar)|🆕 Sep 03, 2026|
@@ -350,6 +352,7 @@
 |**Waymo**|[Design a Matchmaking Service](https://www.fastprep.io/system-design/matchmaking-service)|[![Practice][p]](https://www.fastprep.io/system-design/matchmaking-service)|Jul 14, 2026|
 |**Salesforce / Retool**|[Design a Rental Car Reservation System](https://www.fastprep.io/system-design/rental-car-reservation-system)|[![Practice][p]](https://www.fastprep.io/system-design/rental-car-reservation-system)|Jul 14, 2026|
 |**Salesforce / Slack**|[Design a Third-Party SaaS Integration Platform](https://www.fastprep.io/system-design/third-party-saas-integration-platform)|[![Practice][p]](https://www.fastprep.io/system-design/third-party-saas-integration-platform)|Jul 14, 2026|
+|**Clickhouse**|[Design an Aircraft Speed Telemetry Analytics Platform](https://www.fastprep.io/system-design/aircraft-speed-telemetry-analytics-platform)|[![Practice][p]](https://www.fastprep.io/system-design/aircraft-speed-telemetry-analytics-platform)|Jul 07, 2026|
 |**Amazon**|[Design an Online Code Compiler](https://www.fastprep.io/system-design/online-code-compiler)|[![Practice][p]](https://www.fastprep.io/system-design/online-code-compiler)|Jul 05, 2026|
 |**NVIDIA**|[Governed SQL Generation Chatbot](https://www.fastprep.io/system-design/governed-sql-generation-chatbot)|[![Practice][p]](https://www.fastprep.io/system-design/governed-sql-generation-chatbot)|Jul 02, 2026|
 |**NVIDIA**|[GPU Telemetry Collection and Analytics Platform](https://www.fastprep.io/system-design/gpu-telemetry-collection-and-analytics-platform)|[![Practice][p]](https://www.fastprep.io/system-design/gpu-telemetry-collection-and-analytics-platform)|Jul 02, 2026|
