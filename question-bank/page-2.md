@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**SpaceX**|[Rocket Component Cost](https://www.fastprep.io/problems/spacex-rocket-component-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/spacex-rocket-component-cost)|Aug 22, 2025|
+|**SpaceX**|[Design Tagged Gift Shop Search](https://www.fastprep.io/low-level-design/gift-shop-tagged-search)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/gift-shop-tagged-search)|Aug 22, 2025|
 |**SpaceX**|[Warehouse Order Transit Tracking](https://www.fastprep.io/low-level-design/warehouse-order-transit-tracking)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/warehouse-order-transit-tracking)|Aug 22, 2025|
 |**Splunk**|[Activity Playlist Streaming Service](https://www.fastprep.io/system-design/activity-playlist-streaming-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/activity-playlist-streaming-service)|Aug 13, 2025|
 |**Splunk**|[Cost-Aware Interactive Content Delivery](https://www.fastprep.io/system-design/cost-aware-interactive-content-delivery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cost-aware-interactive-content-delivery)|Aug 13, 2025|
@@ -189,6 +191,8 @@
 |**Amazon**|[All About Medians](https://www.fastprep.io/problems/amazon-medians)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-medians)|Mar 18, 2025|
 |**Amazon**|[Get Largest Number](https://www.fastprep.io/problems/amazon-find-partition-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-partition-cost)|Mar 13, 2025|
 |**SpaceX**|[Speed to Pressure Lookup](https://www.fastprep.io/problems/spacex-speed-to-pressure-lookup)|Coding|[![Practice][p]](https://www.fastprep.io/problems/spacex-speed-to-pressure-lookup)|Mar 13, 2025|
+|**Chainalysis**|[Design a Real-Time Multi-Chain Blockchain Data Pipeline](https://www.fastprep.io/system-design/multi-chain-blockchain-data-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-chain-blockchain-data-pipeline)|Mar 06, 2025|
+|**Zipline**|[Design a Drone Route Planning Geospatial Platform](https://www.fastprep.io/system-design/drone-route-planning-geospatial-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/drone-route-planning-geospatial-platform)|Feb 22, 2025|
 |**Google**|[Maximum Subarray](https://www.fastprep.io/problems/google-maximum-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-subarray)|Feb 13, 2025|
 |**Google**|[Merge Intervals](https://www.fastprep.io/problems/google-merge-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-merge-intervals)|Feb 13, 2025|
 |**Amazon**|[Get The Most Out Of The Data](https://www.fastprep.io/problems/amazon-get-most-out-of-the-data)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-most-out-of-the-data)|Feb 10, 2025|
@@ -736,6 +740,7 @@
 |**Wayfair**|[Smash Bricks](https://www.fastprep.io/problems/wayfair-smash-the-bricks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wayfair-smash-the-bricks)|Apr 16, 2024|
 |**Wayfair**|[Validate Magical Binary String](https://www.fastprep.io/problems/wayfair-validating-magical-binary-strings-with-regex)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wayfair-validating-magical-binary-strings-with-regex)|Apr 16, 2024|
 |**Nutanix**|[No Adjacent Characters](https://www.fastprep.io/problems/nutanix-no-adjacent-characters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nutanix-no-adjacent-characters)|Apr 16, 2024|
+|**Skydio**|[Design a Drone Fleet Mission Control Platform](https://www.fastprep.io/system-design/drone-fleet-mission-control-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/drone-fleet-mission-control-platform)|Apr 16, 2024|
 |**Amazon**|[Find Median Of Subarray Uniqueness](https://www.fastprep.io/problems/find-median-of-subarray-uniqueness)|Coding|[![Practice][p]](https://www.fastprep.io/problems/find-median-of-subarray-uniqueness)|Apr 15, 2024|
 |**Amazon**|[Max Negation](https://www.fastprep.io/problems/amazon-maximize-the-array-sum-after-negating-at-most-k-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-the-array-sum-after-negating-at-most-k-elements)|Apr 12, 2024|
 |**Amazon**|[Get Min Time](https://www.fastprep.io/problems/amazon-get-min-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-time)|Apr 12, 2024|
@@ -1044,6 +1049,7 @@
 |**Bloomberg LP**|[Design Internal Latency Measurement and Alerting](https://www.fastprep.io/system-design/internal-latency-measurement-alerting)|System design|[![Practice][p]](https://www.fastprep.io/system-design/internal-latency-measurement-alerting)|Aug 12, 2022|
 |**Careem**|[Design a Highly Available Distributed Key-Value Store](https://www.fastprep.io/system-design/highly-available-distributed-key-value-store)|System design|[![Practice][p]](https://www.fastprep.io/system-design/highly-available-distributed-key-value-store)|Aug 08, 2022|
 |**Bloomberg LP**|[Design Top-K News Articles in a Time Window](https://www.fastprep.io/system-design/top-k-news-arbitrary-window)|System design|[![Practice][p]](https://www.fastprep.io/system-design/top-k-news-arbitrary-window)|Jul 29, 2022|
+|**Motive**|[Design a Freight Trip Capacity Matching Platform](https://www.fastprep.io/system-design/freight-trip-capacity-matching-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/freight-trip-capacity-matching-platform)|Jul 27, 2022|
 |**Revolut**|[Make Account Transfers Safe Under Concurrency](https://www.fastprep.io/project-coding/revolut-concurrency-safe-account-transfer)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/revolut-concurrency-safe-account-transfer)|Jun 20, 2022|
 |**Skyscanner**|[Design Flight Price Threshold Alerts](https://www.fastprep.io/system-design/flight-price-threshold-alerts)|System design|[![Practice][p]](https://www.fastprep.io/system-design/flight-price-threshold-alerts)|Jun 10, 2022|
 |**Confluent**|[Design a Kubernetes-Managed Kafka Service](https://www.fastprep.io/system-design/kubernetes-managed-kafka-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/kubernetes-managed-kafka-service)|May 05, 2022|
