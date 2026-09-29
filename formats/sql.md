@@ -9,7 +9,7 @@
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
 |**IBM**|[Social Network Relationship Statistics](https://www.fastprep.io/problems/ibm-social-network-relationship-statistics)|[![Practice][p]](https://www.fastprep.io/problems/ibm-social-network-relationship-statistics)|🔥 Sep 16, 2026|
-|**Two Sigma**|[Daily Temperature By Town](https://www.fastprep.io/problems/two-sigma-daily-temperature-by-town)|[![Practice][p]](https://www.fastprep.io/problems/two-sigma-daily-temperature-by-town)|🔥 Sep 14, 2026|
+|**Two Sigma**|[Daily Temperature By Town](https://www.fastprep.io/problems/two-sigma-daily-temperature-by-town)|[![Practice][p]](https://www.fastprep.io/problems/two-sigma-daily-temperature-by-town)|🆕 Sep 14, 2026|
 |**JPMorgan Chase**|[Employees Above Average Salary](https://www.fastprep.io/problems/jpmorgan-employees-above-average-salary)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-employees-above-average-salary)|🆕 Sep 13, 2026|
 |**JPMorgan Chase**|[Highest-Earning Employees By Department](https://www.fastprep.io/problems/jpmorgan-highest-earner-per-department)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-highest-earner-per-department)|🆕 Sep 13, 2026|
 |**Lenskart**|[Most Recent Active User Per Department](https://www.fastprep.io/problems/lenskart-most-recent-active-user-per-department)|[![Practice][p]](https://www.fastprep.io/problems/lenskart-most-recent-active-user-per-department)|🆕 Sep 13, 2026|
