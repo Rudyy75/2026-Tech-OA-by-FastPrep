@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**56 questions**
+**58 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Groww**|[Build an Extensible Brokerage Charge Calculator](https://www.fastprep.io/project-coding/brokerage-charge-calculator)|[![Practice][p]](https://www.fastprep.io/project-coding/brokerage-charge-calculator)|🔥 Sep 25, 2026|
+|**Odoo**|[Build FIFO Inventory Costing](https://www.fastprep.io/project-coding/fifo-inventory-costing-service)|[![Practice][p]](https://www.fastprep.io/project-coding/fifo-inventory-costing-service)|🔥 Sep 25, 2026|
 |**Intuit**|[Amend a Git Commit from Bash](https://www.fastprep.io/project-coding/intuit-amend-git-commit-history)|[![Practice][p]](https://www.fastprep.io/project-coding/intuit-amend-git-commit-history)|🔥 Sep 24, 2026|
 |**Verkada**|[Build a Camera Communication API](https://www.fastprep.io/project-coding/verkada-camera-log-api-server)|[![Practice][p]](https://www.fastprep.io/project-coding/verkada-camera-log-api-server)|🔥 Sep 22, 2026|
 |**Cresta**|[Build a Conversational Flight Booking Agent](https://www.fastprep.io/project-coding/cresta-conversational-flight-booking-agent)|[![Practice][p]](https://www.fastprep.io/project-coding/cresta-conversational-flight-booking-agent)|🔥 Sep 22, 2026|

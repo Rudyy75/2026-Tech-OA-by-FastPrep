@@ -2,19 +2,25 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**116 questions**
+**120 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
 |**Nykaa**|[Design a Shared Expense Splitting Service](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|🔥 Sep 29, 2026|
+|**The D.E. Shaw Group / Uber**|[Design and Implement a Parking Lot](https://www.fastprep.io/low-level-design/uber-parking-lot-design-and-code)|[![Practice][p]](https://www.fastprep.io/low-level-design/uber-parking-lot-design-and-code)|🔥 Sep 29, 2026|
+|**Uber Freight**|[Design an In-Memory File System](https://www.fastprep.io/low-level-design/in-memory-file-system)|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-file-system)|🔥 Sep 29, 2026|
 |**Kotak Mahindra Bank**|[Design a Movie Ticket Booking Platform](https://www.fastprep.io/low-level-design/movie-ticket-booking-platform)|[![Practice][p]](https://www.fastprep.io/low-level-design/movie-ticket-booking-platform)|🔥 Sep 28, 2026|
+|**Amazon**|[Design an Extensible Financial Account with Charges and Tax](https://www.fastprep.io/low-level-design/extensible-financial-account-charges)|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-financial-account-charges)|🔥 Sep 27, 2026|
+|**Expedia**|[Design Collaborative Versioned File Storage](https://www.fastprep.io/low-level-design/collaborative-versioned-file-storage-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/collaborative-versioned-file-storage-domain)|🔥 Sep 27, 2026|
 |**Micro1 / Amazon**|[Design an In-Memory Action Rate Limiter](https://www.fastprep.io/low-level-design/in-memory-action-rate-limiter)|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-action-rate-limiter)|🔥 Sep 25, 2026|
 |**Amazon / Omnissa / Deloitte**|[Design an Extensible Multi-Channel Alerting Platform](https://www.fastprep.io/low-level-design/extensible-multi-channel-alerting-platform)|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-multi-channel-alerting-platform)|🔥 Sep 25, 2026|
 |**Salesforce / The Trade Desk**|[Design an Elevator Control System](https://www.fastprep.io/low-level-design/elevator-dispatch-control-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/elevator-dispatch-control-domain)|🔥 Sep 25, 2026|
 |**Goldman Sachs / Meesho**|[Design a Brokerage Order Processing Domain](https://www.fastprep.io/low-level-design/brokerage-order-processing-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/brokerage-order-processing-domain)|🔥 Sep 25, 2026|
 |**PayPay / Fox Corporation**|[Design a Payment Transaction State Machine](https://www.fastprep.io/low-level-design/payment-transaction-state-machine)|[![Practice][p]](https://www.fastprep.io/low-level-design/payment-transaction-state-machine)|🔥 Sep 25, 2026|
+|**Salesforce**|[Design Movie Subscription Pricing](https://www.fastprep.io/low-level-design/movie-subscription-pricing-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/movie-subscription-pricing-domain)|🔥 Sep 25, 2026|
+|**Eightfold**|[Design Recurring Meeting-Room Booking](https://www.fastprep.io/low-level-design/recurring-meeting-room-booking-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/recurring-meeting-room-booking-domain)|🔥 Sep 25, 2026|
 |**Amazon / The Trade Desk / Tekion**|[Design an In-Memory Publish-Subscribe Library](https://www.fastprep.io/low-level-design/in-memory-publish-subscribe-library)|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-publish-subscribe-library)|🔥 Sep 24, 2026|
 |**Amazon / Goldman Sachs / Wayfair / Walmart**|[Design a Multi-Floor Parking Lot](https://www.fastprep.io/low-level-design/multi-floor-parking-lot)|[![Practice][p]](https://www.fastprep.io/low-level-design/multi-floor-parking-lot)|🔥 Sep 24, 2026|
 |**Tekion / Amazon / Oracle**|[Design a Configurable Logging Framework](https://www.fastprep.io/low-level-design/logging-framework)|[![Practice][p]](https://www.fastprep.io/low-level-design/logging-framework)|🔥 Sep 24, 2026|
@@ -42,7 +48,6 @@
 |**Amazon**|[Design an Extensible Shipping Cost Calculator](https://www.fastprep.io/low-level-design/extensible-shipping-cost-calculator)|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-shipping-cost-calculator)|🆕 Sep 13, 2026|
 |**Bobyard**|[Design an Ordered Canvas Operation Coordinator](https://www.fastprep.io/low-level-design/ordered-canvas-operation-coordinator)|[![Practice][p]](https://www.fastprep.io/low-level-design/ordered-canvas-operation-coordinator)|🆕 Sep 12, 2026|
 |**Google**|[Design and Implement a Highway Toll Session Domain](https://www.fastprep.io/low-level-design/highway-toll-session-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/highway-toll-session-domain)|🆕 Sep 12, 2026|
-|**The D.E. Shaw Group / Uber**|[Design and Implement a Parking Lot](https://www.fastprep.io/low-level-design/uber-parking-lot-design-and-code)|[![Practice][p]](https://www.fastprep.io/low-level-design/uber-parking-lot-design-and-code)|🆕 Sep 11, 2026|
 |**The D.E. Shaw Group**|[Design a Ride-Hailing Class Model](https://www.fastprep.io/low-level-design/ride-hailing-class-design)|[![Practice][p]](https://www.fastprep.io/low-level-design/ride-hailing-class-design)|🆕 Sep 11, 2026|
 |**Wayfair**|[Design a Rental Product Circulation Domain](https://www.fastprep.io/low-level-design/rental-product-circulation-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/rental-product-circulation-domain)|🆕 Sep 11, 2026|
 |**Syfe**|[Allocate And Release Brokerage Inventory](https://www.fastprep.io/low-level-design/brokerage-inventory-allocation)|[![Practice][p]](https://www.fastprep.io/low-level-design/brokerage-inventory-allocation)|🆕 Sep 09, 2026|
@@ -57,7 +62,6 @@
 |**Amazon**|[Design and Implement a Train Route Fare Calculator](https://www.fastprep.io/low-level-design/train-route-fare-calculator)|[![Practice][p]](https://www.fastprep.io/low-level-design/train-route-fare-calculator)|🆕 Sep 03, 2026|
 |**Amazon**|[Design and Implement a Sliding Window Maximum API](https://www.fastprep.io/low-level-design/sliding-window-maximum-api)|[![Practice][p]](https://www.fastprep.io/low-level-design/sliding-window-maximum-api)|🆕 Sep 03, 2026|
 |**Google**|[Design a Bookshelf with Reading Progress](https://www.fastprep.io/low-level-design/bookshelf-reading-progress)|[![Practice][p]](https://www.fastprep.io/low-level-design/bookshelf-reading-progress)|🆕 Sep 01, 2026|
-|**Uber Freight**|[Design an In-Memory File System](https://www.fastprep.io/low-level-design/in-memory-file-system)|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-file-system)|🆕 Aug 31, 2026|
 |**OpenAI**|[Design a Multi-Channel Bot Notification Service](https://www.fastprep.io/low-level-design/multi-channel-bot-notification-service)|[![Practice][p]](https://www.fastprep.io/low-level-design/multi-channel-bot-notification-service)|🆕 Aug 31, 2026|
 |**Amazon**|[Design and Implement a Streaming Median API](https://www.fastprep.io/low-level-design/streaming-median-api)|[![Practice][p]](https://www.fastprep.io/low-level-design/streaming-median-api)|🆕 Aug 31, 2026|
 |**Uber**|[Design and Implement Ride Dispatch and Trip Lifecycle](https://www.fastprep.io/low-level-design/ride-hailing-dispatch-and-trip-lifecycle)|[![Practice][p]](https://www.fastprep.io/low-level-design/ride-hailing-dispatch-and-trip-lifecycle)|🆕 Aug 29, 2026|
