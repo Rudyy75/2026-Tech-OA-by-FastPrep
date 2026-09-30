@@ -9,6 +9,15 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Motive**|[Build a Vehicle Catalog Analysis API](https://www.fastprep.io/project-coding/vehicle-catalog-analysis)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/vehicle-catalog-analysis)|Dec 19, 2025|
+|**Workday**|[Design a Payments and Cards Domain](https://www.fastprep.io/low-level-design/payments-and-cards-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/payments-and-cards-domain)|Dec 18, 2025|
+|**Motive**|[Design a Short-Video Sharing Platform](https://www.fastprep.io/system-design/short-video-sharing-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/short-video-sharing-platform)|Dec 18, 2025|
+|**HackerRank**|[Ball Passing at Time K](https://www.fastprep.io/problems/hackerrank-ball-passing-at-time-k)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hackerrank-ball-passing-at-time-k)|Dec 17, 2025|
+|**HackerRank**|[Longest Equal Binary Subarray](https://www.fastprep.io/problems/hackerrank-longest-equal-binary-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hackerrank-longest-equal-binary-subarray)|Dec 17, 2025|
+|**HackerRank**|[Longest Equal Binary Subarray After One Flip](https://www.fastprep.io/problems/hackerrank-longest-equal-binary-subarray-after-one-flip)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hackerrank-longest-equal-binary-subarray-after-one-flip)|Dec 17, 2025|
+|**Visa**|[Previous Bus Departure](https://www.fastprep.io/problems/visa-previous-bus-departure)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-previous-bus-departure)|Dec 16, 2025|
+|**Zopsmart**|[Base36 Square Root](https://www.fastprep.io/problems/zopsmart-base36-square-root)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zopsmart-base36-square-root)|Dec 16, 2025|
+|**Zopsmart**|[Minimum Hidden Roman Value](https://www.fastprep.io/problems/zopsmart-minimum-hidden-roman-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zopsmart-minimum-hidden-roman-value)|Dec 16, 2025|
 |**Zopsmart**|[Reverse Base36 Number](https://www.fastprep.io/problems/zopsmart-reverse-base36-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zopsmart-reverse-base36-number)|Dec 16, 2025|
 |**Amazon**|[Minimum S3 Storage Cost](https://www.fastprep.io/problems/amazon-minimum-s3-storage-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-s3-storage-cost)|Dec 11, 2025|
 |**Flipkart**|[Minimized Total Idle Time](https://www.fastprep.io/problems/flipkart-minimized-total-idle-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flipkart-minimized-total-idle-time)|Dec 11, 2025|
@@ -1081,6 +1090,7 @@
 |**Arcesium**|[Detect a Cycle in Directed Hate Relationships](https://www.fastprep.io/problems/arcesium-detect-cycle-in-directed-hate-graph)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-detect-cycle-in-directed-hate-graph)|Aug 05, 2023|
 |**Arcesium**|[Robo Data Sharing Direction](https://www.fastprep.io/problems/arcesium-robo-data-sharing-direction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-robo-data-sharing-direction)|Jul 17, 2023|
 |**Motive**|[Design a Restaurant Catalog Management Service](https://www.fastprep.io/low-level-design/restaurant-catalog-management)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/restaurant-catalog-management)|Jun 07, 2023|
+|**ZipRecruiter**|[Design and Implement a Playlist Management Domain](https://www.fastprep.io/low-level-design/playlist-management-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/playlist-management-domain)|May 14, 2023|
 |**Runway**|[Video Content Analysis Platform](https://www.fastprep.io/system-design/video-content-analysis-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/video-content-analysis-platform)|Apr 04, 2023|
 |**IMC**|[Busy Intersection](https://www.fastprep.io/problems/imc-busy-intersection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/imc-busy-intersection)|Mar 27, 2023|
 |**Bloomberg LP**|[Design a Real-Time Stock Alert System](https://www.fastprep.io/system-design/configurable-real-time-stock-alerts)|System design|[![Practice][p]](https://www.fastprep.io/system-design/configurable-real-time-stock-alerts)|Feb 22, 2023|
@@ -1142,6 +1152,8 @@
 |**Bloomberg LP**|[Design a Punctuation-Prediction Experiment](https://www.fastprep.io/system-design/punctuation-prediction-experiment-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/punctuation-prediction-experiment-platform)|Jul 05, 2020|
 |**Bloomberg LP**|[Design Client Application Incident Response](https://www.fastprep.io/system-design/terminal-incident-response-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/terminal-incident-response-system)|Jun 26, 2020|
 |**Google**|[Design ML Landing-Page Optimization](https://www.fastprep.io/system-design/landing-page-optimization)|System design|[![Practice][p]](https://www.fastprep.io/system-design/landing-page-optimization)|Jun 02, 2020|
+|**Meta**|[Design Offensive Ad Content Detection](https://www.fastprep.io/system-design/offensive-ad-content-detection)|System design|[![Practice][p]](https://www.fastprep.io/system-design/offensive-ad-content-detection)|Jun 02, 2020|
+|**NVIDIA**|[Design a Versioned Flask Model Inference Service](https://www.fastprep.io/system-design/versioned-flask-model-inference-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/versioned-flask-model-inference-service)|Apr 04, 2020|
 |**Postman**|[Design an Authenticated Page Presence Counter](https://www.fastprep.io/system-design/authenticated-page-presence-counter)|System design|[![Practice][p]](https://www.fastprep.io/system-design/authenticated-page-presence-counter)|Mar 31, 2020|
 |**SpaceX**|[Design a Satellite Fleet Management and Ground-Station Communications Platform](https://www.fastprep.io/system-design/satellite-fleet-management-ground-station-communications)|System design|[![Practice][p]](https://www.fastprep.io/system-design/satellite-fleet-management-ground-station-communications)|Feb 26, 2020|
 |**Google**|[Design an Incremental Spelling and Grammar Assistant](https://www.fastprep.io/system-design/incremental-spelling-and-grammar-assistant)|System design|[![Practice][p]](https://www.fastprep.io/system-design/incremental-spelling-and-grammar-assistant)|Dec 05, 2019|
@@ -1150,4 +1162,5 @@
 |**Bloomberg LP**|[Design an Ordered Document and Page Model](https://www.fastprep.io/low-level-design/ordered-document-page-word-model)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/ordered-document-page-word-model)|Oct 17, 2019|
 |**Postman**|[Without Whitespaces](https://www.fastprep.io/problems/postman-without-whitespaces)|Coding|[![Practice][p]](https://www.fastprep.io/problems/postman-without-whitespaces)|Sep 26, 2019|
 |**Postman**|[Maximum Laptop Rating in a Price Range](https://www.fastprep.io/problems/postman-maximum-laptop-rating)|Coding|[![Practice][p]](https://www.fastprep.io/problems/postman-maximum-laptop-rating)|Aug 30, 2019|
+|**ZipRecruiter**|[Design a Community URL Shortening Service](https://www.fastprep.io/system-design/community-url-shortening-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/community-url-shortening-service)|Feb 03, 2017|
 <a id="bottom"></a>

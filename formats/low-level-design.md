@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**120 questions**
+**121 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -83,7 +83,7 @@
 |**Susquehanna International Group (SIG)**|[Design a Cash Register with Inventory and Profit Tracking](https://www.fastprep.io/low-level-design/cash-register-inventory-and-profit)|[![Practice][p]](https://www.fastprep.io/low-level-design/cash-register-inventory-and-profit)|Jul 30, 2026|
 |**Amazon**|[Design a Database Partition Split-and-Merge Manager](https://www.fastprep.io/low-level-design/database-partition-split-and-merge-manager)|[![Practice][p]](https://www.fastprep.io/low-level-design/database-partition-split-and-merge-manager)|Jul 30, 2026|
 |**Amazon**|[Design and Implement a Streaming Log Handler](https://www.fastprep.io/low-level-design/streaming-log-handler)|[![Practice][p]](https://www.fastprep.io/low-level-design/streaming-log-handler)|Jul 30, 2026|
-|**Databricks**|[Design a Locking Key-Value Store with Batch Writes](https://www.fastprep.io/low-level-design/locking-key-value-store-with-batch-writes)|[![Practice][p]](https://www.fastprep.io/low-level-design/locking-key-value-store-with-batch-writes)|Jul 29, 2026|
+|**Databricks / ZipRecruiter**|[Design a Locking Key-Value Store with Batch Writes](https://www.fastprep.io/low-level-design/locking-key-value-store-with-batch-writes)|[![Practice][p]](https://www.fastprep.io/low-level-design/locking-key-value-store-with-batch-writes)|Jul 29, 2026|
 |**Databricks**|[Design a WAL-Backed Batch Log Writer](https://www.fastprep.io/low-level-design/wal-backed-batch-log-writer)|[![Practice][p]](https://www.fastprep.io/low-level-design/wal-backed-batch-log-writer)|Jul 29, 2026|
 |**Bloomberg LP**|[Refactor a Cache for Pluggable Eviction Policies](https://www.fastprep.io/low-level-design/extensible-cache-eviction-policies)|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-cache-eviction-policies)|Jul 28, 2026|
 |**Amazon**|[Design Music Search, Playlists, and Playback](https://www.fastprep.io/low-level-design/amazon-music-search-and-playback)|[![Practice][p]](https://www.fastprep.io/low-level-design/amazon-music-search-and-playback)|Jul 21, 2026|
@@ -119,6 +119,7 @@
 |**Onehouse**|[Design a Kafka-Like Distributed Queue](https://www.fastprep.io/low-level-design/kafka-like-distributed-queue)|[![Practice][p]](https://www.fastprep.io/low-level-design/kafka-like-distributed-queue)|Nov 07, 2023|
 |**Modular**|[Design a Configurable Robot Arm](https://www.fastprep.io/low-level-design/configurable-robot-arm)|[![Practice][p]](https://www.fastprep.io/low-level-design/configurable-robot-arm)|Nov 03, 2023|
 |**Motive**|[Design a Restaurant Catalog Management Service](https://www.fastprep.io/low-level-design/restaurant-catalog-management)|[![Practice][p]](https://www.fastprep.io/low-level-design/restaurant-catalog-management)|Jun 07, 2023|
+|**ZipRecruiter**|[Design and Implement a Playlist Management Domain](https://www.fastprep.io/low-level-design/playlist-management-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/playlist-management-domain)|May 14, 2023|
 |**Bloomberg LP**|[Design a Deck, Hand, and Dealer](https://www.fastprep.io/low-level-design/card-game-deck-hand-dealer)|[![Practice][p]](https://www.fastprep.io/low-level-design/card-game-deck-hand-dealer)|Nov 02, 2022|
 |**Grubhub**|[Air Traffic Control System](https://www.fastprep.io/low-level-design/air-traffic-control-system)|[![Practice][p]](https://www.fastprep.io/low-level-design/air-traffic-control-system)|Mar 26, 2022|
 |**Bloomberg LP**|[Design a Ticketed Parking Lot with Defragmentation](https://www.fastprep.io/low-level-design/ticketed-parking-lot-defragmentation)|[![Practice][p]](https://www.fastprep.io/low-level-design/ticketed-parking-lot-defragmentation)|Feb 28, 2022|
