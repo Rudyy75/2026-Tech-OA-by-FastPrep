@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,130)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (493)](formats/system-design.md) · [Low-level design (123)](formats/low-level-design.md) · [AI coding (61)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,130)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (496)](formats/system-design.md) · [Low-level design (123)](formats/low-level-design.md) · [AI coding (61)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -34,6 +34,11 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
 |**Amazon**|[Repair Workflow Issue and Sub-Issue Creation](https://www.fastprep.io/project-coding/amazon-repair-workflow-issues)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-workflow-issues)|🔥 Oct 01, 2026|
+|**Oracle / Retell AI / Apple / Google / Walmart / Flipkart / Globalization Partners / Amazon / Reddit / Atlassian / Snowflake**|[Design a Distributed Rate Limiter](https://www.fastprep.io/system-design/distributed-rate-limiter)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-rate-limiter)|🔥 Oct 01, 2026|
+|**Waymo / Nuro**|[Design a Distributed Simulation Platform](https://www.fastprep.io/system-design/distributed-simulation-job-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-simulation-job-platform)|🔥 Oct 01, 2026|
+|**LinkedIn**|[Design a Job-Click Prediction Platform](https://www.fastprep.io/system-design/job-click-prediction-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/job-click-prediction-platform)|🔥 Oct 01, 2026|
+|**LinkedIn**|[Design a Personalized Recruiter Outreach Platform](https://www.fastprep.io/system-design/personalized-recruiter-outreach-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-recruiter-outreach-platform)|🔥 Oct 01, 2026|
+|**Microsoft**|[Design an Employee Attrition Risk Platform](https://www.fastprep.io/system-design/employee-attrition-risk-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/employee-attrition-risk-platform)|🔥 Oct 01, 2026|
 |**Google**|[Design a Manufacturing Operations Agent](https://www.fastprep.io/system-design/manufacturing-operations-agent)|System design|[![Practice][p]](https://www.fastprep.io/system-design/manufacturing-operations-agent)|🔥 Sep 30, 2026|
 |**OpenAI**|[Design a Cloud Coding Workspace](https://www.fastprep.io/system-design/cloud-coding-workspace)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cloud-coding-workspace)|🔥 Sep 30, 2026|
 |**Wells Fargo / Okta**|[Cursor-Paginated Records Service](https://www.fastprep.io/system-design/cursor-paginated-records-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cursor-paginated-records-service)|🔥 Sep 30, 2026|
@@ -41,7 +46,6 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**General Motors**|[Design a Resilient Dependency-Orchestrating Service](https://www.fastprep.io/system-design/resilient-dependency-orchestrating-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/resilient-dependency-orchestrating-service)|🔥 Sep 30, 2026|
 |**BNSF Railway**|[Design a Resilient High-Traffic Quote API](https://www.fastprep.io/system-design/resilient-high-traffic-quote-api)|System design|[![Practice][p]](https://www.fastprep.io/system-design/resilient-high-traffic-quote-api)|🔥 Sep 30, 2026|
 |**BNSF Railway**|[Implement a Railway Quote Service Layer](https://www.fastprep.io/project-coding/bnsf-railway-quote-service-layer)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/bnsf-railway-quote-service-layer)|🔥 Sep 30, 2026|
-|**Oracle / Retell AI / Apple / Google / Walmart / Flipkart / Globalization Partners / Amazon / Reddit / Atlassian**|[Design a Distributed Rate Limiter](https://www.fastprep.io/system-design/distributed-rate-limiter)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-rate-limiter)|🔥 Sep 29, 2026|
 |**Moveworks / Atlassian**|[Design Cloud Usage Billing Infrastructure](https://www.fastprep.io/system-design/cloud-usage-billing-infrastructure)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cloud-usage-billing-infrastructure)|🔥 Sep 29, 2026|
 |**Amazon / Instacart / Zip / Nykaa**|[Design a Last-Unit Inventory Reservation Service](https://www.fastprep.io/system-design/last-unit-inventory-reservation)|System design|[![Practice][p]](https://www.fastprep.io/system-design/last-unit-inventory-reservation)|🔥 Sep 29, 2026|
 |**Autodesk / Nykaa**|[Design a Rapid Grocery Ordering Platform](https://www.fastprep.io/system-design/rapid-grocery-ordering-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/rapid-grocery-ordering-platform)|🔥 Sep 29, 2026|
@@ -606,7 +610,6 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Syfe**|[Allocate And Release Brokerage Inventory](https://www.fastprep.io/low-level-design/brokerage-inventory-allocation)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/brokerage-inventory-allocation)|🆕 Sep 09, 2026|
 |**Commvault**|[Design a Chess Move Validation Model](https://www.fastprep.io/low-level-design/chess-move-validation)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/chess-move-validation)|🆕 Sep 09, 2026|
 |**Get My Parking**|[List Failed And TTL-Expired Pending Payments](https://www.fastprep.io/low-level-design/failed-and-expired-pending-transactions)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/failed-and-expired-pending-transactions)|🆕 Sep 09, 2026|
-|**Waymo / Nuro**|[Design a Distributed Simulation Platform](https://www.fastprep.io/system-design/distributed-simulation-job-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-simulation-job-platform)|🆕 Sep 09, 2026|
 |**OpenAI**|[Design a Device Demand-Response Control System](https://www.fastprep.io/system-design/device-demand-response-control-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/device-demand-response-control-system)|🆕 Sep 09, 2026|
 |**LinkedIn**|[Design a High-Throughput Single-Node Key-Value Store](https://www.fastprep.io/system-design/high-throughput-single-node-key-value-store)|System design|[![Practice][p]](https://www.fastprep.io/system-design/high-throughput-single-node-key-value-store)|🆕 Sep 09, 2026|
 |**Tesla**|[Design a Content Delivery Network](https://www.fastprep.io/system-design/content-delivery-network)|System design|[![Practice][p]](https://www.fastprep.io/system-design/content-delivery-network)|🆕 Sep 09, 2026|
@@ -1701,7 +1704,4 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Google**|[Design Fraud-Risk Scoring for Protected Actions](https://www.fastprep.io/system-design/fraud-risk-scoring-for-protected-actions)|System design|[![Practice][p]](https://www.fastprep.io/system-design/fraud-risk-scoring-for-protected-actions)|Jan 13, 2026|
 |**Walmart**|[Sort Real Number Strings](https://www.fastprep.io/problems/walmart-sort-real-number-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/walmart-sort-real-number-strings)|Jan 12, 2026|
 |**SavantLabs**|[Minutes to Infect Tree](https://www.fastprep.io/problems/savantlabs-minutes-to-infect-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/savantlabs-minutes-to-infect-tree)|Jan 12, 2026|
-|**Toast**|[Maximum Stock Profit With Time Gap](https://www.fastprep.io/problems/toast-maximum-stock-profit-with-time-gap)|Coding|[![Practice][p]](https://www.fastprep.io/problems/toast-maximum-stock-profit-with-time-gap)|Jan 12, 2026|
-|**Amazon**|[Longest Arithmetic Subarray After One Change](https://www.fastprep.io/problems/amazon-longest-arithmetic-subarray-after-one-change)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-longest-arithmetic-subarray-after-one-change)|Jan 06, 2026|
-|**Amazon**|[Replace Values and Return Sums](https://www.fastprep.io/problems/amazon-replace-values-and-return-sums)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-replace-values-and-return-sums)|Jan 06, 2026|
 <a id="bottom"></a>

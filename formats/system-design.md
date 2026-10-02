@@ -2,19 +2,23 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**493 questions**
+**496 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Oracle / Retell AI / Apple / Google / Walmart / Flipkart / Globalization Partners / Amazon / Reddit / Atlassian / Snowflake**|[Design a Distributed Rate Limiter](https://www.fastprep.io/system-design/distributed-rate-limiter)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-rate-limiter)|🔥 Oct 01, 2026|
+|**Waymo / Nuro**|[Design a Distributed Simulation Platform](https://www.fastprep.io/system-design/distributed-simulation-job-platform)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-simulation-job-platform)|🔥 Oct 01, 2026|
+|**LinkedIn**|[Design a Job-Click Prediction Platform](https://www.fastprep.io/system-design/job-click-prediction-platform)|[![Practice][p]](https://www.fastprep.io/system-design/job-click-prediction-platform)|🔥 Oct 01, 2026|
+|**LinkedIn**|[Design a Personalized Recruiter Outreach Platform](https://www.fastprep.io/system-design/personalized-recruiter-outreach-platform)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-recruiter-outreach-platform)|🔥 Oct 01, 2026|
+|**Microsoft**|[Design an Employee Attrition Risk Platform](https://www.fastprep.io/system-design/employee-attrition-risk-platform)|[![Practice][p]](https://www.fastprep.io/system-design/employee-attrition-risk-platform)|🔥 Oct 01, 2026|
 |**Google**|[Design a Manufacturing Operations Agent](https://www.fastprep.io/system-design/manufacturing-operations-agent)|[![Practice][p]](https://www.fastprep.io/system-design/manufacturing-operations-agent)|🔥 Sep 30, 2026|
 |**OpenAI**|[Design a Cloud Coding Workspace](https://www.fastprep.io/system-design/cloud-coding-workspace)|[![Practice][p]](https://www.fastprep.io/system-design/cloud-coding-workspace)|🔥 Sep 30, 2026|
 |**Wells Fargo / Okta**|[Cursor-Paginated Records Service](https://www.fastprep.io/system-design/cursor-paginated-records-service)|[![Practice][p]](https://www.fastprep.io/system-design/cursor-paginated-records-service)|🔥 Sep 30, 2026|
 |**Okta**|[Design a Production Paginated Record API](https://www.fastprep.io/system-design/production-paginated-record-api)|[![Practice][p]](https://www.fastprep.io/system-design/production-paginated-record-api)|🔥 Sep 30, 2026|
 |**General Motors**|[Design a Resilient Dependency-Orchestrating Service](https://www.fastprep.io/system-design/resilient-dependency-orchestrating-service)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-dependency-orchestrating-service)|🔥 Sep 30, 2026|
 |**BNSF Railway**|[Design a Resilient High-Traffic Quote API](https://www.fastprep.io/system-design/resilient-high-traffic-quote-api)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-high-traffic-quote-api)|🔥 Sep 30, 2026|
-|**Oracle / Retell AI / Apple / Google / Walmart / Flipkart / Globalization Partners / Amazon / Reddit / Atlassian**|[Design a Distributed Rate Limiter](https://www.fastprep.io/system-design/distributed-rate-limiter)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-rate-limiter)|🔥 Sep 29, 2026|
 |**Moveworks / Atlassian**|[Design Cloud Usage Billing Infrastructure](https://www.fastprep.io/system-design/cloud-usage-billing-infrastructure)|[![Practice][p]](https://www.fastprep.io/system-design/cloud-usage-billing-infrastructure)|🔥 Sep 29, 2026|
 |**Amazon / Instacart / Zip / Nykaa**|[Design a Last-Unit Inventory Reservation Service](https://www.fastprep.io/system-design/last-unit-inventory-reservation)|[![Practice][p]](https://www.fastprep.io/system-design/last-unit-inventory-reservation)|🔥 Sep 29, 2026|
 |**Autodesk / Nykaa**|[Design a Rapid Grocery Ordering Platform](https://www.fastprep.io/system-design/rapid-grocery-ordering-platform)|[![Practice][p]](https://www.fastprep.io/system-design/rapid-grocery-ordering-platform)|🔥 Sep 29, 2026|
@@ -181,7 +185,6 @@
 |**Perplexity AI**|[Design Durable Long-Running Agentic Query Execution](https://www.fastprep.io/system-design/long-running-agentic-query-execution)|[![Practice][p]](https://www.fastprep.io/system-design/long-running-agentic-query-execution)|🆕 Sep 09, 2026|
 |**Syfe**|[Design A Token-Limited Multi-Profile Chat](https://www.fastprep.io/system-design/token-limited-multi-profile-chat)|[![Practice][p]](https://www.fastprep.io/system-design/token-limited-multi-profile-chat)|🆕 Sep 09, 2026|
 |**Syfe**|[Design Flash-Sale Notification Fanout](https://www.fastprep.io/system-design/flash-sale-notification-fanout)|[![Practice][p]](https://www.fastprep.io/system-design/flash-sale-notification-fanout)|🆕 Sep 09, 2026|
-|**Waymo / Nuro**|[Design a Distributed Simulation Platform](https://www.fastprep.io/system-design/distributed-simulation-job-platform)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-simulation-job-platform)|🆕 Sep 09, 2026|
 |**OpenAI**|[Design a Device Demand-Response Control System](https://www.fastprep.io/system-design/device-demand-response-control-system)|[![Practice][p]](https://www.fastprep.io/system-design/device-demand-response-control-system)|🆕 Sep 09, 2026|
 |**LinkedIn**|[Design a High-Throughput Single-Node Key-Value Store](https://www.fastprep.io/system-design/high-throughput-single-node-key-value-store)|[![Practice][p]](https://www.fastprep.io/system-design/high-throughput-single-node-key-value-store)|🆕 Sep 09, 2026|
 |**Tesla**|[Design a Content Delivery Network](https://www.fastprep.io/system-design/content-delivery-network)|[![Practice][p]](https://www.fastprep.io/system-design/content-delivery-network)|🆕 Sep 09, 2026|
