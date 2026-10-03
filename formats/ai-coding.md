@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**61 questions**
+**62 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Zip**|[Repair Monthly Expense Attribution](https://www.fastprep.io/project-coding/zip-repair-monthly-expense-attribution)|[![Practice][p]](https://www.fastprep.io/project-coding/zip-repair-monthly-expense-attribution)|🔥 Oct 02, 2026|
 |**Amazon**|[Repair Workflow Issue and Sub-Issue Creation](https://www.fastprep.io/project-coding/amazon-repair-workflow-issues)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-workflow-issues)|🔥 Oct 01, 2026|
 |**BNSF Railway**|[Implement a Railway Quote Service Layer](https://www.fastprep.io/project-coding/bnsf-railway-quote-service-layer)|[![Practice][p]](https://www.fastprep.io/project-coding/bnsf-railway-quote-service-layer)|🔥 Sep 30, 2026|
 |**Groww**|[Build an Extensible Brokerage Charge Calculator](https://www.fastprep.io/project-coding/brokerage-charge-calculator)|[![Practice][p]](https://www.fastprep.io/project-coding/brokerage-charge-calculator)|🔥 Sep 25, 2026|
