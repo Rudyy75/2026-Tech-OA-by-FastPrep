@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**123 questions**
+**124 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -32,8 +32,8 @@
 |**PayPay**|[Design a Pluggable Random Value Library](https://www.fastprep.io/low-level-design/pluggable-random-value-library)|[![Practice][p]](https://www.fastprep.io/low-level-design/pluggable-random-value-library)|🔥 Sep 22, 2026|
 |**Tekion**|[Design and Implement a TTL Cache Library](https://www.fastprep.io/low-level-design/in-memory-ttl-cache-library)|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-ttl-cache-library)|🔥 Sep 21, 2026|
 |**GoodScore**|[Design and Implement a Thread-Safe In-Memory Task Queue](https://www.fastprep.io/low-level-design/thread-safe-in-memory-task-queue)|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-in-memory-task-queue)|🔥 Sep 19, 2026|
-|**Amazon**|[Design File-System Search with Symlink Safety](https://www.fastprep.io/low-level-design/filesystem-search-with-symlink-safety)|[![Practice][p]](https://www.fastprep.io/low-level-design/filesystem-search-with-symlink-safety)|🔥 Sep 18, 2026|
-|**JioStar**|[Design and Implement a Parameterized Configuration Library](https://www.fastprep.io/low-level-design/parameterized-configuration-library)|[![Practice][p]](https://www.fastprep.io/low-level-design/parameterized-configuration-library)|🔥 Sep 18, 2026|
+|**Amazon**|[Design File-System Search with Symlink Safety](https://www.fastprep.io/low-level-design/filesystem-search-with-symlink-safety)|[![Practice][p]](https://www.fastprep.io/low-level-design/filesystem-search-with-symlink-safety)|🆕 Sep 18, 2026|
+|**JioStar**|[Design and Implement a Parameterized Configuration Library](https://www.fastprep.io/low-level-design/parameterized-configuration-library)|[![Practice][p]](https://www.fastprep.io/low-level-design/parameterized-configuration-library)|🆕 Sep 18, 2026|
 |**Kotak Mahindra Bank**|[Design a Food Delivery Order Domain](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|🆕 Sep 17, 2026|
 |**Kotak Mahindra Bank**|[Design a Showroom Vehicle Booking and Loan Workflow](https://www.fastprep.io/low-level-design/showroom-vehicle-booking-loan-workflow)|[![Practice][p]](https://www.fastprep.io/low-level-design/showroom-vehicle-booking-loan-workflow)|🆕 Sep 17, 2026|
 |**Fox Corporation**|[Design and Implement a Structured Content Query Library](https://www.fastprep.io/low-level-design/streaming-content-query-library)|[![Practice][p]](https://www.fastprep.io/low-level-design/streaming-content-query-library)|🆕 Sep 17, 2026|
@@ -125,6 +125,7 @@
 |**Bloomberg LP**|[Design a Deck, Hand, and Dealer](https://www.fastprep.io/low-level-design/card-game-deck-hand-dealer)|[![Practice][p]](https://www.fastprep.io/low-level-design/card-game-deck-hand-dealer)|Nov 02, 2022|
 |**Grubhub**|[Air Traffic Control System](https://www.fastprep.io/low-level-design/air-traffic-control-system)|[![Practice][p]](https://www.fastprep.io/low-level-design/air-traffic-control-system)|Mar 26, 2022|
 |**Bloomberg LP**|[Design a Ticketed Parking Lot with Defragmentation](https://www.fastprep.io/low-level-design/ticketed-parking-lot-defragmentation)|[![Practice][p]](https://www.fastprep.io/low-level-design/ticketed-parking-lot-defragmentation)|Feb 28, 2022|
+|**Figma**|[Template and Instance Override Model](https://www.fastprep.io/low-level-design/template-instance-override-model)|[![Practice][p]](https://www.fastprep.io/low-level-design/template-instance-override-model)|Oct 26, 2021|
 |**Bloomberg LP**|[Design Stock Watchlists with Custom Constraints](https://www.fastprep.io/low-level-design/extensible-stock-watchlist-constraints)|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-stock-watchlist-constraints)|Jan 30, 2021|
 |**Twitch**|[Design and Implement a Battleship Game](https://www.fastprep.io/low-level-design/battleship-game)|[![Practice][p]](https://www.fastprep.io/low-level-design/battleship-game)|Dec 12, 2020|
 |**Microsoft**|[Design and Implement a Thread-Safe LRU Cache](https://www.fastprep.io/low-level-design/thread-safe-lru-cache-library)|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-lru-cache-library)|Sep 30, 2020|
