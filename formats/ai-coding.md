@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**62 questions**
+**63 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -38,7 +38,7 @@
 |**Amazon**|[Repair Blog Post Creation](https://www.fastprep.io/project-coding/amazon-django-blog-post-creation)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-django-blog-post-creation)|🆕 Sep 02, 2026|
 |**Amazon**|[Repair Event Listing Filters, Pagination, and Caching](https://www.fastprep.io/project-coding/amazon-repair-event-listing-cache)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-event-listing-cache)|🆕 Aug 27, 2026|
 |**Goldman Sachs**|[Repair the Held-Ticket Confirmation Lifecycle](https://www.fastprep.io/project-coding/goldman-sachs-held-ticket-confirmation)|[![Practice][p]](https://www.fastprep.io/project-coding/goldman-sachs-held-ticket-confirmation)|🆕 Aug 24, 2026|
-|**Meta**|[Build an In-Memory Cloud Storage System](https://www.fastprep.io/project-coding/meta-in-memory-cloud-storage)|[![Practice][p]](https://www.fastprep.io/project-coding/meta-in-memory-cloud-storage)|🆕 Aug 19, 2026|
+|**Meta**|[Build an In-Memory Cloud Storage System](https://www.fastprep.io/project-coding/meta-in-memory-cloud-storage)|[![Practice][p]](https://www.fastprep.io/project-coding/meta-in-memory-cloud-storage)|Aug 19, 2026|
 |**Anthropic**|[Inference Engine (Fellow Program :D](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler)|Aug 12, 2026|
 |**Anthropic**|[Debug Extremely Randomized Trees (Fellow Program :)](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees)|Aug 12, 2026|
 |**Anthropic**|[Repair an Agent and Reduce Its Turn Count](https://www.fastprep.io/project-coding/anthropic-agent-turn-reduction)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-agent-turn-reduction)|Aug 06, 2026|
@@ -60,6 +60,7 @@
 |**Tesla**|[Coordinate Parallel Runs Across Two Exclusive Targets](https://www.fastprep.io/project-coding/tesla-dual-target-parallel-runner)|[![Practice][p]](https://www.fastprep.io/project-coding/tesla-dual-target-parallel-runner)|Jan 14, 2026|
 |**Motive**|[Integrate Geocoding and Route Services](https://www.fastprep.io/project-coding/motive-geocoding-route-integration)|[![Practice][p]](https://www.fastprep.io/project-coding/motive-geocoding-route-integration)|Dec 23, 2025|
 |**Motive**|[Build a Vehicle Catalog Analysis API](https://www.fastprep.io/project-coding/vehicle-catalog-analysis)|[![Practice][p]](https://www.fastprep.io/project-coding/vehicle-catalog-analysis)|Dec 19, 2025|
+|**Scale AI**|[Implement a Worker Load Balancer](https://www.fastprep.io/project-coding/scale-ai-worker-load-balancer-practical)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-worker-load-balancer-practical)|Dec 07, 2025|
 |**Rippling**|[Build an In-Memory Community Q&A API](https://www.fastprep.io/project-coding/community-question-answer-api)|[![Practice][p]](https://www.fastprep.io/project-coding/community-question-answer-api)|Nov 20, 2025|
 |**Stripe**|[Repair Redirected Request Body Replay](https://www.fastprep.io/project-coding/stripe-redirect-stream-replay)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-redirect-stream-replay)|Nov 12, 2025|
 |**Stripe**|[Complete a Two-Label Tabular Model Pipeline](https://www.fastprep.io/project-coding/stripe-tabular-two-label-model-pipeline)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-tabular-two-label-model-pipeline)|Nov 11, 2025|

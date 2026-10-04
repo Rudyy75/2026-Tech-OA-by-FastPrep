@@ -2,13 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**127 questions**
+**128 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
 |**Amazon / Groww**|[Design and Implement a Shopping Cart Price Calculator](https://www.fastprep.io/low-level-design/shopping-cart-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/shopping-cart-domain)|🔥 Oct 02, 2026|
+|**OpenAI**|[Design and Implement an Extensible Three-Card Hand Evaluator](https://www.fastprep.io/low-level-design/extensible-three-card-hand-evaluator)|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-three-card-hand-evaluator)|🔥 Oct 02, 2026|
 |**Google**|[Design and Implement a Concurrent Priority Task Scheduler](https://www.fastprep.io/low-level-design/concurrent-priority-timeout-task-scheduler)|[![Practice][p]](https://www.fastprep.io/low-level-design/concurrent-priority-timeout-task-scheduler)|🔥 Sep 30, 2026|
 |**Nykaa**|[Design a Shared Expense Splitting Service](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|🔥 Sep 29, 2026|
 |**The D.E. Shaw Group / Uber**|[Design and Implement a Parking Lot](https://www.fastprep.io/low-level-design/uber-parking-lot-design-and-code)|[![Practice][p]](https://www.fastprep.io/low-level-design/uber-parking-lot-design-and-code)|🔥 Sep 29, 2026|
@@ -33,7 +34,7 @@
 |**PayPay**|[Design a Pluggable Random Value Library](https://www.fastprep.io/low-level-design/pluggable-random-value-library)|[![Practice][p]](https://www.fastprep.io/low-level-design/pluggable-random-value-library)|🔥 Sep 22, 2026|
 |**Tekion**|[Design and Implement a TTL Cache Library](https://www.fastprep.io/low-level-design/in-memory-ttl-cache-library)|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-ttl-cache-library)|🔥 Sep 21, 2026|
 |**Google**|[Design a Document Find Session](https://www.fastprep.io/low-level-design/document-find-session)|[![Practice][p]](https://www.fastprep.io/low-level-design/document-find-session)|🔥 Sep 21, 2026|
-|**GoodScore**|[Design and Implement a Thread-Safe In-Memory Task Queue](https://www.fastprep.io/low-level-design/thread-safe-in-memory-task-queue)|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-in-memory-task-queue)|🔥 Sep 19, 2026|
+|**GoodScore**|[Design and Implement a Thread-Safe In-Memory Task Queue](https://www.fastprep.io/low-level-design/thread-safe-in-memory-task-queue)|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-in-memory-task-queue)|🆕 Sep 19, 2026|
 |**Amazon**|[Design File-System Search with Symlink Safety](https://www.fastprep.io/low-level-design/filesystem-search-with-symlink-safety)|[![Practice][p]](https://www.fastprep.io/low-level-design/filesystem-search-with-symlink-safety)|🆕 Sep 18, 2026|
 |**JioStar**|[Design and Implement a Parameterized Configuration Library](https://www.fastprep.io/low-level-design/parameterized-configuration-library)|[![Practice][p]](https://www.fastprep.io/low-level-design/parameterized-configuration-library)|🆕 Sep 18, 2026|
 |**Kotak Mahindra Bank**|[Design a Food Delivery Order Domain](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|🆕 Sep 17, 2026|
@@ -74,7 +75,7 @@
 |**Walmart**|[Design a Job Marketplace Domain](https://www.fastprep.io/low-level-design/job-marketplace-person-job-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/job-marketplace-person-job-domain)|🆕 Aug 23, 2026|
 |**Tekion**|[Design a Workflow Orchestrator Domain](https://www.fastprep.io/low-level-design/workflow-orchestration-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/workflow-orchestration-domain)|🆕 Aug 23, 2026|
 |**Amazon**|[Design and Implement Movie Theater Ticket Pricing](https://www.fastprep.io/low-level-design/movie-theater-ticket-pricing)|[![Practice][p]](https://www.fastprep.io/low-level-design/movie-theater-ticket-pricing)|🆕 Aug 20, 2026|
-|**Micro1**|[Design an In-Memory Read-Through Cache](https://www.fastprep.io/low-level-design/in-memory-read-through-cache)|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-read-through-cache)|🆕 Aug 19, 2026|
+|**Micro1**|[Design an In-Memory Read-Through Cache](https://www.fastprep.io/low-level-design/in-memory-read-through-cache)|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-read-through-cache)|Aug 19, 2026|
 |**Microsoft**|[Desktop Notification Center](https://www.fastprep.io/low-level-design/desktop-notification-center)|[![Practice][p]](https://www.fastprep.io/low-level-design/desktop-notification-center)|Aug 15, 2026|
 |**Shopify**|[Design an Extensible Text Editor](https://www.fastprep.io/low-level-design/extensible-text-editor)|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-text-editor)|Aug 12, 2026|
 |**Amazon**|[Design a Multi-Stage Audio Buffer Pipeline](https://www.fastprep.io/low-level-design/multi-stage-audio-buffer-pipeline)|[![Practice][p]](https://www.fastprep.io/low-level-design/multi-stage-audio-buffer-pipeline)|Aug 12, 2026|
