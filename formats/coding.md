@@ -545,13 +545,13 @@
 |**Quince**|[Minimum Sprinklers to Cover an Interval](https://www.fastprep.io/problems/quince-minimum-sprinklers-to-cover-an-interval)|[![Practice][p]](https://www.fastprep.io/problems/quince-minimum-sprinklers-to-cover-an-interval)|🆕 Aug 21, 2026|
 |**Quince**|[Check a Repeated String as a Subsequence](https://www.fastprep.io/problems/quince-check-a-repeated-string-as-a-subsequence)|[![Practice][p]](https://www.fastprep.io/problems/quince-check-a-repeated-string-as-a-subsequence)|🆕 Aug 21, 2026|
 |**Temu**|[Merge Two Sorted Collections Without Duplicates](https://www.fastprep.io/problems/temu-merge-two-sorted-collections-without-duplicates)|[![Practice][p]](https://www.fastprep.io/problems/temu-merge-two-sorted-collections-without-duplicates)|🆕 Aug 21, 2026|
-|**IBM**|[Drawing Edge](https://www.fastprep.io/problems/ibm-drawing-edge)|[![Practice][p]](https://www.fastprep.io/problems/ibm-drawing-edge)|🆕 Aug 20, 2026|
-|**IBM**|[Increasing-Value Triplets Under a Threshold](https://www.fastprep.io/problems/ibm-increasing-value-triplets-under-threshold)|[![Practice][p]](https://www.fastprep.io/problems/ibm-increasing-value-triplets-under-threshold)|🆕 Aug 20, 2026|
-|**Meta**|[Maximum Unique-Character Word Subset](https://www.fastprep.io/problems/meta-maximum-unique-character-word-subset)|[![Practice][p]](https://www.fastprep.io/problems/meta-maximum-unique-character-word-subset)|🆕 Aug 20, 2026|
-|**Meta**|[Validate a Palindrome After Limited Deletions](https://www.fastprep.io/problems/meta-palindrome-k-deletions)|[![Practice][p]](https://www.fastprep.io/problems/meta-palindrome-k-deletions)|🆕 Aug 20, 2026|
-|**Meta**|[Minimum-Sum Root-to-Leaf Path](https://www.fastprep.io/problems/meta-minimum-sum-root-to-leaf-path)|[![Practice][p]](https://www.fastprep.io/problems/meta-minimum-sum-root-to-leaf-path)|🆕 Aug 20, 2026|
-|**Nuro**|[Schedule Buffered Video Playback](https://www.fastprep.io/problems/nuro-schedule-buffered-video-playback)|[![Practice][p]](https://www.fastprep.io/problems/nuro-schedule-buffered-video-playback)|🆕 Aug 20, 2026|
-|**Nuro**|[Reveal a Minesweeper Region](https://www.fastprep.io/problems/nuro-reveal-minesweeper-region)|[![Practice][p]](https://www.fastprep.io/problems/nuro-reveal-minesweeper-region)|🆕 Aug 20, 2026|
+|**IBM**|[Drawing Edge](https://www.fastprep.io/problems/ibm-drawing-edge)|[![Practice][p]](https://www.fastprep.io/problems/ibm-drawing-edge)|Aug 20, 2026|
+|**IBM**|[Increasing-Value Triplets Under a Threshold](https://www.fastprep.io/problems/ibm-increasing-value-triplets-under-threshold)|[![Practice][p]](https://www.fastprep.io/problems/ibm-increasing-value-triplets-under-threshold)|Aug 20, 2026|
+|**Meta**|[Maximum Unique-Character Word Subset](https://www.fastprep.io/problems/meta-maximum-unique-character-word-subset)|[![Practice][p]](https://www.fastprep.io/problems/meta-maximum-unique-character-word-subset)|Aug 20, 2026|
+|**Meta**|[Validate a Palindrome After Limited Deletions](https://www.fastprep.io/problems/meta-palindrome-k-deletions)|[![Practice][p]](https://www.fastprep.io/problems/meta-palindrome-k-deletions)|Aug 20, 2026|
+|**Meta**|[Minimum-Sum Root-to-Leaf Path](https://www.fastprep.io/problems/meta-minimum-sum-root-to-leaf-path)|[![Practice][p]](https://www.fastprep.io/problems/meta-minimum-sum-root-to-leaf-path)|Aug 20, 2026|
+|**Nuro**|[Schedule Buffered Video Playback](https://www.fastprep.io/problems/nuro-schedule-buffered-video-playback)|[![Practice][p]](https://www.fastprep.io/problems/nuro-schedule-buffered-video-playback)|Aug 20, 2026|
+|**Nuro**|[Reveal a Minesweeper Region](https://www.fastprep.io/problems/nuro-reveal-minesweeper-region)|[![Practice][p]](https://www.fastprep.io/problems/nuro-reveal-minesweeper-region)|Aug 20, 2026|
 |**IBM**|[Count Invalid Log Groups](https://www.fastprep.io/problems/ibm-count-invalid-log-groups)|[![Practice][p]](https://www.fastprep.io/problems/ibm-count-invalid-log-groups)|Aug 18, 2026|
 |**IBM**|[Count Paginated Medical Records in a Range](https://www.fastprep.io/problems/ibm-count-paginated-medical-records-in-range)|[![Practice][p]](https://www.fastprep.io/problems/ibm-count-paginated-medical-records-in-range)|Aug 18, 2026|
 |**Rippling**|[Delivery Cost Tracker](https://www.fastprep.io/problems/rippling-delivery-cost-tracker)|[![Practice][p]](https://www.fastprep.io/problems/rippling-delivery-cost-tracker)|Aug 14, 2026|
@@ -1902,4 +1902,5 @@
 |**DoorDash**|[Adjust Prices](https://www.fastprep.io/problems/doordash-adjust-prices)|[![Practice][p]](https://www.fastprep.io/problems/doordash-adjust-prices)|Mar 18, 2024|
 |**Two Sigma**|[Num to Be Divided by N](https://www.fastprep.io/problems/ts-nums-that-can-be-divided-by-n)|[![Practice][p]](https://www.fastprep.io/problems/ts-nums-that-can-be-divided-by-n)|Mar 18, 2024|
 |**Two Sigma**|[Replacing Val](https://www.fastprep.io/problems/ts-replacing-num)|[![Practice][p]](https://www.fastprep.io/problems/ts-replacing-num)|Mar 18, 2024|
+|**Microsoft**|[Prepare Notification](https://www.fastprep.io/problems/microsoft-prepare-notification)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-prepare-notification)|Mar 18, 2024|
 <a id="bottom"></a>
