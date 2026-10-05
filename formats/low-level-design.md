@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**138 questions**
+**139 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Bloomberg LP**|[Design a Deck, Hand, and Dealer](https://www.fastprep.io/low-level-design/card-game-deck-hand-dealer)|[![Practice][p]](https://www.fastprep.io/low-level-design/card-game-deck-hand-dealer)|🔥 Oct 05, 2026|
 |**Amazon**|[Design a TTL-Aware LRU Cache](https://www.fastprep.io/low-level-design/ttl-aware-lru-cache-library)|[![Practice][p]](https://www.fastprep.io/low-level-design/ttl-aware-lru-cache-library)|🔥 Oct 03, 2026|
 |**Amazon / Groww**|[Design and Implement a Shopping Cart Price Calculator](https://www.fastprep.io/low-level-design/shopping-cart-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/shopping-cart-domain)|🔥 Oct 02, 2026|
 |**OpenAI**|[Design and Implement an Extensible Three-Card Hand Evaluator](https://www.fastprep.io/low-level-design/extensible-three-card-hand-evaluator)|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-three-card-hand-evaluator)|🔥 Oct 02, 2026|
@@ -135,9 +136,9 @@
 |**Modular**|[Design a Configurable Robot Arm](https://www.fastprep.io/low-level-design/configurable-robot-arm)|[![Practice][p]](https://www.fastprep.io/low-level-design/configurable-robot-arm)|Nov 03, 2023|
 |**Motive**|[Design a Restaurant Catalog Management Service](https://www.fastprep.io/low-level-design/restaurant-catalog-management)|[![Practice][p]](https://www.fastprep.io/low-level-design/restaurant-catalog-management)|Jun 07, 2023|
 |**ZipRecruiter**|[Design and Implement a Playlist Management Domain](https://www.fastprep.io/low-level-design/playlist-management-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/playlist-management-domain)|May 14, 2023|
-|**Bloomberg LP**|[Design a Deck, Hand, and Dealer](https://www.fastprep.io/low-level-design/card-game-deck-hand-dealer)|[![Practice][p]](https://www.fastprep.io/low-level-design/card-game-deck-hand-dealer)|Nov 02, 2022|
 |**Grubhub**|[Air Traffic Control System](https://www.fastprep.io/low-level-design/air-traffic-control-system)|[![Practice][p]](https://www.fastprep.io/low-level-design/air-traffic-control-system)|Mar 26, 2022|
 |**Bloomberg LP**|[Design a Ticketed Parking Lot with Defragmentation](https://www.fastprep.io/low-level-design/ticketed-parking-lot-defragmentation)|[![Practice][p]](https://www.fastprep.io/low-level-design/ticketed-parking-lot-defragmentation)|Feb 28, 2022|
+|**Checkr**|[Design Enterprise Background-Check Rule Storage](https://www.fastprep.io/low-level-design/enterprise-background-check-rule-storage)|[![Practice][p]](https://www.fastprep.io/low-level-design/enterprise-background-check-rule-storage)|Dec 14, 2021|
 |**Figma**|[Template and Instance Override Model](https://www.fastprep.io/low-level-design/template-instance-override-model)|[![Practice][p]](https://www.fastprep.io/low-level-design/template-instance-override-model)|Oct 26, 2021|
 |**Checkr**|[Design a Motor-Vehicle Record Rule Engine](https://www.fastprep.io/low-level-design/motor-vehicle-record-rule-engine)|[![Practice][p]](https://www.fastprep.io/low-level-design/motor-vehicle-record-rule-engine)|May 13, 2021|
 |**Bloomberg LP**|[Design Stock Watchlists with Custom Constraints](https://www.fastprep.io/low-level-design/extensible-stock-watchlist-constraints)|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-stock-watchlist-constraints)|Jan 30, 2021|
