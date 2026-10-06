@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**139 questions**
+**140 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -113,6 +113,7 @@
 |**Navan**|[Design Booking Comments and Administrative Updates](https://www.fastprep.io/low-level-design/booking-comment-administration)|[![Practice][p]](https://www.fastprep.io/low-level-design/booking-comment-administration)|Dec 22, 2025|
 |**Benchling**|[Design a Versioned Laboratory Notebook](https://www.fastprep.io/low-level-design/versioned-laboratory-notebook)|[![Practice][p]](https://www.fastprep.io/low-level-design/versioned-laboratory-notebook)|Dec 21, 2025|
 |**Workday**|[Design a Payments and Cards Domain](https://www.fastprep.io/low-level-design/payments-and-cards-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/payments-and-cards-domain)|Dec 18, 2025|
+|**IMC Trading**|[Design an In-Memory Hotel Reservation System](https://www.fastprep.io/low-level-design/in-memory-hotel-reservation)|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-hotel-reservation)|Dec 18, 2025|
 |**Benchling**|[Design an Intersection Traffic-Light Controller](https://www.fastprep.io/low-level-design/intersection-traffic-light-controller)|[![Practice][p]](https://www.fastprep.io/low-level-design/intersection-traffic-light-controller)|Dec 06, 2025|
 |**BitGo**|[Design and Implement an In-Memory Relational Database Engine](https://www.fastprep.io/low-level-design/in-memory-relational-database-engine)|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-relational-database-engine)|Nov 23, 2025|
 |**Bloomberg LP**|[Design and Implement a Fair Event Registration Queue](https://www.fastprep.io/low-level-design/fair-event-registration-queue)|[![Practice][p]](https://www.fastprep.io/low-level-design/fair-event-registration-queue)|Nov 21, 2025|
