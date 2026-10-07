@@ -511,8 +511,8 @@
 |**Citadel**|[Minimum Changes for Palindromic Blocks](https://www.fastprep.io/problems/citadel-minimum-changes-palindromic-blocks)|[![Practice][p]](https://www.fastprep.io/problems/citadel-minimum-changes-palindromic-blocks)|🆕 Aug 23, 2026|
 |**Google**|[Assign Locker](https://www.fastprep.io/problems/google-assign-locker)|[![Practice][p]](https://www.fastprep.io/problems/google-assign-locker)|🆕 Aug 23, 2026|
 |**Microsoft**|[Minimum Fuel Cost Between Cities](https://www.fastprep.io/problems/microsoft-minimum-fuel-cost)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-fuel-cost)|🆕 Aug 23, 2026|
-|**Barclays**|[Allocate Workers for a Production Ratio](https://www.fastprep.io/problems/barclays-production-ratio-worker-allocation)|[![Practice][p]](https://www.fastprep.io/problems/barclays-production-ratio-worker-allocation)|🆕 Aug 22, 2026|
-|**Anthropic**|[Cloud Storage System](https://www.fastprep.io/problems/anthropic-cloud-storage-system)|[![Practice][p]](https://www.fastprep.io/problems/anthropic-cloud-storage-system)|🆕 Aug 22, 2026|
+|**Barclays**|[Allocate Workers for a Production Ratio](https://www.fastprep.io/problems/barclays-production-ratio-worker-allocation)|[![Practice][p]](https://www.fastprep.io/problems/barclays-production-ratio-worker-allocation)|Aug 22, 2026|
+|**Anthropic**|[Cloud Storage System](https://www.fastprep.io/problems/anthropic-cloud-storage-system)|[![Practice][p]](https://www.fastprep.io/problems/anthropic-cloud-storage-system)|Aug 22, 2026|
 |**Google**|[Directed Graph Reachability Queries](https://www.fastprep.io/problems/google-directed-graph-reachability-queries)|[![Practice][p]](https://www.fastprep.io/problems/google-directed-graph-reachability-queries)|Aug 21, 2026|
 |**Pinterest**|[Phone Spam Report Counter](https://www.fastprep.io/problems/pinterest-phone-spam-report-counter)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-phone-spam-report-counter)|Aug 21, 2026|
 |**Pinterest**|[Minimize the Longest Hike Between Rest Stops](https://www.fastprep.io/problems/pinterest-minimize-longest-hike-between-rest-stops)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-minimize-longest-hike-between-rest-stops)|Aug 21, 2026|
@@ -1903,4 +1903,5 @@
 |**Two Sigma**|[Num to Be Divided by N](https://www.fastprep.io/problems/ts-nums-that-can-be-divided-by-n)|[![Practice][p]](https://www.fastprep.io/problems/ts-nums-that-can-be-divided-by-n)|Mar 18, 2024|
 |**Two Sigma**|[Replacing Val](https://www.fastprep.io/problems/ts-replacing-num)|[![Practice][p]](https://www.fastprep.io/problems/ts-replacing-num)|Mar 18, 2024|
 |**Microsoft**|[Prepare Notification](https://www.fastprep.io/problems/microsoft-prepare-notification)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-prepare-notification)|Mar 18, 2024|
+|**Microsoft**|[Side Largest Square](https://www.fastprep.io/problems/microsoft-side-largest-square)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-side-largest-square)|Mar 18, 2024|
 <a id="bottom"></a>

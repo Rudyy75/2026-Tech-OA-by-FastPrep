@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Razorpay**|[Design and Implement an ATM Machine](https://www.fastprep.io/low-level-design/atm-machine-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/atm-machine-domain)|Feb 02, 2026|
 |**Google**|[Minimum Number of Chairs](https://www.fastprep.io/problems/google-meeting-rooms-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-meeting-rooms-ii)|Feb 02, 2026|
 |**Google**|[Minimum Dictionary Segments](https://www.fastprep.io/problems/google-minimum-dictionary-segments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-dictionary-segments)|Feb 02, 2026|
 |**Google**|[Minimum Servers for Cyclic Daily Tasks](https://www.fastprep.io/problems/google-minimum-servers-for-cyclic-daily-tasks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-servers-for-cyclic-daily-tasks)|Feb 01, 2026|
@@ -19,7 +20,6 @@
 |**Amazon**|[Package Delivery System](https://www.fastprep.io/problems/amazon-package-delivery-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-package-delivery-system)|Jan 24, 2026|
 |**Amazon**|[VM Rental Revenue](https://www.fastprep.io/problems/amazon-vm-rental-revenue)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-vm-rental-revenue)|Jan 24, 2026|
 |**Amazon**|[Lexicographically Maximum Final Sequence](https://www.fastprep.io/problems/amazon-lexicographically-maximum-final-sequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-lexicographically-maximum-final-sequence)|Jan 24, 2026|
-|**Stripe**|[Complete a Bikemap Route and JSON Integration](https://www.fastprep.io/project-coding/stripe-bikemap-json-integration)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-bikemap-json-integration)|Jan 20, 2026|
 |**Navan**|[Design a Flight Offer Aggregator](https://www.fastprep.io/low-level-design/flight-offer-aggregation-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/flight-offer-aggregation-domain)|Jan 20, 2026|
 |**JP Morgan**|[Count Dropped Requests](https://www.fastprep.io/problems/jpmorgan-count-dropped-requests)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-count-dropped-requests)|Jan 19, 2026|
 |**JP Morgan**|[Generate Table of Contents](https://www.fastprep.io/problems/jpmorgan-generate-table-of-contents)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-generate-table-of-contents)|Jan 19, 2026|
@@ -259,6 +259,8 @@
 |**HSBC**|[Max House Area](https://www.fastprep.io/problems/hsbc-find-largest-house-area)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-find-largest-house-area)|Mar 28, 2025|
 |**Yahoo**|[Count Substring](https://www.fastprep.io/problems/yahoo-get-substring-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/yahoo-get-substring-count)|Mar 28, 2025|
 |**Yahoo**|[Get String](https://www.fastprep.io/problems/yahoo-get-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/yahoo-get-string)|Mar 28, 2025|
+|**Mastercard**|[Design a Grounded Bank Portal Information Assistant](https://www.fastprep.io/system-design/bank-portal-information-extraction)|System design|[![Practice][p]](https://www.fastprep.io/system-design/bank-portal-information-extraction)|Mar 28, 2025|
+|**Mastercard**|[Design an Account Health Scoring Platform](https://www.fastprep.io/system-design/account-health-scoring-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/account-health-scoring-platform)|Mar 28, 2025|
 |**Amazon**|[Max Sum of Non-overlapping Intervals](https://www.fastprep.io/problems/amazon-max-sum-of-non-overlapping-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-max-sum-of-non-overlapping-intervals)|Mar 27, 2025|
 |**Amazon**|[Find Min Max Difference](https://www.fastprep.io/problems/amazon-find-min-max-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-min-max-difference)|Mar 27, 2025|
 |**Amazon**|[Get Minimal Cost](https://www.fastprep.io/problems/amazon-get-minimal-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-minimal-cost)|Mar 26, 2025|
@@ -367,6 +369,7 @@
 |**TikTok**|[Interesting Watch Sequence](https://www.fastprep.io/problems/tiktok-interesting-watch-sequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-interesting-watch-sequence)|Dec 03, 2024|
 |**IBM**|[Get Final String](https://www.fastprep.io/problems/ibm-get-final-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-final-string)|Dec 03, 2024|
 |**Postman**|[Design a Multi-Provider Weather Forecast Service](https://www.fastprep.io/system-design/multi-provider-weather-forecast-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-provider-weather-forecast-service)|Nov 29, 2024|
+|**Mercury / Mastercard**|[Real-Time Payment Fraud Detection](https://www.fastprep.io/system-design/real-time-payment-fraud-detection)|System design|[![Practice][p]](https://www.fastprep.io/system-design/real-time-payment-fraud-detection)|Nov 29, 2024|
 |**Amazon**|[Sum of All Days Numbers on Which the Data of the Xth Will Be Dependent](https://www.fastprep.io/problems/amazon-sum-of-all-days-numbers-on-which-the-data-of-the-xth-will-be-dependent)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-sum-of-all-days-numbers-on-which-the-data-of-the-xth-will-be-dependent)|Nov 27, 2024|
 |**Amazon**|[Optimize Identifiers](https://www.fastprep.io/problems/amazon-optimize-identifiers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-optimize-identifiers)|Nov 25, 2024|
 |**Stripe**|[Card Range Obfuscation Part 4](https://www.fastprep.io/problems/stripe-card-range-obfuscation-part4)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-card-range-obfuscation-part4)|Nov 25, 2024|
@@ -425,6 +428,7 @@
 |**Amazon**|[Maximize Similarity](https://www.fastprep.io/problems/amazon-maximize-similarity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-similarity)|Oct 28, 2024|
 |**Amazon**|[Find Networking Calls](https://www.fastprep.io/problems/amazon-find-network-calls)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-network-calls)|Oct 28, 2024|
 |**Google**|[Conveyor Triplet Packaging](https://www.fastprep.io/problems/google-conveyor-triplet-packaging)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-conveyor-triplet-packaging)|Oct 27, 2024|
+|**Stripe**|[Complete a Balance-Summary Reconciliation Integration](https://www.fastprep.io/project-coding/stripe-balance-reconciliation-integration)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-balance-reconciliation-integration)|Oct 24, 2024|
 |**Google**|[Minimum-Cost Meeting City](https://www.fastprep.io/problems/google-minimum-cost-meeting-city)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-cost-meeting-city)|Oct 23, 2024|
 |**Amazon**|[Get Smaller Items](https://www.fastprep.io/problems/amazon-get-smaller-items)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-smaller-items)|Oct 22, 2024|
 |**Amazon**|[About Mortgage](https://www.fastprep.io/problems/amazon-maximum-number-of-days-to-survive)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-number-of-days-to-survive)|Oct 22, 2024|
@@ -830,7 +834,6 @@
 |**Microsoft**|[Assign Value](https://www.fastprep.io/problems/microsoft-assign-values)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-assign-values)|May 04, 2024|
 |**Microsoft**|[Construct Max Balanced Circle](https://www.fastprep.io/problems/microsoft-construct-maximum-balanced-circle)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-construct-maximum-balanced-circle)|May 04, 2024|
 |**Microsoft**|[Find Suitable Locations](https://www.fastprep.io/problems/findSuitableLocations-microsoft)|Coding|[![Practice][p]](https://www.fastprep.io/problems/findSuitableLocations-microsoft)|May 04, 2024|
-|**Mercury**|[Real-Time Payment Fraud Detection](https://www.fastprep.io/system-design/real-time-payment-fraud-detection)|System design|[![Practice][p]](https://www.fastprep.io/system-design/real-time-payment-fraud-detection)|May 03, 2024|
 |**IBM**|[Get Optimal String Length](https://www.fastprep.io/problems/ibm-get-optimal-string-length)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-optimal-string-length)|Apr 27, 2024|
 |**DE Shaw**|[Maximum Size Subarray Sum](https://www.fastprep.io/problems/deshaw-maximum-size-subarray-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/deshaw-maximum-size-subarray-sum)|Apr 27, 2024|
 |**Nutanix**|[Minimum Operations to Convert Array](https://www.fastprep.io/problems/nutanix-minimum-operations-to-convert-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nutanix-minimum-operations-to-convert-array)|Apr 27, 2024|
@@ -1061,6 +1064,7 @@
 |**IBM**|[Validate Requests](https://www.fastprep.io/problems/ibm-request-parser)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-request-parser)|Feb 14, 2024|
 |**Oracle**|[Get Discounted Price](https://www.fastprep.io/problems/oracle-get-discounted-price)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-get-discounted-price)|Feb 14, 2024|
 |**Oracle**|[Cardinality Sort](https://www.fastprep.io/problems/oracle-cardinality-sort)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-cardinality-sort)|Feb 14, 2024|
+|**SpaceX**|[Design High-Demand Commerce and Fulfillment](https://www.fastprep.io/system-design/high-demand-commerce-fulfillment)|System design|[![Practice][p]](https://www.fastprep.io/system-design/high-demand-commerce-fulfillment)|Feb 13, 2024|
 |**IBM**|[Find Missing Integers](https://www.fastprep.io/problems/ibm-find-missing-integer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-find-missing-integer)|Feb 08, 2024|
 |**IBM**|[Merge Arrays](https://www.fastprep.io/problems/ibm-merge-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-merge-arrays)|Feb 08, 2024|
 |**Amazon**|[Find Largest Set of Onion Bags](https://www.fastprep.io/problems/amazon-find-largest-set-of-onion-bags)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-largest-set-of-onion-bags)|Feb 06, 2024|
@@ -1206,6 +1210,7 @@
 |**Arcesium**|[Capital Gains Tax from Trades](https://www.fastprep.io/problems/arcesium-capital-gains-tax-from-trades)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-capital-gains-tax-from-trades)|Feb 23, 2021|
 |**Bloomberg LP**|[Design Daily Database Query and Email Delivery](https://www.fastprep.io/system-design/daily-database-query-email-delivery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/daily-database-query-email-delivery)|Feb 18, 2021|
 |**Bloomberg LP**|[Design Stock Watchlists with Custom Constraints](https://www.fastprep.io/low-level-design/extensible-stock-watchlist-constraints)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-stock-watchlist-constraints)|Jan 30, 2021|
+|**SpaceX**|[Design a Managed User-Script Execution Platform](https://www.fastprep.io/system-design/managed-user-script-execution-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/managed-user-script-execution-platform)|Jan 12, 2021|
 |**Scale AI**|[Complete a Small CNN Oriented-Box Regression Pipeline](https://www.fastprep.io/project-coding/scale-ai-small-cnn-oriented-box-regression)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-small-cnn-oriented-box-regression)|Jan 08, 2021|
 |**Figma**|[Design Search Result Highlighting](https://www.fastprep.io/system-design/search-result-highlighting)|System design|[![Practice][p]](https://www.fastprep.io/system-design/search-result-highlighting)|Jan 01, 2021|
 |**Figma**|[Design Workspace File Organization](https://www.fastprep.io/system-design/workspace-file-organization)|System design|[![Practice][p]](https://www.fastprep.io/system-design/workspace-file-organization)|Jan 01, 2021|

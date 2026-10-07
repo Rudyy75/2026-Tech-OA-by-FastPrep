@@ -8,7 +8,6 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
-|**Microsoft**|[Side Largest Square](https://www.fastprep.io/problems/microsoft-side-largest-square)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-side-largest-square)|Mar 18, 2024|
 |**Microsoft**|[Str with Longgest Len](https://www.fastprep.io/problems/microsoft-str-with-longest-len)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-str-with-longest-len)|Mar 18, 2024|
 |**Geneva Trading**|[Min Num of Permutation Operations](https://www.fastprep.io/problems/geneva-trading-minimum-number-of-permutation-operations)|[![Practice][p]](https://www.fastprep.io/problems/geneva-trading-minimum-number-of-permutation-operations)|Mar 18, 2024|
 |**ServiceNow**|[Max Sum of Balanced Sequence](https://www.fastprep.io/problems/service-now-maximum-sum-of-balanced-subsequence)|[![Practice][p]](https://www.fastprep.io/problems/service-now-maximum-sum-of-balanced-subsequence)|Mar 18, 2024|
