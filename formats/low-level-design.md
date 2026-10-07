@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**141 questions**
+**142 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -98,6 +98,7 @@
 |**Meta**|[Design and Implement an In-Memory Tally Service](https://www.fastprep.io/low-level-design/meta-tally-service)|[![Practice][p]](https://www.fastprep.io/low-level-design/meta-tally-service)|Jul 20, 2026|
 |**Cursor**|[Design and Implement a Pluggable Notification Rate Limiter](https://www.fastprep.io/low-level-design/pluggable-notification-rate-limiter)|[![Practice][p]](https://www.fastprep.io/low-level-design/pluggable-notification-rate-limiter)|Jul 18, 2026|
 |**Globalization Partners**|[Design an Extensible Role-Based Access Control System](https://www.fastprep.io/low-level-design/extensible-role-based-access-control)|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-role-based-access-control)|Jun 23, 2026|
+|**Google**|[Design Student Room Preference Allocation](https://www.fastprep.io/low-level-design/student-room-preference-allocation)|[![Practice][p]](https://www.fastprep.io/low-level-design/student-room-preference-allocation)|Jun 23, 2026|
 |**Amazon**|[Design an Advertising Campaign Metrics Tracker](https://www.fastprep.io/low-level-design/advertising-campaign-metrics-tracker)|[![Practice][p]](https://www.fastprep.io/low-level-design/advertising-campaign-metrics-tracker)|Jun 12, 2026|
 |**Onehouse**|[Design a Thread-Safe In-Memory Workflow Orchestrator](https://www.fastprep.io/low-level-design/thread-safe-in-memory-workflow-orchestrator)|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-in-memory-workflow-orchestrator)|Jun 10, 2026|
 |**Anduril**|[Design and Implement a Doubly Linked List](https://www.fastprep.io/low-level-design/doubly-linked-list-object-design)|[![Practice][p]](https://www.fastprep.io/low-level-design/doubly-linked-list-object-design)|May 12, 2026|

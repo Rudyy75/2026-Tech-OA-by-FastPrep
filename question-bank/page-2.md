@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Google**|[Closest-Timestamp Key-Value Queries](https://www.fastprep.io/problems/google-closest-timestamp-key-value-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-closest-timestamp-key-value-queries)|Feb 06, 2026|
+|**Google**|[Top K Frequent Closest Points](https://www.fastprep.io/problems/google-top-k-frequent-closest-points)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-top-k-frequent-closest-points)|Feb 06, 2026|
 |**Amazon**|[Lexicographically Smallest After One Substring Rotation](https://www.fastprep.io/problems/amazon-lexicographically-smallest-after-one-substring-rotation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-lexicographically-smallest-after-one-substring-rotation)|Feb 05, 2026|
 |**Google**|[Validate a Tree From Its Parent Array](https://www.fastprep.io/problems/google-valid-tree-from-parent-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-valid-tree-from-parent-array)|Feb 04, 2026|
 |**Uber**|[Binary Tree: Subtree Sum, Maximum Path Sum, and Path Nodes](https://www.fastprep.io/problems/uber-binary-tree-subtree-sum-maximum-path-and-path-nodes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-binary-tree-subtree-sum-maximum-path-and-path-nodes)|Feb 04, 2026|
@@ -251,6 +253,7 @@
 |**Microsoft**|[Min Cars to Remove](https://www.fastprep.io/problems/microsoft-minimum-cars-to-remove)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-cars-to-remove)|Apr 10, 2025|
 |**Modular**|[Design a Machine Learning Feature Store](https://www.fastprep.io/system-design/machine-learning-feature-store)|System design|[![Practice][p]](https://www.fastprep.io/system-design/machine-learning-feature-store)|Apr 10, 2025|
 |**Roku**|[Design a Recurring Grocery Subscription Domain](https://www.fastprep.io/low-level-design/recurring-grocery-subscription-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/recurring-grocery-subscription-domain)|Apr 08, 2025|
+|**SpaceX**|[Design a Browser-to-Backend Request Lifecycle](https://www.fastprep.io/system-design/browser-to-backend-request-lifecycle)|System design|[![Practice][p]](https://www.fastprep.io/system-design/browser-to-backend-request-lifecycle)|Apr 06, 2025|
 |**Amazon**|[Optimal Utilization](https://www.fastprep.io/problems/amazon-optimal-utilization)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-optimal-utilization)|Apr 05, 2025|
 |**Amazon**|[Buy Servers](https://www.fastprep.io/problems/amazon-purchase-servers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-purchase-servers)|Apr 05, 2025|
 |**Amazon**|[Min Retailers](https://www.fastprep.io/problems/amazon-minimum-retailers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-retailers)|Mar 31, 2025|
@@ -1211,6 +1214,7 @@
 |**Carta**|[Design a Mobile and Server Shopping Cart](https://www.fastprep.io/system-design/mobile-and-server-shopping-cart-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/mobile-and-server-shopping-cart-platform)|Oct 11, 2021|
 |**IMC**|[Adding Stack 2.0](https://www.fastprep.io/problems/imc-adding-stack-2-0)|Coding|[![Practice][p]](https://www.fastprep.io/problems/imc-adding-stack-2-0)|Sep 24, 2021|
 |**IMC**|[Knight Minimum Moves with a Fixed Bishop](https://www.fastprep.io/problems/imc-knight-minimum-moves-fixed-bishop)|Coding|[![Practice][p]](https://www.fastprep.io/problems/imc-knight-minimum-moves-fixed-bishop)|Sep 24, 2021|
+|**SpaceX**|[Design a Fail-Safe Railroad Crossing Control System](https://www.fastprep.io/system-design/railroad-crossing-safety-control-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/railroad-crossing-safety-control-system)|Jun 23, 2021|
 |**Bloomberg LP**|[Design Video Download, Progress, and Recommendations](https://www.fastprep.io/system-design/offline-video-progress-recommendation-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/offline-video-progress-recommendation-platform)|Jun 08, 2021|
 |**NVIDIA**|[Design a GPU-Limited Three-Model Pipeline](https://www.fastprep.io/system-design/gpu-limited-three-model-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/gpu-limited-three-model-pipeline)|Jun 07, 2021|
 |**NVIDIA**|[Design an Embedded Thread Sleep and Wakeup Service](https://www.fastprep.io/system-design/embedded-thread-sleep-and-wakeup-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/embedded-thread-sleep-and-wakeup-service)|Jun 07, 2021|

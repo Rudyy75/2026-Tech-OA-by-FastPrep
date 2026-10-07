@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,130)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (535)](formats/system-design.md) · [Low-level design (141)](formats/low-level-design.md) · [AI coding (73)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,130)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (538)](formats/system-design.md) · [Low-level design (142)](formats/low-level-design.md) · [AI coding (73)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -1289,6 +1289,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Capital One**|[Sort Every Matrix Border Layer](https://www.fastprep.io/problems/capital-one-sort-matrix-border-layers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-sort-matrix-border-layers)|Jul 19, 2026|
 |**Waymo**|[Average or Zero](https://www.fastprep.io/problems/waymo-average-or-zero)|Coding|[![Practice][p]](https://www.fastprep.io/problems/waymo-average-or-zero)|Jul 19, 2026|
 |**Google**|[Maximum Programmer-Problem Matching](https://www.fastprep.io/problems/google-maximum-programmer-problem-matching)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-programmer-problem-matching)|Jul 19, 2026|
+|**Google**|[Design Distributed Streaming Skill Matching](https://www.fastprep.io/system-design/distributed-streaming-skill-matching-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-streaming-skill-matching-platform)|Jul 19, 2026|
 |**Visa**|[Minimum Score of a Path Between Cities](https://www.fastprep.io/problems/visa-minimum-score-path-between-cities)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-minimum-score-path-between-cities)|Jul 18, 2026|
 |**IDFC**|[Smallest Adjacent Concatenation](https://www.fastprep.io/problems/idfc-smallest-adjacent-concatenation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/idfc-smallest-adjacent-concatenation)|Jul 18, 2026|
 |**IDFC**|[Minimum Cake Cuts](https://www.fastprep.io/problems/idfc-minimum-cake-cuts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/idfc-minimum-cake-cuts)|Jul 18, 2026|
@@ -1503,6 +1504,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Microsoft**|[Programmer Strings](https://www.fastprep.io/problems/microsoft-programmer-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-programmer-strings)|Jun 24, 2026|
 |**Microsoft**|[Minimum Round Trip Lengths](https://www.fastprep.io/problems/microsoft-minimum-round-trip-lengths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-round-trip-lengths)|Jun 24, 2026|
 |**Globalization Partners**|[Design an Extensible Role-Based Access Control System](https://www.fastprep.io/low-level-design/extensible-role-based-access-control)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-role-based-access-control)|Jun 23, 2026|
+|**Google**|[Design Student Room Preference Allocation](https://www.fastprep.io/low-level-design/student-room-preference-allocation)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/student-room-preference-allocation)|Jun 23, 2026|
 |**Datadog**|[Design a Ticket-to-Pull-Request Coding Agent](https://www.fastprep.io/system-design/ticket-to-pull-request-coding-agent)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ticket-to-pull-request-coding-agent)|Jun 22, 2026|
 |**Datadog**|[Query Log Match](https://www.fastprep.io/problems/datadog-query-log-match)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-query-log-match)|Jun 22, 2026|
 |**HSBC**|[Find ID of Soldier](https://www.fastprep.io/problems/hsbc-find-id-of-soldier)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-find-id-of-soldier)|Jun 21, 2026|
@@ -1701,6 +1703,4 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Salesforce**|[Collect Opportunity Data in a Tree](https://www.fastprep.io/problems/salesforce-collect-opportunity-data-in-a-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-collect-opportunity-data-in-a-tree)|Feb 06, 2026|
 |**Salesforce**|[Replace '?' to Avoid Adjacent Duplicates](https://www.fastprep.io/problems/salesforce-replace-question-mark-to-avoid-adjacent-duplicates)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-replace-question-mark-to-avoid-adjacent-duplicates)|Feb 06, 2026|
 |**Salesforce**|[Strings With No k Consecutive Identical Characters](https://www.fastprep.io/problems/salesforce-strings-with-no-k-consecutive-identical-characters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-strings-with-no-k-consecutive-identical-characters)|Feb 06, 2026|
-|**Google**|[Closest-Timestamp Key-Value Queries](https://www.fastprep.io/problems/google-closest-timestamp-key-value-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-closest-timestamp-key-value-queries)|Feb 06, 2026|
-|**Google**|[Top K Frequent Closest Points](https://www.fastprep.io/problems/google-top-k-frequent-closest-points)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-top-k-frequent-closest-points)|Feb 06, 2026|
 <a id="bottom"></a>
