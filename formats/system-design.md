@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**534 questions**
+**535 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**OpenAI / Baseten / Amazon**|[Design a Stateless Generative AI Chat Service](https://www.fastprep.io/system-design/stateless-generative-ai-chat-service)|[![Practice][p]](https://www.fastprep.io/system-design/stateless-generative-ai-chat-service)|🔥 Oct 06, 2026|
+|**Databricks**|[Online Bookseller Platform](https://www.fastprep.io/system-design/online-bookseller-platform)|[![Practice][p]](https://www.fastprep.io/system-design/online-bookseller-platform)|🔥 Oct 06, 2026|
 |**Tekion / Autodesk**|[Design a Continuous Table Merge into NoSQL](https://www.fastprep.io/system-design/continuous-table-merge-to-nosql)|[![Practice][p]](https://www.fastprep.io/system-design/continuous-table-merge-to-nosql)|🔥 Oct 05, 2026|
 |**Amazon / Airwallex / Apple / Wex / Confluent / Oracle / Motive / Grab / Optiver / Scale AI / ByteDance**|[Design a Ticket Booking System](https://www.fastprep.io/system-design/ticket-booking-system)|[![Practice][p]](https://www.fastprep.io/system-design/ticket-booking-system)|🔥 Oct 05, 2026|
 |**Walmart**|[Design an Agent-Assisted Search Experience](https://www.fastprep.io/system-design/agentic-search-experience)|[![Practice][p]](https://www.fastprep.io/system-design/agentic-search-experience)|🔥 Oct 05, 2026|
@@ -155,7 +157,6 @@
 |**Latent**|[Design a Prior-Authorization Worklist and Digest](https://www.fastprep.io/system-design/prior-authorization-worklist-and-digest)|[![Practice][p]](https://www.fastprep.io/system-design/prior-authorization-worklist-and-digest)|🆕 Sep 16, 2026|
 |**ByteDance**|[Design Multi-Tenant Agent Quota Accounting](https://www.fastprep.io/system-design/multi-tenant-agent-quota-accounting)|[![Practice][p]](https://www.fastprep.io/system-design/multi-tenant-agent-quota-accounting)|🆕 Sep 16, 2026|
 |**LinkedIn**|[Malicious IP Traffic Filtering Platform](https://www.fastprep.io/system-design/malicious-ip-traffic-filtering-platform)|[![Practice][p]](https://www.fastprep.io/system-design/malicious-ip-traffic-filtering-platform)|🆕 Sep 16, 2026|
-|**OpenAI / Baseten / Amazon**|[Design a Stateless Generative AI Chat Service](https://www.fastprep.io/system-design/stateless-generative-ai-chat-service)|[![Practice][p]](https://www.fastprep.io/system-design/stateless-generative-ai-chat-service)|🆕 Sep 16, 2026|
 |**Salesforce**|[Design Coffee-Shop Ordering and Fulfillment](https://www.fastprep.io/system-design/coffee-shop-ordering-and-fulfillment)|[![Practice][p]](https://www.fastprep.io/system-design/coffee-shop-ordering-and-fulfillment)|🆕 Sep 16, 2026|
 |**Amazon**|[Design a Continental Temperature Heatmap](https://www.fastprep.io/system-design/continental-temperature-heatmap)|[![Practice][p]](https://www.fastprep.io/system-design/continental-temperature-heatmap)|🆕 Sep 16, 2026|
 |**DocuSign**|[Design a Live Location Tracking Service](https://www.fastprep.io/system-design/live-location-tracking-service)|[![Practice][p]](https://www.fastprep.io/system-design/live-location-tracking-service)|🆕 Sep 16, 2026|
@@ -304,7 +305,6 @@
 |**Anthropic**|[Design Peer-to-Peer Model Distribution](https://www.fastprep.io/system-design/peer-to-peer-model-distribution)|[![Practice][p]](https://www.fastprep.io/system-design/peer-to-peer-model-distribution)|Aug 13, 2026|
 |**OpenAI**|[Design a Distributed Crossword Solver](https://www.fastprep.io/system-design/distributed-crossword-solver-orchestration)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-crossword-solver-orchestration)|Aug 13, 2026|
 |**Meta**|[Design a Multimodal Public-Content Safety Platform](https://www.fastprep.io/system-design/multimodal-public-content-safety-platform)|[![Practice][p]](https://www.fastprep.io/system-design/multimodal-public-content-safety-platform)|Aug 13, 2026|
-|**Databricks**|[Online Bookseller Platform](https://www.fastprep.io/system-design/online-bookseller-platform)|[![Practice][p]](https://www.fastprep.io/system-design/online-bookseller-platform)|Aug 13, 2026|
 |**Agoda**|[Resilient Hotel Search Frontend](https://www.fastprep.io/system-design/resilient-hotel-search-frontend)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-hotel-search-frontend)|Aug 13, 2026|
 |**Figma**|[Design Comments for a Collaborative Canvas](https://www.fastprep.io/system-design/collaborative-canvas-comments)|[![Practice][p]](https://www.fastprep.io/system-design/collaborative-canvas-comments)|Aug 12, 2026|
 |**Goldman Sachs**|[Design a Live-Stream Chat System](https://www.fastprep.io/system-design/live-stream-chat-system)|[![Practice][p]](https://www.fastprep.io/system-design/live-stream-chat-system)|Aug 12, 2026|
@@ -418,6 +418,7 @@
 |**Google / Datadog**|[Design a Real-Time Anomaly Detection Service](https://www.fastprep.io/system-design/real-time-anomaly-detection-service)|[![Practice][p]](https://www.fastprep.io/system-design/real-time-anomaly-detection-service)|Apr 15, 2026|
 |**Datadog**|[Design Memory-Bounded Ordinary Least Squares](https://www.fastprep.io/system-design/memory-bounded-ordinary-least-squares)|[![Practice][p]](https://www.fastprep.io/system-design/memory-bounded-ordinary-least-squares)|Apr 15, 2026|
 |**Datadog**|[Design Server Latency Detection and On-Call Paging](https://www.fastprep.io/system-design/server-latency-detection-and-paging)|[![Practice][p]](https://www.fastprep.io/system-design/server-latency-detection-and-paging)|Apr 15, 2026|
+|**Scale AI**|[Design an Insurance Claims RAG Agent](https://www.fastprep.io/system-design/insurance-claims-rag-agent)|[![Practice][p]](https://www.fastprep.io/system-design/insurance-claims-rag-agent)|Apr 13, 2026|
 |**Notion**|[Design an Event Data Warehouse Platform](https://www.fastprep.io/system-design/event-data-warehouse-platform)|[![Practice][p]](https://www.fastprep.io/system-design/event-data-warehouse-platform)|Apr 08, 2026|
 |**Retool**|[Design a Dog Walking and Sitting Booking Platform](https://www.fastprep.io/system-design/dog-care-booking-platform)|[![Practice][p]](https://www.fastprep.io/system-design/dog-care-booking-platform)|Mar 24, 2026|
 |**Microsoft**|[Design SFT and RL for Consistent LLM Answers](https://www.fastprep.io/system-design/llm-response-consistency-sft-and-rl)|[![Practice][p]](https://www.fastprep.io/system-design/llm-response-consistency-sft-and-rl)|Mar 20, 2026|
