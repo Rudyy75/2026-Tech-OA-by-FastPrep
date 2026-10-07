@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Lexicographically Smallest After One Substring Rotation](https://www.fastprep.io/problems/amazon-lexicographically-smallest-after-one-substring-rotation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-lexicographically-smallest-after-one-substring-rotation)|Feb 05, 2026|
+|**Google**|[Validate a Tree From Its Parent Array](https://www.fastprep.io/problems/google-valid-tree-from-parent-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-valid-tree-from-parent-array)|Feb 04, 2026|
 |**Uber**|[Binary Tree: Subtree Sum, Maximum Path Sum, and Path Nodes](https://www.fastprep.io/problems/uber-binary-tree-subtree-sum-maximum-path-and-path-nodes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-binary-tree-subtree-sum-maximum-path-and-path-nodes)|Feb 04, 2026|
 |**IBM**|[Count Unstable Processes](https://www.fastprep.io/problems/ibm-count-unstable-processes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-count-unstable-processes)|Feb 03, 2026|
 |**IBM**|[Longest Balanced Binary Subarray](https://www.fastprep.io/problems/ibm-longest-balanced-binary-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-longest-balanced-binary-subarray)|Feb 03, 2026|
@@ -963,6 +965,7 @@
 |**Sentry**|[Design and Implement a Multi-Entrance Parking Lot](https://www.fastprep.io/low-level-design/multi-entrance-sized-parking-lot)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/multi-entrance-sized-parking-lot)|Mar 08, 2024|
 |**Google**|[Largest Lexicographical Substring](https://www.fastprep.io/problems/google-largest-lexicographical-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-largest-lexicographical-substring)|Mar 05, 2024|
 |**Google**|[Maximize Power Values Sum](https://www.fastprep.io/problems/google-maximize-power-values-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximize-power-values-sum)|Mar 05, 2024|
+|**Scale AI**|[Training Data And Model Error Debugging](https://www.fastprep.io/project-coding/scale-ai-json-csv-model-error-debugging)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-json-csv-model-error-debugging)|Mar 05, 2024|
 |**Amazon**|[Ways to Group Parcels](https://www.fastprep.io/problems/amazon-find-number-of-ways-to-group-parcels)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-number-of-ways-to-group-parcels)|Mar 04, 2024|
 |**IBM**|[Find Max Distinct Items](https://www.fastprep.io/problems/ibm-find-max-distinct-items)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-find-max-distinct-items)|Mar 04, 2024|
 |**Amazon**|[Maxmimum Times Word Removed](https://www.fastprep.io/problems/amazon-maximum-times-word-removed)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-times-word-removed)|Mar 03, 2024|
@@ -1129,6 +1132,7 @@
 |**Amazon**|[Check Similar Passwords](https://www.fastprep.io/problems/check-similar-passwords)|Coding|[![Practice][p]](https://www.fastprep.io/problems/check-similar-passwords)|Dec 23, 2023|
 |**Amazon**|[Maximum Score in Balanced String](https://www.fastprep.io/problems/maximum-score-in-balanced-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/maximum-score-in-balanced-string)|Dec 23, 2023|
 |**Amazon**|[Location of Data After Transfers](https://www.fastprep.io/problems/location-of-data-after-transfers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/location-of-data-after-transfers)|Dec 23, 2023|
+|**Scale AI**|[Complete a Small CNN Oriented-Box Regression Pipeline](https://www.fastprep.io/project-coding/scale-ai-small-cnn-oriented-box-regression)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-small-cnn-oriented-box-regression)|Dec 21, 2023|
 |**Amazon**|[Get Success Value](https://www.fastprep.io/problems/get-success-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/get-success-value)|Dec 19, 2023|
 |**Amazon**|[Warehouse Distribution](https://www.fastprep.io/problems/warehouse-allocation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/warehouse-allocation)|Dec 15, 2023|
 |**Amazon**|[Erase Pairs](https://www.fastprep.io/problems/erase-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/erase-pairs)|Dec 13, 2023|
@@ -1216,7 +1220,6 @@
 |**Bloomberg LP**|[Design Daily Database Query and Email Delivery](https://www.fastprep.io/system-design/daily-database-query-email-delivery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/daily-database-query-email-delivery)|Feb 18, 2021|
 |**Bloomberg LP**|[Design Stock Watchlists with Custom Constraints](https://www.fastprep.io/low-level-design/extensible-stock-watchlist-constraints)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-stock-watchlist-constraints)|Jan 30, 2021|
 |**SpaceX**|[Design a Managed User-Script Execution Platform](https://www.fastprep.io/system-design/managed-user-script-execution-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/managed-user-script-execution-platform)|Jan 12, 2021|
-|**Scale AI**|[Complete a Small CNN Oriented-Box Regression Pipeline](https://www.fastprep.io/project-coding/scale-ai-small-cnn-oriented-box-regression)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-small-cnn-oriented-box-regression)|Jan 08, 2021|
 |**Figma**|[Design Search Result Highlighting](https://www.fastprep.io/system-design/search-result-highlighting)|System design|[![Practice][p]](https://www.fastprep.io/system-design/search-result-highlighting)|Jan 01, 2021|
 |**Figma**|[Design Workspace File Organization](https://www.fastprep.io/system-design/workspace-file-organization)|System design|[![Practice][p]](https://www.fastprep.io/system-design/workspace-file-organization)|Jan 01, 2021|
 |**Twitch**|[Design a Video Watch and Like Experience](https://www.fastprep.io/system-design/video-watch-and-like-experience)|System design|[![Practice][p]](https://www.fastprep.io/system-design/video-watch-and-like-experience)|Dec 12, 2020|

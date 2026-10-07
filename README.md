@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,130)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (535)](formats/system-design.md) · [Low-level design (141)](formats/low-level-design.md) · [AI coding (70)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,130)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (535)](formats/system-design.md) · [Low-level design (141)](formats/low-level-design.md) · [AI coding (73)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -1629,6 +1629,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Meta**|[Design an Event Attendance Prediction Service](https://www.fastprep.io/system-design/event-attendance-prediction-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/event-attendance-prediction-service)|Apr 24, 2026|
 |**Meta**|[Design Place Recommendations for a Moving User](https://www.fastprep.io/system-design/moving-user-local-place-discovery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/moving-user-local-place-discovery)|Apr 24, 2026|
 |**Meta**|[Repair and Extend a Maze Solver](https://www.fastprep.io/project-coding/meta-maze-solver)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/meta-maze-solver)|Apr 24, 2026|
+|**Scale AI**|[Repair Contractor Project Assignment](https://www.fastprep.io/project-coding/scale-ai-contractor-course-project-assignment-debugging)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-contractor-course-project-assignment-debugging)|Apr 21, 2026|
 |**Point72**|[Initial Public Offering](https://www.fastprep.io/problems/point72-initial-public-offering)|Coding|[![Practice][p]](https://www.fastprep.io/problems/point72-initial-public-offering)|Apr 19, 2026|
 |**Amazon**|[Get Min Errors](https://www.fastprep.io/problems/amazon-get-min-errors)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-errors)|Apr 16, 2026|
 |**Mistral AI**|[PDF-to-Markdown Inference API](https://www.fastprep.io/system-design/pdf-to-markdown-inference-api)|System design|[![Practice][p]](https://www.fastprep.io/system-design/pdf-to-markdown-inference-api)|Apr 16, 2026|
@@ -1638,6 +1639,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Amazon**|[Maximum Score With Non-Adjacent Values](https://www.fastprep.io/problems/amazon-maximum-score-with-non-adjacent-values)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-score-with-non-adjacent-values)|Apr 14, 2026|
 |**Amazon**|[Make Value Groups Contiguous](https://www.fastprep.io/problems/amazon-make-value-groups-contiguous)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-make-value-groups-contiguous)|Apr 13, 2026|
 |**Scale AI**|[Design an Insurance Claims RAG Agent](https://www.fastprep.io/system-design/insurance-claims-rag-agent)|System design|[![Practice][p]](https://www.fastprep.io/system-design/insurance-claims-rag-agent)|Apr 13, 2026|
+|**Scale AI**|[Debug Missing Model Output](https://www.fastprep.io/project-coding/scale-ai-prompt-hash-output-debugger)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-prompt-hash-output-debugger)|Apr 13, 2026|
 |**Superhuman**|[Lost Messages](https://www.fastprep.io/problems/superhuman-lost-messages)|Coding|[![Practice][p]](https://www.fastprep.io/problems/superhuman-lost-messages)|Apr 10, 2026|
 |**Superhuman**|[Optimal Transfer](https://www.fastprep.io/problems/superhuman-optimal-transfer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/superhuman-optimal-transfer)|Apr 10, 2026|
 |**Superhuman**|[Math Homework](https://www.fastprep.io/problems/superhuman-math-homework)|Coding|[![Practice][p]](https://www.fastprep.io/problems/superhuman-math-homework)|Apr 10, 2026|
@@ -1701,6 +1703,4 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Salesforce**|[Strings With No k Consecutive Identical Characters](https://www.fastprep.io/problems/salesforce-strings-with-no-k-consecutive-identical-characters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-strings-with-no-k-consecutive-identical-characters)|Feb 06, 2026|
 |**Google**|[Closest-Timestamp Key-Value Queries](https://www.fastprep.io/problems/google-closest-timestamp-key-value-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-closest-timestamp-key-value-queries)|Feb 06, 2026|
 |**Google**|[Top K Frequent Closest Points](https://www.fastprep.io/problems/google-top-k-frequent-closest-points)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-top-k-frequent-closest-points)|Feb 06, 2026|
-|**Amazon**|[Lexicographically Smallest After One Substring Rotation](https://www.fastprep.io/problems/amazon-lexicographically-smallest-after-one-substring-rotation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-lexicographically-smallest-after-one-substring-rotation)|Feb 05, 2026|
-|**Google**|[Validate a Tree From Its Parent Array](https://www.fastprep.io/problems/google-valid-tree-from-parent-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-valid-tree-from-parent-array)|Feb 04, 2026|
 <a id="bottom"></a>

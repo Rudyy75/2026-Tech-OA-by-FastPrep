@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**70 questions**
+**73 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -58,6 +58,8 @@
 |**Amazon**|[Repair Workflow Team Editing and Deletion](https://www.fastprep.io/project-coding/amazon-repair-workflow-teams)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-workflow-teams)|Jun 25, 2026|
 |**ByteDance**|[Test Task Management User Assignments](https://www.fastprep.io/project-coding/bytedance-test-task-management-user-assignments)|[![Practice][p]](https://www.fastprep.io/project-coding/bytedance-test-task-management-user-assignments)|Jun 25, 2026|
 |**Meta**|[Repair and Extend a Maze Solver](https://www.fastprep.io/project-coding/meta-maze-solver)|[![Practice][p]](https://www.fastprep.io/project-coding/meta-maze-solver)|Apr 24, 2026|
+|**Scale AI**|[Repair Contractor Project Assignment](https://www.fastprep.io/project-coding/scale-ai-contractor-course-project-assignment-debugging)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-contractor-course-project-assignment-debugging)|Apr 21, 2026|
+|**Scale AI**|[Debug Missing Model Output](https://www.fastprep.io/project-coding/scale-ai-prompt-hash-output-debugger)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-prompt-hash-output-debugger)|Apr 13, 2026|
 |**Stripe**|[Repair Template Lookup Edge Cases](https://www.fastprep.io/project-coding/stripe-template-lookup-debugging)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-template-lookup-debugging)|Feb 20, 2026|
 |**Stripe**|[Repair Dynamic-ID Request Replay](https://www.fastprep.io/project-coding/stripe-request-replay-integration)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-request-replay-integration)|Jan 15, 2026|
 |**Tesla**|[Coordinate Parallel Runs Across Two Exclusive Targets](https://www.fastprep.io/project-coding/tesla-dual-target-parallel-runner)|[![Practice][p]](https://www.fastprep.io/project-coding/tesla-dual-target-parallel-runner)|Jan 14, 2026|
@@ -73,9 +75,10 @@
 |**Stripe**|[Complete a Balance-Summary Reconciliation Integration](https://www.fastprep.io/project-coding/stripe-balance-reconciliation-integration)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-balance-reconciliation-integration)|Oct 24, 2024|
 |**Elastic**|[Build a Search Index Web Service](https://www.fastprep.io/project-coding/elastic-search-index-web-service)|[![Practice][p]](https://www.fastprep.io/project-coding/elastic-search-index-web-service)|Sep 28, 2024|
 |**Odoo**|[Build a Room Booking Single-Page Application](https://www.fastprep.io/project-coding/odoo-room-booking-spa)|[![Practice][p]](https://www.fastprep.io/project-coding/odoo-room-booking-spa)|Sep 17, 2024|
+|**Scale AI**|[Training Data And Model Error Debugging](https://www.fastprep.io/project-coding/scale-ai-json-csv-model-error-debugging)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-json-csv-model-error-debugging)|Mar 05, 2024|
+|**Scale AI**|[Complete a Small CNN Oriented-Box Regression Pipeline](https://www.fastprep.io/project-coding/scale-ai-small-cnn-oriented-box-regression)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-small-cnn-oriented-box-regression)|Dec 21, 2023|
 |**NVIDIA**|[Neural-Network Graph Tracing and Autograd](https://www.fastprep.io/project-coding/nvidia-neural-network-tracing-autograd)|[![Practice][p]](https://www.fastprep.io/project-coding/nvidia-neural-network-tracing-autograd)|Sep 19, 2023|
 |**Motive**|[Build a Hotel Booking Frequency API](https://www.fastprep.io/project-coding/hotel-booking-frequency)|[![Practice][p]](https://www.fastprep.io/project-coding/hotel-booking-frequency)|Aug 20, 2022|
 |**Revolut**|[Make Account Transfers Safe Under Concurrency](https://www.fastprep.io/project-coding/revolut-concurrency-safe-account-transfer)|[![Practice][p]](https://www.fastprep.io/project-coding/revolut-concurrency-safe-account-transfer)|Jun 20, 2022|
 |**Notion**|[Build a Multi-Room Chat Service](https://www.fastprep.io/project-coding/multi-room-chat-http-service)|[![Practice][p]](https://www.fastprep.io/project-coding/multi-room-chat-http-service)|May 06, 2022|
-|**Scale AI**|[Complete a Small CNN Oriented-Box Regression Pipeline](https://www.fastprep.io/project-coding/scale-ai-small-cnn-oriented-box-regression)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-small-cnn-oriented-box-regression)|Jan 08, 2021|
 <a id="bottom"></a>
