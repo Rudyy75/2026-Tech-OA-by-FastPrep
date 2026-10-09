@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**565 questions**
+**570 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -200,7 +200,7 @@
 |**JP Morgan Chase**|[Spark Cluster Sizing for a 100 GB Workload](https://www.fastprep.io/system-design/spark-cluster-sizing-100-gb-workload)|[![Practice][p]](https://www.fastprep.io/system-design/spark-cluster-sizing-100-gb-workload)|🆕 Sep 13, 2026|
 |**Tekion / JP Morgan Chase**|[Design a Resilient Multi-Table ETL Pipeline](https://www.fastprep.io/system-design/resilient-multitable-etl-reconciliation)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-multitable-etl-reconciliation)|🆕 Sep 13, 2026|
 |**Cursor / Amazon**|[Design a Versioned IDE Settings Sync System](https://www.fastprep.io/system-design/versioned-ide-settings-sync)|[![Practice][p]](https://www.fastprep.io/system-design/versioned-ide-settings-sync)|🆕 Sep 13, 2026|
-|**Amazon**|[Global Music Streaming Platform](https://www.fastprep.io/system-design/global-music-streaming-platform)|[![Practice][p]](https://www.fastprep.io/system-design/global-music-streaming-platform)|🆕 Sep 13, 2026|
+|**Amazon / Atlassian**|[Global Music Streaming Platform](https://www.fastprep.io/system-design/global-music-streaming-platform)|[![Practice][p]](https://www.fastprep.io/system-design/global-music-streaming-platform)|🆕 Sep 13, 2026|
 |**Amazon**|[Design an Amazon Locker System](https://www.fastprep.io/system-design/amazon-locker-system)|[![Practice][p]](https://www.fastprep.io/system-design/amazon-locker-system)|🆕 Sep 13, 2026|
 |**Amazon**|[Design a Scalable Artifact Repository](https://www.fastprep.io/system-design/scalable-artifact-repository)|[![Practice][p]](https://www.fastprep.io/system-design/scalable-artifact-repository)|🆕 Sep 13, 2026|
 |**Amazon**|[Design Device Backup and Restore](https://www.fastprep.io/system-design/device-backup-and-restore)|[![Practice][p]](https://www.fastprep.io/system-design/device-backup-and-restore)|🆕 Sep 13, 2026|
@@ -387,7 +387,7 @@
 |**Databricks**|[Design a Durable Local Event Writer](https://www.fastprep.io/system-design/durable-local-event-writer)|[![Practice][p]](https://www.fastprep.io/system-design/durable-local-event-writer)|Jul 26, 2026|
 |**Databricks**|[Design a Chat Application Cache Architecture](https://www.fastprep.io/system-design/chat-application-cache-architecture)|[![Practice][p]](https://www.fastprep.io/system-design/chat-application-cache-architecture)|Jul 25, 2026|
 |**Tekion**|[Design a Car Service-Center Booking System](https://www.fastprep.io/system-design/car-service-center-booking)|[![Practice][p]](https://www.fastprep.io/system-design/car-service-center-booking)|Jul 24, 2026|
-|**MathWorks**|[Design a Product Authentication Platform](https://www.fastprep.io/system-design/product-authentication-platform)|[![Practice][p]](https://www.fastprep.io/system-design/product-authentication-platform)|Jul 24, 2026|
+|**MathWorks / Atlassian**|[Design a Product Authentication Platform](https://www.fastprep.io/system-design/product-authentication-platform)|[![Practice][p]](https://www.fastprep.io/system-design/product-authentication-platform)|Jul 24, 2026|
 |**Shopify**|[Design a Production-Ready URL Cache Service](https://www.fastprep.io/system-design/production-ready-url-cache-service)|[![Practice][p]](https://www.fastprep.io/system-design/production-ready-url-cache-service)|Jul 24, 2026|
 |**Google**|[Ranked Deals Discovery and Claim Service](https://www.fastprep.io/system-design/ranked-deals-discovery-and-claim-service)|[![Practice][p]](https://www.fastprep.io/system-design/ranked-deals-discovery-and-claim-service)|Jul 24, 2026|
 |**Capillary Technologies**|[Design a Loyalty-Data Insight Platform](https://www.fastprep.io/system-design/loyalty-data-insight-platform)|[![Practice][p]](https://www.fastprep.io/system-design/loyalty-data-insight-platform)|Jul 24, 2026|
@@ -462,6 +462,7 @@
 |**Bloomberg LP**|[Design a Top-N News Article System](https://www.fastprep.io/system-design/top-n-news-article-system)|[![Practice][p]](https://www.fastprep.io/system-design/top-n-news-article-system)|Oct 31, 2025|
 |**Optiver**|[Design a Low-Latency Electronic Trading System](https://www.fastprep.io/system-design/low-latency-electronic-trading-system)|[![Practice][p]](https://www.fastprep.io/system-design/low-latency-electronic-trading-system)|Oct 29, 2025|
 |**Wayfair / Atlassian / Better.com**|[Review and Scale a Fixed-Stage Document Pipeline](https://www.fastprep.io/system-design/fixed-stage-document-pipeline-capacity)|[![Practice][p]](https://www.fastprep.io/system-design/fixed-stage-document-pipeline-capacity)|Oct 26, 2025|
+|**Atlassian / Wayfair**|[Reconcile Expected Requests Against Success Logs](https://www.fastprep.io/system-design/expected-request-success-evidence-reconciliation)|[![Practice][p]](https://www.fastprep.io/system-design/expected-request-success-evidence-reconciliation)|Oct 26, 2025|
 |**Google**|[Design Cost-Aware Content Integrity Decisions](https://www.fastprep.io/system-design/cost-aware-content-integrity-decisions)|[![Practice][p]](https://www.fastprep.io/system-design/cost-aware-content-integrity-decisions)|Oct 18, 2025|
 |**Google**|[Design a Visual Similarity Search System](https://www.fastprep.io/system-design/visual-similarity-search-system)|[![Practice][p]](https://www.fastprep.io/system-design/visual-similarity-search-system)|Oct 16, 2025|
 |**Microsoft**|[Design RAG-Assisted Kusto Query Generation](https://www.fastprep.io/system-design/rag-assisted-kusto-query-generation)|[![Practice][p]](https://www.fastprep.io/system-design/rag-assisted-kusto-query-generation)|Oct 08, 2025|
@@ -473,11 +474,13 @@
 |**Splunk**|[Activity Playlist Streaming Service](https://www.fastprep.io/system-design/activity-playlist-streaming-service)|[![Practice][p]](https://www.fastprep.io/system-design/activity-playlist-streaming-service)|Aug 13, 2025|
 |**Splunk / Atlassian**|[Cost-Aware Interactive Content Delivery](https://www.fastprep.io/system-design/cost-aware-interactive-content-delivery)|[![Practice][p]](https://www.fastprep.io/system-design/cost-aware-interactive-content-delivery)|Aug 13, 2025|
 |**Splunk**|[Prepaid Game-Card Payment Network](https://www.fastprep.io/system-design/prepaid-game-card-payment-network)|[![Practice][p]](https://www.fastprep.io/system-design/prepaid-game-card-payment-network)|Aug 13, 2025|
-|**Splunk / Atlassian**|[Resilient Sports Statistics Aggregation](https://www.fastprep.io/system-design/resilient-sports-statistics-aggregation)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-sports-statistics-aggregation)|Aug 13, 2025|
-|**Splunk**|[Video Platform Capacity Planning](https://www.fastprep.io/system-design/video-platform-capacity-planning)|[![Practice][p]](https://www.fastprep.io/system-design/video-platform-capacity-planning)|Aug 13, 2025|
+|**Splunk / Atlassian / Deliveroo**|[Resilient Sports Statistics Aggregation](https://www.fastprep.io/system-design/resilient-sports-statistics-aggregation)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-sports-statistics-aggregation)|Aug 13, 2025|
+|**Splunk / Atlassian**|[Video Platform Capacity Planning](https://www.fastprep.io/system-design/video-platform-capacity-planning)|[![Practice][p]](https://www.fastprep.io/system-design/video-platform-capacity-planning)|Aug 13, 2025|
 |**Atlassian**|[Design Video Metadata Reads Under a Deadline](https://www.fastprep.io/system-design/video-metadata-consistency-under-deadline)|[![Practice][p]](https://www.fastprep.io/system-design/video-metadata-consistency-under-deadline)|Aug 12, 2025|
 |**Google**|[Design a Harmful-Content Classification Service](https://www.fastprep.io/system-design/harmful-content-classification-service)|[![Practice][p]](https://www.fastprep.io/system-design/harmful-content-classification-service)|Jul 03, 2025|
 |**Atlassian**|[Smart-Fridge Edge Processing Migration](https://www.fastprep.io/system-design/smart-fridge-edge-processing-migration)|[![Practice][p]](https://www.fastprep.io/system-design/smart-fridge-edge-processing-migration)|Jul 01, 2025|
+|**Atlassian**|[Diagnose and Scale a Recipe Commerce Service](https://www.fastprep.io/system-design/recipe-commerce-performance-review)|[![Practice][p]](https://www.fastprep.io/system-design/recipe-commerce-performance-review)|May 31, 2025|
+|**Atlassian**|[Migrate an Ethernet Appliance to a Microcontroller](https://www.fastprep.io/system-design/embedded-appliance-platform-port)|[![Practice][p]](https://www.fastprep.io/system-design/embedded-appliance-platform-port)|May 31, 2025|
 |**Google**|[Design Personalized Private Email Search](https://www.fastprep.io/system-design/personalized-private-email-search)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-private-email-search)|May 23, 2025|
 |**Scale AI**|[Design a Third-Party LLM Batch Job Orchestrator](https://www.fastprep.io/system-design/third-party-llm-batch-job-orchestrator)|[![Practice][p]](https://www.fastprep.io/system-design/third-party-llm-batch-job-orchestrator)|May 12, 2025|
 |**Scale AI**|[Design an LLM-Assisted Contributor Work Evaluation System](https://www.fastprep.io/system-design/llm-contributor-work-evaluation)|[![Practice][p]](https://www.fastprep.io/system-design/llm-contributor-work-evaluation)|May 09, 2025|
@@ -531,6 +534,7 @@
 |**Skyscanner**|[Design Flight Price Threshold Alerts](https://www.fastprep.io/system-design/flight-price-threshold-alerts)|[![Practice][p]](https://www.fastprep.io/system-design/flight-price-threshold-alerts)|Jun 10, 2022|
 |**Confluent**|[Design a Kubernetes-Managed Kafka Service](https://www.fastprep.io/system-design/kubernetes-managed-kafka-service)|[![Practice][p]](https://www.fastprep.io/system-design/kubernetes-managed-kafka-service)|May 05, 2022|
 |**Google / Microsoft**|[Design Learned Web Search Ranking](https://www.fastprep.io/system-design/learned-web-search-ranking)|[![Practice][p]](https://www.fastprep.io/system-design/learned-web-search-ranking)|Apr 28, 2022|
+|**Coinbase**|[Mutual Friend Lookup Service](https://www.fastprep.io/system-design/mutual-friend-lookup-service)|[![Practice][p]](https://www.fastprep.io/system-design/mutual-friend-lookup-service)|Apr 25, 2022|
 |**Amazon**|[Design Cross-Catalog Entity Matching](https://www.fastprep.io/system-design/cross-catalog-entity-matching)|[![Practice][p]](https://www.fastprep.io/system-design/cross-catalog-entity-matching)|Apr 20, 2022|
 |**Meta**|[Design a Human-Detection Video Data Pipeline](https://www.fastprep.io/system-design/human-detection-video-data-pipeline)|[![Practice][p]](https://www.fastprep.io/system-design/human-detection-video-data-pipeline)|Apr 05, 2022|
 |**Meta**|[Design a Global Most-Listened Songs Leaderboard](https://www.fastprep.io/system-design/global-most-listened-songs-leaderboard)|[![Practice][p]](https://www.fastprep.io/system-design/global-most-listened-songs-leaderboard)|Apr 05, 2022|
@@ -539,6 +543,7 @@
 |**Meta**|[Select and Improve a Short-Audio Speech Recognizer](https://www.fastprep.io/system-design/short-audio-speech-recognition-model-selection)|[![Practice][p]](https://www.fastprep.io/system-design/short-audio-speech-recognition-model-selection)|Apr 05, 2022|
 |**Google**|[Train a Click Model from Multiple Live Streams](https://www.fastprep.io/system-design/multi-stream-live-click-model-training)|[![Practice][p]](https://www.fastprep.io/system-design/multi-stream-live-click-model-training)|Apr 05, 2022|
 |**Grubhub**|[Design a Restaurant Menu Catalog Service](https://www.fastprep.io/system-design/restaurant-menu-catalog-service)|[![Practice][p]](https://www.fastprep.io/system-design/restaurant-menu-catalog-service)|Mar 26, 2022|
+|**Wayfair**|[Recover Completed-Document Notifications](https://www.fastprep.io/system-design/completed-document-notification-recovery)|[![Practice][p]](https://www.fastprep.io/system-design/completed-document-notification-recovery)|Mar 19, 2022|
 |**Fivetran**|[Design a Parking Lot Operations System](https://www.fastprep.io/system-design/parking-lot-operations-system)|[![Practice][p]](https://www.fastprep.io/system-design/parking-lot-operations-system)|Feb 23, 2022|
 |**Bloomberg LP**|[Design a Streaming Top-K Hitters System](https://www.fastprep.io/system-design/streaming-top-k-hitters)|[![Practice][p]](https://www.fastprep.io/system-design/streaming-top-k-hitters)|Feb 14, 2022|
 |**Bloomberg LP**|[Design a Stock Data Analytics Platform](https://www.fastprep.io/system-design/stock-data-analytics-platform)|[![Practice][p]](https://www.fastprep.io/system-design/stock-data-analytics-platform)|Jan 21, 2022|
