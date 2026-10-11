@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**166 questions**
+**170 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -150,6 +150,7 @@
 |**Navan**|[Design a Property Listing Service](https://www.fastprep.io/low-level-design/property-listing-service-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/property-listing-service-domain)|Dec 17, 2024|
 |**Google**|[Design a Ticket Resale Marketplace](https://www.fastprep.io/low-level-design/ticket-resale-marketplace-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/ticket-resale-marketplace-domain)|Dec 08, 2024|
 |**Clipboard Health**|[Design a Dimmer and Connected Bulbs System](https://www.fastprep.io/low-level-design/dimmer-connected-bulbs)|[![Practice][p]](https://www.fastprep.io/low-level-design/dimmer-connected-bulbs)|Oct 31, 2024|
+|**Headlands Technologies**|[Concurrent Sorted-Stream Merger](https://www.fastprep.io/low-level-design/concurrent-sorted-stream-merger)|[![Practice][p]](https://www.fastprep.io/low-level-design/concurrent-sorted-stream-merger)|Oct 04, 2024|
 |**Postman**|[Design Undo Delete for Shared Collections](https://www.fastprep.io/low-level-design/undo-delete-shared-collections)|[![Practice][p]](https://www.fastprep.io/low-level-design/undo-delete-shared-collections)|Jul 19, 2024|
 |**Postman**|[Design Undoable Deletion for API Collections](https://www.fastprep.io/low-level-design/undoable-collection-deletion)|[![Practice][p]](https://www.fastprep.io/low-level-design/undoable-collection-deletion)|Jul 19, 2024|
 |**Google**|[Design and Implement a Path-Value File System](https://www.fastprep.io/low-level-design/path-value-file-system)|[![Practice][p]](https://www.fastprep.io/low-level-design/path-value-file-system)|May 01, 2024|
@@ -159,8 +160,10 @@
 |**Navan**|[Design a Flight Booking Orchestrator](https://www.fastprep.io/low-level-design/flight-booking-orchestration)|[![Practice][p]](https://www.fastprep.io/low-level-design/flight-booking-orchestration)|Dec 08, 2023|
 |**Onehouse**|[Design a Kafka-Like Distributed Queue](https://www.fastprep.io/low-level-design/kafka-like-distributed-queue)|[![Practice][p]](https://www.fastprep.io/low-level-design/kafka-like-distributed-queue)|Nov 07, 2023|
 |**Modular**|[Design a Configurable Robot Arm](https://www.fastprep.io/low-level-design/configurable-robot-arm)|[![Practice][p]](https://www.fastprep.io/low-level-design/configurable-robot-arm)|Nov 03, 2023|
+|**Headlands Technologies**|[Shared-Memory Single-Writer Single-Reader Channel](https://www.fastprep.io/low-level-design/shared-memory-spsc-channel)|[![Practice][p]](https://www.fastprep.io/low-level-design/shared-memory-spsc-channel)|Aug 24, 2023|
 |**Motive**|[Design a Restaurant Catalog Management Service](https://www.fastprep.io/low-level-design/restaurant-catalog-management)|[![Practice][p]](https://www.fastprep.io/low-level-design/restaurant-catalog-management)|Jun 07, 2023|
 |**ZipRecruiter**|[Design and Implement a Playlist Management Domain](https://www.fastprep.io/low-level-design/playlist-management-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/playlist-management-domain)|May 14, 2023|
+|**Headlands Technologies**|[Asynchronous TCP Message Channel](https://www.fastprep.io/low-level-design/asynchronous-tcp-message-channel)|[![Practice][p]](https://www.fastprep.io/low-level-design/asynchronous-tcp-message-channel)|Mar 09, 2023|
 |**Scale AI**|[Design and Implement a Task and Worker Assignment Model](https://www.fastprep.io/low-level-design/task-worker-assignment-model)|[![Practice][p]](https://www.fastprep.io/low-level-design/task-worker-assignment-model)|Sep 09, 2022|
 |**Grubhub**|[Air Traffic Control System](https://www.fastprep.io/low-level-design/air-traffic-control-system)|[![Practice][p]](https://www.fastprep.io/low-level-design/air-traffic-control-system)|Mar 26, 2022|
 |**Bloomberg LP**|[Design a Ticketed Parking Lot with Defragmentation](https://www.fastprep.io/low-level-design/ticketed-parking-lot-defragmentation)|[![Practice][p]](https://www.fastprep.io/low-level-design/ticketed-parking-lot-defragmentation)|Feb 28, 2022|
@@ -174,4 +177,5 @@
 |**Bloomberg LP**|[Design a Dynamic Phonebook with Autocomplete](https://www.fastprep.io/low-level-design/dynamic-phonebook-autocomplete)|[![Practice][p]](https://www.fastprep.io/low-level-design/dynamic-phonebook-autocomplete)|Sep 17, 2020|
 |**Bloomberg LP**|[Design an iPod-Style Music Player](https://www.fastprep.io/low-level-design/portable-music-player-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/portable-music-player-domain)|Jul 17, 2020|
 |**Bloomberg LP**|[Design an Ordered Document and Page Model](https://www.fastprep.io/low-level-design/ordered-document-page-word-model)|[![Practice][p]](https://www.fastprep.io/low-level-design/ordered-document-page-word-model)|Oct 17, 2019|
+|**Headlands Technologies**|[Design an Incremental Lattice Coverage Tracker](https://www.fastprep.io/low-level-design/lattice-segment-coverage-tracker)|[![Practice][p]](https://www.fastprep.io/low-level-design/lattice-segment-coverage-tracker)|Apr 17, 2018|
 <a id="bottom"></a>
