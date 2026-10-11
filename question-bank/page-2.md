@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Minimum Preparation Time for Two Handlers](https://www.fastprep.io/problems/amazon-minimum-preparation-time-for-two-handlers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-preparation-time-for-two-handlers)|Apr 06, 2026|
 |**Rubrik**|[Minimum Swaps To Binary Palindrome](https://www.fastprep.io/problems/rubrik-minimum-swaps-to-binary-palindrome)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rubrik-minimum-swaps-to-binary-palindrome)|Apr 04, 2026|
 |**Zorvyn**|[Shortest Path With K Free Edges](https://www.fastprep.io/problems/zorvyn-shortest-path-with-k-free-edges)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zorvyn-shortest-path-with-k-free-edges)|Apr 04, 2026|
 |**Confluent**|[Design and Implement a Random-Access FIFO Queue](https://www.fastprep.io/low-level-design/random-access-fifo-queue)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/random-access-fifo-queue)|Apr 03, 2026|
@@ -35,6 +36,7 @@
 |**Salesforce**|[System Energy Reduction](https://www.fastprep.io/problems/salesforce-system-energy-reduction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-system-energy-reduction)|Mar 15, 2026|
 |**Salesforce**|[Update Logs by Symmetric XOR](https://www.fastprep.io/problems/salesforce-update-logs-by-symmetric-xor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-update-logs-by-symmetric-xor)|Mar 15, 2026|
 |**FlexTrade**|[Reverse a String](https://www.fastprep.io/problems/flextrade-reverse-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flextrade-reverse-string)|Mar 14, 2026|
+|**Persona**|[Design and Implement a Progressive Banking System](https://www.fastprep.io/low-level-design/progressive-banking-system)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/progressive-banking-system)|Mar 03, 2026|
 |**Salesforce**|[Count Palindromic Concatenation Pairs](https://www.fastprep.io/problems/salesforce-count-palindromic-concatenation-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-count-palindromic-concatenation-pairs)|Mar 02, 2026|
 |**Google**|[All Long Subsequences Are Dictionary Words](https://www.fastprep.io/problems/google-all-long-subsequences-are-words)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-all-long-subsequences-are-words)|Feb 28, 2026|
 |**Google**|[Frequency-Weighted Next-Word Sampling](https://www.fastprep.io/problems/google-frequency-weighted-next-word-sampling)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-frequency-weighted-next-word-sampling)|Feb 28, 2026|
