@@ -2,12 +2,15 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**171 questions**
+**172 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Amazon / Goldman Sachs / Wayfair / Walmart / Navan / Uber**|[Design a Multi-Floor Parking Lot](https://www.fastprep.io/low-level-design/multi-floor-parking-lot)|[![Practice][p]](https://www.fastprep.io/low-level-design/multi-floor-parking-lot)|🔥 Oct 12, 2026|
+|**Amazon**|[Design and Implement a Train Route Fare Calculator](https://www.fastprep.io/low-level-design/train-route-fare-calculator)|[![Practice][p]](https://www.fastprep.io/low-level-design/train-route-fare-calculator)|🔥 Oct 12, 2026|
+|**Oracle**|[Design an LRU Cache Object Model](https://www.fastprep.io/low-level-design/lru-cache-object-model)|[![Practice][p]](https://www.fastprep.io/low-level-design/lru-cache-object-model)|🔥 Oct 12, 2026|
 |**Twitch / Citadel / Kotak Mahindra Bank**|[Design and Implement a Terminal Battleship Game](https://www.fastprep.io/low-level-design/battleship-game)|[![Practice][p]](https://www.fastprep.io/low-level-design/battleship-game)|🔥 Oct 10, 2026|
 |**Uber**|[Design a Participant Meeting Scheduler](https://www.fastprep.io/low-level-design/participant-meeting-scheduler)|[![Practice][p]](https://www.fastprep.io/low-level-design/participant-meeting-scheduler)|🔥 Oct 09, 2026|
 |**Kotak Mahindra Bank**|[Design a Food Delivery Order Domain](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|🔥 Oct 07, 2026|
@@ -50,7 +53,6 @@
 |**PayPay / Fox Corporation**|[Design a Payment Transaction State Machine](https://www.fastprep.io/low-level-design/payment-transaction-state-machine)|[![Practice][p]](https://www.fastprep.io/low-level-design/payment-transaction-state-machine)|🆕 Sep 25, 2026|
 |**Eightfold**|[Design Recurring Meeting-Room Booking](https://www.fastprep.io/low-level-design/recurring-meeting-room-booking-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/recurring-meeting-room-booking-domain)|🆕 Sep 25, 2026|
 |**Amazon / The Trade Desk / Tekion / Navan**|[Design an In-Memory Publish-Subscribe Library](https://www.fastprep.io/low-level-design/in-memory-publish-subscribe-library)|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-publish-subscribe-library)|🆕 Sep 24, 2026|
-|**Amazon / Goldman Sachs / Wayfair / Walmart / Navan**|[Design a Multi-Floor Parking Lot](https://www.fastprep.io/low-level-design/multi-floor-parking-lot)|[![Practice][p]](https://www.fastprep.io/low-level-design/multi-floor-parking-lot)|🆕 Sep 24, 2026|
 |**Tekion / Amazon / Oracle**|[Design a Configurable Logging Framework](https://www.fastprep.io/low-level-design/logging-framework)|[![Practice][p]](https://www.fastprep.io/low-level-design/logging-framework)|🆕 Sep 24, 2026|
 |**SentinelOne / PhonePe**|[Design a Thread-Safe Queryable Logger Library](https://www.fastprep.io/low-level-design/thread-safe-queryable-logger-library)|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-queryable-logger-library)|🆕 Sep 24, 2026|
 |**Globalization Partners / Coupa Software**|[Design and Repair a Thread-Safe Configuration Singleton](https://www.fastprep.io/low-level-design/thread-safe-configuration-singleton)|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-configuration-singleton)|🆕 Sep 23, 2026|
@@ -87,12 +89,11 @@
 |**Tekion**|[Design an Inventory Stock Control Domain](https://www.fastprep.io/low-level-design/inventory-stock-control-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/inventory-stock-control-domain)|🆕 Sep 05, 2026|
 |**The Walt Disney Company**|[Design an Authentication Session Lifecycle](https://www.fastprep.io/low-level-design/authentication-session-lifecycle)|[![Practice][p]](https://www.fastprep.io/low-level-design/authentication-session-lifecycle)|🆕 Sep 04, 2026|
 |**SentinelOne**|[Design and Implement a Concurrent Web Crawler Library](https://www.fastprep.io/low-level-design/concurrent-web-crawler-library)|[![Practice][p]](https://www.fastprep.io/low-level-design/concurrent-web-crawler-library)|🆕 Sep 03, 2026|
-|**Amazon**|[Design and Implement a Train Route Fare Calculator](https://www.fastprep.io/low-level-design/train-route-fare-calculator)|[![Practice][p]](https://www.fastprep.io/low-level-design/train-route-fare-calculator)|🆕 Sep 03, 2026|
 |**Amazon**|[Design and Implement a Sliding Window Maximum API](https://www.fastprep.io/low-level-design/sliding-window-maximum-api)|[![Practice][p]](https://www.fastprep.io/low-level-design/sliding-window-maximum-api)|🆕 Sep 03, 2026|
 |**Google**|[Design a Bookshelf with Reading Progress](https://www.fastprep.io/low-level-design/bookshelf-reading-progress)|[![Practice][p]](https://www.fastprep.io/low-level-design/bookshelf-reading-progress)|🆕 Sep 01, 2026|
 |**Amazon**|[Design and Implement a Streaming Median API](https://www.fastprep.io/low-level-design/streaming-median-api)|[![Practice][p]](https://www.fastprep.io/low-level-design/streaming-median-api)|🆕 Aug 31, 2026|
 |**Uber**|[Design and Implement Ride Dispatch and Trip Lifecycle](https://www.fastprep.io/low-level-design/ride-hailing-dispatch-and-trip-lifecycle)|[![Practice][p]](https://www.fastprep.io/low-level-design/ride-hailing-dispatch-and-trip-lifecycle)|🆕 Aug 29, 2026|
-|**Oracle**|[Design and Implement an Active-Passive Key-Value Store](https://www.fastprep.io/low-level-design/active-passive-key-value-store)|[![Practice][p]](https://www.fastprep.io/low-level-design/active-passive-key-value-store)|🆕 Aug 28, 2026|
+|**Oracle**|[Design and Implement an Active-Passive Key-Value Store](https://www.fastprep.io/low-level-design/active-passive-key-value-store)|[![Practice][p]](https://www.fastprep.io/low-level-design/active-passive-key-value-store)|Aug 28, 2026|
 |**Salesforce**|[Design a Connect Four Game](https://www.fastprep.io/low-level-design/connect-four-game-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/connect-four-game-domain)|Aug 23, 2026|
 |**Walmart**|[Design a Job Marketplace Domain](https://www.fastprep.io/low-level-design/job-marketplace-person-job-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/job-marketplace-person-job-domain)|Aug 23, 2026|
 |**Amazon**|[Design and Implement Movie Theater Ticket Pricing](https://www.fastprep.io/low-level-design/movie-theater-ticket-pricing)|[![Practice][p]](https://www.fastprep.io/low-level-design/movie-theater-ticket-pricing)|Aug 20, 2026|

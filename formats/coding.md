@@ -489,8 +489,8 @@
 |**WeRide**|[Drawing Edge](https://www.fastprep.io/problems/weride-drawing-edge)|[![Practice][p]](https://www.fastprep.io/problems/weride-drawing-edge)|🆕 Aug 29, 2026|
 |**WeRide**|[Paint the Ceiling](https://www.fastprep.io/problems/weride-paint-the-ceiling)|[![Practice][p]](https://www.fastprep.io/problems/weride-paint-the-ceiling)|🆕 Aug 29, 2026|
 |**WeRide**|[Unequal Block Structure](https://www.fastprep.io/problems/weride-unequal-block-structure)|[![Practice][p]](https://www.fastprep.io/problems/weride-unequal-block-structure)|🆕 Aug 29, 2026|
-|**Amazon**|[Minimum Grid Inconvenience](https://www.fastprep.io/problems/amazon-minimum-grid-inconvenience)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-grid-inconvenience)|🆕 Aug 28, 2026|
-|**IMC**|[Grid Paths with Override Passes](https://www.fastprep.io/problems/imc-grid-paths-with-override-passes)|[![Practice][p]](https://www.fastprep.io/problems/imc-grid-paths-with-override-passes)|🆕 Aug 28, 2026|
+|**Amazon**|[Minimum Grid Inconvenience](https://www.fastprep.io/problems/amazon-minimum-grid-inconvenience)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-grid-inconvenience)|Aug 28, 2026|
+|**IMC**|[Grid Paths with Override Passes](https://www.fastprep.io/problems/imc-grid-paths-with-override-passes)|[![Practice][p]](https://www.fastprep.io/problems/imc-grid-paths-with-override-passes)|Aug 28, 2026|
 |**Walmart**|[Minimum Stress Path](https://www.fastprep.io/problems/walmart-minimum-stress-path)|[![Practice][p]](https://www.fastprep.io/problems/walmart-minimum-stress-path)|Aug 27, 2026|
 |**Microsoft**|[Roll the String](https://www.fastprep.io/problems/microsoft-roll-the-string)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-roll-the-string)|Aug 27, 2026|
 |**Microsoft**|[Minimum Length Good Subarray](https://www.fastprep.io/problems/microsoft-minimum-length-good-subarray)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-length-good-subarray)|Aug 27, 2026|

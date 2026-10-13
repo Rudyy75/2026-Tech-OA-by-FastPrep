@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**79 questions**
+**80 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -16,11 +16,12 @@
 |**Amazon**|[Repair the Wallet Loan Marketplace](https://www.fastprep.io/project-coding/repair-wallet-loan-marketplace)|[![Practice][p]](https://www.fastprep.io/project-coding/repair-wallet-loan-marketplace)|🔥 Oct 08, 2026|
 |**NVIDIA**|[Build a System Metrics Reporter](https://www.fastprep.io/project-coding/nvidia-system-metrics-reporter)|[![Practice][p]](https://www.fastprep.io/project-coding/nvidia-system-metrics-reporter)|🔥 Oct 06, 2026|
 |**Persona**|[Build an Internal Go-Link Service](https://www.fastprep.io/project-coding/persona-internal-go-links)|[![Practice][p]](https://www.fastprep.io/project-coding/persona-internal-go-links)|🔥 Oct 06, 2026|
+|**Applied Intuition**|[Driving Log Ingestion and Playback Windows](https://www.fastprep.io/project-coding/applied-intuition-driving-log-playback)|[![Practice][p]](https://www.fastprep.io/project-coding/applied-intuition-driving-log-playback)|🔥 Oct 06, 2026|
 |**Netflix**|[Review and Repair an ML Feature Pipeline PR](https://www.fastprep.io/project-coding/netflix-feature-pipeline-pr-review)|[![Practice][p]](https://www.fastprep.io/project-coding/netflix-feature-pipeline-pr-review)|🔥 Oct 05, 2026|
 |**Zip**|[Repair Monthly Expense Attribution](https://www.fastprep.io/project-coding/zip-repair-monthly-expense-attribution)|[![Practice][p]](https://www.fastprep.io/project-coding/zip-repair-monthly-expense-attribution)|🔥 Oct 02, 2026|
 |**BNSF Railway**|[Implement a Railway Quote Service Layer](https://www.fastprep.io/project-coding/bnsf-railway-quote-service-layer)|[![Practice][p]](https://www.fastprep.io/project-coding/bnsf-railway-quote-service-layer)|🔥 Sep 30, 2026|
 |**Amazon**|[Repair MovieDB Search and Recommendations](https://www.fastprep.io/project-coding/amazon-repair-moviedb-recommendations)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-moviedb-recommendations)|🔥 Sep 30, 2026|
-|**Amazon**|[Repair Blog Post Creation](https://www.fastprep.io/project-coding/amazon-django-blog-post-creation)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-django-blog-post-creation)|🔥 Sep 28, 2026|
+|**Amazon**|[Repair Blog Post Creation](https://www.fastprep.io/project-coding/amazon-django-blog-post-creation)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-django-blog-post-creation)|🆕 Sep 28, 2026|
 |**Groww**|[Build an Extensible Brokerage Charge Calculator](https://www.fastprep.io/project-coding/brokerage-charge-calculator)|[![Practice][p]](https://www.fastprep.io/project-coding/brokerage-charge-calculator)|🆕 Sep 25, 2026|
 |**Odoo**|[Build FIFO Inventory Costing](https://www.fastprep.io/project-coding/fifo-inventory-costing-service)|[![Practice][p]](https://www.fastprep.io/project-coding/fifo-inventory-costing-service)|🆕 Sep 25, 2026|
 |**Intuit**|[Amend a Git Commit from Bash](https://www.fastprep.io/project-coding/intuit-amend-git-commit-history)|[![Practice][p]](https://www.fastprep.io/project-coding/intuit-amend-git-commit-history)|🆕 Sep 24, 2026|

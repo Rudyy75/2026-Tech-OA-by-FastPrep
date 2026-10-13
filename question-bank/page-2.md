@@ -9,6 +9,11 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Scale AI**|[Design an Insurance Claims RAG Agent](https://www.fastprep.io/system-design/insurance-claims-rag-agent)|System design|[![Practice][p]](https://www.fastprep.io/system-design/insurance-claims-rag-agent)|Apr 13, 2026|
+|**Scale AI**|[Debug Missing Model Output](https://www.fastprep.io/project-coding/scale-ai-prompt-hash-output-debugger)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-prompt-hash-output-debugger)|Apr 13, 2026|
+|**Superhuman**|[Lost Messages](https://www.fastprep.io/problems/superhuman-lost-messages)|Coding|[![Practice][p]](https://www.fastprep.io/problems/superhuman-lost-messages)|Apr 10, 2026|
+|**Superhuman**|[Optimal Transfer](https://www.fastprep.io/problems/superhuman-optimal-transfer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/superhuman-optimal-transfer)|Apr 10, 2026|
+|**Superhuman**|[Math Homework](https://www.fastprep.io/problems/superhuman-math-homework)|Coding|[![Practice][p]](https://www.fastprep.io/problems/superhuman-math-homework)|Apr 10, 2026|
 |**Amazon**|[Dynamic Kth Largest Queries](https://www.fastprep.io/problems/amazon-dynamic-kth-largest-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-dynamic-kth-largest-queries)|Apr 09, 2026|
 |**Amazon**|[Longest Zero Sum Subarray](https://www.fastprep.io/problems/amazon-longest-zero-sum-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-longest-zero-sum-subarray)|Apr 09, 2026|
 |**Amazon**|[Maximize Minimum Machine Power](https://www.fastprep.io/problems/amazon-maximize-minimum-machine-power)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-minimum-machine-power)|Apr 09, 2026|
