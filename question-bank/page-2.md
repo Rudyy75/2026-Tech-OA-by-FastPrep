@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Scale AI**|[Repair Contractor Project Assignment](https://www.fastprep.io/project-coding/scale-ai-contractor-course-project-assignment-debugging)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-contractor-course-project-assignment-debugging)|Apr 21, 2026|
+|**Point72**|[Initial Public Offering](https://www.fastprep.io/problems/point72-initial-public-offering)|Coding|[![Practice][p]](https://www.fastprep.io/problems/point72-initial-public-offering)|Apr 19, 2026|
+|**Amazon**|[Get Min Errors](https://www.fastprep.io/problems/amazon-get-min-errors)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-errors)|Apr 16, 2026|
 |**Mistral AI**|[PDF-to-Markdown Inference API](https://www.fastprep.io/system-design/pdf-to-markdown-inference-api)|System design|[![Practice][p]](https://www.fastprep.io/system-design/pdf-to-markdown-inference-api)|Apr 16, 2026|
 |**Google / Datadog**|[Design a Real-Time Anomaly Detection Service](https://www.fastprep.io/system-design/real-time-anomaly-detection-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/real-time-anomaly-detection-service)|Apr 15, 2026|
 |**Datadog**|[Design Memory-Bounded Ordinary Least Squares](https://www.fastprep.io/system-design/memory-bounded-ordinary-least-squares)|System design|[![Practice][p]](https://www.fastprep.io/system-design/memory-bounded-ordinary-least-squares)|Apr 15, 2026|
@@ -147,7 +150,6 @@
 |**Stripe**|[Complete a Paginated API Synchronization](https://www.fastprep.io/project-coding/stripe-paginated-api-synchronization)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-paginated-api-synchronization)|Dec 04, 2025|
 |**Accenture**|[Array Leader Elements](https://www.fastprep.io/problems/accenture-array-leader-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/accenture-array-leader-elements)|Nov 28, 2025|
 |**Microsoft / Meta**|[Design a Learned Candidate Ranking Service](https://www.fastprep.io/system-design/learned-candidate-ranking-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/learned-candidate-ranking-service)|Nov 26, 2025|
-|**Sierra**|[Design a Resumable Streaming AI Chat](https://www.fastprep.io/system-design/resumable-streaming-ai-chat)|System design|[![Practice][p]](https://www.fastprep.io/system-design/resumable-streaming-ai-chat)|Nov 24, 2025|
 |**BitGo**|[Design and Implement an In-Memory Relational Database Engine](https://www.fastprep.io/low-level-design/in-memory-relational-database-engine)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-relational-database-engine)|Nov 23, 2025|
 |**Bloomberg LP**|[Design and Implement a Fair Event Registration Queue](https://www.fastprep.io/low-level-design/fair-event-registration-queue)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/fair-event-registration-queue)|Nov 21, 2025|
 |**Rippling**|[Song Play Analytics](https://www.fastprep.io/problems/rippling-song-play-analytics)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-song-play-analytics)|Nov 20, 2025|
