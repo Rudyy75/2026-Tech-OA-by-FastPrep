@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,130)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (591)](formats/system-design.md) · [Low-level design (175)](formats/low-level-design.md) · [AI coding (82)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,130)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (591)](formats/system-design.md) · [Low-level design (175)](formats/low-level-design.md) · [AI coding (84)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -33,6 +33,10 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 <!-- question-pages:end -->
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Anthropic**|[Design a Gang-Scheduled GPU Inference Pool](https://www.fastprep.io/system-design/gang-scheduled-gpu-inference-pool)|System design|[![Practice][p]](https://www.fastprep.io/system-design/gang-scheduled-gpu-inference-pool)|🔥 Oct 15, 2026|
+|**LinkedIn**|[Design a Personalized Recruiter Outreach Platform](https://www.fastprep.io/system-design/personalized-recruiter-outreach-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-recruiter-outreach-platform)|🔥 Oct 15, 2026|
+|**Google / ByteDance**|[Design Fraud-Risk Scoring for Protected Actions](https://www.fastprep.io/system-design/fraud-risk-scoring-for-protected-actions)|System design|[![Practice][p]](https://www.fastprep.io/system-design/fraud-risk-scoring-for-protected-actions)|🔥 Oct 15, 2026|
+|**StackAdapt**|[Repair Corrupted Grid Digit Recognition](https://www.fastprep.io/project-coding/stackadapt-corrupted-grid-digit-recognition)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stackadapt-corrupted-grid-digit-recognition)|🔥 Oct 15, 2026|
 |**Coinbase / Goldman Sachs / Robinhood**|[Design a Brokerage Order Processing System](https://www.fastprep.io/system-design/brokerage-order-processing-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/brokerage-order-processing-system)|🔥 Oct 14, 2026|
 |**Attentive / Oracle / Amperity / Snap Inc. / Waabi / LinkedIn**|[Design a Time Series Metrics Database](https://www.fastprep.io/system-design/time-series-metrics-database)|System design|[![Practice][p]](https://www.fastprep.io/system-design/time-series-metrics-database)|🔥 Oct 14, 2026|
 |**Perplexity AI**|[Design Durable Long-Running Agentic Query Execution](https://www.fastprep.io/system-design/long-running-agentic-query-execution)|System design|[![Practice][p]](https://www.fastprep.io/system-design/long-running-agentic-query-execution)|🔥 Oct 14, 2026|
@@ -146,13 +150,11 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Roblox**|[Design an Image Feed](https://www.fastprep.io/system-design/image-feed-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/image-feed-system)|🔥 Oct 02, 2026|
 |**Zip**|[Repair Monthly Expense Attribution](https://www.fastprep.io/project-coding/zip-repair-monthly-expense-attribution)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/zip-repair-monthly-expense-attribution)|🔥 Oct 02, 2026|
 |**Zscaler / Amazon / Walmart / Stripe / ByteDance / Bloomberg LP / OpenAI / New Relic**|[Design a Global Service Metrics Monitoring and Alerting Platform](https://www.fastprep.io/system-design/global-service-metrics-monitoring-and-alerting)|System design|[![Practice][p]](https://www.fastprep.io/system-design/global-service-metrics-monitoring-and-alerting)|🔥 Oct 02, 2026|
-|**Anthropic**|[Design a Gang-Scheduled GPU Inference Pool](https://www.fastprep.io/system-design/gang-scheduled-gpu-inference-pool)|System design|[![Practice][p]](https://www.fastprep.io/system-design/gang-scheduled-gpu-inference-pool)|🔥 Oct 02, 2026|
 |**OpenAI**|[Design and Implement an Extensible Three-Card Hand Evaluator](https://www.fastprep.io/low-level-design/extensible-three-card-hand-evaluator)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-three-card-hand-evaluator)|🔥 Oct 02, 2026|
 |**Dell Technologies**|[Design and Implement a Hash Map](https://www.fastprep.io/low-level-design/test-driven-hash-map)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/test-driven-hash-map)|🔥 Oct 02, 2026|
 |**Microsoft**|[Design and Implement an Attack-Path Graph Domain](https://www.fastprep.io/low-level-design/attack-path-graph-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/attack-path-graph-domain)|🔥 Oct 02, 2026|
 |**Waymo / Nuro**|[Design a Distributed Simulation Platform](https://www.fastprep.io/system-design/distributed-simulation-job-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-simulation-job-platform)|🆕 Oct 01, 2026|
 |**LinkedIn**|[Design a Job-Click Prediction Platform](https://www.fastprep.io/system-design/job-click-prediction-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/job-click-prediction-platform)|🆕 Oct 01, 2026|
-|**LinkedIn**|[Design a Personalized Recruiter Outreach Platform](https://www.fastprep.io/system-design/personalized-recruiter-outreach-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-recruiter-outreach-platform)|🆕 Oct 01, 2026|
 |**Microsoft**|[Design an Employee Attrition Risk Platform](https://www.fastprep.io/system-design/employee-attrition-risk-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/employee-attrition-risk-platform)|🆕 Oct 01, 2026|
 |**Pinterest / Slack / Motive**|[Design a Typeahead Suggestion Service](https://www.fastprep.io/system-design/typeahead-suggestion-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/typeahead-suggestion-service)|🆕 Oct 01, 2026|
 |**Bloomberg LP / Uber**|[Design a Real-Time Stock Alert System](https://www.fastprep.io/system-design/configurable-real-time-stock-alerts)|System design|[![Practice][p]](https://www.fastprep.io/system-design/configurable-real-time-stock-alerts)|🆕 Oct 01, 2026|
@@ -1691,6 +1693,4 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Meta**|[Design an Account Risk Detection and Learning Pipeline](https://www.fastprep.io/system-design/account-risk-detection-and-learning-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/account-risk-detection-and-learning-pipeline)|Apr 24, 2026|
 |**Meta**|[Design a Six-Month Like Signal for Feed Scoring](https://www.fastprep.io/system-design/six-month-post-like-signal)|System design|[![Practice][p]](https://www.fastprep.io/system-design/six-month-post-like-signal)|Apr 24, 2026|
 |**Meta**|[Design an Event Attendance Prediction Service](https://www.fastprep.io/system-design/event-attendance-prediction-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/event-attendance-prediction-service)|Apr 24, 2026|
-|**Meta**|[Design Place Recommendations for a Moving User](https://www.fastprep.io/system-design/moving-user-local-place-discovery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/moving-user-local-place-discovery)|Apr 24, 2026|
-|**Meta**|[Repair and Extend a Maze Solver](https://www.fastprep.io/project-coding/meta-maze-solver)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/meta-maze-solver)|Apr 24, 2026|
 <a id="bottom"></a>
