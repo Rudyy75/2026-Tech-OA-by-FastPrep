@@ -9,6 +9,11 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Meta**|[Design Feed Dislike Prediction](https://www.fastprep.io/system-design/feed-dislike-prediction-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/feed-dislike-prediction-service)|Apr 24, 2026|
+|**Meta**|[Design Regional Image Copy and Rights Detection](https://www.fastprep.io/system-design/regional-image-copy-and-rights-detection)|System design|[![Practice][p]](https://www.fastprep.io/system-design/regional-image-copy-and-rights-detection)|Apr 24, 2026|
+|**Meta**|[Design an Account Risk Detection and Learning Pipeline](https://www.fastprep.io/system-design/account-risk-detection-and-learning-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/account-risk-detection-and-learning-pipeline)|Apr 24, 2026|
+|**Meta**|[Design a Six-Month Like Signal for Feed Scoring](https://www.fastprep.io/system-design/six-month-post-like-signal)|System design|[![Practice][p]](https://www.fastprep.io/system-design/six-month-post-like-signal)|Apr 24, 2026|
+|**Meta**|[Design an Event Attendance Prediction Service](https://www.fastprep.io/system-design/event-attendance-prediction-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/event-attendance-prediction-service)|Apr 24, 2026|
 |**Meta**|[Design Place Recommendations for a Moving User](https://www.fastprep.io/system-design/moving-user-local-place-discovery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/moving-user-local-place-discovery)|Apr 24, 2026|
 |**Meta**|[Repair and Extend a Maze Solver](https://www.fastprep.io/project-coding/meta-maze-solver)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/meta-maze-solver)|Apr 24, 2026|
 |**Scale AI**|[Repair Contractor Project Assignment](https://www.fastprep.io/project-coding/scale-ai-contractor-course-project-assignment-debugging)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-contractor-course-project-assignment-debugging)|Apr 21, 2026|

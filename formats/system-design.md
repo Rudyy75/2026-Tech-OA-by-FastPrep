@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**591 questions**
+**592 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Klaviyo**|[AI Engineer Intern Mock: Explain and Extend Your AI Project](https://www.fastprep.io/system-design/mock-ai-intern-project-retrospective)|[![Practice][p]](https://www.fastprep.io/system-design/mock-ai-intern-project-retrospective)|🔥 Oct 16, 2026|
 |**Anthropic**|[Design a Gang-Scheduled GPU Inference Pool](https://www.fastprep.io/system-design/gang-scheduled-gpu-inference-pool)|[![Practice][p]](https://www.fastprep.io/system-design/gang-scheduled-gpu-inference-pool)|🔥 Oct 15, 2026|
 |**LinkedIn**|[Design a Personalized Recruiter Outreach Platform](https://www.fastprep.io/system-design/personalized-recruiter-outreach-platform)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-recruiter-outreach-platform)|🔥 Oct 15, 2026|
 |**Google / ByteDance**|[Design Fraud-Risk Scoring for Protected Actions](https://www.fastprep.io/system-design/fraud-risk-scoring-for-protected-actions)|[![Practice][p]](https://www.fastprep.io/system-design/fraud-risk-scoring-for-protected-actions)|🔥 Oct 15, 2026|

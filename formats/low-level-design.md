@@ -8,6 +8,7 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Nykaa / Navi / Atlys**|[Design a Shared Expense Splitting Service](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|🔥 Oct 15, 2026|
 |**Globalization Partners / Coupa Software / Adobe**|[Design and Repair a Thread-Safe Configuration Singleton](https://www.fastprep.io/low-level-design/thread-safe-configuration-singleton)|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-configuration-singleton)|🔥 Oct 13, 2026|
 |**Adobe**|[Design and Implement Shared and Weak Ownership Pointers](https://www.fastprep.io/low-level-design/smart-pointer-ownership-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/smart-pointer-ownership-domain)|🔥 Oct 13, 2026|
 |**Amazon / Goldman Sachs / Wayfair / Walmart / Navan / Uber**|[Design a Multi-Floor Parking Lot](https://www.fastprep.io/low-level-design/multi-floor-parking-lot)|[![Practice][p]](https://www.fastprep.io/low-level-design/multi-floor-parking-lot)|🔥 Oct 12, 2026|
@@ -40,7 +41,6 @@
 |**Microsoft**|[Design and Implement an Attack-Path Graph Domain](https://www.fastprep.io/low-level-design/attack-path-graph-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/attack-path-graph-domain)|🔥 Oct 02, 2026|
 |**Uber**|[Design and Implement a Social News Feed Domain](https://www.fastprep.io/low-level-design/social-news-feed-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/social-news-feed-domain)|🆕 Oct 01, 2026|
 |**Google**|[Design and Implement a Concurrent Priority Task Scheduler](https://www.fastprep.io/low-level-design/concurrent-priority-timeout-task-scheduler)|[![Practice][p]](https://www.fastprep.io/low-level-design/concurrent-priority-timeout-task-scheduler)|🆕 Sep 30, 2026|
-|**Nykaa / Navi**|[Design a Shared Expense Splitting Service](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|🆕 Sep 30, 2026|
 |**GoodScore / amo**|[Design and Implement a Thread-Safe In-Memory Task Queue](https://www.fastprep.io/low-level-design/thread-safe-in-memory-task-queue)|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-in-memory-task-queue)|🆕 Sep 30, 2026|
 |**amo**|[Design a Concurrent Multi-Producer Multi-Consumer Queue](https://www.fastprep.io/low-level-design/concurrent-mpmc-queue-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/concurrent-mpmc-queue-domain)|🆕 Sep 30, 2026|
 |**Navi**|[Design and Implement a Shared Expense Tracker](https://www.fastprep.io/low-level-design/shared-expense-tracker-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/shared-expense-tracker-domain)|🆕 Sep 30, 2026|

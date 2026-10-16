@@ -2,12 +2,15 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**84 questions**
+**87 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Klaviyo**|[AI Engineer Intern Mock: Customer Message Classifier](https://www.fastprep.io/project-coding/mock-ai-intern-customer-message-classifier)|[![Practice][p]](https://www.fastprep.io/project-coding/mock-ai-intern-customer-message-classifier)|🔥 Oct 16, 2026|
+|**Klaviyo**|[AI Engineer Intern Mock: Repair a Classifier Cache](https://www.fastprep.io/project-coding/mock-ai-intern-classifier-cache)|[![Practice][p]](https://www.fastprep.io/project-coding/mock-ai-intern-classifier-cache)|🔥 Oct 16, 2026|
+|**Klaviyo**|[AI Engineer Intern Mock: Search Customer Messages](https://www.fastprep.io/project-coding/mock-ai-intern-customer-message-search)|[![Practice][p]](https://www.fastprep.io/project-coding/mock-ai-intern-customer-message-search)|🔥 Oct 16, 2026|
 |**StackAdapt**|[Repair Corrupted Grid Digit Recognition](https://www.fastprep.io/project-coding/stackadapt-corrupted-grid-digit-recognition)|[![Practice][p]](https://www.fastprep.io/project-coding/stackadapt-corrupted-grid-digit-recognition)|🔥 Oct 15, 2026|
 |**Dell Technologies**|[Repair Expiration and Soft Deletion](https://www.fastprep.io/project-coding/dell-expiration-soft-delete-repair)|[![Practice][p]](https://www.fastprep.io/project-coding/dell-expiration-soft-delete-repair)|🔥 Oct 11, 2026|
 |**PhonePe**|[Complete a Journey Stage Event Service](https://www.fastprep.io/project-coding/phonepe-journey-stage-event-service)|[![Practice][p]](https://www.fastprep.io/project-coding/phonepe-journey-stage-event-service)|🔥 Oct 10, 2026|
