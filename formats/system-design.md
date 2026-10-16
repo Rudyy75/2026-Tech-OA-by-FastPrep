@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**592 questions**
+**593 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -363,7 +363,7 @@
 |**Zoox**|[Design a Real-Time Fleet Location Display](https://www.fastprep.io/system-design/real-time-fleet-location-display)|[![Practice][p]](https://www.fastprep.io/system-design/real-time-fleet-location-display)|Aug 07, 2026|
 |**Figma**|[Design Trending Design Files](https://www.fastprep.io/system-design/trending-design-files)|[![Practice][p]](https://www.fastprep.io/system-design/trending-design-files)|Aug 07, 2026|
 |**Rippling**|[Design a Frontend News Feed with Offline Virtualization](https://www.fastprep.io/system-design/frontend-news-feed-offline-virtualization)|[![Practice][p]](https://www.fastprep.io/system-design/frontend-news-feed-offline-virtualization)|Aug 06, 2026|
-|**Amazon**|[Design an ML Training and Deployment Platform](https://www.fastprep.io/system-design/ml-training-and-inference-platform)|[![Practice][p]](https://www.fastprep.io/system-design/ml-training-and-inference-platform)|Aug 06, 2026|
+|**Amazon / Apple**|[Design an ML Training and Deployment Platform](https://www.fastprep.io/system-design/ml-training-and-inference-platform)|[![Practice][p]](https://www.fastprep.io/system-design/ml-training-and-inference-platform)|Aug 06, 2026|
 |**Pinterest**|[Design Viral Comment Notification Aggregation](https://www.fastprep.io/system-design/viral-comment-notification-aggregation)|[![Practice][p]](https://www.fastprep.io/system-design/viral-comment-notification-aggregation)|Aug 06, 2026|
 |**Infosys**|[Design Offline-First Document Autosave and Synchronization](https://www.fastprep.io/system-design/offline-first-document-autosave-sync)|[![Practice][p]](https://www.fastprep.io/system-design/offline-first-document-autosave-sync)|Aug 06, 2026|
 |**Otter.ai**|[Design a Meeting Bot Allocation and Status Platform](https://www.fastprep.io/system-design/meeting-bot-allocation-and-status-platform)|[![Practice][p]](https://www.fastprep.io/system-design/meeting-bot-allocation-and-status-platform)|Aug 06, 2026|
@@ -414,7 +414,7 @@
 |**Assort Health**|[Design a Conversational Flight Search and Booking Agent](https://www.fastprep.io/system-design/conversational-flight-search-and-booking-agent)|[![Practice][p]](https://www.fastprep.io/system-design/conversational-flight-search-and-booking-agent)|Jul 20, 2026|
 |**Google**|[Design Distributed Streaming Skill Matching](https://www.fastprep.io/system-design/distributed-streaming-skill-matching-platform)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-streaming-skill-matching-platform)|Jul 19, 2026|
 |**Apple / Atlassian / Wayfair**|[Design a Large JSON and XML Transformation Service](https://www.fastprep.io/system-design/large-json-transformation-service)|[![Practice][p]](https://www.fastprep.io/system-design/large-json-transformation-service)|Jul 18, 2026|
-|**Pinterest**|[Design a Real-Time Category Leaderboard](https://www.fastprep.io/system-design/real-time-category-leaderboard)|[![Practice][p]](https://www.fastprep.io/system-design/real-time-category-leaderboard)|Jul 18, 2026|
+|**Pinterest / Apple**|[Design a Real-Time Category Leaderboard](https://www.fastprep.io/system-design/real-time-category-leaderboard)|[![Practice][p]](https://www.fastprep.io/system-design/real-time-category-leaderboard)|Jul 18, 2026|
 |**Uber**|[Design a Driver Payout System](https://www.fastprep.io/system-design/uber-driver-payout)|[![Practice][p]](https://www.fastprep.io/system-design/uber-driver-payout)|Jul 17, 2026|
 |**Microsoft**|[Design a Real-Time Multiplayer Game](https://www.fastprep.io/system-design/real-time-multiplayer-game)|[![Practice][p]](https://www.fastprep.io/system-design/real-time-multiplayer-game)|Jul 17, 2026|
 |**Waymo**|[Design a Global Small-Image Cache](https://www.fastprep.io/system-design/global-small-image-cache)|[![Practice][p]](https://www.fastprep.io/system-design/global-small-image-cache)|Jul 14, 2026|
@@ -599,5 +599,6 @@
 |**Postman**|[Design an Authenticated Page Presence Counter](https://www.fastprep.io/system-design/authenticated-page-presence-counter)|[![Practice][p]](https://www.fastprep.io/system-design/authenticated-page-presence-counter)|Mar 31, 2020|
 |**Microsoft**|[Design a Spreadsheet Next-Command Recommender](https://www.fastprep.io/system-design/spreadsheet-next-command-recommender)|[![Practice][p]](https://www.fastprep.io/system-design/spreadsheet-next-command-recommender)|Feb 11, 2020|
 |**Google**|[Design an Incremental Spelling and Grammar Assistant](https://www.fastprep.io/system-design/incremental-spelling-and-grammar-assistant)|[![Practice][p]](https://www.fastprep.io/system-design/incremental-spelling-and-grammar-assistant)|Dec 05, 2019|
+|**Apple**|[Design a Recursive DNS Resolver](https://www.fastprep.io/system-design/recursive-dns-resolver)|[![Practice][p]](https://www.fastprep.io/system-design/recursive-dns-resolver)|Jan 22, 2019|
 |**ZipRecruiter**|[Design a Community URL Shortening Service](https://www.fastprep.io/system-design/community-url-shortening-service)|[![Practice][p]](https://www.fastprep.io/system-design/community-url-shortening-service)|Feb 03, 2017|
 <a id="bottom"></a>

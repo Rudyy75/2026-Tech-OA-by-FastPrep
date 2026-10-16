@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,130)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (592)](formats/system-design.md) · [Low-level design (175)](formats/low-level-design.md) · [AI coding (87)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,130)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (593)](formats/system-design.md) · [Low-level design (177)](formats/low-level-design.md) · [AI coding (87)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -1118,7 +1118,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Figma**|[Design Trending Design Files](https://www.fastprep.io/system-design/trending-design-files)|System design|[![Practice][p]](https://www.fastprep.io/system-design/trending-design-files)|Aug 07, 2026|
 |**Anthropic**|[Repair an Agent and Reduce Its Turn Count](https://www.fastprep.io/project-coding/anthropic-agent-turn-reduction)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-agent-turn-reduction)|Aug 06, 2026|
 |**Rippling**|[Design a Frontend News Feed with Offline Virtualization](https://www.fastprep.io/system-design/frontend-news-feed-offline-virtualization)|System design|[![Practice][p]](https://www.fastprep.io/system-design/frontend-news-feed-offline-virtualization)|Aug 06, 2026|
-|**Amazon**|[Design an ML Training and Deployment Platform](https://www.fastprep.io/system-design/ml-training-and-inference-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ml-training-and-inference-platform)|Aug 06, 2026|
+|**Amazon / Apple**|[Design an ML Training and Deployment Platform](https://www.fastprep.io/system-design/ml-training-and-inference-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ml-training-and-inference-platform)|Aug 06, 2026|
 |**Pinterest**|[Design Viral Comment Notification Aggregation](https://www.fastprep.io/system-design/viral-comment-notification-aggregation)|System design|[![Practice][p]](https://www.fastprep.io/system-design/viral-comment-notification-aggregation)|Aug 06, 2026|
 |**Infosys**|[Design Offline-First Document Autosave and Synchronization](https://www.fastprep.io/system-design/offline-first-document-autosave-sync)|System design|[![Practice][p]](https://www.fastprep.io/system-design/offline-first-document-autosave-sync)|Aug 06, 2026|
 |**Otter.ai**|[Design a Meeting Bot Allocation and Status Platform](https://www.fastprep.io/system-design/meeting-bot-allocation-and-status-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/meeting-bot-allocation-and-status-platform)|Aug 06, 2026|
@@ -1265,6 +1265,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Distyl AI**|[Design an Iterative Compound-LLM Defense Generator](https://www.fastprep.io/system-design/iterative-compound-llm-defense-generator)|System design|[![Practice][p]](https://www.fastprep.io/system-design/iterative-compound-llm-defense-generator)|Jul 27, 2026|
 |**Hudson River Trading**|[Design Shared NFS Read Acceleration](https://www.fastprep.io/system-design/shared-nfs-read-acceleration)|System design|[![Practice][p]](https://www.fastprep.io/system-design/shared-nfs-read-acceleration)|Jul 27, 2026|
 |**Coinbase / Airbnb**|[In-Memory Database](https://www.fastprep.io/project-coding/in-memory-database)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/in-memory-database)|Jul 27, 2026|
+|**Headlands Technologies / Apple**|[Shared-Memory Single-Writer Single-Reader Channel](https://www.fastprep.io/low-level-design/shared-memory-spsc-channel)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/shared-memory-spsc-channel)|Jul 27, 2026|
 |**Airbnb**|[Worker Management, Part 1: Office Registration](https://www.fastprep.io/problems/airbnb-worker-management-level-1)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-worker-management-level-1)|Jul 26, 2026|
 |**Airbnb**|[Worker Management, Part 2: Top Workers](https://www.fastprep.io/problems/airbnb-worker-management-level-2)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-worker-management-level-2)|Jul 26, 2026|
 |**Airbnb**|[Worker Management, Part 3: Promotions and Salary](https://www.fastprep.io/problems/airbnb-worker-management-level-3)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-worker-management-level-3)|Jul 26, 2026|
@@ -1361,7 +1362,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**IDFC**|[Smallest Adjacent Concatenation](https://www.fastprep.io/problems/idfc-smallest-adjacent-concatenation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/idfc-smallest-adjacent-concatenation)|Jul 18, 2026|
 |**IDFC**|[Minimum Cake Cuts](https://www.fastprep.io/problems/idfc-minimum-cake-cuts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/idfc-minimum-cake-cuts)|Jul 18, 2026|
 |**Apple / Atlassian / Wayfair**|[Design a Large JSON and XML Transformation Service](https://www.fastprep.io/system-design/large-json-transformation-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/large-json-transformation-service)|Jul 18, 2026|
-|**Pinterest**|[Design a Real-Time Category Leaderboard](https://www.fastprep.io/system-design/real-time-category-leaderboard)|System design|[![Practice][p]](https://www.fastprep.io/system-design/real-time-category-leaderboard)|Jul 18, 2026|
+|**Pinterest / Apple**|[Design a Real-Time Category Leaderboard](https://www.fastprep.io/system-design/real-time-category-leaderboard)|System design|[![Practice][p]](https://www.fastprep.io/system-design/real-time-category-leaderboard)|Jul 18, 2026|
 |**Cursor**|[Design and Implement a Pluggable Notification Rate Limiter](https://www.fastprep.io/low-level-design/pluggable-notification-rate-limiter)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/pluggable-notification-rate-limiter)|Jul 18, 2026|
 |**Goldman Sachs**|[Inherited Role Permissions](https://www.fastprep.io/problems/goldman-sachs-role-permissions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-role-permissions)|Jul 17, 2026|
 |**Goldman Sachs**|[Root of the Largest Tree](https://www.fastprep.io/problems/goldman-sachs-largest-tree-root)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-largest-tree-root)|Jul 17, 2026|
@@ -1691,5 +1692,4 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Uber**|[Balanced Prefix Sets in a Permutation](https://www.fastprep.io/problems/uber-balanced-prefix-sets-in-permutation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-balanced-prefix-sets-in-permutation)|Apr 25, 2026|
 |**Uber**|[Minimum Edge Reversals to Root a Tree](https://www.fastprep.io/problems/uber-minimum-edge-reversals-root)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-minimum-edge-reversals-root)|Apr 25, 2026|
 |**Amazon**|[Design a Fastag Toll Payment System](https://www.fastprep.io/system-design/fastag-toll-payment-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/fastag-toll-payment-system)|Apr 25, 2026|
-|**Amazon**|[Design a Standard Deck with Shuffle and Sort](https://www.fastprep.io/low-level-design/standard-deck-shuffle-and-sort)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/standard-deck-shuffle-and-sort)|Apr 25, 2026|
 <a id="bottom"></a>
