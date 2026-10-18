@@ -9,6 +9,11 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Visa**|[Longest Selectable Non-Decreasing Subarray](https://www.fastprep.io/problems/visa-longest-selectable-nondecreasing-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-longest-selectable-nondecreasing-subarray)|Apr 27, 2026|
+|**Databricks**|[Find First Anagram Index](https://www.fastprep.io/problems/databricks-find-first-anagram-index)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-find-first-anagram-index)|Apr 27, 2026|
+|**Gemini**|[Minimum Fence Painting Operations](https://www.fastprep.io/problems/gemini-minimum-fence-painting-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/gemini-minimum-fence-painting-operations)|Apr 27, 2026|
+|**IBM**|[Count Power Products in Range](https://www.fastprep.io/problems/ibm-count-power-products-in-range)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-count-power-products-in-range)|Apr 26, 2026|
+|**IBM**|[Count Descending Subarrays](https://www.fastprep.io/problems/ibm-count-descending-subarrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-count-descending-subarrays)|Apr 26, 2026|
 |**Zoox**|[Design a Robotaxi Teleoperations Analytics Platform](https://www.fastprep.io/system-design/robotaxi-teleoperations-analytics-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/robotaxi-teleoperations-analytics-platform)|Apr 26, 2026|
 |**Discord**|[Design a Video Call Analytics Platform](https://www.fastprep.io/system-design/video-call-analytics-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/video-call-analytics-platform)|Apr 26, 2026|
 |**Amazon**|[Count Similar String Groups](https://www.fastprep.io/problems/amazon-count-similar-string-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-similar-string-groups)|Apr 25, 2026|

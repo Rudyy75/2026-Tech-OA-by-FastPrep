@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**177 questions**
+**179 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Amazon**|[Design a Package Delivery Assignment Domain](https://www.fastprep.io/low-level-design/package-delivery-assignment-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/package-delivery-assignment-domain)|🔥 Oct 17, 2026|
+|**Amazon**|[Design a Delivery Slot Booking Domain](https://www.fastprep.io/low-level-design/delivery-slot-booking-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/delivery-slot-booking-domain)|🔥 Oct 16, 2026|
 |**Nykaa / Navi / Atlys**|[Design a Shared Expense Splitting Service](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|🔥 Oct 15, 2026|
 |**Databricks**|[Design a WAL-Backed Batch Log Writer](https://www.fastprep.io/low-level-design/wal-backed-batch-log-writer)|[![Practice][p]](https://www.fastprep.io/low-level-design/wal-backed-batch-log-writer)|🔥 Oct 15, 2026|
 |**Globalization Partners / Coupa Software / Adobe**|[Design and Repair a Thread-Safe Configuration Singleton](https://www.fastprep.io/low-level-design/thread-safe-configuration-singleton)|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-configuration-singleton)|🔥 Oct 13, 2026|
