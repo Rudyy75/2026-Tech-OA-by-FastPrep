@@ -2,12 +2,20 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**600 questions**
+**608 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Snowflake**|[Declarative Cluster Control Plane](https://www.fastprep.io/system-design/declarative-cluster-control-plane)|[![Practice][p]](https://www.fastprep.io/system-design/declarative-cluster-control-plane)|🔥 Oct 19, 2026|
+|**Snowflake**|[Design a Resilient Third-Party Token Client](https://www.fastprep.io/system-design/resilient-third-party-token-client)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-third-party-token-client)|🔥 Oct 19, 2026|
+|**Snowflake**|[Design a Shared User Quota Authority](https://www.fastprep.io/system-design/shared-user-quota-authority)|[![Practice][p]](https://www.fastprep.io/system-design/shared-user-quota-authority)|🔥 Oct 19, 2026|
+|**Snowflake**|[Design an Application Logging Client Library](https://www.fastprep.io/system-design/application-logging-client-library)|[![Practice][p]](https://www.fastprep.io/system-design/application-logging-client-library)|🔥 Oct 19, 2026|
+|**Snowflake**|[Design an Auditable Event Trail Service](https://www.fastprep.io/system-design/auditable-event-trail-service)|[![Practice][p]](https://www.fastprep.io/system-design/auditable-event-trail-service)|🔥 Oct 19, 2026|
+|**Snowflake**|[Fault-Tolerant Batch Dataflow Engine](https://www.fastprep.io/system-design/fault-tolerant-batch-dataflow-engine)|[![Practice][p]](https://www.fastprep.io/system-design/fault-tolerant-batch-dataflow-engine)|🔥 Oct 19, 2026|
+|**Snowflake**|[Resilient REST Call Abstraction](https://www.fastprep.io/system-design/resilient-rest-call-abstraction)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-rest-call-abstraction)|🔥 Oct 19, 2026|
+|**Snowflake**|[Versioned Query-DAG Result Cache](https://www.fastprep.io/system-design/versioned-query-dag-result-cache)|[![Practice][p]](https://www.fastprep.io/system-design/versioned-query-dag-result-cache)|🔥 Oct 19, 2026|
 |**Unattributed**|[Design a Medicine Delivery Platform](https://www.fastprep.io/system-design/medicine-delivery-platform)|[![Practice][p]](https://www.fastprep.io/system-design/medicine-delivery-platform)|🔥 Oct 18, 2026|
 |**Agoda**|[Design a Flight Search and Booking Aggregator](https://www.fastprep.io/system-design/flight-search-booking-aggregation-platform)|[![Practice][p]](https://www.fastprep.io/system-design/flight-search-booking-aggregation-platform)|🔥 Oct 17, 2026|
 |**Agoda**|[Design a Supplier Booking-Pull Platform](https://www.fastprep.io/system-design/supplier-booking-pull-platform)|[![Practice][p]](https://www.fastprep.io/system-design/supplier-booking-pull-platform)|🔥 Oct 17, 2026|
