@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**599 questions**
+**600 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Unattributed**|[Design a Medicine Delivery Platform](https://www.fastprep.io/system-design/medicine-delivery-platform)|[![Practice][p]](https://www.fastprep.io/system-design/medicine-delivery-platform)|🔥 Oct 18, 2026|
 |**Agoda**|[Design a Flight Search and Booking Aggregator](https://www.fastprep.io/system-design/flight-search-booking-aggregation-platform)|[![Practice][p]](https://www.fastprep.io/system-design/flight-search-booking-aggregation-platform)|🔥 Oct 17, 2026|
 |**Agoda**|[Design a Supplier Booking-Pull Platform](https://www.fastprep.io/system-design/supplier-booking-pull-platform)|[![Practice][p]](https://www.fastprep.io/system-design/supplier-booking-pull-platform)|🔥 Oct 17, 2026|
 |**Klaviyo**|[AI Engineer Intern Mock: Explain and Extend Your AI Project](https://www.fastprep.io/system-design/mock-ai-intern-project-retrospective)|[![Practice][p]](https://www.fastprep.io/system-design/mock-ai-intern-project-retrospective)|🔥 Oct 16, 2026|
@@ -18,6 +19,7 @@
 |**Postman / Uber Freight / LinkedIn / Safe Security**|[Design a Calendar Event Collaboration System](https://www.fastprep.io/system-design/calendar-event-collaboration-system)|[![Practice][p]](https://www.fastprep.io/system-design/calendar-event-collaboration-system)|🔥 Oct 16, 2026|
 |**Broccoli AI**|[Design a Cross-Network Social Feed](https://www.fastprep.io/system-design/cross-platform-social-feed)|[![Practice][p]](https://www.fastprep.io/system-design/cross-platform-social-feed)|🔥 Oct 16, 2026|
 |**Amazon**|[Design a Vaccination Appointment Platform](https://www.fastprep.io/system-design/vaccination-appointment-platform)|[![Practice][p]](https://www.fastprep.io/system-design/vaccination-appointment-platform)|🔥 Oct 16, 2026|
+|**Nykaa / Headway**|[Design a Cart-to-Order Inventory Platform](https://www.fastprep.io/system-design/cart-to-order-inventory-platform)|[![Practice][p]](https://www.fastprep.io/system-design/cart-to-order-inventory-platform)|🔥 Oct 16, 2026|
 |**Anthropic**|[Design a Gang-Scheduled GPU Inference Pool](https://www.fastprep.io/system-design/gang-scheduled-gpu-inference-pool)|[![Practice][p]](https://www.fastprep.io/system-design/gang-scheduled-gpu-inference-pool)|🔥 Oct 15, 2026|
 |**LinkedIn**|[Design a Personalized Recruiter Outreach Platform](https://www.fastprep.io/system-design/personalized-recruiter-outreach-platform)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-recruiter-outreach-platform)|🔥 Oct 15, 2026|
 |**Google / ByteDance**|[Design Fraud-Risk Scoring for Protected Actions](https://www.fastprep.io/system-design/fraud-risk-scoring-for-protected-actions)|[![Practice][p]](https://www.fastprep.io/system-design/fraud-risk-scoring-for-protected-actions)|🔥 Oct 15, 2026|
@@ -127,7 +129,6 @@
 |**Wayfair / PhonePe**|[Design an Audio Fingerprint Recognition Service](https://www.fastprep.io/system-design/audio-fingerprint-recognition-service)|[![Practice][p]](https://www.fastprep.io/system-design/audio-fingerprint-recognition-service)|🆕 Sep 29, 2026|
 |**Stripe / London Stock Exchange / Atlassian / Wayfair**|[Design an Idempotent Ledger Service](https://www.fastprep.io/system-design/idempotent-ledger-service)|[![Practice][p]](https://www.fastprep.io/system-design/idempotent-ledger-service)|🆕 Sep 29, 2026|
 |**Tesla / Nykaa**|[Design an E-commerce Order Fulfillment System](https://www.fastprep.io/system-design/amazon-order-fulfillment-system)|[![Practice][p]](https://www.fastprep.io/system-design/amazon-order-fulfillment-system)|🆕 Sep 29, 2026|
-|**Nykaa**|[Design a Cart-to-Order Inventory Platform](https://www.fastprep.io/system-design/cart-to-order-inventory-platform)|[![Practice][p]](https://www.fastprep.io/system-design/cart-to-order-inventory-platform)|🆕 Sep 29, 2026|
 |**Attentive**|[Design Retailer Product Catalog Serving](https://www.fastprep.io/system-design/retailer-product-catalog-serving)|[![Practice][p]](https://www.fastprep.io/system-design/retailer-product-catalog-serving)|🆕 Sep 28, 2026|
 |**DigitalOcean / Attentive**|[Ad Serving and Performance Statistics](https://www.fastprep.io/system-design/ad-serving-performance-statistics)|[![Practice][p]](https://www.fastprep.io/system-design/ad-serving-performance-statistics)|🆕 Sep 28, 2026|
 |**Amazon / Tesla / Datadog / Oracle**|[Design a Video Storage and Streaming Platform](https://www.fastprep.io/system-design/video-storage-streaming-platform)|[![Practice][p]](https://www.fastprep.io/system-design/video-storage-streaming-platform)|🆕 Sep 28, 2026|

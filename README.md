@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,130)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (599)](formats/system-design.md) · [Low-level design (180)](formats/low-level-design.md) · [AI coding (90)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,130)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (600)](formats/system-design.md) · [Low-level design (180)](formats/low-level-design.md) · [AI coding (90)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -33,6 +33,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 <!-- question-pages:end -->
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Unattributed**|[Design a Medicine Delivery Platform](https://www.fastprep.io/system-design/medicine-delivery-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/medicine-delivery-platform)|🔥 Oct 18, 2026|
 |**Stripe**|[Repair Nested Record Value Normalization](https://www.fastprep.io/project-coding/stripe-nested-value-normalization)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-nested-value-normalization)|🔥 Oct 17, 2026|
 |**Agoda**|[Design a Flight Search and Booking Aggregator](https://www.fastprep.io/system-design/flight-search-booking-aggregation-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/flight-search-booking-aggregation-platform)|🔥 Oct 17, 2026|
 |**Agoda**|[Design a Supplier Booking-Pull Platform](https://www.fastprep.io/system-design/supplier-booking-pull-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/supplier-booking-pull-platform)|🔥 Oct 17, 2026|
@@ -49,6 +50,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Broccoli AI**|[Design a Cross-Network Social Feed](https://www.fastprep.io/system-design/cross-platform-social-feed)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cross-platform-social-feed)|🔥 Oct 16, 2026|
 |**Amazon**|[Design a Vaccination Appointment Platform](https://www.fastprep.io/system-design/vaccination-appointment-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/vaccination-appointment-platform)|🔥 Oct 16, 2026|
 |**Amazon**|[Design a Delivery Slot Booking Domain](https://www.fastprep.io/low-level-design/delivery-slot-booking-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/delivery-slot-booking-domain)|🔥 Oct 16, 2026|
+|**Nykaa / Headway**|[Design a Cart-to-Order Inventory Platform](https://www.fastprep.io/system-design/cart-to-order-inventory-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cart-to-order-inventory-platform)|🔥 Oct 16, 2026|
 |**Anthropic**|[Design a Gang-Scheduled GPU Inference Pool](https://www.fastprep.io/system-design/gang-scheduled-gpu-inference-pool)|System design|[![Practice][p]](https://www.fastprep.io/system-design/gang-scheduled-gpu-inference-pool)|🔥 Oct 15, 2026|
 |**LinkedIn**|[Design a Personalized Recruiter Outreach Platform](https://www.fastprep.io/system-design/personalized-recruiter-outreach-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-recruiter-outreach-platform)|🔥 Oct 15, 2026|
 |**Google / ByteDance**|[Design Fraud-Risk Scoring for Protected Actions](https://www.fastprep.io/system-design/fraud-risk-scoring-for-protected-actions)|System design|[![Practice][p]](https://www.fastprep.io/system-design/fraud-risk-scoring-for-protected-actions)|🔥 Oct 15, 2026|
@@ -215,7 +217,6 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Stripe / London Stock Exchange / Atlassian / Wayfair**|[Design an Idempotent Ledger Service](https://www.fastprep.io/system-design/idempotent-ledger-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/idempotent-ledger-service)|🆕 Sep 29, 2026|
 |**Tesla / Nykaa**|[Design an E-commerce Order Fulfillment System](https://www.fastprep.io/system-design/amazon-order-fulfillment-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/amazon-order-fulfillment-system)|🆕 Sep 29, 2026|
 |**Bloomberg LP / PhonePe**|[Design a To-do List with External Completion Status](https://www.fastprep.io/low-level-design/to-do-list-with-completion-checker)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/to-do-list-with-completion-checker)|🆕 Sep 29, 2026|
-|**Nykaa**|[Design a Cart-to-Order Inventory Platform](https://www.fastprep.io/system-design/cart-to-order-inventory-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cart-to-order-inventory-platform)|🆕 Sep 29, 2026|
 |**PhonePe**|[Design and Implement a To-Do Workflow Application](https://www.fastprep.io/low-level-design/to-do-workflow-application)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/to-do-workflow-application)|🆕 Sep 29, 2026|
 |**Attentive**|[Design Retailer Product Catalog Serving](https://www.fastprep.io/system-design/retailer-product-catalog-serving)|System design|[![Practice][p]](https://www.fastprep.io/system-design/retailer-product-catalog-serving)|🆕 Sep 28, 2026|
 |**DigitalOcean / Attentive**|[Ad Serving and Performance Statistics](https://www.fastprep.io/system-design/ad-serving-performance-statistics)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ad-serving-performance-statistics)|🆕 Sep 28, 2026|
@@ -1691,5 +1692,4 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Datadog**|[Find a Target Photo in a Stream](https://www.fastprep.io/system-design/photo-stream-exact-match-search)|System design|[![Practice][p]](https://www.fastprep.io/system-design/photo-stream-exact-match-search)|Apr 30, 2026|
 |**Oura**|[Assign Server Numbers by Type](https://www.fastprep.io/problems/oura-assign-server-numbers-by-type)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oura-assign-server-numbers-by-type)|Apr 28, 2026|
 |**Verkada**|[Find Valid IP Addresses](https://www.fastprep.io/problems/verkada-find-valid-ip-addresses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/verkada-find-valid-ip-addresses)|Apr 28, 2026|
-|**Visa**|[Maximize Capped Contribution Sum](https://www.fastprep.io/problems/visa-maximize-capped-contribution-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-maximize-capped-contribution-sum)|Apr 27, 2026|
 <a id="bottom"></a>
