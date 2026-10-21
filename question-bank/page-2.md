@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Uber**|[First Unique Log Entry](https://www.fastprep.io/problems/uber-first-unique-log-entry)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-first-unique-log-entry)|Apr 30, 2026|
 |**Uber**|[Top-K Using a Priority Queue](https://www.fastprep.io/problems/uber-top-k-using-priority-queue)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-top-k-using-priority-queue)|Apr 30, 2026|
 |**Stripe**|[Generate Available Time Slots](https://www.fastprep.io/problems/stripe-generate-available-time-slots)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-generate-available-time-slots)|Apr 30, 2026|
 |**Applied Intuition**|[KV Store with Nested Transactions](https://www.fastprep.io/problems/applied-intuition-kv-store-nested-transactions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/applied-intuition-kv-store-nested-transactions)|Apr 30, 2026|
@@ -68,7 +69,6 @@
 |**Amazon**|[Minimum Preparation Time for Two Handlers](https://www.fastprep.io/problems/amazon-minimum-preparation-time-for-two-handlers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-preparation-time-for-two-handlers)|Apr 06, 2026|
 |**Rubrik**|[Minimum Swaps To Binary Palindrome](https://www.fastprep.io/problems/rubrik-minimum-swaps-to-binary-palindrome)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rubrik-minimum-swaps-to-binary-palindrome)|Apr 04, 2026|
 |**Zorvyn**|[Shortest Path With K Free Edges](https://www.fastprep.io/problems/zorvyn-shortest-path-with-k-free-edges)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zorvyn-shortest-path-with-k-free-edges)|Apr 04, 2026|
-|**Confluent**|[Design and Implement a Random-Access FIFO Queue](https://www.fastprep.io/low-level-design/random-access-fifo-queue)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/random-access-fifo-queue)|Apr 03, 2026|
 |**Rippling**|[Driver Balance Ledger](https://www.fastprep.io/problems/rippling-driver-balance-ledger)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-driver-balance-ledger)|Apr 01, 2026|
 |**Rippling**|[Merge Overlapping Intervals](https://www.fastprep.io/problems/rippling-merge-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-merge-intervals)|Apr 01, 2026|
 |**Snowflake**|[Max Element Indexes After Rotations](https://www.fastprep.io/problems/snowflake-max-element-indexes-after-rotations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-max-element-indexes-after-rotations)|Mar 31, 2026|
