@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Roblox**|[Rate Limit by Multiple Request Fields](https://www.fastprep.io/problems/roblox-rate-limit-by-multiple-request-fields)|Coding|[![Practice][p]](https://www.fastprep.io/problems/roblox-rate-limit-by-multiple-request-fields)|May 05, 2026|
+|**Visa**|[Minimum Cost to Select People for Skill Quotas](https://www.fastprep.io/problems/visa-minimum-cost-to-select-people-for-skill-quotas)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-minimum-cost-to-select-people-for-skill-quotas)|May 05, 2026|
+|**IDFC**|[Special Binary String](https://www.fastprep.io/problems/idfc-special-binary-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/idfc-special-binary-string)|May 01, 2026|
+|**Perplexity AI / Datadog**|[Design a Personal Finance Aggregation Platform](https://www.fastprep.io/system-design/personal-finance-aggregation-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personal-finance-aggregation-platform)|May 01, 2026|
 |**Amazon**|[Feasible Indices After Reduction](https://www.fastprep.io/problems/amazon-feasible-indices-after-reduction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-feasible-indices-after-reduction)|Apr 30, 2026|
 |**Netflix**|[Command Undo Data Structure](https://www.fastprep.io/problems/netflix-command-undo-data-structure)|Coding|[![Practice][p]](https://www.fastprep.io/problems/netflix-command-undo-data-structure)|Apr 30, 2026|
 |**Google**|[Shortest Path with Mandatory Waypoint](https://www.fastprep.io/problems/google-shortest-path-with-mandatory-waypoint)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-shortest-path-with-mandatory-waypoint)|Apr 30, 2026|
