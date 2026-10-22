@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,130)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (611)](formats/system-design.md) · [Low-level design (181)](formats/low-level-design.md) · [AI coding (96)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,130)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (612)](formats/system-design.md) · [Low-level design (181)](formats/low-level-design.md) · [AI coding (96)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -34,6 +34,8 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
 |**Anthropic**|[Optimize a Simulated Accelerator Kernel](https://www.fastprep.io/project-coding/anthropic-simulated-accelerator-kernel-optimization)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-simulated-accelerator-kernel-optimization)|🔥 Oct 22, 2026|
+|**Amazon**|[Customer Support Chat Platform](https://www.fastprep.io/system-design/customer-support-chat-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/customer-support-chat-platform)|🔥 Oct 22, 2026|
+|**Amazon**|[Design a Scheduled Examination Platform](https://www.fastprep.io/system-design/scheduled-examination-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/scheduled-examination-platform)|🔥 Oct 22, 2026|
 |**Amazon**|[Repair My Cars Ownership and Saved Edits](https://www.fastprep.io/project-coding/amazon-car-rental-listing-repair)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-car-rental-listing-repair)|🔥 Oct 21, 2026|
 |**Confluent**|[Design a Podcast Subscription Feed API and Data Model](https://www.fastprep.io/system-design/podcast-subscription-feed-api-data-model)|System design|[![Practice][p]](https://www.fastprep.io/system-design/podcast-subscription-feed-api-data-model)|🔥 Oct 21, 2026|
 |**Amazon / OpenAI / Anthropic / eBay**|[Design a Large-Model Inference Serving Platform](https://www.fastprep.io/system-design/large-model-inference-serving-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/large-model-inference-serving-platform)|🔥 Oct 21, 2026|
@@ -994,7 +996,6 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**TikTok**|[Event ID Check Completion Times](https://www.fastprep.io/problems/tiktok-event-id-check-completion-times)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-event-id-check-completion-times)|Aug 26, 2026|
 |**TikTok**|[Find Sum Pairs (for mle also :)](https://www.fastprep.io/problems/tiktok-find-sum-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-find-sum-pairs)|Aug 26, 2026|
 |**Superhuman / Grammarly**|[Design an Ephemeral Messaging Service](https://www.fastprep.io/system-design/ephemeral-message-delivery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ephemeral-message-delivery)|Aug 26, 2026|
-|**Amazon**|[Customer Support Chat Platform](https://www.fastprep.io/system-design/customer-support-chat-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/customer-support-chat-platform)|Aug 26, 2026|
 |**ElevenLabs**|[AI-Assisted Commerce Platform](https://www.fastprep.io/system-design/ai-assisted-commerce-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ai-assisted-commerce-platform)|Aug 26, 2026|
 |**ByteDance**|[Match Consecutive Word Boundaries (for mle also :)](https://www.fastprep.io/problems/bytedance-match-consecutive-word-boundaries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-match-consecutive-word-boundaries)|Aug 25, 2026|
 |**ByteDance**|[Minimize Expression Value with Parentheses (for mle also :)](https://www.fastprep.io/problems/bytedance-minimize-expression-value-with-parentheses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-minimize-expression-value-with-parentheses)|Aug 25, 2026|
@@ -1689,5 +1690,4 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Stripe**|[Build an Image Prediction Pipeline](https://www.fastprep.io/project-coding/stripe-image-prediction-pipeline)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-image-prediction-pipeline)|May 06, 2026|
 |**OpenAI**|[ChatApp with Bots](https://www.fastprep.io/problems/openai-chatapp-with-bots)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-chatapp-with-bots)|May 05, 2026|
 |**OpenAI**|[IP Address to CIDR Blocks](https://www.fastprep.io/problems/openai-ip-address-to-cidr-blocks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-ip-address-to-cidr-blocks)|May 05, 2026|
-|**Roblox**|[Implement a Rate Limiter](https://www.fastprep.io/problems/roblox-implement-rate-limiter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/roblox-implement-rate-limiter)|May 05, 2026|
 <a id="bottom"></a>

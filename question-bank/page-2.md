@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Roblox**|[Implement a Rate Limiter](https://www.fastprep.io/problems/roblox-implement-rate-limiter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/roblox-implement-rate-limiter)|May 05, 2026|
 |**Roblox**|[Rate Limit by Multiple Request Fields](https://www.fastprep.io/problems/roblox-rate-limit-by-multiple-request-fields)|Coding|[![Practice][p]](https://www.fastprep.io/problems/roblox-rate-limit-by-multiple-request-fields)|May 05, 2026|
 |**Visa**|[Minimum Cost to Select People for Skill Quotas](https://www.fastprep.io/problems/visa-minimum-cost-to-select-people-for-skill-quotas)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-minimum-cost-to-select-people-for-skill-quotas)|May 05, 2026|
 |**IDFC**|[Special Binary String](https://www.fastprep.io/problems/idfc-special-binary-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/idfc-special-binary-string)|May 01, 2026|
