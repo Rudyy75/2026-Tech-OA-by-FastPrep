@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Anthropic**|[In-Memory Database with Backup and Restore](https://www.fastprep.io/problems/anthropic-in-memory-database-backup-restore)|Coding|[![Practice][p]](https://www.fastprep.io/problems/anthropic-in-memory-database-backup-restore)|May 10, 2026|
+|**Capital One**|[Cyclic Shift to Strictly Descending Array](https://www.fastprep.io/problems/capital-one-cyclic-shift-strictly-descending)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-cyclic-shift-strictly-descending)|May 10, 2026|
 |**Stripe**|[Email Log Processing, Grouping, and Sorting](https://www.fastprep.io/problems/stripe-email-log-grouping-and-sorting)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-email-log-grouping-and-sorting)|May 10, 2026|
 |**Circle**|[Task Management System](https://www.fastprep.io/problems/circle-task-management-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/circle-task-management-system)|May 10, 2026|
 |**Circle**|[User Quota Scheduling with Expiring Assignments](https://www.fastprep.io/problems/circle-user-quota-scheduling)|Coding|[![Practice][p]](https://www.fastprep.io/problems/circle-user-quota-scheduling)|May 10, 2026|
@@ -240,7 +242,6 @@
 |**Goldman Sachs**|[Lock Code](https://www.fastprep.io/problems/goldman-decrypt-code-lock)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-decrypt-code-lock)|Sep 06, 2025|
 |**Goldman Sachs**|[Data Reorganization](https://www.fastprep.io/problems/goldman-get-minimum-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-get-minimum-value)|Sep 06, 2025|
 |**Cerebras**|[Multi-Channel Message Routing Queue](https://www.fastprep.io/system-design/multi-channel-message-routing-queue)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-channel-message-routing-queue)|Sep 06, 2025|
-|**Lambda**|[Cloud AI Inference Platform](https://www.fastprep.io/system-design/cloud-ai-inference-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cloud-ai-inference-platform)|Sep 06, 2025|
 |**Meta**|[Design a Discussion Forum with Posts and Votes](https://www.fastprep.io/low-level-design/discussion-forum-posts-and-votes)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/discussion-forum-posts-and-votes)|Sep 02, 2025|
 |**Atlassian / Compass International Holdings / Better.com / Coinbase / Wayfair**|[Post Author Friend Count Serving](https://www.fastprep.io/system-design/post-author-friend-count-serving)|System design|[![Practice][p]](https://www.fastprep.io/system-design/post-author-friend-count-serving)|Aug 23, 2025|
 |**Atlassian / Better.com**|[Signing Notification Loss Recovery](https://www.fastprep.io/system-design/signing-notification-loss-recovery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/signing-notification-loss-recovery)|Aug 23, 2025|
