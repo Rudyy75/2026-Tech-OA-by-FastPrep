@@ -2,14 +2,18 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**616 questions**
+**617 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Mercor / Salesforce / Nuro / Rippling / Qualified Health AI / Solytics Partners**|[Design a Durable Work Orchestration Platform](https://www.fastprep.io/system-design/durable-work-orchestration-platform)|[![Practice][p]](https://www.fastprep.io/system-design/durable-work-orchestration-platform)|🔥 Oct 23, 2026|
+|**Careem / Cohesity**|[Design a Highly Available Distributed Key-Value Store](https://www.fastprep.io/system-design/highly-available-distributed-key-value-store)|[![Practice][p]](https://www.fastprep.io/system-design/highly-available-distributed-key-value-store)|🔥 Oct 23, 2026|
 |**Amazon**|[Customer Support Chat Platform](https://www.fastprep.io/system-design/customer-support-chat-platform)|[![Practice][p]](https://www.fastprep.io/system-design/customer-support-chat-platform)|🔥 Oct 22, 2026|
 |**Amazon**|[Design a Scheduled Examination Platform](https://www.fastprep.io/system-design/scheduled-examination-platform)|[![Practice][p]](https://www.fastprep.io/system-design/scheduled-examination-platform)|🔥 Oct 22, 2026|
+|**DoorDash / Robinhood / Snowflake / Postman / Figma / LinkedIn / Airbnb / Nextdoor / Decagon / Amazon / Cursor / Temporal / Sumo Logic / Zip / HyperVerge**|[Design a Scheduled Job Execution System](https://www.fastprep.io/system-design/scheduled-job-execution-system)|[![Practice][p]](https://www.fastprep.io/system-design/scheduled-job-execution-system)|🔥 Oct 22, 2026|
+|**Keka HR**|[Design an Admin Trip Assignment System](https://www.fastprep.io/system-design/admin-trip-driver-assignment-system)|[![Practice][p]](https://www.fastprep.io/system-design/admin-trip-driver-assignment-system)|🔥 Oct 22, 2026|
 |**Confluent**|[Design a Podcast Subscription Feed API and Data Model](https://www.fastprep.io/system-design/podcast-subscription-feed-api-data-model)|[![Practice][p]](https://www.fastprep.io/system-design/podcast-subscription-feed-api-data-model)|🔥 Oct 21, 2026|
 |**Amazon / OpenAI / Anthropic / eBay**|[Design a Large-Model Inference Serving Platform](https://www.fastprep.io/system-design/large-model-inference-serving-platform)|[![Practice][p]](https://www.fastprep.io/system-design/large-model-inference-serving-platform)|🔥 Oct 21, 2026|
 |**Confluent / Oracle**|[Design a Durable Disposable Email Service](https://www.fastprep.io/system-design/durable-disposable-email-username-registry)|[![Practice][p]](https://www.fastprep.io/system-design/durable-disposable-email-username-registry)|🔥 Oct 21, 2026|
@@ -98,10 +102,8 @@
 |**Okta / Paytm**|[Design OIDC Login and Third-Party Tool Authorization](https://www.fastprep.io/system-design/oidc-third-party-tool-authorization)|[![Practice][p]](https://www.fastprep.io/system-design/oidc-third-party-tool-authorization)|🆕 Oct 05, 2026|
 |**Expedia / Agoda / Keychain / HackerRank**|[Design a Partner Data Aggregation and Query Service](https://www.fastprep.io/system-design/partner-data-aggregation-and-query-service)|[![Practice][p]](https://www.fastprep.io/system-design/partner-data-aggregation-and-query-service)|🆕 Oct 05, 2026|
 |**Citadel / ByteDance / Microsoft / Walmart / ZipRecruiter / SAP**|[Design an Authenticated Shopping Platform](https://www.fastprep.io/system-design/authenticated-shopping-platform)|[![Practice][p]](https://www.fastprep.io/system-design/authenticated-shopping-platform)|🆕 Oct 05, 2026|
-|**DoorDash / Robinhood / Snowflake / Postman / Figma / LinkedIn / Airbnb / Nextdoor / Decagon / Amazon / Cursor / Temporal / Sumo Logic / Zip / HyperVerge**|[Design a Scheduled Job Execution System](https://www.fastprep.io/system-design/scheduled-job-execution-system)|[![Practice][p]](https://www.fastprep.io/system-design/scheduled-job-execution-system)|🆕 Oct 05, 2026|
 |**Keychain / Headlands Technologies**|[Design a Future-Time Job Scheduler](https://www.fastprep.io/system-design/future-time-job-scheduler)|[![Practice][p]](https://www.fastprep.io/system-design/future-time-job-scheduler)|🆕 Oct 05, 2026|
 |**Infosys**|[Design a Million-Domain Blocking Service](https://www.fastprep.io/system-design/million-domain-blocking-service)|[![Practice][p]](https://www.fastprep.io/system-design/million-domain-blocking-service)|🆕 Oct 05, 2026|
-|**Mercor / Salesforce / Nuro / Rippling / Qualified Health AI**|[Design a Durable Work Orchestration Platform](https://www.fastprep.io/system-design/durable-work-orchestration-platform)|[![Practice][p]](https://www.fastprep.io/system-design/durable-work-orchestration-platform)|🆕 Oct 04, 2026|
 |**Amazon**|[Design a Distributed Recurring Workflow Scheduler](https://www.fastprep.io/system-design/distributed-recurring-workflow-scheduler)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-recurring-workflow-scheduler)|🆕 Oct 04, 2026|
 |**Temporal / Amazon**|[Design Zero-Downtime Database Migration](https://www.fastprep.io/system-design/zero-downtime-database-migration-platform)|[![Practice][p]](https://www.fastprep.io/system-design/zero-downtime-database-migration-platform)|🆕 Oct 04, 2026|
 |**Microsoft**|[Design a Product Page Sharing and Rewards Platform](https://www.fastprep.io/system-design/product-page-sharing-and-rewards-platform)|[![Practice][p]](https://www.fastprep.io/system-design/product-page-sharing-and-rewards-platform)|🆕 Oct 03, 2026|
@@ -574,7 +576,6 @@
 |**Klaviyo**|[Redesign a Multi-Tier Web Application for AWS](https://www.fastprep.io/system-design/multi-tier-web-application-aws-redesign)|[![Practice][p]](https://www.fastprep.io/system-design/multi-tier-web-application-aws-redesign)|Oct 21, 2022|
 |**Confluent**|[Design a Resilient Infinite-Scroll Social Feed](https://www.fastprep.io/system-design/resilient-infinite-scroll-social-feed)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-infinite-scroll-social-feed)|Oct 18, 2022|
 |**Bloomberg LP**|[Design Internal Latency Measurement and Alerting](https://www.fastprep.io/system-design/internal-latency-measurement-alerting)|[![Practice][p]](https://www.fastprep.io/system-design/internal-latency-measurement-alerting)|Aug 12, 2022|
-|**Careem**|[Design a Highly Available Distributed Key-Value Store](https://www.fastprep.io/system-design/highly-available-distributed-key-value-store)|[![Practice][p]](https://www.fastprep.io/system-design/highly-available-distributed-key-value-store)|Aug 08, 2022|
 |**Skyscanner**|[Design Flight Price Threshold Alerts](https://www.fastprep.io/system-design/flight-price-threshold-alerts)|[![Practice][p]](https://www.fastprep.io/system-design/flight-price-threshold-alerts)|Jun 10, 2022|
 |**Confluent**|[Design a Kubernetes-Managed Kafka Service](https://www.fastprep.io/system-design/kubernetes-managed-kafka-service)|[![Practice][p]](https://www.fastprep.io/system-design/kubernetes-managed-kafka-service)|May 05, 2022|
 |**Google / Microsoft**|[Design Learned Web Search Ranking](https://www.fastprep.io/system-design/learned-web-search-ranking)|[![Practice][p]](https://www.fastprep.io/system-design/learned-web-search-ranking)|Apr 28, 2022|

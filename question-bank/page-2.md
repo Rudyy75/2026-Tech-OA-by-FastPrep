@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Stripe**|[Email Log Processing, Grouping, and Sorting](https://www.fastprep.io/problems/stripe-email-log-grouping-and-sorting)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-email-log-grouping-and-sorting)|May 10, 2026|
+|**Circle**|[Task Management System](https://www.fastprep.io/problems/circle-task-management-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/circle-task-management-system)|May 10, 2026|
+|**Circle**|[User Quota Scheduling with Expiring Assignments](https://www.fastprep.io/problems/circle-user-quota-scheduling)|Coding|[![Practice][p]](https://www.fastprep.io/problems/circle-user-quota-scheduling)|May 10, 2026|
+|**Point72**|[Lexicographically Smallest String After Substring Operation](https://www.fastprep.io/problems/point72-lexicographically-smallest-substring-operation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/point72-lexicographically-smallest-substring-operation)|May 10, 2026|
 |**Two Sigma**|[Piecewise Linear Interpolation and Extrapolation](https://www.fastprep.io/problems/twosigma-piecewise-linear-interpolation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/twosigma-piecewise-linear-interpolation)|May 10, 2026|
 |**Intuit**|[Small Business Network: Degrees of Separation](https://www.fastprep.io/problems/intuit-small-business-network-degrees-of-separation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-small-business-network-degrees-of-separation)|May 08, 2026|
 |**Stripe**|[Build an Image Prediction Pipeline](https://www.fastprep.io/project-coding/stripe-image-prediction-pipeline)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-image-prediction-pipeline)|May 06, 2026|
@@ -1329,7 +1333,6 @@
 |**IMC**|[Reaching Points with Perfect-Square Obstacles](https://www.fastprep.io/problems/imc-perfect-square-forbidden-reaching-points)|Coding|[![Practice][p]](https://www.fastprep.io/problems/imc-perfect-square-forbidden-reaching-points)|Sep 07, 2022|
 |**Motive**|[Build a Hotel Booking Frequency API](https://www.fastprep.io/project-coding/hotel-booking-frequency)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/hotel-booking-frequency)|Aug 20, 2022|
 |**Bloomberg LP**|[Design Internal Latency Measurement and Alerting](https://www.fastprep.io/system-design/internal-latency-measurement-alerting)|System design|[![Practice][p]](https://www.fastprep.io/system-design/internal-latency-measurement-alerting)|Aug 12, 2022|
-|**Careem**|[Design a Highly Available Distributed Key-Value Store](https://www.fastprep.io/system-design/highly-available-distributed-key-value-store)|System design|[![Practice][p]](https://www.fastprep.io/system-design/highly-available-distributed-key-value-store)|Aug 08, 2022|
 |**Revolut**|[Make Account Transfers Safe Under Concurrency](https://www.fastprep.io/project-coding/revolut-concurrency-safe-account-transfer)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/revolut-concurrency-safe-account-transfer)|Jun 20, 2022|
 |**Skyscanner**|[Design Flight Price Threshold Alerts](https://www.fastprep.io/system-design/flight-price-threshold-alerts)|System design|[![Practice][p]](https://www.fastprep.io/system-design/flight-price-threshold-alerts)|Jun 10, 2022|
 |**Notion**|[Build a Multi-Room Chat Service](https://www.fastprep.io/project-coding/multi-room-chat-http-service)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/multi-room-chat-http-service)|May 06, 2022|
