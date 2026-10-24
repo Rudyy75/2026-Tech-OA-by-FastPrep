@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**622 questions**
+**623 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Amazon**|[Design a Smart Meter Electricity Monitoring System](https://www.fastprep.io/system-design/smart-meter-electricity-monitoring)|[![Practice][p]](https://www.fastprep.io/system-design/smart-meter-electricity-monitoring)|🔥 Oct 24, 2026|
 |**Mercor / Salesforce / Nuro / Rippling / Qualified Health AI / Solytics Partners**|[Design a Durable Work Orchestration Platform](https://www.fastprep.io/system-design/durable-work-orchestration-platform)|[![Practice][p]](https://www.fastprep.io/system-design/durable-work-orchestration-platform)|🔥 Oct 23, 2026|
 |**Careem / Cohesity / NVIDIA / LinkedIn**|[Design a Highly Available Distributed Key-Value Store](https://www.fastprep.io/system-design/highly-available-distributed-key-value-store)|[![Practice][p]](https://www.fastprep.io/system-design/highly-available-distributed-key-value-store)|🔥 Oct 23, 2026|
 |**Oracle / Retell AI / Apple / Google / Walmart / Flipkart / Globalization Partners / Amazon / Reddit / Atlassian / Snowflake / Tennr / Teradata / Securonix / slice**|[Design a Distributed Rate Limiter](https://www.fastprep.io/system-design/distributed-rate-limiter)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-rate-limiter)|🔥 Oct 23, 2026|
@@ -72,6 +73,7 @@
 |**Robinhood / Rippling**|[Large-Input Word Frequency Analysis](https://www.fastprep.io/system-design/large-input-word-frequency-analysis)|[![Practice][p]](https://www.fastprep.io/system-design/large-input-word-frequency-analysis)|🔥 Oct 14, 2026|
 |**OpenAI / Commvault / Zomato / Eternal / Upstart**|[Design an Online Chess Platform](https://www.fastprep.io/system-design/online-chess-platform)|[![Practice][p]](https://www.fastprep.io/system-design/online-chess-platform)|🔥 Oct 14, 2026|
 |**Sphere**|[Design an Address and Date Tax Engine](https://www.fastprep.io/system-design/address-date-tax-engine)|[![Practice][p]](https://www.fastprep.io/system-design/address-date-tax-engine)|🔥 Oct 14, 2026|
+|**ByteDance / Sphere**|[Relational Query Index Design](https://www.fastprep.io/system-design/relational-query-index-design)|[![Practice][p]](https://www.fastprep.io/system-design/relational-query-index-design)|🔥 Oct 14, 2026|
 |**OpenAI / ByteDance**|[Payment Hold, Charge, and Settlement](https://www.fastprep.io/system-design/payment-hold-charge-settlement)|[![Practice][p]](https://www.fastprep.io/system-design/payment-hold-charge-settlement)|🔥 Oct 13, 2026|
 |**Rippling / Apple / Oracle / Confluent / Baseten**|[Design a Centralized Log Ingestion and Search Platform](https://www.fastprep.io/system-design/centralized-log-ingestion-and-search)|[![Practice][p]](https://www.fastprep.io/system-design/centralized-log-ingestion-and-search)|🔥 Oct 13, 2026|
 |**Mercor**|[Design an Exact User-ID Membership Store](https://www.fastprep.io/system-design/exact-user-id-membership-store)|[![Practice][p]](https://www.fastprep.io/system-design/exact-user-id-membership-store)|🔥 Oct 13, 2026|
@@ -346,7 +348,6 @@
 |**Netflix**|[Design a Competitive Ad Exclusion Service](https://www.fastprep.io/system-design/competitive-ad-exclusion-service)|[![Practice][p]](https://www.fastprep.io/system-design/competitive-ad-exclusion-service)|Aug 21, 2026|
 |**General Motors**|[Design a Composable AI Function Platform](https://www.fastprep.io/system-design/composable-ai-function-platform)|[![Practice][p]](https://www.fastprep.io/system-design/composable-ai-function-platform)|Aug 21, 2026|
 |**Cursor**|[Hash-Tree Client/Server Synchronization](https://www.fastprep.io/system-design/hash-tree-client-server-synchronization)|[![Practice][p]](https://www.fastprep.io/system-design/hash-tree-client-server-synchronization)|Aug 21, 2026|
-|**ByteDance**|[Relational Query Index Design](https://www.fastprep.io/system-design/relational-query-index-design)|[![Practice][p]](https://www.fastprep.io/system-design/relational-query-index-design)|Aug 21, 2026|
 |**ByteDance**|[SQL Index Eligibility Analysis](https://www.fastprep.io/system-design/sql-index-eligibility-analysis)|[![Practice][p]](https://www.fastprep.io/system-design/sql-index-eligibility-analysis)|Aug 21, 2026|
 |**Meta**|[Design a Boolean Status Search Index](https://www.fastprep.io/system-design/boolean-status-search-index)|[![Practice][p]](https://www.fastprep.io/system-design/boolean-status-search-index)|Aug 20, 2026|
 |**Oracle**|[Design a Healthcare Data Ingestion Pipeline](https://www.fastprep.io/system-design/healthcare-data-ingestion-pipeline)|[![Practice][p]](https://www.fastprep.io/system-design/healthcare-data-ingestion-pipeline)|Aug 19, 2026|
