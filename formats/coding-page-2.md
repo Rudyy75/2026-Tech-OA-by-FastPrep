@@ -8,7 +8,6 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
-|**ServiceNow**|[Max Sum of Balanced Sequence](https://www.fastprep.io/problems/service-now-maximum-sum-of-balanced-subsequence)|[![Practice][p]](https://www.fastprep.io/problems/service-now-maximum-sum-of-balanced-subsequence)|Mar 18, 2024|
 |**ServiceNow**|[Find Max Min Val Using K Elements](https://www.fastprep.io/problems/service-now-find-max-minimum-value-using-k-elements)|[![Practice][p]](https://www.fastprep.io/problems/service-now-find-max-minimum-value-using-k-elements)|Mar 18, 2024|
 |**General Motors**|[Prepare Notification](https://www.fastprep.io/problems/general-motors-prepare-notification)|[![Practice][p]](https://www.fastprep.io/problems/general-motors-prepare-notification)|Mar 17, 2024|
 |**General Motors**|[Smallest But Greater](https://www.fastprep.io/problems/gms-find-the-tinest-greater-than-a-specifc-num)|[![Practice][p]](https://www.fastprep.io/problems/gms-find-the-tinest-greater-than-a-specifc-num)|Mar 17, 2024|

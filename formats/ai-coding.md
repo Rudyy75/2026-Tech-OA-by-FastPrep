@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**100 questions**
+**102 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -18,6 +18,7 @@
 |**Klaviyo**|[AI Engineer Intern Mock: Repair a Classifier Cache](https://www.fastprep.io/project-coding/mock-ai-intern-classifier-cache)|[![Practice][p]](https://www.fastprep.io/project-coding/mock-ai-intern-classifier-cache)|🔥 Oct 16, 2026|
 |**Klaviyo**|[AI Engineer Intern Mock: Search Customer Messages](https://www.fastprep.io/project-coding/mock-ai-intern-customer-message-search)|[![Practice][p]](https://www.fastprep.io/project-coding/mock-ai-intern-customer-message-search)|🔥 Oct 16, 2026|
 |**Flipkart**|[Implement a Distributed Task Scheduler](https://www.fastprep.io/project-coding/flipkart-distributed-task-scheduler)|[![Practice][p]](https://www.fastprep.io/project-coding/flipkart-distributed-task-scheduler)|🔥 Oct 16, 2026|
+|**Stripe**|[Integrate and Enrich Contact API Data](https://www.fastprep.io/project-coding/stripe-contact-api-enrichment)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-contact-api-enrichment)|🔥 Oct 16, 2026|
 |**StackAdapt**|[Repair Corrupted Grid Digit Recognition](https://www.fastprep.io/project-coding/stackadapt-corrupted-grid-digit-recognition)|[![Practice][p]](https://www.fastprep.io/project-coding/stackadapt-corrupted-grid-digit-recognition)|🔥 Oct 15, 2026|
 |**eBay**|[Repair an Asynchronous Store Update](https://www.fastprep.io/project-coding/ebay-repair-async-store-update)|[![Practice][p]](https://www.fastprep.io/project-coding/ebay-repair-async-store-update)|🔥 Oct 15, 2026|
 |**Upstart**|[Build a Poll and Voting API](https://www.fastprep.io/project-coding/upstart-poll-voting-api)|[![Practice][p]](https://www.fastprep.io/project-coding/upstart-poll-voting-api)|🔥 Oct 14, 2026|
@@ -25,7 +26,7 @@
 |**Reevo**|[Airline Seat Booking](https://www.fastprep.io/project-coding/reevo-airline-seat-booking)|[![Practice][p]](https://www.fastprep.io/project-coding/reevo-airline-seat-booking)|🔥 Oct 14, 2026|
 |**Dell Technologies**|[Repair Expiration and Soft Deletion](https://www.fastprep.io/project-coding/dell-expiration-soft-delete-repair)|[![Practice][p]](https://www.fastprep.io/project-coding/dell-expiration-soft-delete-repair)|🔥 Oct 11, 2026|
 |**PhonePe**|[Complete a Journey Stage Event Service](https://www.fastprep.io/project-coding/phonepe-journey-stage-event-service)|[![Practice][p]](https://www.fastprep.io/project-coding/phonepe-journey-stage-event-service)|🔥 Oct 10, 2026|
-|**Amazon**|[Repair Workflow Issue and Sub-Issue Creation](https://www.fastprep.io/project-coding/amazon-repair-workflow-issues)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-workflow-issues)|🔥 Oct 09, 2026|
+|**Amazon**|[Repair Workflow Issue and Sub-Issue Creation](https://www.fastprep.io/project-coding/amazon-repair-workflow-issues)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-workflow-issues)|🆕 Oct 09, 2026|
 |**NxtPe**|[Implement Mandate Details and Provider Authentication](https://www.fastprep.io/project-coding/nxtpe-mandate-provider-authentication)|[![Practice][p]](https://www.fastprep.io/project-coding/nxtpe-mandate-provider-authentication)|🆕 Oct 08, 2026|
 |**Amazon**|[Repair the Wallet Loan Marketplace](https://www.fastprep.io/project-coding/repair-wallet-loan-marketplace)|[![Practice][p]](https://www.fastprep.io/project-coding/repair-wallet-loan-marketplace)|🆕 Oct 08, 2026|
 |**NVIDIA**|[Build a System Metrics Reporter](https://www.fastprep.io/project-coding/nvidia-system-metrics-reporter)|[![Practice][p]](https://www.fastprep.io/project-coding/nvidia-system-metrics-reporter)|🆕 Oct 06, 2026|
@@ -81,7 +82,6 @@
 |**Meta**|[Repair and Extend a Maze Solver](https://www.fastprep.io/project-coding/meta-maze-solver)|[![Practice][p]](https://www.fastprep.io/project-coding/meta-maze-solver)|Apr 24, 2026|
 |**Scale AI**|[Repair Contractor Project Assignment](https://www.fastprep.io/project-coding/scale-ai-contractor-course-project-assignment-debugging)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-contractor-course-project-assignment-debugging)|Apr 21, 2026|
 |**Scale AI**|[Debug Missing Model Output](https://www.fastprep.io/project-coding/scale-ai-prompt-hash-output-debugger)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-prompt-hash-output-debugger)|Apr 13, 2026|
-|**Stripe**|[Integrate and Enrich Contact API Data](https://www.fastprep.io/project-coding/stripe-contact-api-enrichment)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-contact-api-enrichment)|Apr 13, 2026|
 |**Klaviyo**|[Build a Weather App Using an API](https://www.fastprep.io/project-coding/klaviyo-weather-api-application)|[![Practice][p]](https://www.fastprep.io/project-coding/klaviyo-weather-api-application)|Mar 17, 2026|
 |**Stripe**|[Repair Template Lookup, Arguments and Includes](https://www.fastprep.io/project-coding/stripe-template-lookup-debugging)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-template-lookup-debugging)|Mar 04, 2026|
 |**Stripe**|[Request API Endpoints](https://www.fastprep.io/project-coding/stripe-json-api-client-integration)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-json-api-client-integration)|Mar 04, 2026|
@@ -95,6 +95,8 @@
 |**Rippling**|[Build an In-Memory Community Q&A API](https://www.fastprep.io/project-coding/community-question-answer-api)|[![Practice][p]](https://www.fastprep.io/project-coding/community-question-answer-api)|Nov 20, 2025|
 |**Stripe**|[Repair Redirected Request Body Replay](https://www.fastprep.io/project-coding/stripe-redirect-stream-replay)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-redirect-stream-replay)|Nov 12, 2025|
 |**Stripe**|[Complete a Two-Label Tabular Model Pipeline](https://www.fastprep.io/project-coding/stripe-tabular-two-label-model-pipeline)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-tabular-two-label-model-pipeline)|Nov 11, 2025|
+|**Apple**|[Complete a DAG Task Pipeline](https://www.fastprep.io/project-coding/apple-dag-task-pipeline)|[![Practice][p]](https://www.fastprep.io/project-coding/apple-dag-task-pipeline)|Oct 07, 2025|
+|**Apple**|[Extend a Three-Bot Rock Paper Scissors Game](https://www.fastprep.io/project-coding/apple-rock-paper-scissors-rounds)|[![Practice][p]](https://www.fastprep.io/project-coding/apple-rock-paper-scissors-rounds)|Aug 14, 2025|
 |**Zip**|[Build a Four-Level Cloud Storage Query Engine](https://www.fastprep.io/project-coding/zip-cloud-storage-queries)|[![Practice][p]](https://www.fastprep.io/project-coding/zip-cloud-storage-queries)|Jul 24, 2025|
 |**Scale AI**|[Optimize a Resort Driving Route](https://www.fastprep.io/project-coding/scale-ai-resort-route-optimizer-practical)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-resort-route-optimizer-practical)|May 26, 2025|
 |**IMC Trading**|[Stock Transfer Minimization](https://www.fastprep.io/project-coding/stock-transfer-minimization)|[![Practice][p]](https://www.fastprep.io/project-coding/stock-transfer-minimization)|Jan 29, 2025|
