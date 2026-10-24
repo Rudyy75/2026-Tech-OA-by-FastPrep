@@ -9,6 +9,17 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Airbnb**|[Print Sentences as Table](https://www.fastprep.io/problems/airbnb-print-sentences-as-table)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-print-sentences-as-table)|May 11, 2026|
+|**Crusoe**|[Interval Usage with Non-Overlapping Overrides](https://www.fastprep.io/problems/crusoe-interval-usage-with-overrides)|Coding|[![Practice][p]](https://www.fastprep.io/problems/crusoe-interval-usage-with-overrides)|May 11, 2026|
+|**DoorDash**|[Maximize Total Profit by Assigning Chefs to Dishes](https://www.fastprep.io/problems/doordash-maximize-total-profit-chef-dish-assignment)|Coding|[![Practice][p]](https://www.fastprep.io/problems/doordash-maximize-total-profit-chef-dish-assignment)|May 11, 2026|
+|**Ericsson**|[Pascal's Triangle](https://www.fastprep.io/problems/ericsson-pascals-triangle)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ericsson-pascals-triangle)|May 11, 2026|
+|**Ericsson**|[Top K Frequent Elements](https://www.fastprep.io/problems/ericsson-top-k-frequent-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ericsson-top-k-frequent-elements)|May 11, 2026|
+|**Geico**|[Implement an LRU Cache](https://www.fastprep.io/problems/geico-implement-lru-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/geico-implement-lru-cache)|May 11, 2026|
+|**TikTok**|[Maximum Candies with At Most Two Types in a Line](https://www.fastprep.io/problems/tiktok-maximum-candies-two-types-line)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-maximum-candies-two-types-line)|May 11, 2026|
+|**TikTok**|[LRU Cache with TTL Expiration](https://www.fastprep.io/problems/tiktok-lru-cache-with-ttl-expiration)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-lru-cache-with-ttl-expiration)|May 11, 2026|
+|**Upstart**|[Bounding Box from Coordinates](https://www.fastprep.io/problems/upstart-bounding-box-from-coordinates)|Coding|[![Practice][p]](https://www.fastprep.io/problems/upstart-bounding-box-from-coordinates)|May 11, 2026|
+|**Upstart**|[Filter by Threshold and Return Name with Max Score](https://www.fastprep.io/problems/upstart-filter-threshold-max-score)|Coding|[![Practice][p]](https://www.fastprep.io/problems/upstart-filter-threshold-max-score)|May 11, 2026|
+|**Whatnot**|[User Journey Paths](https://www.fastprep.io/problems/whatnot-user-journey-paths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/whatnot-user-journey-paths)|May 11, 2026|
 |**Anthropic**|[In-Memory Database with Backup and Restore](https://www.fastprep.io/problems/anthropic-in-memory-database-backup-restore)|Coding|[![Practice][p]](https://www.fastprep.io/problems/anthropic-in-memory-database-backup-restore)|May 10, 2026|
 |**Capital One**|[Cyclic Shift to Strictly Descending Array](https://www.fastprep.io/problems/capital-one-cyclic-shift-strictly-descending)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-cyclic-shift-strictly-descending)|May 10, 2026|
 |**Stripe**|[Email Log Processing, Grouping, and Sorting](https://www.fastprep.io/problems/stripe-email-log-grouping-and-sorting)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-email-log-grouping-and-sorting)|May 10, 2026|
