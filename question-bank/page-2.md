@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Snowflake**|[Minimum Index Distance Between Person and Cake](https://www.fastprep.io/problems/snowflake-minimum-index-distance-between-person-and-cake)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-minimum-index-distance-between-person-and-cake)|May 11, 2026|
 |**Airbnb**|[Print Sentences as Table](https://www.fastprep.io/problems/airbnb-print-sentences-as-table)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-print-sentences-as-table)|May 11, 2026|
 |**Crusoe**|[Interval Usage with Non-Overlapping Overrides](https://www.fastprep.io/problems/crusoe-interval-usage-with-overrides)|Coding|[![Practice][p]](https://www.fastprep.io/problems/crusoe-interval-usage-with-overrides)|May 11, 2026|
 |**DoorDash**|[Maximize Total Profit by Assigning Chefs to Dishes](https://www.fastprep.io/problems/doordash-maximize-total-profit-chef-dish-assignment)|Coding|[![Practice][p]](https://www.fastprep.io/problems/doordash-maximize-total-profit-chef-dish-assignment)|May 11, 2026|
