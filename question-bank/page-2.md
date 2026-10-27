@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Harvey**|[Spreadsheet Formula Evaluator](https://www.fastprep.io/problems/harvey-spreadsheet-formula-evaluator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/harvey-spreadsheet-formula-evaluator)|May 13, 2026|
 |**Hudson River Trading**|[Integer to String Without Built-ins](https://www.fastprep.io/problems/hudson-river-trading-integer-to-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hudson-river-trading-integer-to-string)|May 13, 2026|
 |**Waymo**|[Decode Repeated Groups](https://www.fastprep.io/problems/waymo-decode-repeated-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/waymo-decode-repeated-groups)|May 13, 2026|
 |**Deloitte**|[Seventh Nearest Palindrome](https://www.fastprep.io/problems/deloitte-seventh-nearest-palindrome)|Coding|[![Practice][p]](https://www.fastprep.io/problems/deloitte-seventh-nearest-palindrome)|May 12, 2026|
@@ -498,6 +499,7 @@
 |**TikTok**|[TikTok Spam Filter](https://www.fastprep.io/problems/tiktok-get-spam-comments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-spam-comments)|Jan 04, 2025|
 |**TikTok**|[Count Twin Pairs](https://www.fastprep.io/problems/tiktok-count-twin-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-twin-pairs)|Jan 04, 2025|
 |**Google**|[Number of Distinct Islands](https://www.fastprep.io/problems/google-number-of-distinct-islands)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-number-of-distinct-islands)|Dec 31, 2024|
+|**JP Morgan Chase**|[Complete a Rural Reading Assessment Platform](https://www.fastprep.io/project-coding/jpmorgan-vopa-reading-assessment)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/jpmorgan-vopa-reading-assessment)|Dec 31, 2024|
 |**Snowflake**|[Remove Stones to Minimize the Total](https://www.fastprep.io/problems/snowflake-remove-stones-to-minimize-the-total)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-remove-stones-to-minimize-the-total)|Dec 28, 2024|
 |**Snowflake**|[Find the Max Len of A Good Subsequence I](https://www.fastprep.io/problems/snowflake-find-the-maximum-length-of-a-good-subsequence-i)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-find-the-maximum-length-of-a-good-subsequence-i)|Dec 28, 2024|
 |**Microsoft**|[Sum with Tiles](https://www.fastprep.io/problems/microsoft-sum-with-tiles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-sum-with-tiles)|Dec 24, 2024|
@@ -771,6 +773,7 @@
 |**NVIDIA**|[Design a Visual Conversation and Speech Assistant](https://www.fastprep.io/system-design/visual-conversation-and-speech-assistant)|System design|[![Practice][p]](https://www.fastprep.io/system-design/visual-conversation-and-speech-assistant)|Sep 13, 2024|
 |**NVIDIA**|[Design Continued Multimodal Model Pretraining](https://www.fastprep.io/system-design/continued-multimodal-model-pretraining)|System design|[![Practice][p]](https://www.fastprep.io/system-design/continued-multimodal-model-pretraining)|Sep 13, 2024|
 |**NVIDIA**|[Design Few-Shot Vision-Language Model Adaptation](https://www.fastprep.io/system-design/few-shot-vision-language-model-adaptation)|System design|[![Practice][p]](https://www.fastprep.io/system-design/few-shot-vision-language-model-adaptation)|Sep 13, 2024|
+|**JP Morgan Chase**|[Complete an Internal Document Review Dashboard](https://www.fastprep.io/project-coding/jpmorgan-cry-document-review-dashboard)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/jpmorgan-cry-document-review-dashboard)|Sep 10, 2024|
 |**JP Morgan**|[Get Final String](https://www.fastprep.io/problems/jpmorgan-get-final-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-final-string)|Sep 05, 2024|
 |**JP Morgan**|[Min Swaps](https://www.fastprep.io/problems/jpmorgan-minimum-swaps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-minimum-swaps)|Sep 05, 2024|
 |**JP Morgan**|[Get Max Deletions](https://www.fastprep.io/problems/jpmorgan-get-max-deletions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-max-deletions)|Sep 05, 2024|
@@ -922,6 +925,10 @@
 |**Onix**|[Get String to Remove](https://www.fastprep.io/problems/onix-get-string-to-remove)|Coding|[![Practice][p]](https://www.fastprep.io/problems/onix-get-string-to-remove)|Aug 05, 2024|
 |**SIG**|[Count Triples](https://www.fastprep.io/problems/counting-triples)|Coding|[![Practice][p]](https://www.fastprep.io/problems/counting-triples)|Aug 05, 2024|
 |**Highspot**|[Design a Greeting Card E-Commerce Marketplace](https://www.fastprep.io/system-design/greeting-card-marketplace)|System design|[![Practice][p]](https://www.fastprep.io/system-design/greeting-card-marketplace)|Aug 03, 2024|
+|**JP Morgan Chase**|[Complete a Benefit Application Workflow](https://www.fastprep.io/project-coding/jpmorgan-indus-benefit-applications)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/jpmorgan-indus-benefit-applications)|Jul 27, 2024|
+|**JP Morgan Chase**|[Complete a Donation and Clothing Bank Workflow](https://www.fastprep.io/project-coding/jpmorgan-aspire-donation-clothing-workflow)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/jpmorgan-aspire-donation-clothing-workflow)|Jul 27, 2024|
+|**JP Morgan Chase**|[Complete a Multilingual Volunteer Tutoring Platform](https://www.fastprep.io/project-coding/jpmorgan-multilingual-volunteer-tutoring)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/jpmorgan-multilingual-volunteer-tutoring)|Jul 27, 2024|
+|**JP Morgan Chase**|[Complete an Intervention Tracking Website](https://www.fastprep.io/project-coding/jpmorgan-dots-intervention-workflow)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/jpmorgan-dots-intervention-workflow)|Jul 27, 2024|
 |**Amazon**|[Get Minimum Boxes](https://www.fastprep.io/problems/amazon-get-minimum-boxes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-minimum-boxes)|Jul 25, 2024|
 |**IBM**|[Min Insertion to Balance a Parentheses String](https://www.fastprep.io/problems/ibm-minimum-insertions-to-balance-a-parentheses-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-minimum-insertions-to-balance-a-parentheses-string)|Jul 25, 2024|
 |**Samsara**|[Design a Fleet Fuel Payment Monitoring Platform](https://www.fastprep.io/system-design/fleet-fuel-payment-monitoring)|System design|[![Practice][p]](https://www.fastprep.io/system-design/fleet-fuel-payment-monitoring)|Jul 22, 2024|
@@ -1420,6 +1427,7 @@
 |**Microsoft**|[Design and Implement a Thread-Safe LRU Cache](https://www.fastprep.io/low-level-design/thread-safe-lru-cache-library)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-lru-cache-library)|Sep 30, 2020|
 |**Postman**|[Configuration System](https://www.fastprep.io/problems/postman-configuration-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/postman-configuration-system)|Sep 23, 2020|
 |**Postman**|[Large Responses](https://www.fastprep.io/problems/postman-large-responses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/postman-large-responses)|Sep 23, 2020|
+|**JP Morgan Chase**|[Complete an Egg Supply and Demand Forecasting Website](https://www.fastprep.io/project-coding/jpmorgan-egg-supply-demand-forecast)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/jpmorgan-egg-supply-demand-forecast)|Sep 19, 2020|
 |**Bloomberg LP**|[Design a Dynamic Phonebook with Autocomplete](https://www.fastprep.io/low-level-design/dynamic-phonebook-autocomplete)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/dynamic-phonebook-autocomplete)|Sep 17, 2020|
 |**Microsoft**|[Design a Self-Driving Perception Model](https://www.fastprep.io/system-design/self-driving-perception-model)|System design|[![Practice][p]](https://www.fastprep.io/system-design/self-driving-perception-model)|Sep 17, 2020|
 |**IMC**|[Account Balance Over Threshold](https://www.fastprep.io/problems/imc-account-balance-over-threshold)|SQL|[![Practice][p]](https://www.fastprep.io/problems/imc-account-balance-over-threshold)|Sep 12, 2020|

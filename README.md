@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,130)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (631)](formats/system-design.md) · [Low-level design (193)](formats/low-level-design.md) · [AI coding (110)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,130)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (631)](formats/system-design.md) · [Low-level design (193)](formats/low-level-design.md) · [AI coding (118)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -40,6 +40,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**ClearTax / Tesco**|[Design a Railway Search and Booking Platform](https://www.fastprep.io/system-design/railway-search-and-booking-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/railway-search-and-booking-platform)|🔥 Oct 26, 2026|
 |**DoorDash**|[Build a Dasher Payout Service](https://www.fastprep.io/project-coding/doordash-dasher-payout-service)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-dasher-payout-service)|🔥 Oct 26, 2026|
 |**ThoughtSpot / CARS24**|[Design a Priority-Aware Database Request Gateway](https://www.fastprep.io/system-design/priority-aware-database-request-gateway)|System design|[![Practice][p]](https://www.fastprep.io/system-design/priority-aware-database-request-gateway)|🔥 Oct 25, 2026|
+|**Sierra**|[Debug a Subscription Retention Agent](https://www.fastprep.io/project-coding/sierra-debug-subscription-retention-agent)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/sierra-debug-subscription-retention-agent)|🔥 Oct 25, 2026|
 |**Kotak Mahindra Bank / Zomato / Eternal**|[Design a Food Delivery Order Domain](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|🔥 Oct 24, 2026|
 |**Amazon**|[Design a Smart Meter Electricity Monitoring System](https://www.fastprep.io/system-design/smart-meter-electricity-monitoring)|System design|[![Practice][p]](https://www.fastprep.io/system-design/smart-meter-electricity-monitoring)|🔥 Oct 24, 2026|
 |**Amazon**|[Design an Agentic Chatbot Domain](https://www.fastprep.io/low-level-design/agentic-chatbot-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/agentic-chatbot-domain)|🔥 Oct 24, 2026|
@@ -1690,5 +1691,4 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**OpenAI**|[Chat Event Counts](https://www.fastprep.io/problems/openai-chat-event-counts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-chat-event-counts)|May 13, 2026|
 |**Amazon**|[Unique Pairs With Target Sum](https://www.fastprep.io/problems/amazon-unique-pairs-with-target-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-unique-pairs-with-target-sum)|May 13, 2026|
 |**Uber**|[Convex Function Minimization](https://www.fastprep.io/problems/uber-convex-function-minimization)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-convex-function-minimization)|May 13, 2026|
-|**Harvey**|[Spreadsheet Formula Evaluator](https://www.fastprep.io/problems/harvey-spreadsheet-formula-evaluator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/harvey-spreadsheet-formula-evaluator)|May 13, 2026|
 <a id="bottom"></a>
