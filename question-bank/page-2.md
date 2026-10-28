@@ -9,7 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**Harvey**|[Spreadsheet Formula Evaluator](https://www.fastprep.io/problems/harvey-spreadsheet-formula-evaluator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/harvey-spreadsheet-formula-evaluator)|May 13, 2026|
 |**Hudson River Trading**|[Integer to String Without Built-ins](https://www.fastprep.io/problems/hudson-river-trading-integer-to-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hudson-river-trading-integer-to-string)|May 13, 2026|
 |**Waymo**|[Decode Repeated Groups](https://www.fastprep.io/problems/waymo-decode-repeated-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/waymo-decode-repeated-groups)|May 13, 2026|
 |**Deloitte**|[Seventh Nearest Palindrome](https://www.fastprep.io/problems/deloitte-seventh-nearest-palindrome)|Coding|[![Practice][p]](https://www.fastprep.io/problems/deloitte-seventh-nearest-palindrome)|May 12, 2026|
