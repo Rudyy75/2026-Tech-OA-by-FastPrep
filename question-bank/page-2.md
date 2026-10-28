@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**OpenAI**|[Grid Infection with Immune Cells Until Stable](https://www.fastprep.io/problems/openai-grid-infection-with-immune-cells)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-grid-infection-with-immune-cells)|May 16, 2026|
 |**OpenAI**|[Chat Event Counts](https://www.fastprep.io/problems/openai-chat-event-counts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-chat-event-counts)|May 13, 2026|
 |**Amazon**|[Unique Pairs With Target Sum](https://www.fastprep.io/problems/amazon-unique-pairs-with-target-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-unique-pairs-with-target-sum)|May 13, 2026|
 |**Uber**|[Convex Function Minimization](https://www.fastprep.io/problems/uber-convex-function-minimization)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-convex-function-minimization)|May 13, 2026|
@@ -1458,6 +1459,7 @@
 |**JP Morgan Chase**|[Low-Cost Access to a File Archive](https://www.fastprep.io/system-design/low-cost-file-archive-access)|System design|[![Practice][p]](https://www.fastprep.io/system-design/low-cost-file-archive-access)|Sep 23, 2019|
 |**JP Morgan Chase**|[Telephone Verification for Village Teaching Visits](https://www.fastprep.io/system-design/telephone-volunteer-teaching-verification)|System design|[![Practice][p]](https://www.fastprep.io/system-design/telephone-volunteer-teaching-verification)|Sep 23, 2019|
 |**Vanguard**|[Design an Abstract Car Class](https://www.fastprep.io/low-level-design/abstract-car-class)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/abstract-car-class)|Sep 15, 2019|
+|**Datadog**|[Build a Streaming Request Log Aggregator](https://www.fastprep.io/project-coding/datadog-streaming-request-log-aggregator)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/datadog-streaming-request-log-aggregator)|Sep 03, 2019|
 |**Postman**|[Maximum Laptop Rating in a Price Range](https://www.fastprep.io/problems/postman-maximum-laptop-rating)|Coding|[![Practice][p]](https://www.fastprep.io/problems/postman-maximum-laptop-rating)|Aug 30, 2019|
 |**Datadog**|[Console Website Monitor](https://www.fastprep.io/project-coding/datadog-console-website-monitor)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/datadog-console-website-monitor)|May 26, 2019|
 |**Apple**|[Design a Recursive DNS Resolver](https://www.fastprep.io/system-design/recursive-dns-resolver)|System design|[![Practice][p]](https://www.fastprep.io/system-design/recursive-dns-resolver)|Jan 22, 2019|

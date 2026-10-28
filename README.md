@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,130)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (636)](formats/system-design.md) · [Low-level design (193)](formats/low-level-design.md) · [AI coding (119)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,130)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (636)](formats/system-design.md) · [Low-level design (193)](formats/low-level-design.md) · [AI coding (121)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -1381,6 +1381,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Visa**|[Signal Pings](https://www.fastprep.io/problems/visa-signal-pings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-signal-pings)|Jul 23, 2026|
 |**Visa**|[Sum of Index-Ordered Pair Differences](https://www.fastprep.io/problems/visa-sum-of-index-pair-differences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-sum-of-index-pair-differences)|Jul 23, 2026|
 |**OnePay**|[Design a Community Chat Platform](https://www.fastprep.io/system-design/community-chat-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/community-chat-platform)|Jul 23, 2026|
+|**Datadog**|[Build a Snowflake Query Client](https://www.fastprep.io/project-coding/datadog-snowflake-query-client)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/datadog-snowflake-query-client)|Jul 23, 2026|
 |**Bloomberg**|[Word Break II](https://www.fastprep.io/problems/bloomberg-word-break-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-word-break-ii)|Jul 22, 2026|
 |**Microsoft**|[Binary String Swap Time](https://www.fastprep.io/problems/microsoft-binary-string-swap-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-binary-string-swap-time)|Jul 22, 2026|
 |**Microsoft**|[Minimum Effort Task Schedule](https://www.fastprep.io/problems/microsoft-minimum-effort-task-schedule)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-effort-task-schedule)|Jul 22, 2026|
@@ -1690,5 +1691,4 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Pinterest**|[Assign Pins to the Shortest Column](https://www.fastprep.io/problems/pinterest-assign-pins-to-shortest-column)|Coding|[![Practice][p]](https://www.fastprep.io/problems/pinterest-assign-pins-to-shortest-column)|May 18, 2026|
 |**Confluent**|[Design a Subscription News Feed API and Data Model](https://www.fastprep.io/system-design/subscription-news-feed-api-data-model)|System design|[![Practice][p]](https://www.fastprep.io/system-design/subscription-news-feed-api-data-model)|May 17, 2026|
 |**OpenAI**|[Grid Infection Spread Until Stable](https://www.fastprep.io/problems/openai-grid-infection-spread-until-stable)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-grid-infection-spread-until-stable)|May 16, 2026|
-|**OpenAI**|[Grid Infection with Immune Cells Until Stable](https://www.fastprep.io/problems/openai-grid-infection-with-immune-cells)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-grid-infection-with-immune-cells)|May 16, 2026|
 <a id="bottom"></a>
