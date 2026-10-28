@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**OpenAI**|[Chat Event Counts](https://www.fastprep.io/problems/openai-chat-event-counts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-chat-event-counts)|May 13, 2026|
+|**Amazon**|[Unique Pairs With Target Sum](https://www.fastprep.io/problems/amazon-unique-pairs-with-target-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-unique-pairs-with-target-sum)|May 13, 2026|
+|**Uber**|[Convex Function Minimization](https://www.fastprep.io/problems/uber-convex-function-minimization)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-convex-function-minimization)|May 13, 2026|
+|**Harvey**|[Spreadsheet Formula Evaluator](https://www.fastprep.io/problems/harvey-spreadsheet-formula-evaluator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/harvey-spreadsheet-formula-evaluator)|May 13, 2026|
 |**Hudson River Trading**|[Integer to String Without Built-ins](https://www.fastprep.io/problems/hudson-river-trading-integer-to-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hudson-river-trading-integer-to-string)|May 13, 2026|
 |**Waymo**|[Decode Repeated Groups](https://www.fastprep.io/problems/waymo-decode-repeated-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/waymo-decode-repeated-groups)|May 13, 2026|
 |**Deloitte**|[Seventh Nearest Palindrome](https://www.fastprep.io/problems/deloitte-seventh-nearest-palindrome)|Coding|[![Practice][p]](https://www.fastprep.io/problems/deloitte-seventh-nearest-palindrome)|May 12, 2026|
@@ -215,6 +219,7 @@
 |**Meta**|[Design a General-Purpose Content Embedding Platform](https://www.fastprep.io/system-design/general-purpose-content-embedding-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/general-purpose-content-embedding-platform)|Dec 14, 2025|
 |**Amazon**|[Minimum S3 Storage Cost](https://www.fastprep.io/problems/amazon-minimum-s3-storage-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-s3-storage-cost)|Dec 11, 2025|
 |**Flipkart**|[Minimized Total Idle Time](https://www.fastprep.io/problems/flipkart-minimized-total-idle-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flipkart-minimized-total-idle-time)|Dec 11, 2025|
+|**Datadog**|[Design a Photo Match Notification Service](https://www.fastprep.io/system-design/photo-match-notification-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/photo-match-notification-service)|Dec 11, 2025|
 |**Scale AI**|[Implement a Worker Load Balancer](https://www.fastprep.io/project-coding/scale-ai-worker-load-balancer-practical)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-worker-load-balancer-practical)|Dec 07, 2025|
 |**Benchling**|[Design an Intersection Traffic-Light Controller](https://www.fastprep.io/low-level-design/intersection-traffic-light-controller)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/intersection-traffic-light-controller)|Dec 06, 2025|
 |**Google**|[The Skyline Problem](https://www.fastprep.io/problems/google-the-skyline-problem)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-the-skyline-problem)|Dec 04, 2025|
@@ -254,7 +259,9 @@
 |**Microsoft**|[Distinct Number Line Moves](https://www.fastprep.io/problems/microsoft-distinct-number-line-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-distinct-number-line-moves)|Oct 16, 2025|
 |**Google**|[Maximum Currency Conversion with Arbitrage](https://www.fastprep.io/problems/google-maximum-currency-conversion-with-arbitrage)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-currency-conversion-with-arbitrage)|Oct 16, 2025|
 |**Google**|[Design a Visual Similarity Search System](https://www.fastprep.io/system-design/visual-similarity-search-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/visual-similarity-search-system)|Oct 16, 2025|
+|**Datadog**|[Design a Frontend Alarm Management Console](https://www.fastprep.io/system-design/frontend-alarm-management-console)|System design|[![Practice][p]](https://www.fastprep.io/system-design/frontend-alarm-management-console)|Oct 16, 2025|
 |**Morgan Stanley**|[Model Room Appliances with OOP](https://www.fastprep.io/low-level-design/room-appliance-oop-model)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/room-appliance-oop-model)|Oct 11, 2025|
+|**Datadog**|[Design a Flight Deal Notification Service](https://www.fastprep.io/system-design/flight-deal-notification-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/flight-deal-notification-service)|Oct 09, 2025|
 |**Microsoft**|[Design RAG-Assisted Kusto Query Generation](https://www.fastprep.io/system-design/rag-assisted-kusto-query-generation)|System design|[![Practice][p]](https://www.fastprep.io/system-design/rag-assisted-kusto-query-generation)|Oct 08, 2025|
 |**Microsoft**|[Optimize LLM Inference Across Model and Infrastructure](https://www.fastprep.io/system-design/llm-inference-latency-cost-optimization)|System design|[![Practice][p]](https://www.fastprep.io/system-design/llm-inference-latency-cost-optimization)|Oct 08, 2025|
 |**Apple**|[Complete a DAG Task Pipeline](https://www.fastprep.io/project-coding/apple-dag-task-pipeline)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/apple-dag-task-pipeline)|Oct 07, 2025|
