@@ -9,6 +9,12 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Uber**|[Earliest Time All Users Are Connected](https://www.fastprep.io/problems/uber-earliest-full-connection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-earliest-full-connection)|May 23, 2026|
+|**Meta**|[Merge Three Sorted Arrays](https://www.fastprep.io/problems/meta-merge-three-sorted-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-merge-three-sorted-arrays)|May 23, 2026|
+|**Amazon**|[Count Connected Components](https://www.fastprep.io/problems/amazon-count-connected-components)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-connected-components)|May 21, 2026|
+|**Postman**|[Design a Social Feed and Post Detail Experience](https://www.fastprep.io/system-design/social-feed-and-post-detail-experience)|System design|[![Practice][p]](https://www.fastprep.io/system-design/social-feed-and-post-detail-experience)|May 21, 2026|
+|**Google**|[Detonate Bombs with Chain Reactions](https://www.fastprep.io/problems/google-detonate-bombs-chain-reaction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-detonate-bombs-chain-reaction)|May 20, 2026|
+|**Google**|[Evaluate a Nested Math Expression](https://www.fastprep.io/problems/google-evaluate-nested-math-expression)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-evaluate-nested-math-expression)|May 20, 2026|
 |**Guidewire**|[Minimum Boys Next to Girls](https://www.fastprep.io/problems/guidewire-minimum-boys-next-to-girls)|Coding|[![Practice][p]](https://www.fastprep.io/problems/guidewire-minimum-boys-next-to-girls)|May 20, 2026|
 |**Salesforce**|[Time Needed to Rearrange a Binary String](https://www.fastprep.io/problems/salesforce-time-to-rearrange-binary-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-time-to-rearrange-binary-string)|May 19, 2026|
 |**Infosys**|[Minimum Path Sum With Grid Switches](https://www.fastprep.io/problems/infosys-minimum-path-sum-with-grid-switches)|Coding|[![Practice][p]](https://www.fastprep.io/problems/infosys-minimum-path-sum-with-grid-switches)|May 19, 2026|
@@ -190,7 +196,6 @@
 |**JP Morgan**|[Count Dropped Requests](https://www.fastprep.io/problems/jpmorgan-count-dropped-requests)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-count-dropped-requests)|Jan 19, 2026|
 |**JP Morgan**|[Generate Table of Contents](https://www.fastprep.io/problems/jpmorgan-generate-table-of-contents)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-generate-table-of-contents)|Jan 19, 2026|
 |**FlexTrade**|[Course Schedule](https://www.fastprep.io/problems/flextrade-course-schedule)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flextrade-course-schedule)|Jan 17, 2026|
-|**Stripe**|[Complete a Balance-Summary Reconciliation Integration](https://www.fastprep.io/project-coding/stripe-balance-reconciliation-integration)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-balance-reconciliation-integration)|Jan 17, 2026|
 |**Bloomberg LP**|[Design a Wordle Game Round](https://www.fastprep.io/low-level-design/wordle-game-round)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/wordle-game-round)|Jan 16, 2026|
 |**Stripe**|[Repair Dynamic-ID Request Replay](https://www.fastprep.io/project-coding/stripe-request-replay-integration)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-request-replay-integration)|Jan 15, 2026|
 |**Stable Money**|[Design a Feature Configuration Personalization Service](https://www.fastprep.io/low-level-design/feature-configuration-personalization)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/feature-configuration-personalization)|Jan 15, 2026|
@@ -267,6 +272,7 @@
 |**Google**|[Maximum Currency Conversion with Arbitrage](https://www.fastprep.io/problems/google-maximum-currency-conversion-with-arbitrage)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-currency-conversion-with-arbitrage)|Oct 16, 2025|
 |**Google**|[Design a Visual Similarity Search System](https://www.fastprep.io/system-design/visual-similarity-search-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/visual-similarity-search-system)|Oct 16, 2025|
 |**Datadog**|[Design a Frontend Alarm Management Console](https://www.fastprep.io/system-design/frontend-alarm-management-console)|System design|[![Practice][p]](https://www.fastprep.io/system-design/frontend-alarm-management-console)|Oct 16, 2025|
+|**Squarepoint Capital**|[Demonstrate Four OOP Principles](https://www.fastprep.io/low-level-design/four-oop-pillars-in-code)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/four-oop-pillars-in-code)|Oct 16, 2025|
 |**Morgan Stanley**|[Model Room Appliances with OOP](https://www.fastprep.io/low-level-design/room-appliance-oop-model)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/room-appliance-oop-model)|Oct 11, 2025|
 |**Datadog**|[Design a Flight Deal Notification Service](https://www.fastprep.io/system-design/flight-deal-notification-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/flight-deal-notification-service)|Oct 09, 2025|
 |**Microsoft**|[Design RAG-Assisted Kusto Query Generation](https://www.fastprep.io/system-design/rag-assisted-kusto-query-generation)|System design|[![Practice][p]](https://www.fastprep.io/system-design/rag-assisted-kusto-query-generation)|Oct 08, 2025|

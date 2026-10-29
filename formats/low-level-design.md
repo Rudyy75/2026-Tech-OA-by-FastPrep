@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**197 questions**
+**200 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Nykaa / Navi / Atlys / Rippling**|[Design a Shared Expense Splitting Service](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|🔥 Oct 29, 2026|
+|**Autodesk**|[Design a Shape Transformation Engine](https://www.fastprep.io/low-level-design/shape-transformation-engine)|[![Practice][p]](https://www.fastprep.io/low-level-design/shape-transformation-engine)|🔥 Oct 29, 2026|
 |**Commvault / Oracle**|[Design a Chess Move Validation Model](https://www.fastprep.io/low-level-design/chess-move-validation)|[![Practice][p]](https://www.fastprep.io/low-level-design/chess-move-validation)|🔥 Oct 27, 2026|
 |**Amazon**|[Design File-System Search with Symlink Safety](https://www.fastprep.io/low-level-design/filesystem-search-with-symlink-safety)|[![Practice][p]](https://www.fastprep.io/low-level-design/filesystem-search-with-symlink-safety)|🔥 Oct 27, 2026|
 |**Google / The D.E. Shaw Group**|[Design and Implement a Meeting-Room Scheduler](https://www.fastprep.io/low-level-design/meeting-room-scheduler)|[![Practice][p]](https://www.fastprep.io/low-level-design/meeting-room-scheduler)|🔥 Oct 26, 2026|
@@ -23,7 +25,6 @@
 |**Amazon / Omnissa / Deloitte**|[Design an Extensible Multi-Channel Alerting Platform](https://www.fastprep.io/low-level-design/extensible-multi-channel-alerting-platform)|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-multi-channel-alerting-platform)|🔥 Oct 22, 2026|
 |**Amazon**|[Design a Pizza Ordering Domain](https://www.fastprep.io/low-level-design/pizza-order-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/pizza-order-domain)|🔥 Oct 21, 2026|
 |**Proofpoint**|[Design a Concurrent Sports Roster Service](https://www.fastprep.io/low-level-design/concurrent-sports-roster-service)|[![Practice][p]](https://www.fastprep.io/low-level-design/concurrent-sports-roster-service)|🔥 Oct 21, 2026|
-|**Nykaa / Navi / Atlys**|[Design a Shared Expense Splitting Service](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|🔥 Oct 19, 2026|
 |**Amazon**|[Design a Package Delivery Assignment Domain](https://www.fastprep.io/low-level-design/package-delivery-assignment-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/package-delivery-assignment-domain)|🔥 Oct 17, 2026|
 |**Amazon**|[Design a Delivery Slot Booking Domain](https://www.fastprep.io/low-level-design/delivery-slot-booking-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/delivery-slot-booking-domain)|🔥 Oct 16, 2026|
 |**Databricks**|[Design a WAL-Backed Batch Log Writer](https://www.fastprep.io/low-level-design/wal-backed-batch-log-writer)|[![Practice][p]](https://www.fastprep.io/low-level-design/wal-backed-batch-log-writer)|🔥 Oct 15, 2026|
@@ -133,6 +134,7 @@
 |**Amazon**|[Design Music Search, Playlists, and Playback](https://www.fastprep.io/low-level-design/amazon-music-search-and-playback)|[![Practice][p]](https://www.fastprep.io/low-level-design/amazon-music-search-and-playback)|Jul 21, 2026|
 |**Meta**|[Design and Implement an In-Memory Tally Service](https://www.fastprep.io/low-level-design/meta-tally-service)|[![Practice][p]](https://www.fastprep.io/low-level-design/meta-tally-service)|Jul 20, 2026|
 |**Cursor**|[Design and Implement a Pluggable Notification Rate Limiter](https://www.fastprep.io/low-level-design/pluggable-notification-rate-limiter)|[![Practice][p]](https://www.fastprep.io/low-level-design/pluggable-notification-rate-limiter)|Jul 18, 2026|
+|**Squarepoint Capital**|[Manage a Resource with Smart Pointers](https://www.fastprep.io/low-level-design/smart-pointer-resource-lifetime)|[![Practice][p]](https://www.fastprep.io/low-level-design/smart-pointer-resource-lifetime)|Jul 01, 2026|
 |**Globalization Partners**|[Design an Extensible Role-Based Access Control System](https://www.fastprep.io/low-level-design/extensible-role-based-access-control)|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-role-based-access-control)|Jun 23, 2026|
 |**Google**|[Design Student Room Preference Allocation](https://www.fastprep.io/low-level-design/student-room-preference-allocation)|[![Practice][p]](https://www.fastprep.io/low-level-design/student-room-preference-allocation)|Jun 23, 2026|
 |**Amazon**|[Design an Advertising Campaign Metrics Tracker](https://www.fastprep.io/low-level-design/advertising-campaign-metrics-tracker)|[![Practice][p]](https://www.fastprep.io/low-level-design/advertising-campaign-metrics-tracker)|Jun 12, 2026|
@@ -156,6 +158,7 @@
 |**Benchling**|[Design an Intersection Traffic-Light Controller](https://www.fastprep.io/low-level-design/intersection-traffic-light-controller)|[![Practice][p]](https://www.fastprep.io/low-level-design/intersection-traffic-light-controller)|Dec 06, 2025|
 |**BitGo**|[Design and Implement an In-Memory Relational Database Engine](https://www.fastprep.io/low-level-design/in-memory-relational-database-engine)|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-relational-database-engine)|Nov 23, 2025|
 |**Bloomberg LP**|[Design and Implement a Fair Event Registration Queue](https://www.fastprep.io/low-level-design/fair-event-registration-queue)|[![Practice][p]](https://www.fastprep.io/low-level-design/fair-event-registration-queue)|Nov 21, 2025|
+|**Squarepoint Capital**|[Demonstrate Four OOP Principles](https://www.fastprep.io/low-level-design/four-oop-pillars-in-code)|[![Practice][p]](https://www.fastprep.io/low-level-design/four-oop-pillars-in-code)|Oct 16, 2025|
 |**Morgan Stanley**|[Model Room Appliances with OOP](https://www.fastprep.io/low-level-design/room-appliance-oop-model)|[![Practice][p]](https://www.fastprep.io/low-level-design/room-appliance-oop-model)|Oct 11, 2025|
 |**Meta**|[Design a Discussion Forum with Posts and Votes](https://www.fastprep.io/low-level-design/discussion-forum-posts-and-votes)|[![Practice][p]](https://www.fastprep.io/low-level-design/discussion-forum-posts-and-votes)|Sep 02, 2025|
 |**SpaceX**|[Design Tagged Gift Shop Search](https://www.fastprep.io/low-level-design/gift-shop-tagged-search)|[![Practice][p]](https://www.fastprep.io/low-level-design/gift-shop-tagged-search)|Aug 22, 2025|
