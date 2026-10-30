@@ -9,7 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**Uber**|[Earliest Time All Users Are Connected](https://www.fastprep.io/problems/uber-earliest-full-connection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-earliest-full-connection)|May 23, 2026|
 |**Meta**|[Merge Three Sorted Arrays](https://www.fastprep.io/problems/meta-merge-three-sorted-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-merge-three-sorted-arrays)|May 23, 2026|
 |**Amazon**|[Count Connected Components](https://www.fastprep.io/problems/amazon-count-connected-components)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-connected-components)|May 21, 2026|
 |**Postman**|[Design a Social Feed and Post Detail Experience](https://www.fastprep.io/system-design/social-feed-and-post-detail-experience)|System design|[![Practice][p]](https://www.fastprep.io/system-design/social-feed-and-post-detail-experience)|May 21, 2026|
