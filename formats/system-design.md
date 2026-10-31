@@ -2,20 +2,25 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**641 questions**
+**643 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**AMD**|[AI-Assisted Device Automation Workflow](https://www.fastprep.io/system-design/ai-assisted-device-automation-workflow)|[![Practice][p]](https://www.fastprep.io/system-design/ai-assisted-device-automation-workflow)|🔥 Oct 31, 2026|
 |**Microsoft**|[Design a Financial Records Dashboard and History Table](https://www.fastprep.io/system-design/financial-records-dashboard-and-history-table)|[![Practice][p]](https://www.fastprep.io/system-design/financial-records-dashboard-and-history-table)|🔥 Oct 30, 2026|
 |**DoorDash**|[Design Payments for a Short High-Traffic Event](https://www.fastprep.io/system-design/high-traffic-event-payment-flow)|[![Practice][p]](https://www.fastprep.io/system-design/high-traffic-event-payment-flow)|🔥 Oct 30, 2026|
+|**Netflix / Oracle / Google / Meta / ByteDance / Astrotalk / LinkedIn / Microsoft / Snap Inc.**|[Design a Personalized Recommendation System](https://www.fastprep.io/system-design/personalized-recommendation-system)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-recommendation-system)|🔥 Oct 30, 2026|
+|**OpenAI / Sprinter Health**|[Digital Game Distribution Platform](https://www.fastprep.io/system-design/digital-game-distribution-platform)|[![Practice][p]](https://www.fastprep.io/system-design/digital-game-distribution-platform)|🔥 Oct 30, 2026|
+|**Google / Snap Inc.**|[Design a Harmful-Content Classification Service](https://www.fastprep.io/system-design/harmful-content-classification-service)|[![Practice][p]](https://www.fastprep.io/system-design/harmful-content-classification-service)|🔥 Oct 30, 2026|
 |**Rippling**|[Design a Multi-Tenant Employee Leave Management System](https://www.fastprep.io/system-design/multi-tenant-employee-leave-management)|[![Practice][p]](https://www.fastprep.io/system-design/multi-tenant-employee-leave-management)|🔥 Oct 29, 2026|
 |**Google / Microsoft / LinkedIn**|[Design Learned Web Search Ranking](https://www.fastprep.io/system-design/learned-web-search-ranking)|[![Practice][p]](https://www.fastprep.io/system-design/learned-web-search-ranking)|🔥 Oct 29, 2026|
 |**OpenAI**|[Design a Fair Multiplayer Typing Race](https://www.fastprep.io/system-design/multiplayer-typing-race)|[![Practice][p]](https://www.fastprep.io/system-design/multiplayer-typing-race)|🔥 Oct 29, 2026|
 |**Databricks**|[Online Bookseller Platform](https://www.fastprep.io/system-design/online-bookseller-platform)|[![Practice][p]](https://www.fastprep.io/system-design/online-bookseller-platform)|🔥 Oct 29, 2026|
 |**LinkedIn / Rippling**|[Design a Recent User-Activity Query System](https://www.fastprep.io/system-design/recent-user-activity-query-system)|[![Practice][p]](https://www.fastprep.io/system-design/recent-user-activity-query-system)|🔥 Oct 29, 2026|
 |**Databricks**|[Design a Durable Local Event Writer](https://www.fastprep.io/system-design/durable-local-event-writer)|[![Practice][p]](https://www.fastprep.io/system-design/durable-local-event-writer)|🔥 Oct 29, 2026|
+|**Postman / Anduril / DigitalOcean / Oracle / Adobe / Uber Freight / Grab / Goldman Sachs / Salesforce / Vercel / Sentry / Motive / Deloitte / ZipRecruiter**|[Design a URL Shortening Service](https://www.fastprep.io/system-design/url-shortening-service)|[![Practice][p]](https://www.fastprep.io/system-design/url-shortening-service)|🔥 Oct 29, 2026|
 |**Rippling / Google**|[Design a Personalized News Aggregation Platform](https://www.fastprep.io/system-design/personalized-news-aggregation-platform)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-news-aggregation-platform)|🔥 Oct 28, 2026|
 |**Cursor / Amazon**|[Design a Versioned IDE Settings Sync System](https://www.fastprep.io/system-design/versioned-ide-settings-sync)|[![Practice][p]](https://www.fastprep.io/system-design/versioned-ide-settings-sync)|🔥 Oct 28, 2026|
 |**Databricks**|[Design a Chat Application with Message and Thread Deletion](https://www.fastprep.io/system-design/chat-message-and-thread-deletion)|[![Practice][p]](https://www.fastprep.io/system-design/chat-message-and-thread-deletion)|🔥 Oct 28, 2026|
@@ -104,7 +109,6 @@
 |**Anthropic / Snap Inc. / Lyft / Fivetran / Temporal**|[One-to-One Chat Service](https://www.fastprep.io/system-design/one-to-one-chat-service)|[![Practice][p]](https://www.fastprep.io/system-design/one-to-one-chat-service)|🆕 Oct 13, 2026|
 |**Anthropic**|[Design a Prompt Playground](https://www.fastprep.io/system-design/prompt-playground-system)|[![Practice][p]](https://www.fastprep.io/system-design/prompt-playground-system)|🆕 Oct 13, 2026|
 |**Sierra**|[Design a Resumable Streaming AI Chat](https://www.fastprep.io/system-design/resumable-streaming-ai-chat)|[![Practice][p]](https://www.fastprep.io/system-design/resumable-streaming-ai-chat)|🆕 Oct 13, 2026|
-|**Postman / Anduril / DigitalOcean / Oracle / Adobe / Uber Freight / Grab / Goldman Sachs / Salesforce / Vercel / Sentry / Motive / Deloitte / ZipRecruiter**|[Design a URL Shortening Service](https://www.fastprep.io/system-design/url-shortening-service)|[![Practice][p]](https://www.fastprep.io/system-design/url-shortening-service)|🆕 Oct 12, 2026|
 |**Anthropic**|[Design Opaque-GPU Inference Capacity](https://www.fastprep.io/system-design/opaque-gpu-inference-capacity-review)|[![Practice][p]](https://www.fastprep.io/system-design/opaque-gpu-inference-capacity-review)|🆕 Oct 12, 2026|
 |**Atlassian**|[Design a Responsive Product Catalog Search Frontend](https://www.fastprep.io/system-design/responsive-product-catalog-search-frontend)|[![Practice][p]](https://www.fastprep.io/system-design/responsive-product-catalog-search-frontend)|🆕 Oct 12, 2026|
 |**Amazon**|[Design Agentic Security Stream Detection](https://www.fastprep.io/system-design/agentic-security-stream-detection)|[![Practice][p]](https://www.fastprep.io/system-design/agentic-security-stream-detection)|🆕 Oct 11, 2026|
@@ -119,7 +123,6 @@
 |**Disney Careers**|[Design a Hybrid-Cloud Data Pipeline](https://www.fastprep.io/system-design/hybrid-cloud-data-pipeline)|[![Practice][p]](https://www.fastprep.io/system-design/hybrid-cloud-data-pipeline)|🆕 Oct 08, 2026|
 |**Google**|[Design a Safe Review Summarization Platform](https://www.fastprep.io/system-design/safe-review-summarization-platform)|[![Practice][p]](https://www.fastprep.io/system-design/safe-review-summarization-platform)|🆕 Oct 08, 2026|
 |**Microsoft**|[Design an Online Tic-Tac-Toe Platform](https://www.fastprep.io/system-design/online-tic-tac-toe-platform)|[![Practice][p]](https://www.fastprep.io/system-design/online-tic-tac-toe-platform)|🆕 Oct 08, 2026|
-|**Netflix / Oracle / Google / Meta / ByteDance / Astrotalk / LinkedIn / Microsoft**|[Design a Personalized Recommendation System](https://www.fastprep.io/system-design/personalized-recommendation-system)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-recommendation-system)|🆕 Oct 08, 2026|
 |**Netflix / FluidStack / DigitalOcean / Nuro / Together AI**|[Design a Machine-Learning Job Scheduler](https://www.fastprep.io/system-design/machine-learning-job-scheduler)|[![Practice][p]](https://www.fastprep.io/system-design/machine-learning-job-scheduler)|🆕 Oct 08, 2026|
 |**Pinterest / OpenAI / Axon / Tesla**|[Design a Blob Storage Service](https://www.fastprep.io/system-design/blob-storage-service)|[![Practice][p]](https://www.fastprep.io/system-design/blob-storage-service)|🆕 Oct 07, 2026|
 |**Bloomberg LP / Apple**|[Design Top-K News Articles in a Time Window](https://www.fastprep.io/system-design/top-k-news-arbitrary-window)|[![Practice][p]](https://www.fastprep.io/system-design/top-k-news-arbitrary-window)|🆕 Oct 07, 2026|
@@ -171,7 +174,6 @@
 |**Waymo**|[Design Fleet Map Data Collection](https://www.fastprep.io/system-design/fleet-map-data-collection)|[![Practice][p]](https://www.fastprep.io/system-design/fleet-map-data-collection)|🆕 Sep 29, 2026|
 |**Capital One**|[Design a Credit Card Account and Authorization Platform](https://www.fastprep.io/system-design/credit-card-account-authorization-platform)|[![Practice][p]](https://www.fastprep.io/system-design/credit-card-account-authorization-platform)|🆕 Sep 29, 2026|
 |**Amperity**|[Design a Read-Once Secret Sharing Service](https://www.fastprep.io/system-design/read-once-secret-sharing)|[![Practice][p]](https://www.fastprep.io/system-design/read-once-secret-sharing)|🆕 Sep 29, 2026|
-|**OpenAI / Sprinter Health**|[Digital Game Distribution Platform](https://www.fastprep.io/system-design/digital-game-distribution-platform)|[![Practice][p]](https://www.fastprep.io/system-design/digital-game-distribution-platform)|🆕 Sep 29, 2026|
 |**Mercor**|[Design a Dataset Copy API](https://www.fastprep.io/system-design/dataset-copy-api)|[![Practice][p]](https://www.fastprep.io/system-design/dataset-copy-api)|🆕 Sep 29, 2026|
 |**Microsoft**|[Design a Lab Machine Fleet Monitor](https://www.fastprep.io/system-design/lab-machine-fleet-monitoring)|[![Practice][p]](https://www.fastprep.io/system-design/lab-machine-fleet-monitoring)|🆕 Sep 29, 2026|
 |**Amperity**|[Design an Online SQL Service Over a Data Lake](https://www.fastprep.io/system-design/online-sql-service-over-data-lake)|[![Practice][p]](https://www.fastprep.io/system-design/online-sql-service-over-data-lake)|🆕 Sep 29, 2026|
@@ -188,7 +190,6 @@
 |**Uber / Mercor / Tekion**|[Design a Persistent Multi-Thread AI Chat](https://www.fastprep.io/system-design/persistent-multi-thread-ai-chat)|[![Practice][p]](https://www.fastprep.io/system-design/persistent-multi-thread-ai-chat)|🆕 Sep 27, 2026|
 |**Headway / Expedia**|[Vacation Rental Search and Booking](https://www.fastprep.io/system-design/vacation-rental-search-and-booking)|[![Practice][p]](https://www.fastprep.io/system-design/vacation-rental-search-and-booking)|🆕 Sep 27, 2026|
 |**Tekion**|[Design a Durable Agent Workflow Runtime](https://www.fastprep.io/system-design/durable-agent-workflow-runtime)|[![Practice][p]](https://www.fastprep.io/system-design/durable-agent-workflow-runtime)|🆕 Sep 27, 2026|
-|**Alpaca**|[Large-Scale Messaging Application](https://www.fastprep.io/system-design/large-scale-messaging-application)|[![Practice][p]](https://www.fastprep.io/system-design/large-scale-messaging-application)|🆕 Sep 26, 2026|
 |**Waabi**|[Autonomous Driving Auto-Labeling Pipeline](https://www.fastprep.io/system-design/autonomous-driving-auto-labeling-pipeline)|[![Practice][p]](https://www.fastprep.io/system-design/autonomous-driving-auto-labeling-pipeline)|🆕 Sep 26, 2026|
 |**Wayve / Waabi**|[Autonomous Driving Simulation Platform](https://www.fastprep.io/system-design/autonomous-driving-simulation-platform)|[![Practice][p]](https://www.fastprep.io/system-design/autonomous-driving-simulation-platform)|🆕 Sep 26, 2026|
 |**Modal Learning**|[Burst-Aware Serverless Task Scheduler](https://www.fastprep.io/system-design/burst-task-scheduler)|[![Practice][p]](https://www.fastprep.io/system-design/burst-task-scheduler)|🆕 Sep 26, 2026|
@@ -196,7 +197,7 @@
 |**Wayve / Waabi**|[Driving Log Ingestion and Query Platform](https://www.fastprep.io/system-design/driving-log-ingestion-query-platform)|[![Practice][p]](https://www.fastprep.io/system-design/driving-log-ingestion-query-platform)|🆕 Sep 26, 2026|
 |**Supabase**|[Global Edge Functions Platform](https://www.fastprep.io/system-design/global-edge-functions-platform)|[![Practice][p]](https://www.fastprep.io/system-design/global-edge-functions-platform)|🆕 Sep 26, 2026|
 |**Lambda**|[High-Throughput ML Object Store](https://www.fastprep.io/system-design/high-throughput-ml-object-store)|[![Practice][p]](https://www.fastprep.io/system-design/high-throughput-ml-object-store)|🆕 Sep 26, 2026|
-|**Lambda**|[Kubernetes GPU Workload Control Plane](https://www.fastprep.io/system-design/kubernetes-gpu-control-plane)|[![Practice][p]](https://www.fastprep.io/system-design/kubernetes-gpu-control-plane)|🆕 Sep 26, 2026|
+|**Lambda / AMD**|[Kubernetes GPU Workload Control Plane](https://www.fastprep.io/system-design/kubernetes-gpu-control-plane)|[![Practice][p]](https://www.fastprep.io/system-design/kubernetes-gpu-control-plane)|🆕 Sep 26, 2026|
 |**Modal Learning**|[Large Model Artifact Cache](https://www.fastprep.io/system-design/model-artifact-cache)|[![Practice][p]](https://www.fastprep.io/system-design/model-artifact-cache)|🆕 Sep 26, 2026|
 |**LangChain**|[LLM Observability and Alerting Platform](https://www.fastprep.io/system-design/llm-observability-platform)|[![Practice][p]](https://www.fastprep.io/system-design/llm-observability-platform)|🆕 Sep 26, 2026|
 |**Lambda**|[Multi-Tenant GPU Cluster Scheduler](https://www.fastprep.io/system-design/multi-tenant-gpu-scheduler)|[![Practice][p]](https://www.fastprep.io/system-design/multi-tenant-gpu-scheduler)|🆕 Sep 26, 2026|
@@ -303,6 +304,7 @@
 |**OpenAI**|[Design an Offline-Capable IoT Log Platform](https://www.fastprep.io/system-design/offline-capable-iot-log-platform)|[![Practice][p]](https://www.fastprep.io/system-design/offline-capable-iot-log-platform)|Sep 08, 2026|
 |**ByteDance**|[Design Observability for AI Agent Tool Calls](https://www.fastprep.io/system-design/ai-agent-tool-call-observability)|[![Practice][p]](https://www.fastprep.io/system-design/ai-agent-tool-call-observability)|Sep 08, 2026|
 |**Nubank**|[Design Chargeback Ingestion and Eligible-Record Export](https://www.fastprep.io/system-design/chargeback-ingestion-and-eligible-record-export)|[![Practice][p]](https://www.fastprep.io/system-design/chargeback-ingestion-and-eligible-record-export)|Sep 07, 2026|
+|**Alpaca / AMD**|[Large-Scale Messaging Application](https://www.fastprep.io/system-design/large-scale-messaging-application)|[![Practice][p]](https://www.fastprep.io/system-design/large-scale-messaging-application)|Sep 06, 2026|
 |**Medallion**|[Design an Automated Achievement Certificate System](https://www.fastprep.io/system-design/automated-achievement-certificate-system)|[![Practice][p]](https://www.fastprep.io/system-design/automated-achievement-certificate-system)|Sep 06, 2026|
 |**Anthropic**|[Design Telemetry Name Reconciliation](https://www.fastprep.io/system-design/telemetry-name-reconciliation)|[![Practice][p]](https://www.fastprep.io/system-design/telemetry-name-reconciliation)|Sep 06, 2026|
 |**Oracle**|[Design a Rolling Top Error-Services Monitor](https://www.fastprep.io/system-design/rolling-top-error-services)|[![Practice][p]](https://www.fastprep.io/system-design/rolling-top-error-services)|Sep 05, 2026|
@@ -501,6 +503,7 @@
 |**Retool**|[Design a Dog Walking and Sitting Booking Platform](https://www.fastprep.io/system-design/dog-care-booking-platform)|[![Practice][p]](https://www.fastprep.io/system-design/dog-care-booking-platform)|Mar 24, 2026|
 |**Microsoft**|[Design SFT and RL for Consistent LLM Answers](https://www.fastprep.io/system-design/llm-response-consistency-sft-and-rl)|[![Practice][p]](https://www.fastprep.io/system-design/llm-response-consistency-sft-and-rl)|Mar 20, 2026|
 |**Figma**|[Design a Browser-Based Graphics Editor](https://www.fastprep.io/system-design/browser-graphics-editor)|[![Practice][p]](https://www.fastprep.io/system-design/browser-graphics-editor)|Feb 12, 2026|
+|**AMD**|[GPU Context-Switching Software Stack](https://www.fastprep.io/system-design/gpu-context-switching-software-stack)|[![Practice][p]](https://www.fastprep.io/system-design/gpu-context-switching-software-stack)|Feb 12, 2026|
 |**Google**|[Design a Chatbot over Tables and Documents](https://www.fastprep.io/system-design/grounded-chatbot-over-tables-and-documents)|[![Practice][p]](https://www.fastprep.io/system-design/grounded-chatbot-over-tables-and-documents)|Feb 08, 2026|
 |**DoorDash**|[Design Personalized Restaurant Search](https://www.fastprep.io/system-design/personalized-restaurant-search)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-restaurant-search)|Feb 07, 2026|
 |**Atlassian**|[Delivery Status Architecture Audit](https://www.fastprep.io/system-design/delivery-status-architecture-audit)|[![Practice][p]](https://www.fastprep.io/system-design/delivery-status-architecture-audit)|Feb 04, 2026|
@@ -540,7 +543,6 @@
 |**LSEG**|[Design a Student Analytics Dashboard](https://www.fastprep.io/system-design/student-analytics-dashboard)|[![Practice][p]](https://www.fastprep.io/system-design/student-analytics-dashboard)|Jul 23, 2025|
 |**LSEG**|[Extend a Forex Platform with Bitcoin Trading](https://www.fastprep.io/system-design/crypto-trading-extension)|[![Practice][p]](https://www.fastprep.io/system-design/crypto-trading-extension)|Jul 23, 2025|
 |**Klaviyo**|[Design a Crypto Portfolio Purchase Experience](https://www.fastprep.io/system-design/crypto-portfolio-purchase-interface)|[![Practice][p]](https://www.fastprep.io/system-design/crypto-portfolio-purchase-interface)|Jul 09, 2025|
-|**Google**|[Design a Harmful-Content Classification Service](https://www.fastprep.io/system-design/harmful-content-classification-service)|[![Practice][p]](https://www.fastprep.io/system-design/harmful-content-classification-service)|Jul 03, 2025|
 |**Atlassian**|[Smart-Fridge Edge Processing Migration](https://www.fastprep.io/system-design/smart-fridge-edge-processing-migration)|[![Practice][p]](https://www.fastprep.io/system-design/smart-fridge-edge-processing-migration)|Jul 01, 2025|
 |**Atlassian**|[Diagnose and Scale a Recipe Commerce Service](https://www.fastprep.io/system-design/recipe-commerce-performance-review)|[![Practice][p]](https://www.fastprep.io/system-design/recipe-commerce-performance-review)|May 31, 2025|
 |**Atlassian**|[Migrate an Ethernet Appliance to a Microcontroller](https://www.fastprep.io/system-design/embedded-appliance-platform-port)|[![Practice][p]](https://www.fastprep.io/system-design/embedded-appliance-platform-port)|May 31, 2025|
