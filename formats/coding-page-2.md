@@ -8,7 +8,6 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
-|**DoorDash**|[Sizes of Friend Groups](https://www.fastprep.io/problems/doordash-get-sizes-of-friends-groups)|[![Practice][p]](https://www.fastprep.io/problems/doordash-get-sizes-of-friends-groups)|Mar 14, 2024|
 |**TikTok**|[Minimum Buckets](https://www.fastprep.io/problems/tiktok-minimum-buckets)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-minimum-buckets)|Mar 13, 2024|
 |**TikTok**|[URL Hashing](https://www.fastprep.io/problems/tiktok-url-hashing)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-url-hashing)|Mar 13, 2024|
 |**TikTok**|[Three Knights](https://www.fastprep.io/problems/tiktok-find-the-number-of-possible-placements-for-the-three-knights)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-find-the-number-of-possible-placements-for-the-three-knights)|Mar 13, 2024|
