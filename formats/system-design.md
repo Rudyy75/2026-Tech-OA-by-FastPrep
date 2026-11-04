@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**652 questions**
+**654 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -67,7 +67,7 @@
 |**Syfe / Google**|[Design A Token-Limited Multi-Profile Chat](https://www.fastprep.io/system-design/token-limited-multi-profile-chat)|[![Practice][p]](https://www.fastprep.io/system-design/token-limited-multi-profile-chat)|🔥 Oct 21, 2026|
 |**Okta**|[Design a Device Status Collection Platform](https://www.fastprep.io/system-design/device-status-collection-platform)|[![Practice][p]](https://www.fastprep.io/system-design/device-status-collection-platform)|🔥 Oct 21, 2026|
 |**Zoox**|[Design Accurate Video View Counts](https://www.fastprep.io/system-design/video-view-count-analytics)|[![Practice][p]](https://www.fastprep.io/system-design/video-view-count-analytics)|🔥 Oct 21, 2026|
-|**Amazon / Instacart / Zip / Nykaa / Flipkart**|[Design a Last-Unit Inventory Reservation Service](https://www.fastprep.io/system-design/last-unit-inventory-reservation)|[![Practice][p]](https://www.fastprep.io/system-design/last-unit-inventory-reservation)|🔥 Oct 20, 2026|
+|**Amazon / Instacart / Zip / Nykaa / Flipkart**|[Design a Last-Unit Inventory Reservation Service](https://www.fastprep.io/system-design/last-unit-inventory-reservation)|[![Practice][p]](https://www.fastprep.io/system-design/last-unit-inventory-reservation)|🆕 Oct 20, 2026|
 |**Snowflake**|[Declarative Cluster Control Plane](https://www.fastprep.io/system-design/declarative-cluster-control-plane)|[![Practice][p]](https://www.fastprep.io/system-design/declarative-cluster-control-plane)|🆕 Oct 19, 2026|
 |**Snowflake**|[Design a Resilient Third-Party Token Client](https://www.fastprep.io/system-design/resilient-third-party-token-client)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-third-party-token-client)|🆕 Oct 19, 2026|
 |**Snowflake**|[Design a Shared User Quota Authority](https://www.fastprep.io/system-design/shared-user-quota-authority)|[![Practice][p]](https://www.fastprep.io/system-design/shared-user-quota-authority)|🆕 Oct 19, 2026|
@@ -244,13 +244,13 @@
 |**Pinterest**|[In-Memory Typeahead Trie Service](https://www.fastprep.io/system-design/in-memory-typeahead-trie-service)|[![Practice][p]](https://www.fastprep.io/system-design/in-memory-typeahead-trie-service)|🆕 Sep 21, 2026|
 |**Tesla**|[Monorepo Build and Vehicle Software Rollout](https://www.fastprep.io/system-design/monorepo-build-and-vehicle-rollout)|[![Practice][p]](https://www.fastprep.io/system-design/monorepo-build-and-vehicle-rollout)|🆕 Sep 21, 2026|
 |**Google**|[Offline Multi-Device Data Sync](https://www.fastprep.io/system-design/offline-multi-device-data-sync)|[![Practice][p]](https://www.fastprep.io/system-design/offline-multi-device-data-sync)|🆕 Sep 20, 2026|
-|**Databricks**|[Chat API and Database System](https://www.fastprep.io/system-design/chat-api-and-database-system)|[![Practice][p]](https://www.fastprep.io/system-design/chat-api-and-database-system)|🆕 Sep 19, 2026|
-|**Microsoft / Decagon**|[AI Receptionist Voice Chat](https://www.fastprep.io/system-design/ai-receptionist-voice-chat-system)|[![Practice][p]](https://www.fastprep.io/system-design/ai-receptionist-voice-chat-system)|🆕 Sep 19, 2026|
-|**Airbnb**|[Customer Support Resolution Assistant](https://www.fastprep.io/system-design/customer-support-resolution-rag-system)|[![Practice][p]](https://www.fastprep.io/system-design/customer-support-resolution-rag-system)|🆕 Sep 19, 2026|
-|**Walleye Capital**|[Equity Research Decision Intelligence](https://www.fastprep.io/system-design/equity-research-decision-intelligence)|[![Practice][p]](https://www.fastprep.io/system-design/equity-research-decision-intelligence)|🆕 Sep 19, 2026|
-|**Microsoft / Optiver**|[Global One-to-One Voice Calling](https://www.fastprep.io/system-design/global-one-to-one-voice-calling-system)|[![Practice][p]](https://www.fastprep.io/system-design/global-one-to-one-voice-calling-system)|🆕 Sep 19, 2026|
-|**Atlassian**|[Social Post Comments](https://www.fastprep.io/system-design/social-post-comments-system)|[![Practice][p]](https://www.fastprep.io/system-design/social-post-comments-system)|🆕 Sep 19, 2026|
-|**Airbnb**|[Vacation Rental Candidate Ranking](https://www.fastprep.io/system-design/vacation-rental-candidate-ranking-system)|[![Practice][p]](https://www.fastprep.io/system-design/vacation-rental-candidate-ranking-system)|🆕 Sep 19, 2026|
+|**Databricks**|[Chat API and Database System](https://www.fastprep.io/system-design/chat-api-and-database-system)|[![Practice][p]](https://www.fastprep.io/system-design/chat-api-and-database-system)|Sep 19, 2026|
+|**Microsoft / Decagon**|[AI Receptionist Voice Chat](https://www.fastprep.io/system-design/ai-receptionist-voice-chat-system)|[![Practice][p]](https://www.fastprep.io/system-design/ai-receptionist-voice-chat-system)|Sep 19, 2026|
+|**Airbnb**|[Customer Support Resolution Assistant](https://www.fastprep.io/system-design/customer-support-resolution-rag-system)|[![Practice][p]](https://www.fastprep.io/system-design/customer-support-resolution-rag-system)|Sep 19, 2026|
+|**Walleye Capital**|[Equity Research Decision Intelligence](https://www.fastprep.io/system-design/equity-research-decision-intelligence)|[![Practice][p]](https://www.fastprep.io/system-design/equity-research-decision-intelligence)|Sep 19, 2026|
+|**Microsoft / Optiver**|[Global One-to-One Voice Calling](https://www.fastprep.io/system-design/global-one-to-one-voice-calling-system)|[![Practice][p]](https://www.fastprep.io/system-design/global-one-to-one-voice-calling-system)|Sep 19, 2026|
+|**Atlassian**|[Social Post Comments](https://www.fastprep.io/system-design/social-post-comments-system)|[![Practice][p]](https://www.fastprep.io/system-design/social-post-comments-system)|Sep 19, 2026|
+|**Airbnb**|[Vacation Rental Candidate Ranking](https://www.fastprep.io/system-design/vacation-rental-candidate-ranking-system)|[![Practice][p]](https://www.fastprep.io/system-design/vacation-rental-candidate-ranking-system)|Sep 19, 2026|
 |**Amazon**|[Design a Large-Scale File Change Watcher](https://www.fastprep.io/system-design/large-scale-file-change-watcher)|[![Practice][p]](https://www.fastprep.io/system-design/large-scale-file-change-watcher)|Sep 18, 2026|
 |**Amazon**|[Design Robot-Assisted Restaurant Orchestration](https://www.fastprep.io/system-design/robot-assisted-restaurant-orchestration)|[![Practice][p]](https://www.fastprep.io/system-design/robot-assisted-restaurant-orchestration)|Sep 18, 2026|
 |**Amazon**|[Design an Employee Directory and Organization Hierarchy](https://www.fastprep.io/system-design/employee-directory-and-org-hierarchy)|[![Practice][p]](https://www.fastprep.io/system-design/employee-directory-and-org-hierarchy)|Sep 18, 2026|
@@ -603,6 +603,8 @@
 |**Runway**|[Video Content Analysis Platform](https://www.fastprep.io/system-design/video-content-analysis-platform)|[![Practice][p]](https://www.fastprep.io/system-design/video-content-analysis-platform)|Apr 04, 2023|
 |**Bloomberg LP**|[Design Capacity-Weighted Cache Routing](https://www.fastprep.io/system-design/capacity-weighted-cache-routing)|[![Practice][p]](https://www.fastprep.io/system-design/capacity-weighted-cache-routing)|Nov 21, 2022|
 |**Microsoft**|[Design Website Classification with Crowd-Labeled Data](https://www.fastprep.io/system-design/website-classification-crowd-labels)|[![Practice][p]](https://www.fastprep.io/system-design/website-classification-crowd-labels)|Oct 31, 2022|
+|**Palantir**|[Design a Farm Pest Alert System](https://www.fastprep.io/system-design/farm-pest-alert-system)|[![Practice][p]](https://www.fastprep.io/system-design/farm-pest-alert-system)|Oct 25, 2022|
+|**Palantir**|[Design an Airline Aircraft Assignment Planner](https://www.fastprep.io/system-design/airline-aircraft-assignment-planner)|[![Practice][p]](https://www.fastprep.io/system-design/airline-aircraft-assignment-planner)|Oct 25, 2022|
 |**ZipRecruiter**|[Design Candidate Saved-Search Alerts](https://www.fastprep.io/system-design/candidate-saved-search-alerts)|[![Practice][p]](https://www.fastprep.io/system-design/candidate-saved-search-alerts)|Oct 21, 2022|
 |**Klaviyo**|[Redesign a Multi-Tier Web Application for AWS](https://www.fastprep.io/system-design/multi-tier-web-application-aws-redesign)|[![Practice][p]](https://www.fastprep.io/system-design/multi-tier-web-application-aws-redesign)|Oct 21, 2022|
 |**Confluent**|[Design a Resilient Infinite-Scroll Social Feed](https://www.fastprep.io/system-design/resilient-infinite-scroll-social-feed)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-infinite-scroll-social-feed)|Oct 18, 2022|
