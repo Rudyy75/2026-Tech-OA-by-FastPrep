@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Count Promotional Periods](https://www.fastprep.io/problems/amazon-count-promotional-periods)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-promotional-periods)|Jun 09, 2026|
+|**Agoda**|[Minimum Absolute Difference Pairs](https://www.fastprep.io/problems/agoda-minimum-absolute-difference-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-minimum-absolute-difference-pairs)|Jun 08, 2026|
+|**Shopify**|[Design and Implement Bank Accounts and Transfers](https://www.fastprep.io/low-level-design/bank-accounts-and-transfers)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/bank-accounts-and-transfers)|Jun 08, 2026|
 |**Amazon**|[Design an E-commerce Recommendation Event Pipeline](https://www.fastprep.io/system-design/ecommerce-recommendation-event-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ecommerce-recommendation-event-pipeline)|Jun 05, 2026|
 |**Notion**|[Design a Calendar Search and Sync Platform](https://www.fastprep.io/system-design/calendar-search-and-sync-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/calendar-search-and-sync-platform)|Jun 05, 2026|
 |**JP Morgan**|[About Shipping](https://www.fastprep.io/problems/jpmorgan-about-shipping)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-about-shipping)|Jun 04, 2026|
@@ -1486,7 +1489,6 @@
 |**Google**|[Design ML Landing-Page Optimization](https://www.fastprep.io/system-design/landing-page-optimization)|System design|[![Practice][p]](https://www.fastprep.io/system-design/landing-page-optimization)|Jun 02, 2020|
 |**Meta**|[Design Offensive Ad Content Detection](https://www.fastprep.io/system-design/offensive-ad-content-detection)|System design|[![Practice][p]](https://www.fastprep.io/system-design/offensive-ad-content-detection)|Jun 02, 2020|
 |**NVIDIA**|[Design a Versioned Flask Model Inference Service](https://www.fastprep.io/system-design/versioned-flask-model-inference-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/versioned-flask-model-inference-service)|Apr 04, 2020|
-|**Postman**|[Design an Authenticated Page Presence Counter](https://www.fastprep.io/system-design/authenticated-page-presence-counter)|System design|[![Practice][p]](https://www.fastprep.io/system-design/authenticated-page-presence-counter)|Mar 31, 2020|
 |**Microsoft**|[Design a Spreadsheet Next-Command Recommender](https://www.fastprep.io/system-design/spreadsheet-next-command-recommender)|System design|[![Practice][p]](https://www.fastprep.io/system-design/spreadsheet-next-command-recommender)|Feb 11, 2020|
 |**Google**|[Design an Incremental Spelling and Grammar Assistant](https://www.fastprep.io/system-design/incremental-spelling-and-grammar-assistant)|System design|[![Practice][p]](https://www.fastprep.io/system-design/incremental-spelling-and-grammar-assistant)|Dec 05, 2019|
 |**Palantir**|[Design an Ingredient Recipe and Cook Booking App](https://www.fastprep.io/system-design/ingredient-recipes-and-cook-booking)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ingredient-recipes-and-cook-booking)|Nov 25, 2019|

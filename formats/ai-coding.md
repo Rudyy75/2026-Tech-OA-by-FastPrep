@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**127 questions**
+**128 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -13,6 +13,7 @@
 |**Anthropic**|[Debug Extremely Randomized Trees (Fellow Program :)](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees)|🔥 Nov 03, 2026|
 |**DoorDash**|[Build a Refund DAG with Local HTTP Services](https://www.fastprep.io/project-coding/doordash-refund-dag-local-services)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-refund-dag-local-services)|🔥 Nov 03, 2026|
 |**DoorDash**|[Fix a Traffic Router and Add Consistent Hashing](https://www.fastprep.io/project-coding/doordash-routing-strategy-debugger)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-routing-strategy-debugger)|🔥 Nov 03, 2026|
+|**DigitalOcean**|[Build a Distributed Rate Limiter Service](https://www.fastprep.io/project-coding/digitalocean-distributed-rate-limiter)|[![Practice][p]](https://www.fastprep.io/project-coding/digitalocean-distributed-rate-limiter)|🔥 Nov 02, 2026|
 |**Amazon**|[Repair My Cars Ownership and Saved Edits](https://www.fastprep.io/project-coding/amazon-car-rental-listing-repair)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-car-rental-listing-repair)|🔥 Nov 01, 2026|
 |**Stripe**|[Request API Endpoints](https://www.fastprep.io/project-coding/stripe-json-api-client-integration)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-json-api-client-integration)|🔥 Nov 01, 2026|
 |**AMD**|[Create an HTML Input and Submit Form](https://www.fastprep.io/project-coding/amd-html-input-submit-form)|[![Practice][p]](https://www.fastprep.io/project-coding/amd-html-input-submit-form)|🔥 Oct 31, 2026|
@@ -23,9 +24,9 @@
 |**DoorDash**|[Build a Dasher Payout Service](https://www.fastprep.io/project-coding/doordash-dasher-payout-service)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-dasher-payout-service)|🔥 Oct 26, 2026|
 |**Stripe**|[Complete a Reconciliation Integration](https://www.fastprep.io/project-coding/stripe-balance-reconciliation-integration)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-balance-reconciliation-integration)|🔥 Oct 26, 2026|
 |**Sierra**|[Debug a Subscription Retention Agent](https://www.fastprep.io/project-coding/sierra-debug-subscription-retention-agent)|[![Practice][p]](https://www.fastprep.io/project-coding/sierra-debug-subscription-retention-agent)|🔥 Oct 25, 2026|
-|**Anthropic**|[Optimize a Simulated Accelerator Kernel](https://www.fastprep.io/project-coding/anthropic-simulated-accelerator-kernel-optimization)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-simulated-accelerator-kernel-optimization)|🔥 Oct 22, 2026|
-|**Keka HR**|[Build an Alert Ingestion Service](https://www.fastprep.io/project-coding/keka-mini-alerting-service)|[![Practice][p]](https://www.fastprep.io/project-coding/keka-mini-alerting-service)|🔥 Oct 22, 2026|
-|**Keka HR**|[Review a Backend Search Endpoint](https://www.fastprep.io/project-coding/keka-secure-backend-code-review)|[![Practice][p]](https://www.fastprep.io/project-coding/keka-secure-backend-code-review)|🔥 Oct 22, 2026|
+|**Anthropic**|[Optimize a Simulated Accelerator Kernel](https://www.fastprep.io/project-coding/anthropic-simulated-accelerator-kernel-optimization)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-simulated-accelerator-kernel-optimization)|🆕 Oct 22, 2026|
+|**Keka HR**|[Build an Alert Ingestion Service](https://www.fastprep.io/project-coding/keka-mini-alerting-service)|[![Practice][p]](https://www.fastprep.io/project-coding/keka-mini-alerting-service)|🆕 Oct 22, 2026|
+|**Keka HR**|[Review a Backend Search Endpoint](https://www.fastprep.io/project-coding/keka-secure-backend-code-review)|[![Practice][p]](https://www.fastprep.io/project-coding/keka-secure-backend-code-review)|🆕 Oct 22, 2026|
 |**Okta**|[Implement a JWT Parser](https://www.fastprep.io/project-coding/okta-jwt-parser)|[![Practice][p]](https://www.fastprep.io/project-coding/okta-jwt-parser)|🆕 Oct 21, 2026|
 |**Anthropic**|[Implement a Stock-Price Agent Loop](https://www.fastprep.io/project-coding/anthropic-stock-price-agent-loop)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-stock-price-agent-loop)|🆕 Oct 21, 2026|
 |**Stripe**|[Complete a Bikemap Route and JSON Integration](https://www.fastprep.io/project-coding/stripe-bikemap-json-integration)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-bikemap-json-integration)|🆕 Oct 21, 2026|
@@ -62,7 +63,7 @@
 |**Intuit**|[Amend a Git Commit from Bash](https://www.fastprep.io/project-coding/intuit-amend-git-commit-history)|[![Practice][p]](https://www.fastprep.io/project-coding/intuit-amend-git-commit-history)|🆕 Sep 24, 2026|
 |**Verkada**|[Build a Camera Communication API](https://www.fastprep.io/project-coding/verkada-camera-log-api-server)|[![Practice][p]](https://www.fastprep.io/project-coding/verkada-camera-log-api-server)|🆕 Sep 22, 2026|
 |**Cresta**|[Build a Conversational Flight Booking Agent](https://www.fastprep.io/project-coding/cresta-conversational-flight-booking-agent)|[![Practice][p]](https://www.fastprep.io/project-coding/cresta-conversational-flight-booking-agent)|🆕 Sep 22, 2026|
-|**Pinterest**|[Implement a Product Read-Through Cache](https://www.fastprep.io/project-coding/pinterest-product-read-through-cache)|[![Practice][p]](https://www.fastprep.io/project-coding/pinterest-product-read-through-cache)|🆕 Sep 21, 2026|
+|**Pinterest**|[Implement a Product Read-Through Cache](https://www.fastprep.io/project-coding/pinterest-product-read-through-cache)|[![Practice][p]](https://www.fastprep.io/project-coding/pinterest-product-read-through-cache)|Sep 21, 2026|
 |**Amazon**|[Repair MovieDB Follows and Notifications](https://www.fastprep.io/project-coding/amazon-repair-moviedb-follows-notifications)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-moviedb-follows-notifications)|Sep 20, 2026|
 |**Unattributed**|[Filter and Batch Concurrent Logs](https://www.fastprep.io/project-coding/concurrent-log-filter-batcher)|[![Practice][p]](https://www.fastprep.io/project-coding/concurrent-log-filter-batcher)|Sep 17, 2026|
 |**Zip**|[Cache Ticket Alerts for Approval](https://www.fastprep.io/project-coding/zip-ticket-alert-approval-cache)|[![Practice][p]](https://www.fastprep.io/project-coding/zip-ticket-alert-approval-cache)|Sep 16, 2026|
