@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon / Wayfair**|[Design a Vending Machine Fleet](https://www.fastprep.io/system-design/vending-machine-fleet)|System design|[![Practice][p]](https://www.fastprep.io/system-design/vending-machine-fleet)|Jun 15, 2026|
+|**Mercor**|[Design an External Career Data Analytics Platform](https://www.fastprep.io/system-design/external-career-data-analytics-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/external-career-data-analytics-platform)|Jun 15, 2026|
+|**Scale AI**|[Task Processor: Dependencies and Deadlines](https://www.fastprep.io/problems/scale-ai-task-processor-dependencies-deadlines)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-task-processor-dependencies-deadlines)|Jun 14, 2026|
+|**Profound**|[Design an LLM Brand Exposure Analytics Platform](https://www.fastprep.io/system-design/llm-brand-exposure-analytics-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/llm-brand-exposure-analytics-platform)|Jun 14, 2026|
 |**Shopify**|[Mars Rover Robot Controller](https://www.fastprep.io/problems/shopify-mars-rover-robot-controller)|Coding|[![Practice][p]](https://www.fastprep.io/problems/shopify-mars-rover-robot-controller)|Jun 13, 2026|
 |**Amazon**|[Design an Advertising Campaign Metrics Tracker](https://www.fastprep.io/low-level-design/advertising-campaign-metrics-tracker)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/advertising-campaign-metrics-tracker)|Jun 12, 2026|
 |**Rippling**|[In-Memory Fixed-Window Rate Limiter](https://www.fastprep.io/problems/rippling-in-memory-rate-limiter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-in-memory-rate-limiter)|Jun 10, 2026|
