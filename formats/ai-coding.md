@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**131 questions**
+**132 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Goldman Sachs**|[Repair the Held-Ticket Confirmation Lifecycle](https://www.fastprep.io/project-coding/goldman-sachs-held-ticket-confirmation)|[![Practice][p]](https://www.fastprep.io/project-coding/goldman-sachs-held-ticket-confirmation)|🔥 Nov 08, 2026|
+|**Bloomberg LP**|[Debug a Ticket Booking System](https://www.fastprep.io/project-coding/bloomberg-debug-ticket-booking-system)|[![Practice][p]](https://www.fastprep.io/project-coding/bloomberg-debug-ticket-booking-system)|🔥 Nov 08, 2026|
 |**DoorDash**|[Build a Real-Time Prediction Service](https://www.fastprep.io/project-coding/doordash-realtime-prediction-serving)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-realtime-prediction-serving)|🔥 Nov 07, 2026|
 |**DoorDash**|[Build a Training Dataset from Order Tables](https://www.fastprep.io/project-coding/doordash-order-training-dataset-builder)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-order-training-dataset-builder)|🔥 Nov 07, 2026|
 |**Rippling**|[Schedule Future Employee Changes in an HR API](https://www.fastprep.io/project-coding/rippling-scheduled-employee-changes)|[![Practice][p]](https://www.fastprep.io/project-coding/rippling-scheduled-employee-changes)|🔥 Nov 05, 2026|
@@ -15,11 +17,11 @@
 |**Stripe**|[Repair Nested Record Value Normalization](https://www.fastprep.io/project-coding/stripe-nested-value-normalization)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-nested-value-normalization)|🔥 Nov 05, 2026|
 |**Amazon**|[Repair MovieDB Follows and Notifications](https://www.fastprep.io/project-coding/amazon-repair-moviedb-follows-notifications)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-moviedb-follows-notifications)|🔥 Nov 04, 2026|
 |**OpenAI**|[Build a Webhook Delivery System](https://www.fastprep.io/project-coding/openai-webhook-delivery-system)|[![Practice][p]](https://www.fastprep.io/project-coding/openai-webhook-delivery-system)|🔥 Nov 04, 2026|
+|**DoorDash**|[Fix a Traffic Router and Add Consistent Hashing](https://www.fastprep.io/project-coding/doordash-routing-strategy-debugger)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-routing-strategy-debugger)|🔥 Nov 04, 2026|
 |**Amazon**|[Repair MovieDB Search and Recommendations](https://www.fastprep.io/project-coding/amazon-repair-moviedb-recommendations)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-moviedb-recommendations)|🔥 Nov 03, 2026|
 |**Anthropic**|[Inference Engine (Fellow Program :D](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler)|🔥 Nov 03, 2026|
 |**Anthropic**|[Debug Extremely Randomized Trees (Fellow Program :)](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees)|🔥 Nov 03, 2026|
 |**DoorDash**|[Build a Refund DAG with Local HTTP Services](https://www.fastprep.io/project-coding/doordash-refund-dag-local-services)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-refund-dag-local-services)|🔥 Nov 03, 2026|
-|**DoorDash**|[Fix a Traffic Router and Add Consistent Hashing](https://www.fastprep.io/project-coding/doordash-routing-strategy-debugger)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-routing-strategy-debugger)|🔥 Nov 03, 2026|
 |**DigitalOcean**|[Build a Distributed Rate Limiter Service](https://www.fastprep.io/project-coding/digitalocean-distributed-rate-limiter)|[![Practice][p]](https://www.fastprep.io/project-coding/digitalocean-distributed-rate-limiter)|🔥 Nov 02, 2026|
 |**Amazon**|[Repair My Cars Ownership and Saved Edits](https://www.fastprep.io/project-coding/amazon-car-rental-listing-repair)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-car-rental-listing-repair)|🔥 Nov 01, 2026|
 |**Stripe**|[Request API Endpoints](https://www.fastprep.io/project-coding/stripe-json-api-client-integration)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-json-api-client-integration)|🔥 Nov 01, 2026|
@@ -72,7 +74,6 @@
 |**Zip**|[Cache Ticket Alerts for Approval](https://www.fastprep.io/project-coding/zip-ticket-alert-approval-cache)|[![Practice][p]](https://www.fastprep.io/project-coding/zip-ticket-alert-approval-cache)|Sep 16, 2026|
 |**IBM**|[Repair Event Pre-Save Validation](https://www.fastprep.io/project-coding/ibm-event-presave-validation)|[![Practice][p]](https://www.fastprep.io/project-coding/ibm-event-presave-validation)|Sep 16, 2026|
 |**Walmart**|[Repair Movie Watchlist Synchronization](https://www.fastprep.io/project-coding/walmart-repair-movie-watchlist)|[![Practice][p]](https://www.fastprep.io/project-coding/walmart-repair-movie-watchlist)|Sep 16, 2026|
-|**Goldman Sachs**|[Repair the Held-Ticket Confirmation Lifecycle](https://www.fastprep.io/project-coding/goldman-sachs-held-ticket-confirmation)|[![Practice][p]](https://www.fastprep.io/project-coding/goldman-sachs-held-ticket-confirmation)|Sep 16, 2026|
 |**Mercor**|[Repair a Concurrent Read-Through Cache](https://www.fastprep.io/project-coding/mercor-concurrent-read-through-cache)|[![Practice][p]](https://www.fastprep.io/project-coding/mercor-concurrent-read-through-cache)|Sep 15, 2026|
 |**Amazon**|[Repair Django Ticket Creation and Replies](https://www.fastprep.io/project-coding/amazon-django-ticket-replies)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-django-ticket-replies)|Sep 15, 2026|
 |**Scribd**|[Build a Reliable Event Write Handler](https://www.fastprep.io/project-coding/scribd-reliable-event-write-handler)|[![Practice][p]](https://www.fastprep.io/project-coding/scribd-reliable-event-write-handler)|Sep 13, 2026|
