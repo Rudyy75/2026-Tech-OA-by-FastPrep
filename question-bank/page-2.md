@@ -9,7 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**HSBC**|[Find ID of Soldier](https://www.fastprep.io/problems/hsbc-find-id-of-soldier)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-find-id-of-soldier)|Jun 21, 2026|
 |**HSBC**|[Find Most Frequently Purchased Products](https://www.fastprep.io/problems/hsbc-find-most-frequently-purchased-products)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-find-most-frequently-purchased-products)|Jun 21, 2026|
 |**Amazon**|[Maximum Equal Parts for Prefixes](https://www.fastprep.io/problems/amazon-maximum-equal-parts-for-prefixes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-equal-parts-for-prefixes)|Jun 19, 2026|
 |**The Walt Disney Company**|[Design a Ranked Social Network Platform](https://www.fastprep.io/system-design/ranked-social-network-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ranked-social-network-platform)|Jun 19, 2026|
