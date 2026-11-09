@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Globalization Partners**|[Design an Extensible Role-Based Access Control System](https://www.fastprep.io/low-level-design/extensible-role-based-access-control)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-role-based-access-control)|Jun 23, 2026|
 |**Google**|[Design Student Room Preference Allocation](https://www.fastprep.io/low-level-design/student-room-preference-allocation)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/student-room-preference-allocation)|Jun 23, 2026|
 |**Datadog**|[Design a Ticket-to-Pull-Request Coding Agent](https://www.fastprep.io/system-design/ticket-to-pull-request-coding-agent)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ticket-to-pull-request-coding-agent)|Jun 22, 2026|
 |**Datadog**|[Query Log Match](https://www.fastprep.io/problems/datadog-query-log-match)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-query-log-match)|Jun 22, 2026|
@@ -1436,6 +1437,7 @@
 |**Bloomberg LP**|[Design Internal Latency Measurement and Alerting](https://www.fastprep.io/system-design/internal-latency-measurement-alerting)|System design|[![Practice][p]](https://www.fastprep.io/system-design/internal-latency-measurement-alerting)|Aug 12, 2022|
 |**Revolut**|[Make Account Transfers Safe Under Concurrency](https://www.fastprep.io/project-coding/revolut-concurrency-safe-account-transfer)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/revolut-concurrency-safe-account-transfer)|Jun 20, 2022|
 |**Skyscanner**|[Design Flight Price Threshold Alerts](https://www.fastprep.io/system-design/flight-price-threshold-alerts)|System design|[![Practice][p]](https://www.fastprep.io/system-design/flight-price-threshold-alerts)|Jun 10, 2022|
+|**Hudson River Trading**|[Debug Python Scripts and Their CSV Files](https://www.fastprep.io/project-coding/hrt-debug-python-csv-scripts)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/hrt-debug-python-csv-scripts)|May 07, 2022|
 |**Notion**|[Build a Multi-Room Chat Service](https://www.fastprep.io/project-coding/multi-room-chat-http-service)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/multi-room-chat-http-service)|May 06, 2022|
 |**Confluent**|[Design a Kubernetes-Managed Kafka Service](https://www.fastprep.io/system-design/kubernetes-managed-kafka-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/kubernetes-managed-kafka-service)|May 05, 2022|
 |**Coinbase**|[Mutual Friend Lookup Service](https://www.fastprep.io/system-design/mutual-friend-lookup-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/mutual-friend-lookup-service)|Apr 25, 2022|
@@ -1480,6 +1482,7 @@
 |**NVIDIA**|[Design a GPU-Limited Three-Model Pipeline](https://www.fastprep.io/system-design/gpu-limited-three-model-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/gpu-limited-three-model-pipeline)|Jun 07, 2021|
 |**NVIDIA**|[Design an Embedded Thread Sleep and Wakeup Service](https://www.fastprep.io/system-design/embedded-thread-sleep-and-wakeup-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/embedded-thread-sleep-and-wakeup-service)|Jun 07, 2021|
 |**Checkr**|[Design a Motor-Vehicle Record Rule Engine](https://www.fastprep.io/low-level-design/motor-vehicle-record-rule-engine)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/motor-vehicle-record-rule-engine)|May 13, 2021|
+|**C3.ai**|[Design a Collaborative Code Editor](https://www.fastprep.io/system-design/collaborative-code-editor)|System design|[![Practice][p]](https://www.fastprep.io/system-design/collaborative-code-editor)|Apr 17, 2021|
 |**Tesla**|[Priority, Expiration, and LRU Eviction](https://www.fastprep.io/problems/tesla-priority-expiration-lru-eviction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tesla-priority-expiration-lru-eviction)|Mar 18, 2021|
 |**Arcesium**|[Capital Gains Tax from Trades](https://www.fastprep.io/problems/arcesium-capital-gains-tax-from-trades)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-capital-gains-tax-from-trades)|Feb 23, 2021|
 |**Bloomberg LP**|[Design Stock Watchlists with Custom Constraints](https://www.fastprep.io/low-level-design/extensible-stock-watchlist-constraints)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-stock-watchlist-constraints)|Jan 30, 2021|

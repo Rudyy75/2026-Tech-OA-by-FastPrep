@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,130)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (673)](formats/system-design.md) · [Low-level design (206)](formats/low-level-design.md) · [AI coding (132)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,130)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (675)](formats/system-design.md) · [Low-level design (206)](formats/low-level-design.md) · [AI coding (133)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -37,6 +37,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Goldman Sachs**|[Repair the Held-Ticket Confirmation Lifecycle](https://www.fastprep.io/project-coding/goldman-sachs-held-ticket-confirmation)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/goldman-sachs-held-ticket-confirmation)|🔥 Nov 08, 2026|
 |**Persona / Morgan Stanley / Agoda**|[Design and Implement a Progressive Banking System](https://www.fastprep.io/low-level-design/progressive-banking-system)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/progressive-banking-system)|🔥 Nov 08, 2026|
 |**Bloomberg LP**|[Debug a Ticket Booking System](https://www.fastprep.io/project-coding/bloomberg-debug-ticket-booking-system)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/bloomberg-debug-ticket-booking-system)|🔥 Nov 08, 2026|
+|**DocuSign / Agoda**|[Design a Live Location Tracking Service](https://www.fastprep.io/system-design/live-location-tracking-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/live-location-tracking-service)|🔥 Nov 08, 2026|
 |**OpenAI**|[Design a Fair Multiplayer Typing Race](https://www.fastprep.io/system-design/multiplayer-typing-race)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multiplayer-typing-race)|🔥 Nov 07, 2026|
 |**Oracle / Nubank**|[Design a Rolling Top-Users Event Leaderboard](https://www.fastprep.io/system-design/rolling-top-users-event-window)|System design|[![Practice][p]](https://www.fastprep.io/system-design/rolling-top-users-event-window)|🔥 Nov 07, 2026|
 |**DoorDash**|[Design Personalized Restaurant Search](https://www.fastprep.io/system-design/personalized-restaurant-search)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-restaurant-search)|🔥 Nov 07, 2026|
@@ -47,6 +48,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Nykaa / Navi / Atlys / Rippling / Swiggy**|[Design a Shared Expense Splitting Service](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|🔥 Nov 07, 2026|
 |**Tesla / Nykaa / Cohesity**|[Design an E-commerce Order Fulfillment System](https://www.fastprep.io/system-design/amazon-order-fulfillment-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/amazon-order-fulfillment-system)|🔥 Nov 07, 2026|
 |**Uber**|[Design Validation and Retry for a Multi-Step LLM Extraction Pipeline](https://www.fastprep.io/system-design/llm-extraction-pipeline-validation-retry)|System design|[![Practice][p]](https://www.fastprep.io/system-design/llm-extraction-pipeline-validation-retry)|🔥 Nov 07, 2026|
+|**The Walt Disney Company**|[Design a Reliable Search Indexing Pipeline](https://www.fastprep.io/system-design/reliable-search-indexing-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/reliable-search-indexing-pipeline)|🔥 Nov 07, 2026|
 |**Netflix / Oracle / Google / Meta / ByteDance / Astrotalk / LinkedIn / Microsoft / Snap Inc. / Shopify / The Walt Disney Company / Palantir / Roblox**|[Design a Personalized Recommendation System](https://www.fastprep.io/system-design/personalized-recommendation-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-recommendation-system)|🔥 Nov 06, 2026|
 |**Twitch / Citadel / Kotak Mahindra Bank / GitHub**|[Design and Implement a Terminal Battleship Game](https://www.fastprep.io/low-level-design/battleship-game)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/battleship-game)|🔥 Nov 06, 2026|
 |**Lyft / WhatNot**|[Donation Platform](https://www.fastprep.io/system-design/donation-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/donation-platform)|🔥 Nov 06, 2026|
@@ -516,7 +518,6 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Amazon / Goldman Sachs / Salesforce / Harness**|[Design an In-Memory Job Scheduler](https://www.fastprep.io/low-level-design/in-memory-job-scheduler)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-job-scheduler)|Sep 16, 2026|
 |**Netflix / Amazon**|[Design a Parking Lot with Flexible Fees](https://www.fastprep.io/low-level-design/parking-lot-with-flexible-fees)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/parking-lot-with-flexible-fees)|Sep 16, 2026|
 |**Amazon**|[Design a Continental Temperature Heatmap](https://www.fastprep.io/system-design/continental-temperature-heatmap)|System design|[![Practice][p]](https://www.fastprep.io/system-design/continental-temperature-heatmap)|Sep 16, 2026|
-|**DocuSign**|[Design a Live Location Tracking Service](https://www.fastprep.io/system-design/live-location-tracking-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/live-location-tracking-service)|Sep 16, 2026|
 |**Rubrik**|[Design Cross-Region Versioned Map Reconciliation](https://www.fastprep.io/system-design/cross-region-versioned-map-reconciliation)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cross-region-versioned-map-reconciliation)|Sep 16, 2026|
 |**Harness**|[Design Rolling Top-N Movie Recommendations](https://www.fastprep.io/system-design/rolling-top-n-movie-views)|System design|[![Practice][p]](https://www.fastprep.io/system-design/rolling-top-n-movie-views)|Sep 16, 2026|
 |**Rubrik**|[Design a Thread-Safe One-Dimensional Parking Lot](https://www.fastprep.io/low-level-design/thread-safe-linear-parking-lot)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-linear-parking-lot)|Sep 16, 2026|
@@ -1687,5 +1688,4 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Microsoft**|[Programmer Strings](https://www.fastprep.io/problems/microsoft-programmer-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-programmer-strings)|Jun 24, 2026|
 |**Microsoft**|[Minimum Round Trip Lengths](https://www.fastprep.io/problems/microsoft-minimum-round-trip-lengths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-round-trip-lengths)|Jun 24, 2026|
 |**Klaviyo**|[Design a CRM Marketing Campaign Platform](https://www.fastprep.io/system-design/crm-marketing-campaign-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/crm-marketing-campaign-platform)|Jun 24, 2026|
-|**Globalization Partners**|[Design an Extensible Role-Based Access Control System](https://www.fastprep.io/low-level-design/extensible-role-based-access-control)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-role-based-access-control)|Jun 23, 2026|
 <a id="bottom"></a>
