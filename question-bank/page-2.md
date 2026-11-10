@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Microsoft**|[Programmer Strings](https://www.fastprep.io/problems/microsoft-programmer-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-programmer-strings)|Jun 24, 2026|
+|**Microsoft**|[Minimum Round Trip Lengths](https://www.fastprep.io/problems/microsoft-minimum-round-trip-lengths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-round-trip-lengths)|Jun 24, 2026|
 |**Klaviyo**|[Design a CRM Marketing Campaign Platform](https://www.fastprep.io/system-design/crm-marketing-campaign-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/crm-marketing-campaign-platform)|Jun 24, 2026|
 |**Globalization Partners**|[Design an Extensible Role-Based Access Control System](https://www.fastprep.io/low-level-design/extensible-role-based-access-control)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-role-based-access-control)|Jun 23, 2026|
 |**Google**|[Design Student Room Preference Allocation](https://www.fastprep.io/low-level-design/student-room-preference-allocation)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/student-room-preference-allocation)|Jun 23, 2026|
@@ -36,7 +38,6 @@
 |**Amazon**|[Get Smallest Base Segment](https://www.fastprep.io/problems/amazon-get-smallest-base-segment)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-smallest-base-segment)|Jun 09, 2026|
 |**Amazon**|[Count Promotional Periods](https://www.fastprep.io/problems/amazon-count-promotional-periods)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-promotional-periods)|Jun 09, 2026|
 |**Agoda**|[Minimum Absolute Difference Pairs](https://www.fastprep.io/problems/agoda-minimum-absolute-difference-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-minimum-absolute-difference-pairs)|Jun 08, 2026|
-|**Shopify**|[Design and Implement Bank Accounts and Transfers](https://www.fastprep.io/low-level-design/bank-accounts-and-transfers)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/bank-accounts-and-transfers)|Jun 08, 2026|
 |**Amazon**|[Design an E-commerce Recommendation Event Pipeline](https://www.fastprep.io/system-design/ecommerce-recommendation-event-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ecommerce-recommendation-event-pipeline)|Jun 05, 2026|
 |**Notion**|[Design a Calendar Search and Sync Platform](https://www.fastprep.io/system-design/calendar-search-and-sync-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/calendar-search-and-sync-platform)|Jun 05, 2026|
 |**JP Morgan**|[About Shipping](https://www.fastprep.io/problems/jpmorgan-about-shipping)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-about-shipping)|Jun 04, 2026|
