@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**138 questions**
+**139 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**DoorDash**|[Fix a Traffic Router and Add Consistent Hashing](https://www.fastprep.io/project-coding/doordash-routing-strategy-debugger)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-routing-strategy-debugger)|🔥 Nov 09, 2026|
+|**WhatNot**|[Add a Last-Moment Bidder and a Dutch Auction to an Auction System](https://www.fastprep.io/project-coding/whatnot-auction-last-moment-bidder-dutch-auction)|[![Practice][p]](https://www.fastprep.io/project-coding/whatnot-auction-last-moment-bidder-dutch-auction)|🔥 Nov 09, 2026|
 |**Goldman Sachs**|[Repair the Held-Ticket Confirmation Lifecycle](https://www.fastprep.io/project-coding/goldman-sachs-held-ticket-confirmation)|[![Practice][p]](https://www.fastprep.io/project-coding/goldman-sachs-held-ticket-confirmation)|🔥 Nov 08, 2026|
 |**Bloomberg LP**|[Debug a Ticket Booking System](https://www.fastprep.io/project-coding/bloomberg-debug-ticket-booking-system)|[![Practice][p]](https://www.fastprep.io/project-coding/bloomberg-debug-ticket-booking-system)|🔥 Nov 08, 2026|
 |**DoorDash**|[Build a Real-Time Prediction Service](https://www.fastprep.io/project-coding/doordash-realtime-prediction-serving)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-realtime-prediction-serving)|🔥 Nov 07, 2026|
@@ -17,7 +19,6 @@
 |**Stripe**|[Repair Nested Record Value Normalization](https://www.fastprep.io/project-coding/stripe-nested-value-normalization)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-nested-value-normalization)|🔥 Nov 05, 2026|
 |**Amazon**|[Repair MovieDB Follows and Notifications](https://www.fastprep.io/project-coding/amazon-repair-moviedb-follows-notifications)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-moviedb-follows-notifications)|🔥 Nov 04, 2026|
 |**OpenAI**|[Build a Webhook Delivery System](https://www.fastprep.io/project-coding/openai-webhook-delivery-system)|[![Practice][p]](https://www.fastprep.io/project-coding/openai-webhook-delivery-system)|🔥 Nov 04, 2026|
-|**DoorDash**|[Fix a Traffic Router and Add Consistent Hashing](https://www.fastprep.io/project-coding/doordash-routing-strategy-debugger)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-routing-strategy-debugger)|🔥 Nov 04, 2026|
 |**Amazon**|[Repair MovieDB Search and Recommendations](https://www.fastprep.io/project-coding/amazon-repair-moviedb-recommendations)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-moviedb-recommendations)|🔥 Nov 03, 2026|
 |**Anthropic**|[Inference Engine (Fellow Program :D](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler)|🔥 Nov 03, 2026|
 |**Anthropic**|[Debug Extremely Randomized Trees (Fellow Program :)](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees)|🔥 Nov 03, 2026|
