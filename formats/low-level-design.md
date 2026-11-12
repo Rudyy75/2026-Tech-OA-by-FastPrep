@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**206 questions**
+**208 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -70,7 +70,7 @@
 |**Uber Freight / Microsoft**|[Design an In-Memory File System](https://www.fastprep.io/low-level-design/in-memory-file-system)|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-file-system)|🆕 Sep 29, 2026|
 |**Bloomberg LP / PhonePe**|[Design a To-do List with External Completion Status](https://www.fastprep.io/low-level-design/to-do-list-with-completion-checker)|[![Practice][p]](https://www.fastprep.io/low-level-design/to-do-list-with-completion-checker)|🆕 Sep 29, 2026|
 |**PhonePe**|[Design and Implement a To-Do Workflow Application](https://www.fastprep.io/low-level-design/to-do-workflow-application)|[![Practice][p]](https://www.fastprep.io/low-level-design/to-do-workflow-application)|🆕 Sep 29, 2026|
-|**Amazon**|[Design an Extensible Financial Account with Charges and Tax](https://www.fastprep.io/low-level-design/extensible-financial-account-charges)|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-financial-account-charges)|🆕 Sep 27, 2026|
+|**Amazon**|[Design an Extensible Financial Account with Charges and Tax](https://www.fastprep.io/low-level-design/extensible-financial-account-charges)|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-financial-account-charges)|Sep 27, 2026|
 |**Salesforce / The Trade Desk / Morgan Stanley / Microsoft**|[Design an Elevator Control System](https://www.fastprep.io/low-level-design/elevator-dispatch-control-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/elevator-dispatch-control-domain)|Sep 25, 2026|
 |**Goldman Sachs / Meesho**|[Design a Brokerage Order Processing Domain](https://www.fastprep.io/low-level-design/brokerage-order-processing-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/brokerage-order-processing-domain)|Sep 25, 2026|
 |**PayPay / Fox Corporation**|[Design a Payment Transaction State Machine](https://www.fastprep.io/low-level-design/payment-transaction-state-machine)|[![Practice][p]](https://www.fastprep.io/low-level-design/payment-transaction-state-machine)|Sep 25, 2026|
@@ -183,6 +183,7 @@
 |**Postman**|[Design Undoable Deletion for API Collections](https://www.fastprep.io/low-level-design/undoable-collection-deletion)|[![Practice][p]](https://www.fastprep.io/low-level-design/undoable-collection-deletion)|Jul 19, 2024|
 |**Google**|[Design and Implement a Path-Value File System](https://www.fastprep.io/low-level-design/path-value-file-system)|[![Practice][p]](https://www.fastprep.io/low-level-design/path-value-file-system)|May 01, 2024|
 |**Sentry**|[Design and Implement a Dependency-Aware Package Manager](https://www.fastprep.io/low-level-design/dependency-aware-package-manager)|[![Practice][p]](https://www.fastprep.io/low-level-design/dependency-aware-package-manager)|Mar 08, 2024|
+|**Expedia**|[Design a Pinned Favorites Bar](https://www.fastprep.io/low-level-design/pinned-favorites-bar)|[![Practice][p]](https://www.fastprep.io/low-level-design/pinned-favorites-bar)|Feb 19, 2024|
 |**Navan**|[Design a Calendar Availability Scheduler](https://www.fastprep.io/low-level-design/calendar-availability-scheduler)|[![Practice][p]](https://www.fastprep.io/low-level-design/calendar-availability-scheduler)|Jan 24, 2024|
 |**Navan**|[Design a Flight Booking Orchestrator](https://www.fastprep.io/low-level-design/flight-booking-orchestration)|[![Practice][p]](https://www.fastprep.io/low-level-design/flight-booking-orchestration)|Dec 08, 2023|
 |**Onehouse**|[Design a Kafka-Like Distributed Queue](https://www.fastprep.io/low-level-design/kafka-like-distributed-queue)|[![Practice][p]](https://www.fastprep.io/low-level-design/kafka-like-distributed-queue)|Nov 07, 2023|
@@ -195,6 +196,7 @@
 |**Scale AI**|[Design and Implement a Task and Worker Assignment Model](https://www.fastprep.io/low-level-design/task-worker-assignment-model)|[![Practice][p]](https://www.fastprep.io/low-level-design/task-worker-assignment-model)|Sep 09, 2022|
 |**Grubhub**|[Air Traffic Control System](https://www.fastprep.io/low-level-design/air-traffic-control-system)|[![Practice][p]](https://www.fastprep.io/low-level-design/air-traffic-control-system)|Mar 26, 2022|
 |**Bloomberg LP**|[Design a Ticketed Parking Lot with Defragmentation](https://www.fastprep.io/low-level-design/ticketed-parking-lot-defragmentation)|[![Practice][p]](https://www.fastprep.io/low-level-design/ticketed-parking-lot-defragmentation)|Feb 28, 2022|
+|**Expedia**|[Design a Travel Map App's Places and Routes](https://www.fastprep.io/low-level-design/travel-map-places-and-routes)|[![Practice][p]](https://www.fastprep.io/low-level-design/travel-map-places-and-routes)|Feb 19, 2022|
 |**Coinbase**|[Design a Social Feed Read API](https://www.fastprep.io/low-level-design/social-feed-read-api-contracts)|[![Practice][p]](https://www.fastprep.io/low-level-design/social-feed-read-api-contracts)|Feb 15, 2022|
 |**Checkr**|[Design Enterprise Background-Check Rule Storage](https://www.fastprep.io/low-level-design/enterprise-background-check-rule-storage)|[![Practice][p]](https://www.fastprep.io/low-level-design/enterprise-background-check-rule-storage)|Dec 14, 2021|
 |**Apple**|[Design a Priority and Arrival-Time Scheduler](https://www.fastprep.io/low-level-design/priority-arrival-process-scheduler)|[![Practice][p]](https://www.fastprep.io/low-level-design/priority-arrival-process-scheduler)|Nov 28, 2021|

@@ -9,7 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**Microsoft**|[Programmer Strings](https://www.fastprep.io/problems/microsoft-programmer-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-programmer-strings)|Jun 24, 2026|
 |**Microsoft**|[Minimum Round Trip Lengths](https://www.fastprep.io/problems/microsoft-minimum-round-trip-lengths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-round-trip-lengths)|Jun 24, 2026|
 |**Klaviyo**|[Design a CRM Marketing Campaign Platform](https://www.fastprep.io/system-design/crm-marketing-campaign-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/crm-marketing-campaign-platform)|Jun 24, 2026|
 |**Globalization Partners**|[Design an Extensible Role-Based Access Control System](https://www.fastprep.io/low-level-design/extensible-role-based-access-control)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-role-based-access-control)|Jun 23, 2026|
@@ -1285,6 +1284,7 @@
 |**Amazon**|[Get Min Num Moves](https://www.fastprep.io/problems/amazon-get-min-num-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-num-moves)|Feb 19, 2024|
 |**Amazon**|[Count Distinct Passwords](https://www.fastprep.io/problems/amazon-count-distinct-passwords)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-distinct-passwords)|Feb 19, 2024|
 |**Citadel**|[Max the Lottery ID](https://www.fastprep.io/problems/citadel-maximize-the-lottery-id)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-maximize-the-lottery-id)|Feb 19, 2024|
+|**Expedia**|[Design a Pinned Favorites Bar](https://www.fastprep.io/low-level-design/pinned-favorites-bar)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/pinned-favorites-bar)|Feb 19, 2024|
 |**Meta**|[Search Mysterious Grid](https://www.fastprep.io/problems/mt-search-myterious-grid)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mt-search-myterious-grid)|Feb 18, 2024|
 |**Meta**|[Enumerating Narrative Sections](https://www.fastprep.io/problems/mt-enumerating-narrative-sections)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mt-enumerating-narrative-sections)|Feb 18, 2024|
 |**Snowflake**|[Efficient Deployments](https://www.fastprep.io/problems/snowflake-efficient-deployments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-efficient-deployments)|Feb 18, 2024|
@@ -1459,6 +1459,7 @@
 |**Shopify**|[Build a Filterable Member Table](https://www.fastprep.io/project-coding/shopify-frontend-table-filter)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/shopify-frontend-table-filter)|Mar 15, 2022|
 |**Bloomberg LP**|[Design a Ticketed Parking Lot with Defragmentation](https://www.fastprep.io/low-level-design/ticketed-parking-lot-defragmentation)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/ticketed-parking-lot-defragmentation)|Feb 28, 2022|
 |**Fivetran**|[Design a Parking Lot Operations System](https://www.fastprep.io/system-design/parking-lot-operations-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/parking-lot-operations-system)|Feb 23, 2022|
+|**Expedia**|[Design a Travel Map App's Places and Routes](https://www.fastprep.io/low-level-design/travel-map-places-and-routes)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/travel-map-places-and-routes)|Feb 19, 2022|
 |**Coinbase**|[Design a Social Feed Read API](https://www.fastprep.io/low-level-design/social-feed-read-api-contracts)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/social-feed-read-api-contracts)|Feb 15, 2022|
 |**Shopify**|[Build a Warehouse Inventory Application](https://www.fastprep.io/project-coding/shopify-warehouse-inventory)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/shopify-warehouse-inventory)|Jan 27, 2022|
 |**Bloomberg LP**|[Design a Stock Data Analytics Platform](https://www.fastprep.io/system-design/stock-data-analytics-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/stock-data-analytics-platform)|Jan 21, 2022|
