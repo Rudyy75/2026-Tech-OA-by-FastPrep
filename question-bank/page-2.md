@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**IBM**|[Request Retry Count](https://www.fastprep.io/problems/ibm-request-retry-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-request-retry-count)|Jun 29, 2026|
+|**Microsoft**|[Minimum Cost K-Capable Models](https://www.fastprep.io/problems/microsoft-minimum-cost-k-capable-models)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-cost-k-capable-models)|Jun 29, 2026|
+|**Microsoft**|[Unique Difference Pattern](https://www.fastprep.io/problems/microsoft-unique-difference-pattern)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-unique-difference-pattern)|Jun 29, 2026|
 |**Goldman Sachs**|[Valid Binary Prefix](https://www.fastprep.io/problems/goldman-valid-binary-prefix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-valid-binary-prefix)|Jun 29, 2026|
 |**Expedia**|[Maximum Team Size](https://www.fastprep.io/problems/expedia-maximum-team-size)|Coding|[![Practice][p]](https://www.fastprep.io/problems/expedia-maximum-team-size)|Jun 29, 2026|
 |**SeekOut**|[Merge Intervals](https://www.fastprep.io/problems/seekout-merge-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/seekout-merge-intervals)|Jun 27, 2026|
@@ -83,7 +86,6 @@
 |**Hudson River Trading**|[Integer to String Without Built-ins](https://www.fastprep.io/problems/hudson-river-trading-integer-to-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hudson-river-trading-integer-to-string)|May 13, 2026|
 |**Waymo**|[Decode Repeated Groups](https://www.fastprep.io/problems/waymo-decode-repeated-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/waymo-decode-repeated-groups)|May 13, 2026|
 |**Deloitte**|[Seventh Nearest Palindrome](https://www.fastprep.io/problems/deloitte-seventh-nearest-palindrome)|Coding|[![Practice][p]](https://www.fastprep.io/problems/deloitte-seventh-nearest-palindrome)|May 12, 2026|
-|**Anduril**|[Design and Implement a Doubly Linked List](https://www.fastprep.io/low-level-design/doubly-linked-list-object-design)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/doubly-linked-list-object-design)|May 12, 2026|
 |**Uber**|[Maximal Square Area](https://www.fastprep.io/problems/uber-maximal-square-area)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-maximal-square-area)|May 11, 2026|
 |**Snowflake**|[Closest Bathroom / Desk on a Grid](https://www.fastprep.io/problems/snowflake-closest-bathroom-desk-grid)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-closest-bathroom-desk-grid)|May 11, 2026|
 |**Snowflake**|[Minimum Index Distance Between Person and Cake](https://www.fastprep.io/problems/snowflake-minimum-index-distance-between-person-and-cake)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-minimum-index-distance-between-person-and-cake)|May 11, 2026|
