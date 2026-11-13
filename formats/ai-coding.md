@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**139 questions**
+**140 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -28,7 +28,7 @@
 |**Stripe**|[Request API Endpoints](https://www.fastprep.io/project-coding/stripe-json-api-client-integration)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-json-api-client-integration)|🔥 Nov 01, 2026|
 |**AMD**|[Create an HTML Input and Submit Form](https://www.fastprep.io/project-coding/amd-html-input-submit-form)|[![Practice][p]](https://www.fastprep.io/project-coding/amd-html-input-submit-form)|🔥 Oct 31, 2026|
 |**DoorDash**|[Integrate Three Profile Services](https://www.fastprep.io/project-coding/doordash-service-profile-aggregator)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-service-profile-aggregator)|🔥 Oct 30, 2026|
-|**Citadel**|[Merge Single-Parent Jobs in an Async Job DAG](https://www.fastprep.io/project-coding/citadel-async-dag-single-parent-merge)|[![Practice][p]](https://www.fastprep.io/project-coding/citadel-async-dag-single-parent-merge)|🔥 Oct 29, 2026|
+|**Citadel**|[Merge Single-Parent Jobs in an Async Job DAG](https://www.fastprep.io/project-coding/citadel-async-dag-single-parent-merge)|[![Practice][p]](https://www.fastprep.io/project-coding/citadel-async-dag-single-parent-merge)|🆕 Oct 29, 2026|
 |**Goldman Sachs**|[Repair Event Pre-Save Validation](https://www.fastprep.io/project-coding/goldman-sachs-event-presave-validation)|[![Practice][p]](https://www.fastprep.io/project-coding/goldman-sachs-event-presave-validation)|🆕 Oct 27, 2026|
 |**DoorDash**|[Build a Dasher Payout Service](https://www.fastprep.io/project-coding/doordash-dasher-payout-service)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-dasher-payout-service)|🆕 Oct 26, 2026|
 |**Stripe**|[Complete a Reconciliation Integration](https://www.fastprep.io/project-coding/stripe-balance-reconciliation-integration)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-balance-reconciliation-integration)|🆕 Oct 26, 2026|
@@ -64,7 +64,7 @@
 |**Zip**|[Repair Monthly Expense Attribution](https://www.fastprep.io/project-coding/zip-repair-monthly-expense-attribution)|[![Practice][p]](https://www.fastprep.io/project-coding/zip-repair-monthly-expense-attribution)|🆕 Oct 02, 2026|
 |**BNSF Railway**|[Implement a Railway Quote Service Layer](https://www.fastprep.io/project-coding/bnsf-railway-quote-service-layer)|[![Practice][p]](https://www.fastprep.io/project-coding/bnsf-railway-quote-service-layer)|🆕 Sep 30, 2026|
 |**Stripe**|[Repair Redirected Request Body Replay](https://www.fastprep.io/project-coding/stripe-redirect-stream-replay)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-redirect-stream-replay)|🆕 Sep 29, 2026|
-|**Amazon**|[Repair Blog Post Creation](https://www.fastprep.io/project-coding/amazon-django-blog-post-creation)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-django-blog-post-creation)|🆕 Sep 28, 2026|
+|**Amazon**|[Repair Blog Post Creation](https://www.fastprep.io/project-coding/amazon-django-blog-post-creation)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-django-blog-post-creation)|Sep 28, 2026|
 |**Groww**|[Build an Extensible Brokerage Charge Calculator](https://www.fastprep.io/project-coding/brokerage-charge-calculator)|[![Practice][p]](https://www.fastprep.io/project-coding/brokerage-charge-calculator)|Sep 25, 2026|
 |**Odoo**|[Build FIFO Inventory Costing](https://www.fastprep.io/project-coding/fifo-inventory-costing-service)|[![Practice][p]](https://www.fastprep.io/project-coding/fifo-inventory-costing-service)|Sep 25, 2026|
 |**Intuit**|[Amend a Git Commit from Bash](https://www.fastprep.io/project-coding/intuit-amend-git-commit-history)|[![Practice][p]](https://www.fastprep.io/project-coding/intuit-amend-git-commit-history)|Sep 24, 2026|
@@ -141,6 +141,7 @@
 |**Shopify**|[Build a Filterable Member Table](https://www.fastprep.io/project-coding/shopify-frontend-table-filter)|[![Practice][p]](https://www.fastprep.io/project-coding/shopify-frontend-table-filter)|Mar 15, 2022|
 |**Shopify**|[Build a Warehouse Inventory Application](https://www.fastprep.io/project-coding/shopify-warehouse-inventory)|[![Practice][p]](https://www.fastprep.io/project-coding/shopify-warehouse-inventory)|Jan 27, 2022|
 |**Nutanix**|[Repair a Readers-Writer Lock](https://www.fastprep.io/project-coding/nutanix-repair-readers-writers-lock)|[![Practice][p]](https://www.fastprep.io/project-coding/nutanix-repair-readers-writers-lock)|Aug 24, 2021|
+|**Nutanix**|[Repair a Producer-Consumer Buffer](https://www.fastprep.io/project-coding/nutanix-repair-producer-consumer-buffer)|[![Practice][p]](https://www.fastprep.io/project-coding/nutanix-repair-producer-consumer-buffer)|Apr 29, 2021|
 |**Nutanix**|[Repair Ordered Acknowledgments for Concurrent File Writes](https://www.fastprep.io/project-coding/nutanix-repair-ordered-write-acknowledgments)|[![Practice][p]](https://www.fastprep.io/project-coding/nutanix-repair-ordered-write-acknowledgments)|Jan 16, 2021|
 |**JP Morgan Chase**|[Complete an Egg Supply and Demand Forecasting Website](https://www.fastprep.io/project-coding/jpmorgan-egg-supply-demand-forecast)|[![Practice][p]](https://www.fastprep.io/project-coding/jpmorgan-egg-supply-demand-forecast)|Sep 19, 2020|
 |**Datadog**|[Build a Streaming Request Log Aggregator](https://www.fastprep.io/project-coding/datadog-streaming-request-log-aggregator)|[![Practice][p]](https://www.fastprep.io/project-coding/datadog-streaming-request-log-aggregator)|Sep 03, 2019|
