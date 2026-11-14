@@ -2,12 +2,20 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,130 questions**
+**2,137 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**ServiceNow**|[Find Max Min Val Using K Elements](https://www.fastprep.io/problems/service-now-find-max-minimum-value-using-k-elements)|[![Practice][p]](https://www.fastprep.io/problems/service-now-find-max-minimum-value-using-k-elements)|Mar 18, 2024|
+|**General Motors**|[Prepare Notification](https://www.fastprep.io/problems/general-motors-prepare-notification)|[![Practice][p]](https://www.fastprep.io/problems/general-motors-prepare-notification)|Mar 17, 2024|
+|**General Motors**|[Smallest But Greater](https://www.fastprep.io/problems/gms-find-the-tinest-greater-than-a-specifc-num)|[![Practice][p]](https://www.fastprep.io/problems/gms-find-the-tinest-greater-than-a-specifc-num)|Mar 17, 2024|
+|**Microsoft**|[Cleaning Bot (Microsoft India)](https://www.fastprep.io/problems/microsoft-cleaning-bot)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-cleaning-bot)|Mar 16, 2024|
+|**Morgan Stanley**|[Get Subsequence Count](https://www.fastprep.io/problems/stanley-get-subsequence-count)|[![Practice][p]](https://www.fastprep.io/problems/stanley-get-subsequence-count)|Mar 16, 2024|
+|**Amazon**|[Match Strings](https://www.fastprep.io/problems/amazon-match-strings)|[![Practice][p]](https://www.fastprep.io/problems/amazon-match-strings)|Mar 14, 2024|
+|**DoorDash**|[Sizes of Friend Groups](https://www.fastprep.io/problems/doordash-get-sizes-of-friends-groups)|[![Practice][p]](https://www.fastprep.io/problems/doordash-get-sizes-of-friends-groups)|Mar 14, 2024|
+|**TikTok**|[Minimum Buckets](https://www.fastprep.io/problems/tiktok-minimum-buckets)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-minimum-buckets)|Mar 13, 2024|
 |**TikTok**|[URL Hashing](https://www.fastprep.io/problems/tiktok-url-hashing)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-url-hashing)|Mar 13, 2024|
 |**TikTok**|[Three Knights](https://www.fastprep.io/problems/tiktok-find-the-number-of-possible-placements-for-the-three-knights)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-find-the-number-of-possible-placements-for-the-three-knights)|Mar 13, 2024|
 |**IBM**|[Arr Subsets](https://www.fastprep.io/problems/ibm-subset-a)|[![Practice][p]](https://www.fastprep.io/problems/ibm-subset-a)|Mar 13, 2024|

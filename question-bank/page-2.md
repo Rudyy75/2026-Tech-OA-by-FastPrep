@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**TikTok**|[Construct WDL String](https://www.fastprep.io/problems/tiktok-construct-wdl-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-construct-wdl-string)|Jun 29, 2026|
 |**IBM**|[Request Retry Count](https://www.fastprep.io/problems/ibm-request-retry-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-request-retry-count)|Jun 29, 2026|
 |**Microsoft**|[Minimum Cost K-Capable Models](https://www.fastprep.io/problems/microsoft-minimum-cost-k-capable-models)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-cost-k-capable-models)|Jun 29, 2026|
 |**Microsoft**|[Unique Difference Pattern](https://www.fastprep.io/problems/microsoft-unique-difference-pattern)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-unique-difference-pattern)|Jun 29, 2026|
