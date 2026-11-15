@@ -9,6 +9,14 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Feasible Indices After Prefix/Suffix Reduction](https://www.fastprep.io/problems/amazon-feasible-indices-after-prefix-suffix-reduction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-feasible-indices-after-prefix-suffix-reduction)|Jun 30, 2026|
+|**Snowflake**|[Simple Array Rotation Game](https://www.fastprep.io/problems/snowflake-simple-array-rotation-game)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-simple-array-rotation-game)|Jun 30, 2026|
+|**Microsoft**|[XOR Multiplication](https://www.fastprep.io/problems/microsoft-xor-multiplication)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-xor-multiplication)|Jun 30, 2026|
+|**Microsoft**|[Neural Network Subnetwork Strength](https://www.fastprep.io/problems/microsoft-neural-network-subnetwork-strength)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-neural-network-subnetwork-strength)|Jun 30, 2026|
+|**Meta / Google**|[Design a Code-Generation Language Model](https://www.fastprep.io/system-design/code-generation-language-model)|System design|[![Practice][p]](https://www.fastprep.io/system-design/code-generation-language-model)|Jun 30, 2026|
+|**Meta / Decagon / Google**|[Design a Live-Session Conversational Chatbot](https://www.fastprep.io/system-design/live-session-conversational-chatbot)|System design|[![Practice][p]](https://www.fastprep.io/system-design/live-session-conversational-chatbot)|Jun 30, 2026|
+|**Amazon**|[Frequently Bought Together](https://www.fastprep.io/problems/amazon-frequently-bought-together)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-frequently-bought-together)|Jun 29, 2026|
+|**Amazon**|[Souvenir Shop Purchases](https://www.fastprep.io/problems/amazon-souvenir-shop-purchases)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-souvenir-shop-purchases)|Jun 29, 2026|
 |**McKinsey**|[Count Repeated Request IDs](https://www.fastprep.io/problems/mckinsey-count-repeated-request-ids)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mckinsey-count-repeated-request-ids)|Jun 29, 2026|
 |**Salesforce**|[Final Pod Counts After Logs](https://www.fastprep.io/problems/salesforce-final-pod-counts-after-logs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-final-pod-counts-after-logs)|Jun 29, 2026|
 |**Salesforce**|[Minimum Removals to Balance Array](https://www.fastprep.io/problems/salesforce-minimum-removals-to-balance-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-minimum-removals-to-balance-array)|Jun 29, 2026|
@@ -159,7 +167,6 @@
 |**Meta**|[Design an Event Attendance Prediction Service](https://www.fastprep.io/system-design/event-attendance-prediction-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/event-attendance-prediction-service)|Apr 24, 2026|
 |**Meta**|[Design Place Recommendations for a Moving User](https://www.fastprep.io/system-design/moving-user-local-place-discovery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/moving-user-local-place-discovery)|Apr 24, 2026|
 |**Meta**|[Repair and Extend a Maze Solver](https://www.fastprep.io/project-coding/meta-maze-solver)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/meta-maze-solver)|Apr 24, 2026|
-|**Scale AI**|[Repair Contractor Project Assignment](https://www.fastprep.io/project-coding/scale-ai-contractor-course-project-assignment-debugging)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-contractor-course-project-assignment-debugging)|Apr 21, 2026|
 |**Point72**|[Initial Public Offering](https://www.fastprep.io/problems/point72-initial-public-offering)|Coding|[![Practice][p]](https://www.fastprep.io/problems/point72-initial-public-offering)|Apr 19, 2026|
 |**Amazon**|[Get Min Errors](https://www.fastprep.io/problems/amazon-get-min-errors)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-errors)|Apr 16, 2026|
 |**Mistral AI**|[PDF-to-Markdown Inference API](https://www.fastprep.io/system-design/pdf-to-markdown-inference-api)|System design|[![Practice][p]](https://www.fastprep.io/system-design/pdf-to-markdown-inference-api)|Apr 16, 2026|
@@ -260,7 +267,6 @@
 |**FlexTrade**|[Course Schedule](https://www.fastprep.io/problems/flextrade-course-schedule)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flextrade-course-schedule)|Jan 17, 2026|
 |**Bloomberg LP**|[Design a Wordle Game Round](https://www.fastprep.io/low-level-design/wordle-game-round)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/wordle-game-round)|Jan 16, 2026|
 |**Citadel**|[Four-Exit Roundabout Simulator](https://www.fastprep.io/low-level-design/four-exit-roundabout-simulator)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/four-exit-roundabout-simulator)|Jan 16, 2026|
-|**Stripe**|[Repair Dynamic-ID Request Replay](https://www.fastprep.io/project-coding/stripe-request-replay-integration)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-request-replay-integration)|Jan 15, 2026|
 |**Stable Money**|[Design a Feature Configuration Personalization Service](https://www.fastprep.io/low-level-design/feature-configuration-personalization)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/feature-configuration-personalization)|Jan 15, 2026|
 |**Ziina**|[Design Contact Sync and Prospective User Discovery](https://www.fastprep.io/low-level-design/contact-sync-and-prospective-users)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/contact-sync-and-prospective-users)|Jan 15, 2026|
 |**Tesla**|[Coordinate Parallel Runs Across Two Exclusive Targets](https://www.fastprep.io/project-coding/tesla-dual-target-parallel-runner)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/tesla-dual-target-parallel-runner)|Jan 14, 2026|
