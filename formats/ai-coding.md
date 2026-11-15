@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**140 questions**
+**144 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Anthropic**|[Debug a Byte-Pair Encoding Tokenizer (Fellow Program)](https://www.fastprep.io/project-coding/anthropic-byte-pair-encoding-tokenizer)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-byte-pair-encoding-tokenizer)|🔥 Nov 14, 2026|
+|**Scale AI**|[Debug Coupon Expiry, a Tenant Permission Cache, and Duplicate Pages](https://www.fastprep.io/project-coding/scale-ai-coupon-permission-pagination-debugging)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-coupon-permission-pagination-debugging)|🔥 Nov 13, 2026|
 |**DoorDash**|[Fix a Traffic Router and Add Consistent Hashing](https://www.fastprep.io/project-coding/doordash-routing-strategy-debugger)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-routing-strategy-debugger)|🔥 Nov 09, 2026|
 |**WhatNot**|[Add a Last-Moment Bidder and a Dutch Auction to an Auction System](https://www.fastprep.io/project-coding/whatnot-auction-last-moment-bidder-dutch-auction)|[![Practice][p]](https://www.fastprep.io/project-coding/whatnot-auction-last-moment-bidder-dutch-auction)|🔥 Nov 09, 2026|
 |**Goldman Sachs**|[Repair the Held-Ticket Confirmation Lifecycle](https://www.fastprep.io/project-coding/goldman-sachs-held-ticket-confirmation)|[![Practice][p]](https://www.fastprep.io/project-coding/goldman-sachs-held-ticket-confirmation)|🔥 Nov 08, 2026|
@@ -23,10 +25,12 @@
 |**Anthropic**|[Inference Engine (Fellow Program :D](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler)|🔥 Nov 03, 2026|
 |**Anthropic**|[Debug Extremely Randomized Trees (Fellow Program :)](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees)|🔥 Nov 03, 2026|
 |**DoorDash**|[Build a Refund DAG with Local HTTP Services](https://www.fastprep.io/project-coding/doordash-refund-dag-local-services)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-refund-dag-local-services)|🔥 Nov 03, 2026|
+|**Scale AI**|[Debug Config Parsing, Concurrent Counting, and a Stale Cache](https://www.fastprep.io/project-coding/scale-ai-config-counter-cache-debugging)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-config-counter-cache-debugging)|🔥 Nov 03, 2026|
+|**Scale AI**|[Merge and Verify a Chunked Upload](https://www.fastprep.io/project-coding/scale-ai-chunked-upload-merge-verify)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-chunked-upload-merge-verify)|🔥 Nov 03, 2026|
 |**DigitalOcean**|[Build a Distributed Rate Limiter Service](https://www.fastprep.io/project-coding/digitalocean-distributed-rate-limiter)|[![Practice][p]](https://www.fastprep.io/project-coding/digitalocean-distributed-rate-limiter)|🔥 Nov 02, 2026|
 |**Amazon**|[Repair My Cars Ownership and Saved Edits](https://www.fastprep.io/project-coding/amazon-car-rental-listing-repair)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-car-rental-listing-repair)|🔥 Nov 01, 2026|
 |**Stripe**|[Request API Endpoints](https://www.fastprep.io/project-coding/stripe-json-api-client-integration)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-json-api-client-integration)|🔥 Nov 01, 2026|
-|**AMD**|[Create an HTML Input and Submit Form](https://www.fastprep.io/project-coding/amd-html-input-submit-form)|[![Practice][p]](https://www.fastprep.io/project-coding/amd-html-input-submit-form)|🔥 Oct 31, 2026|
+|**AMD**|[Create an HTML Input and Submit Form](https://www.fastprep.io/project-coding/amd-html-input-submit-form)|[![Practice][p]](https://www.fastprep.io/project-coding/amd-html-input-submit-form)|🆕 Oct 31, 2026|
 |**DoorDash**|[Integrate Three Profile Services](https://www.fastprep.io/project-coding/doordash-service-profile-aggregator)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-service-profile-aggregator)|🆕 Oct 30, 2026|
 |**Citadel**|[Merge Single-Parent Jobs in an Async Job DAG](https://www.fastprep.io/project-coding/citadel-async-dag-single-parent-merge)|[![Practice][p]](https://www.fastprep.io/project-coding/citadel-async-dag-single-parent-merge)|🆕 Oct 29, 2026|
 |**Goldman Sachs**|[Repair Event Pre-Save Validation](https://www.fastprep.io/project-coding/goldman-sachs-event-presave-validation)|[![Practice][p]](https://www.fastprep.io/project-coding/goldman-sachs-event-presave-validation)|🆕 Oct 27, 2026|
@@ -62,7 +66,7 @@
 |**Applied Intuition**|[Driving Log Ingestion and Playback Windows](https://www.fastprep.io/project-coding/applied-intuition-driving-log-playback)|[![Practice][p]](https://www.fastprep.io/project-coding/applied-intuition-driving-log-playback)|🆕 Oct 06, 2026|
 |**Netflix**|[Review and Repair an ML Feature Pipeline PR](https://www.fastprep.io/project-coding/netflix-feature-pipeline-pr-review)|[![Practice][p]](https://www.fastprep.io/project-coding/netflix-feature-pipeline-pr-review)|🆕 Oct 05, 2026|
 |**Zip**|[Repair Monthly Expense Attribution](https://www.fastprep.io/project-coding/zip-repair-monthly-expense-attribution)|[![Practice][p]](https://www.fastprep.io/project-coding/zip-repair-monthly-expense-attribution)|🆕 Oct 02, 2026|
-|**BNSF Railway**|[Implement a Railway Quote Service Layer](https://www.fastprep.io/project-coding/bnsf-railway-quote-service-layer)|[![Practice][p]](https://www.fastprep.io/project-coding/bnsf-railway-quote-service-layer)|🆕 Sep 30, 2026|
+|**BNSF Railway**|[Implement a Railway Quote Service Layer](https://www.fastprep.io/project-coding/bnsf-railway-quote-service-layer)|[![Practice][p]](https://www.fastprep.io/project-coding/bnsf-railway-quote-service-layer)|Sep 30, 2026|
 |**Stripe**|[Repair Redirected Request Body Replay](https://www.fastprep.io/project-coding/stripe-redirect-stream-replay)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-redirect-stream-replay)|Sep 29, 2026|
 |**Amazon**|[Repair Blog Post Creation](https://www.fastprep.io/project-coding/amazon-django-blog-post-creation)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-django-blog-post-creation)|Sep 28, 2026|
 |**Groww**|[Build an Extensible Brokerage Charge Calculator](https://www.fastprep.io/project-coding/brokerage-charge-calculator)|[![Practice][p]](https://www.fastprep.io/project-coding/brokerage-charge-calculator)|Sep 25, 2026|

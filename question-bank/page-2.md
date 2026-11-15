@@ -9,6 +9,12 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**McKinsey**|[Count Repeated Request IDs](https://www.fastprep.io/problems/mckinsey-count-repeated-request-ids)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mckinsey-count-repeated-request-ids)|Jun 29, 2026|
+|**Salesforce**|[Final Pod Counts After Logs](https://www.fastprep.io/problems/salesforce-final-pod-counts-after-logs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-final-pod-counts-after-logs)|Jun 29, 2026|
+|**Salesforce**|[Minimum Removals to Balance Array](https://www.fastprep.io/problems/salesforce-minimum-removals-to-balance-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-minimum-removals-to-balance-array)|Jun 29, 2026|
+|**Uber**|[Minimum Operations To Reduce To Zero](https://www.fastprep.io/problems/uber-minimum-operations-to-reduce-to-zero)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-minimum-operations-to-reduce-to-zero)|Jun 29, 2026|
+|**Uber**|[Shopkeeper Final Price](https://www.fastprep.io/problems/uber-shopkeeper-final-price)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-shopkeeper-final-price)|Jun 29, 2026|
+|**TikTok**|[Check Even-Position Monotonicity](https://www.fastprep.io/problems/tiktok-check-even-position-monotonicity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-check-even-position-monotonicity)|Jun 29, 2026|
 |**TikTok**|[Construct WDL String](https://www.fastprep.io/problems/tiktok-construct-wdl-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-construct-wdl-string)|Jun 29, 2026|
 |**IBM**|[Request Retry Count](https://www.fastprep.io/problems/ibm-request-retry-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-request-retry-count)|Jun 29, 2026|
 |**Microsoft**|[Minimum Cost K-Capable Models](https://www.fastprep.io/problems/microsoft-minimum-cost-k-capable-models)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-cost-k-capable-models)|Jun 29, 2026|
