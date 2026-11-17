@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Point72**|[Server Selection](https://www.fastprep.io/problems/point72-server-selection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/point72-server-selection)|Jul 02, 2026|
 |**Squarepoint Capital**|[Manage a Resource with Smart Pointers](https://www.fastprep.io/low-level-design/smart-pointer-resource-lifetime)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/smart-pointer-resource-lifetime)|Jul 01, 2026|
 |**Amazon**|[Feasible Indices After Prefix/Suffix Reduction](https://www.fastprep.io/problems/amazon-feasible-indices-after-prefix-suffix-reduction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-feasible-indices-after-prefix-suffix-reduction)|Jun 30, 2026|
 |**Snowflake**|[Simple Array Rotation Game](https://www.fastprep.io/problems/snowflake-simple-array-rotation-game)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-simple-array-rotation-game)|Jun 30, 2026|
