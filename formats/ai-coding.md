@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**148 questions**
+**149 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -25,14 +25,14 @@
 |**Stripe**|[Complete a Bikemap Route and JSON Integration](https://www.fastprep.io/project-coding/stripe-bikemap-json-integration)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-bikemap-json-integration)|🔥 Nov 05, 2026|
 |**Amazon**|[Repair MovieDB Follows and Notifications](https://www.fastprep.io/project-coding/amazon-repair-moviedb-follows-notifications)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-moviedb-follows-notifications)|🔥 Nov 04, 2026|
 |**OpenAI**|[Build a Webhook Delivery System](https://www.fastprep.io/project-coding/openai-webhook-delivery-system)|[![Practice][p]](https://www.fastprep.io/project-coding/openai-webhook-delivery-system)|🔥 Nov 04, 2026|
-|**Amazon**|[Repair MovieDB Search and Recommendations](https://www.fastprep.io/project-coding/amazon-repair-moviedb-recommendations)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-moviedb-recommendations)|🔥 Nov 03, 2026|
-|**Anthropic**|[Inference Engine (Fellow Program :D](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler)|🔥 Nov 03, 2026|
-|**Anthropic**|[Debug Extremely Randomized Trees (Fellow Program :)](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees)|🔥 Nov 03, 2026|
-|**DoorDash**|[Build a Refund DAG with Local HTTP Services](https://www.fastprep.io/project-coding/doordash-refund-dag-local-services)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-refund-dag-local-services)|🔥 Nov 03, 2026|
-|**Scale AI**|[Debug Config Parsing, Concurrent Counting, and a Stale Cache](https://www.fastprep.io/project-coding/scale-ai-config-counter-cache-debugging)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-config-counter-cache-debugging)|🔥 Nov 03, 2026|
-|**Scale AI**|[Merge and Verify a Chunked Upload](https://www.fastprep.io/project-coding/scale-ai-chunked-upload-merge-verify)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-chunked-upload-merge-verify)|🔥 Nov 03, 2026|
-|**Scale AI**|[Repair Contributor Project Assignment](https://www.fastprep.io/project-coding/scale-ai-contractor-course-project-assignment-debugging)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-contractor-course-project-assignment-debugging)|🔥 Nov 03, 2026|
-|**Scale AI**|[Plan Task Execution Order with Deadline Risks](https://www.fastprep.io/project-coding/scale-ai-task-execution-plan-deadline-risk)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-task-execution-plan-deadline-risk)|🔥 Nov 03, 2026|
+|**Amazon**|[Repair MovieDB Search and Recommendations](https://www.fastprep.io/project-coding/amazon-repair-moviedb-recommendations)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-moviedb-recommendations)|🆕 Nov 03, 2026|
+|**Anthropic**|[Inference Engine (Fellow Program :D](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler)|🆕 Nov 03, 2026|
+|**Anthropic**|[Debug Extremely Randomized Trees (Fellow Program :)](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees)|🆕 Nov 03, 2026|
+|**DoorDash**|[Build a Refund DAG with Local HTTP Services](https://www.fastprep.io/project-coding/doordash-refund-dag-local-services)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-refund-dag-local-services)|🆕 Nov 03, 2026|
+|**Scale AI**|[Debug Config Parsing, Concurrent Counting, and a Stale Cache](https://www.fastprep.io/project-coding/scale-ai-config-counter-cache-debugging)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-config-counter-cache-debugging)|🆕 Nov 03, 2026|
+|**Scale AI**|[Merge and Verify a Chunked Upload](https://www.fastprep.io/project-coding/scale-ai-chunked-upload-merge-verify)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-chunked-upload-merge-verify)|🆕 Nov 03, 2026|
+|**Scale AI**|[Repair Contributor Project Assignment](https://www.fastprep.io/project-coding/scale-ai-contractor-course-project-assignment-debugging)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-contractor-course-project-assignment-debugging)|🆕 Nov 03, 2026|
+|**Scale AI**|[Plan Task Execution Order with Deadline Risks](https://www.fastprep.io/project-coding/scale-ai-task-execution-plan-deadline-risk)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-task-execution-plan-deadline-risk)|🆕 Nov 03, 2026|
 |**DigitalOcean**|[Build a Distributed Rate Limiter Service](https://www.fastprep.io/project-coding/digitalocean-distributed-rate-limiter)|[![Practice][p]](https://www.fastprep.io/project-coding/digitalocean-distributed-rate-limiter)|🆕 Nov 02, 2026|
 |**Amazon**|[Repair My Cars Ownership and Saved Edits](https://www.fastprep.io/project-coding/amazon-car-rental-listing-repair)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-car-rental-listing-repair)|🆕 Nov 01, 2026|
 |**Stripe**|[Request API Endpoints](https://www.fastprep.io/project-coding/stripe-json-api-client-integration)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-json-api-client-integration)|🆕 Nov 01, 2026|
@@ -136,6 +136,7 @@
 |**JP Morgan Chase**|[Complete a Donation and Clothing Bank Workflow](https://www.fastprep.io/project-coding/jpmorgan-aspire-donation-clothing-workflow)|[![Practice][p]](https://www.fastprep.io/project-coding/jpmorgan-aspire-donation-clothing-workflow)|Jul 27, 2024|
 |**JP Morgan Chase**|[Complete a Multilingual Volunteer Tutoring Platform](https://www.fastprep.io/project-coding/jpmorgan-multilingual-volunteer-tutoring)|[![Practice][p]](https://www.fastprep.io/project-coding/jpmorgan-multilingual-volunteer-tutoring)|Jul 27, 2024|
 |**JP Morgan Chase**|[Complete an Intervention Tracking Website](https://www.fastprep.io/project-coding/jpmorgan-dots-intervention-workflow)|[![Practice][p]](https://www.fastprep.io/project-coding/jpmorgan-dots-intervention-workflow)|Jul 27, 2024|
+|**Capital One**|[Accounting Automation Repair](https://www.fastprep.io/project-coding/capital-one-accounting-automation-repair)|[![Practice][p]](https://www.fastprep.io/project-coding/capital-one-accounting-automation-repair)|Jul 07, 2024|
 |**Scale AI**|[Training Data And Model Error Debugging](https://www.fastprep.io/project-coding/scale-ai-json-csv-model-error-debugging)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-json-csv-model-error-debugging)|Mar 05, 2024|
 |**Scale AI**|[Complete a Small CNN Oriented-Box Regression Pipeline](https://www.fastprep.io/project-coding/scale-ai-small-cnn-oriented-box-regression)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-small-cnn-oriented-box-regression)|Dec 21, 2023|
 |**Adobe**|[Build an SDK That Gets and Puts Data Over REST](https://www.fastprep.io/project-coding/rest-data-client-sdk)|[![Practice][p]](https://www.fastprep.io/project-coding/rest-data-client-sdk)|Dec 15, 2023|

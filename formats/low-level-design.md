@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**211 questions**
+**213 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -61,7 +61,7 @@
 |**Tekion / Amazon**|[Design a Workflow Orchestrator Domain](https://www.fastprep.io/low-level-design/workflow-orchestration-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/workflow-orchestration-domain)|🆕 Oct 04, 2026|
 |**Amazon**|[Design a Delivery Estimation Domain](https://www.fastprep.io/low-level-design/delivery-estimation-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/delivery-estimation-domain)|🆕 Oct 04, 2026|
 |**Kotak Mahindra Bank**|[Design an Event Registration Domain](https://www.fastprep.io/low-level-design/event-registration-management-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/event-registration-management-domain)|🆕 Oct 04, 2026|
-|**Amazon**|[Design a TTL-Aware LRU Cache](https://www.fastprep.io/low-level-design/ttl-aware-lru-cache-library)|[![Practice][p]](https://www.fastprep.io/low-level-design/ttl-aware-lru-cache-library)|🆕 Oct 03, 2026|
+|**Amazon**|[Design a TTL-Aware LRU Cache](https://www.fastprep.io/low-level-design/ttl-aware-lru-cache-library)|[![Practice][p]](https://www.fastprep.io/low-level-design/ttl-aware-lru-cache-library)|Oct 03, 2026|
 |**OpenAI**|[Design and Implement an Extensible Three-Card Hand Evaluator](https://www.fastprep.io/low-level-design/extensible-three-card-hand-evaluator)|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-three-card-hand-evaluator)|Oct 02, 2026|
 |**Dell Technologies**|[Design and Implement a Hash Map](https://www.fastprep.io/low-level-design/test-driven-hash-map)|[![Practice][p]](https://www.fastprep.io/low-level-design/test-driven-hash-map)|Oct 02, 2026|
 |**Microsoft**|[Design and Implement an Attack-Path Graph Domain](https://www.fastprep.io/low-level-design/attack-path-graph-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/attack-path-graph-domain)|Oct 02, 2026|
@@ -150,6 +150,7 @@
 |**Amazon / AMD**|[Design a Standard Deck with Shuffle and Sort](https://www.fastprep.io/low-level-design/standard-deck-shuffle-and-sort)|[![Practice][p]](https://www.fastprep.io/low-level-design/standard-deck-shuffle-and-sort)|Apr 25, 2026|
 |**Stripe**|[Design a Business KYC Verification Domain](https://www.fastprep.io/low-level-design/business-kyc-verification-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/business-kyc-verification-domain)|Mar 27, 2026|
 |**Bloomberg LP**|[Design an O(1) Randomized Set](https://www.fastprep.io/low-level-design/o1-randomized-set)|[![Practice][p]](https://www.fastprep.io/low-level-design/o1-randomized-set)|Feb 19, 2026|
+|**Sentry**|[Design and Implement a Dependency-Aware Package Manager](https://www.fastprep.io/low-level-design/dependency-aware-package-manager)|[![Practice][p]](https://www.fastprep.io/low-level-design/dependency-aware-package-manager)|Feb 07, 2026|
 |**Razorpay**|[Design and Implement an ATM Machine](https://www.fastprep.io/low-level-design/atm-machine-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/atm-machine-domain)|Feb 02, 2026|
 |**Navan**|[Design a Flight Offer Aggregator](https://www.fastprep.io/low-level-design/flight-offer-aggregation-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/flight-offer-aggregation-domain)|Jan 20, 2026|
 |**Bloomberg LP**|[Design a Wordle Game Round](https://www.fastprep.io/low-level-design/wordle-game-round)|[![Practice][p]](https://www.fastprep.io/low-level-design/wordle-game-round)|Jan 16, 2026|
@@ -185,7 +186,6 @@
 |**Postman**|[Design Undo Delete for Shared Collections](https://www.fastprep.io/low-level-design/undo-delete-shared-collections)|[![Practice][p]](https://www.fastprep.io/low-level-design/undo-delete-shared-collections)|Jul 19, 2024|
 |**Postman**|[Design Undoable Deletion for API Collections](https://www.fastprep.io/low-level-design/undoable-collection-deletion)|[![Practice][p]](https://www.fastprep.io/low-level-design/undoable-collection-deletion)|Jul 19, 2024|
 |**Google**|[Design and Implement a Path-Value File System](https://www.fastprep.io/low-level-design/path-value-file-system)|[![Practice][p]](https://www.fastprep.io/low-level-design/path-value-file-system)|May 01, 2024|
-|**Sentry**|[Design and Implement a Dependency-Aware Package Manager](https://www.fastprep.io/low-level-design/dependency-aware-package-manager)|[![Practice][p]](https://www.fastprep.io/low-level-design/dependency-aware-package-manager)|Mar 08, 2024|
 |**Expedia**|[Design a Pinned Favorites Bar](https://www.fastprep.io/low-level-design/pinned-favorites-bar)|[![Practice][p]](https://www.fastprep.io/low-level-design/pinned-favorites-bar)|Feb 19, 2024|
 |**Navan**|[Design a Calendar Availability Scheduler](https://www.fastprep.io/low-level-design/calendar-availability-scheduler)|[![Practice][p]](https://www.fastprep.io/low-level-design/calendar-availability-scheduler)|Jan 24, 2024|
 |**Navan**|[Design a Flight Booking Orchestrator](https://www.fastprep.io/low-level-design/flight-booking-orchestration)|[![Practice][p]](https://www.fastprep.io/low-level-design/flight-booking-orchestration)|Dec 08, 2023|
@@ -196,6 +196,7 @@
 |**ZipRecruiter**|[Design and Implement a Playlist Management Domain](https://www.fastprep.io/low-level-design/playlist-management-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/playlist-management-domain)|May 14, 2023|
 |**Headlands Technologies**|[Asynchronous TCP Message Channel](https://www.fastprep.io/low-level-design/asynchronous-tcp-message-channel)|[![Practice][p]](https://www.fastprep.io/low-level-design/asynchronous-tcp-message-channel)|Mar 09, 2023|
 |**Morgan Stanley**|[Design an Earbud Connection and Playback Model](https://www.fastprep.io/low-level-design/earbud-connection-playback-model)|[![Practice][p]](https://www.fastprep.io/low-level-design/earbud-connection-playback-model)|Feb 10, 2023|
+|**Sentry**|[Design an Inventory Tracking System](https://www.fastprep.io/low-level-design/store-inventory-tracking-system)|[![Practice][p]](https://www.fastprep.io/low-level-design/store-inventory-tracking-system)|Jan 13, 2023|
 |**Scale AI**|[Design and Implement a Task and Worker Assignment Model](https://www.fastprep.io/low-level-design/task-worker-assignment-model)|[![Practice][p]](https://www.fastprep.io/low-level-design/task-worker-assignment-model)|Sep 09, 2022|
 |**Grubhub**|[Air Traffic Control System](https://www.fastprep.io/low-level-design/air-traffic-control-system)|[![Practice][p]](https://www.fastprep.io/low-level-design/air-traffic-control-system)|Mar 26, 2022|
 |**Bloomberg LP**|[Design a Ticketed Parking Lot with Defragmentation](https://www.fastprep.io/low-level-design/ticketed-parking-lot-defragmentation)|[![Practice][p]](https://www.fastprep.io/low-level-design/ticketed-parking-lot-defragmentation)|Feb 28, 2022|
@@ -216,6 +217,7 @@
 |**Bloomberg LP**|[Design an iPod-Style Music Player](https://www.fastprep.io/low-level-design/portable-music-player-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/portable-music-player-domain)|Jul 17, 2020|
 |**Bloomberg LP**|[Design an Ordered Document and Page Model](https://www.fastprep.io/low-level-design/ordered-document-page-word-model)|[![Practice][p]](https://www.fastprep.io/low-level-design/ordered-document-page-word-model)|Oct 17, 2019|
 |**Vanguard**|[Design an Abstract Car Class](https://www.fastprep.io/low-level-design/abstract-car-class)|[![Practice][p]](https://www.fastprep.io/low-level-design/abstract-car-class)|Sep 15, 2019|
+|**Sentry**|[Design an Error SDK Breadcrumb Trail](https://www.fastprep.io/low-level-design/error-sdk-breadcrumb-trail)|[![Practice][p]](https://www.fastprep.io/low-level-design/error-sdk-breadcrumb-trail)|Jun 11, 2019|
 |**Headlands Technologies**|[Design an Incremental Lattice Coverage Tracker](https://www.fastprep.io/low-level-design/lattice-segment-coverage-tracker)|[![Practice][p]](https://www.fastprep.io/low-level-design/lattice-segment-coverage-tracker)|Apr 17, 2018|
 |**Morgan Stanley**|[Design Employee Username and Birth Date Rules](https://www.fastprep.io/low-level-design/employee-username-birthdate-rules)|[![Practice][p]](https://www.fastprep.io/low-level-design/employee-username-birthdate-rules)|Oct 10, 2015|
 |**Morgan Stanley**|[Design Stateful Shopping Cart Lines](https://www.fastprep.io/low-level-design/stateful-shopping-cart-lines)|[![Practice][p]](https://www.fastprep.io/low-level-design/stateful-shopping-cart-lines)|Sep 14, 2014|
