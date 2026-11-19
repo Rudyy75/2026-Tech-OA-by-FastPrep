@@ -2,16 +2,21 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**152 questions**
+**155 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
 |**Charta Health**|[Build an Autocomplete Search Box for Wikipedia Titles](https://www.fastprep.io/project-coding/charta-health-autocomplete-title-search)|[![Practice][p]](https://www.fastprep.io/project-coding/charta-health-autocomplete-title-search)|🔥 Nov 18, 2026|
+|**Stripe**|[Repair Dynamic-ID Request Replay](https://www.fastprep.io/project-coding/stripe-request-replay-integration)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-request-replay-integration)|🔥 Nov 18, 2026|
+|**DoorDash**|[Build a Refund DAG with Local HTTP Services](https://www.fastprep.io/project-coding/doordash-refund-dag-local-services)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-refund-dag-local-services)|🔥 Nov 18, 2026|
+|**Affirm**|[Fix Learning Badges and Add a Course Progress API](https://www.fastprep.io/project-coding/affirm-learning-platform-badges-progress)|[![Practice][p]](https://www.fastprep.io/project-coding/affirm-learning-platform-badges-progress)|🔥 Nov 18, 2026|
+|**Amazon**|[Repair MovieDB Reviews and Ratings](https://www.fastprep.io/project-coding/amazon-repair-moviedb-reviews)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-moviedb-reviews)|🔥 Nov 17, 2026|
 |**Rippling**|[Schedule Future Employee Changes in an HR API](https://www.fastprep.io/project-coding/rippling-scheduled-employee-changes)|[![Practice][p]](https://www.fastprep.io/project-coding/rippling-scheduled-employee-changes)|🔥 Nov 16, 2026|
 |**DoorDash**|[Fix a Traffic Router and Add Consistent Hashing](https://www.fastprep.io/project-coding/doordash-routing-strategy-debugger)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-routing-strategy-debugger)|🔥 Nov 16, 2026|
 |**Amazon**|[Repair the Wallet Loan Marketplace](https://www.fastprep.io/project-coding/repair-wallet-loan-marketplace)|[![Practice][p]](https://www.fastprep.io/project-coding/repair-wallet-loan-marketplace)|🔥 Nov 16, 2026|
+|**IBM**|[Repair MovieDB Search and Recommendations](https://www.fastprep.io/project-coding/ibm-repair-moviedb-recommendations)|[![Practice][p]](https://www.fastprep.io/project-coding/ibm-repair-moviedb-recommendations)|🔥 Nov 16, 2026|
 |**Anthropic**|[Debug a Byte-Pair Encoding Tokenizer (Fellow Program)](https://www.fastprep.io/project-coding/anthropic-byte-pair-encoding-tokenizer)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-byte-pair-encoding-tokenizer)|🔥 Nov 14, 2026|
 |**Amazon**|[Repair MovieDB Follows and Notifications](https://www.fastprep.io/project-coding/amazon-repair-moviedb-follows-notifications)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-moviedb-follows-notifications)|🔥 Nov 14, 2026|
 |**Scale AI**|[Debug Coupon Expiry, a Tenant Permission Cache, and Duplicate Pages](https://www.fastprep.io/project-coding/scale-ai-coupon-permission-pagination-debugging)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-coupon-permission-pagination-debugging)|🔥 Nov 13, 2026|
@@ -21,7 +26,6 @@
 |**Bloomberg LP**|[Resolve Tickets in Multi-Tenant Matchmaking](https://www.fastprep.io/project-coding/bloomberg-matchmaking-engine-tickets)|[![Practice][p]](https://www.fastprep.io/project-coding/bloomberg-matchmaking-engine-tickets)|🔥 Nov 13, 2026|
 |**Bloomberg LP**|[Debug a Stock Exchange Order Book](https://www.fastprep.io/project-coding/bloomberg-debug-stock-exchange-order-book)|[![Practice][p]](https://www.fastprep.io/project-coding/bloomberg-debug-stock-exchange-order-book)|🔥 Nov 13, 2026|
 |**Stripe**|[Repair Nested Record Value Normalization](https://www.fastprep.io/project-coding/stripe-nested-value-normalization)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-nested-value-normalization)|🔥 Nov 12, 2026|
-|**Stripe**|[Repair Dynamic-ID Request Replay](https://www.fastprep.io/project-coding/stripe-request-replay-integration)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-request-replay-integration)|🔥 Nov 12, 2026|
 |**Goldman Sachs**|[Repair the Held-Ticket Confirmation Lifecycle](https://www.fastprep.io/project-coding/goldman-sachs-held-ticket-confirmation)|[![Practice][p]](https://www.fastprep.io/project-coding/goldman-sachs-held-ticket-confirmation)|🔥 Nov 11, 2026|
 |**WhatNot**|[Add a Last-Moment Bidder and a Dutch Auction to an Auction System](https://www.fastprep.io/project-coding/whatnot-auction-last-moment-bidder-dutch-auction)|[![Practice][p]](https://www.fastprep.io/project-coding/whatnot-auction-last-moment-bidder-dutch-auction)|🔥 Nov 09, 2026|
 |**Bloomberg LP**|[Debug a Ticket Booking System](https://www.fastprep.io/project-coding/bloomberg-debug-ticket-booking-system)|[![Practice][p]](https://www.fastprep.io/project-coding/bloomberg-debug-ticket-booking-system)|🔥 Nov 08, 2026|
@@ -32,7 +36,6 @@
 |**Amazon**|[Repair MovieDB Search and Recommendations](https://www.fastprep.io/project-coding/amazon-repair-moviedb-recommendations)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-moviedb-recommendations)|🆕 Nov 03, 2026|
 |**Anthropic**|[Inference Engine Scheduler (Fellow Program)](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler)|🆕 Nov 03, 2026|
 |**Anthropic**|[Debug Extremely Randomized Trees (Fellow Program)](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees)|🆕 Nov 03, 2026|
-|**DoorDash**|[Build a Refund DAG with Local HTTP Services](https://www.fastprep.io/project-coding/doordash-refund-dag-local-services)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-refund-dag-local-services)|🆕 Nov 03, 2026|
 |**Scale AI**|[Debug Config Parsing, Concurrent Counting, and a Stale Cache](https://www.fastprep.io/project-coding/scale-ai-config-counter-cache-debugging)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-config-counter-cache-debugging)|🆕 Nov 03, 2026|
 |**Scale AI**|[Merge and Verify a Chunked Upload](https://www.fastprep.io/project-coding/scale-ai-chunked-upload-merge-verify)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-chunked-upload-merge-verify)|🆕 Nov 03, 2026|
 |**Scale AI**|[Repair Contributor Project Assignment](https://www.fastprep.io/project-coding/scale-ai-contractor-course-project-assignment-debugging)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-contractor-course-project-assignment-debugging)|🆕 Nov 03, 2026|
