@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**151 questions**
+**152 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -19,6 +19,7 @@
 |**Datadog**|[Build a Snowflake Query Client](https://www.fastprep.io/project-coding/datadog-snowflake-query-client)|[![Practice][p]](https://www.fastprep.io/project-coding/datadog-snowflake-query-client)|🔥 Nov 13, 2026|
 |**Scale AI**|[Build a Daily Payment Report for Each Merchant](https://www.fastprep.io/project-coding/scale-ai-merchant-daily-payment-report)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-merchant-daily-payment-report)|🔥 Nov 13, 2026|
 |**Bloomberg LP**|[Resolve Tickets in Multi-Tenant Matchmaking](https://www.fastprep.io/project-coding/bloomberg-matchmaking-engine-tickets)|[![Practice][p]](https://www.fastprep.io/project-coding/bloomberg-matchmaking-engine-tickets)|🔥 Nov 13, 2026|
+|**Bloomberg LP**|[Debug a Stock Exchange Order Book](https://www.fastprep.io/project-coding/bloomberg-debug-stock-exchange-order-book)|[![Practice][p]](https://www.fastprep.io/project-coding/bloomberg-debug-stock-exchange-order-book)|🔥 Nov 13, 2026|
 |**Stripe**|[Repair Nested Record Value Normalization](https://www.fastprep.io/project-coding/stripe-nested-value-normalization)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-nested-value-normalization)|🔥 Nov 12, 2026|
 |**Stripe**|[Repair Dynamic-ID Request Replay](https://www.fastprep.io/project-coding/stripe-request-replay-integration)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-request-replay-integration)|🔥 Nov 12, 2026|
 |**Goldman Sachs**|[Repair the Held-Ticket Confirmation Lifecycle](https://www.fastprep.io/project-coding/goldman-sachs-held-ticket-confirmation)|[![Practice][p]](https://www.fastprep.io/project-coding/goldman-sachs-held-ticket-confirmation)|🔥 Nov 11, 2026|
@@ -27,7 +28,7 @@
 |**DoorDash**|[Build a Real-Time Prediction Service](https://www.fastprep.io/project-coding/doordash-realtime-prediction-serving)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-realtime-prediction-serving)|🔥 Nov 07, 2026|
 |**DoorDash**|[Build a Training Dataset from Order Tables](https://www.fastprep.io/project-coding/doordash-order-training-dataset-builder)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-order-training-dataset-builder)|🔥 Nov 07, 2026|
 |**Stripe**|[Complete a Bikemap Route and JSON Integration](https://www.fastprep.io/project-coding/stripe-bikemap-json-integration)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-bikemap-json-integration)|🔥 Nov 05, 2026|
-|**OpenAI**|[Build a Webhook Delivery System](https://www.fastprep.io/project-coding/openai-webhook-delivery-system)|[![Practice][p]](https://www.fastprep.io/project-coding/openai-webhook-delivery-system)|🔥 Nov 04, 2026|
+|**OpenAI**|[Build a Webhook Delivery System](https://www.fastprep.io/project-coding/openai-webhook-delivery-system)|[![Practice][p]](https://www.fastprep.io/project-coding/openai-webhook-delivery-system)|🆕 Nov 04, 2026|
 |**Amazon**|[Repair MovieDB Search and Recommendations](https://www.fastprep.io/project-coding/amazon-repair-moviedb-recommendations)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-moviedb-recommendations)|🆕 Nov 03, 2026|
 |**Anthropic**|[Inference Engine Scheduler (Fellow Program)](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler)|🆕 Nov 03, 2026|
 |**Anthropic**|[Debug Extremely Randomized Trees (Fellow Program)](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees)|🆕 Nov 03, 2026|
