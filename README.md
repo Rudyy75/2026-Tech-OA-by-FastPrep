@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,138)](formats/coding.md) · [SQL (29)](formats/sql.md) · [System design (724)](formats/system-design.md) · [Low-level design (225)](formats/low-level-design.md) · [AI coding (158)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,138)](formats/coding.md) · [SQL (29)](formats/sql.md) · [System design (730)](formats/system-design.md) · [Low-level design (228)](formats/low-level-design.md) · [AI coding (159)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -204,6 +204,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Google / Snap Inc.**|[Design a Harmful-Content Classification Service](https://www.fastprep.io/system-design/harmful-content-classification-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/harmful-content-classification-service)|🆕 Oct 30, 2026|
 |**The D.E. Shaw Group**|[Design a Snakes and Ladders Game](https://www.fastprep.io/low-level-design/snakes-and-ladders-game)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/snakes-and-ladders-game)|🆕 Oct 30, 2026|
 |**Zomato / Eternal / Amazon / Tekion / Motive / Capgemini / Booking.com**|[Design an Online Ordering Platform](https://www.fastprep.io/system-design/online-ordering-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/online-ordering-platform)|🆕 Oct 30, 2026|
+|**Bloomberg LP**|[Debug Seat Hold, Confirm and Cancel Rules](https://www.fastprep.io/project-coding/bloomberg-debug-seat-hold-booking)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/bloomberg-debug-seat-hold-booking)|🆕 Oct 30, 2026|
 |**Rippling**|[Design a Multi-Tenant Employee Leave Management System](https://www.fastprep.io/system-design/multi-tenant-employee-leave-management)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-tenant-employee-leave-management)|🆕 Oct 29, 2026|
 |**Autodesk**|[Design a Shape Transformation Engine](https://www.fastprep.io/low-level-design/shape-transformation-engine)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/shape-transformation-engine)|🆕 Oct 29, 2026|
 |**Google / Microsoft / LinkedIn**|[Design Learned Web Search Ranking](https://www.fastprep.io/system-design/learned-web-search-ranking)|System design|[![Practice][p]](https://www.fastprep.io/system-design/learned-web-search-ranking)|🆕 Oct 29, 2026|
@@ -247,6 +248,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Keka HR**|[Design an Admin Trip Assignment System](https://www.fastprep.io/system-design/admin-trip-driver-assignment-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/admin-trip-driver-assignment-system)|🆕 Oct 22, 2026|
 |**Keka HR**|[Build an Alert Ingestion Service](https://www.fastprep.io/project-coding/keka-mini-alerting-service)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/keka-mini-alerting-service)|🆕 Oct 22, 2026|
 |**Keka HR**|[Review a Backend Search Endpoint](https://www.fastprep.io/project-coding/keka-secure-backend-code-review)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/keka-secure-backend-code-review)|🆕 Oct 22, 2026|
+|**Bloomberg LP**|[Design a Wordle Game Round](https://www.fastprep.io/low-level-design/wordle-game-round)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/wordle-game-round)|🆕 Oct 22, 2026|
 |**Confluent**|[Design a Podcast Subscription Feed API and Data Model](https://www.fastprep.io/system-design/podcast-subscription-feed-api-data-model)|System design|[![Practice][p]](https://www.fastprep.io/system-design/podcast-subscription-feed-api-data-model)|🆕 Oct 21, 2026|
 |**Amazon**|[Design a Pizza Ordering Domain](https://www.fastprep.io/low-level-design/pizza-order-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/pizza-order-domain)|🆕 Oct 21, 2026|
 |**eBay**|[Design a Multi-Tenant Model Registry and Sharing Platform](https://www.fastprep.io/system-design/multi-tenant-model-registry-and-sharing-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-tenant-model-registry-and-sharing-platform)|🆕 Oct 21, 2026|
@@ -370,6 +372,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Temporal / Amazon**|[Design Zero-Downtime Database Migration](https://www.fastprep.io/system-design/zero-downtime-database-migration-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/zero-downtime-database-migration-platform)|Oct 04, 2026|
 |**Amazon**|[Design a Delivery Estimation Domain](https://www.fastprep.io/low-level-design/delivery-estimation-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/delivery-estimation-domain)|Oct 04, 2026|
 |**Kotak Mahindra Bank**|[Design an Event Registration Domain](https://www.fastprep.io/low-level-design/event-registration-management-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/event-registration-management-domain)|Oct 04, 2026|
+|**Bloomberg LP**|[Design a Fair Job Scheduler for a Small Worker Pool](https://www.fastprep.io/system-design/fair-share-job-scheduler)|System design|[![Practice][p]](https://www.fastprep.io/system-design/fair-share-job-scheduler)|Oct 04, 2026|
 |**Microsoft**|[Design a Product Page Sharing and Rewards Platform](https://www.fastprep.io/system-design/product-page-sharing-and-rewards-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/product-page-sharing-and-rewards-platform)|Oct 03, 2026|
 |**Cohere**|[Enterprise Research Assistant](https://www.fastprep.io/system-design/enterprise-research-assistant)|System design|[![Practice][p]](https://www.fastprep.io/system-design/enterprise-research-assistant)|Oct 03, 2026|
 |**Grammarly**|[Design a Real-Time Anonymous Pixel Canvas](https://www.fastprep.io/system-design/real-time-anonymous-pixel-canvas)|System design|[![Practice][p]](https://www.fastprep.io/system-design/real-time-anonymous-pixel-canvas)|Oct 03, 2026|
@@ -1673,7 +1676,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Google**|[Template Variable Expansion](https://www.fastprep.io/problems/google-template-variable-expansion)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-template-variable-expansion)|Jul 08, 2026|
 |**Meta**|[Highest Rating Price Ratio](https://www.fastprep.io/problems/meta-highest-rating-price-ratio)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-highest-rating-price-ratio)|Jul 08, 2026|
 |**Snowflake**|[Closest Target Character](https://www.fastprep.io/problems/snowflake-closest-target-character)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-closest-target-character)|Jul 08, 2026|
-|**Point72**|[Test the Hypothesis](https://www.fastprep.io/problems/point72-test-the-hypothesis)|Coding|[![Practice][p]](https://www.fastprep.io/problems/point72-test-the-hypothesis)|Jul 08, 2026|
-|**DE Shaw**|[Minimum Frames for Equal Chunks](https://www.fastprep.io/problems/deshaw-minimum-frames-for-equal-chunks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/deshaw-minimum-frames-for-equal-chunks)|Jul 08, 2026|
-|**DE Shaw**|[Non-Alternating Binary Partitions](https://www.fastprep.io/problems/deshaw-non-alternating-binary-partitions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/deshaw-non-alternating-binary-partitions)|Jul 08, 2026|
 <a id="bottom"></a>

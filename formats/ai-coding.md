@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**158 questions**
+**159 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -45,6 +45,7 @@
 |**Stripe**|[Request API Endpoints](https://www.fastprep.io/project-coding/stripe-json-api-client-integration)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-json-api-client-integration)|🆕 Nov 01, 2026|
 |**AMD**|[Create an HTML Input and Submit Form](https://www.fastprep.io/project-coding/amd-html-input-submit-form)|[![Practice][p]](https://www.fastprep.io/project-coding/amd-html-input-submit-form)|🆕 Oct 31, 2026|
 |**DoorDash**|[Integrate Three Profile Services](https://www.fastprep.io/project-coding/doordash-service-profile-aggregator)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-service-profile-aggregator)|🆕 Oct 30, 2026|
+|**Bloomberg LP**|[Debug Seat Hold, Confirm and Cancel Rules](https://www.fastprep.io/project-coding/bloomberg-debug-seat-hold-booking)|[![Practice][p]](https://www.fastprep.io/project-coding/bloomberg-debug-seat-hold-booking)|🆕 Oct 30, 2026|
 |**Citadel**|[Merge Single-Parent Jobs in an Async Job DAG](https://www.fastprep.io/project-coding/citadel-async-dag-single-parent-merge)|[![Practice][p]](https://www.fastprep.io/project-coding/citadel-async-dag-single-parent-merge)|🆕 Oct 29, 2026|
 |**Goldman Sachs**|[Repair Event Pre-Save Validation](https://www.fastprep.io/project-coding/goldman-sachs-event-presave-validation)|[![Practice][p]](https://www.fastprep.io/project-coding/goldman-sachs-event-presave-validation)|🆕 Oct 27, 2026|
 |**DoorDash**|[Build a Dasher Payout Service](https://www.fastprep.io/project-coding/doordash-dasher-payout-service)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-dasher-payout-service)|🆕 Oct 26, 2026|
