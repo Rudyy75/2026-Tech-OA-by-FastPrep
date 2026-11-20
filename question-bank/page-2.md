@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Snowflake**|[Closest Target Character](https://www.fastprep.io/problems/snowflake-closest-target-character)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-closest-target-character)|Jul 08, 2026|
 |**Point72**|[Test the Hypothesis](https://www.fastprep.io/problems/point72-test-the-hypothesis)|Coding|[![Practice][p]](https://www.fastprep.io/problems/point72-test-the-hypothesis)|Jul 08, 2026|
 |**DE Shaw**|[Minimum Frames for Equal Chunks](https://www.fastprep.io/problems/deshaw-minimum-frames-for-equal-chunks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/deshaw-minimum-frames-for-equal-chunks)|Jul 08, 2026|
 |**DE Shaw**|[Non-Alternating Binary Partitions](https://www.fastprep.io/problems/deshaw-non-alternating-binary-partitions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/deshaw-non-alternating-binary-partitions)|Jul 08, 2026|
@@ -1152,6 +1153,7 @@
 |**Amazon**|[Maximize Subtree Product](https://www.fastprep.io/problems/amazon-maximize-subtree-product)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-subtree-product)|Jun 10, 2024|
 |**Amazon**|[Bring Servers Down](https://www.fastprep.io/problems/amazon-bring-servers-down)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-bring-servers-down)|Jun 10, 2024|
 |**Snowflake**|[Search Strings](https://www.fastprep.io/problems/snowflake-get-maximum-removals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-get-maximum-removals)|Jun 10, 2024|
+|**Capital One**|[Design Bank Accounts with Transaction History](https://www.fastprep.io/low-level-design/bank-customer-accounts-and-transaction-history)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/bank-customer-accounts-and-transaction-history)|Jun 04, 2024|
 |**Amazon**|[Optimizing Box Weights](https://www.fastprep.io/problems/amazon-minimal-heaviest-set-a)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimal-heaviest-set-a)|Jun 02, 2024|
 |**Amazon**|[Find K Level Permutation](https://www.fastprep.io/problems/amazon-find-k-level-permutation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-k-level-permutation)|Jun 02, 2024|
 |**Salesforce**|[Winning Square](https://www.fastprep.io/problems/salesforce-construct-winning-sequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-construct-winning-sequence)|Jun 02, 2024|

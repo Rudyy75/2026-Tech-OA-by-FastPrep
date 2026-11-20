@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,138)](formats/coding.md) · [SQL (29)](formats/sql.md) · [System design (730)](formats/system-design.md) · [Low-level design (228)](formats/low-level-design.md) · [AI coding (159)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,138)](formats/coding.md) · [SQL (29)](formats/sql.md) · [System design (730)](formats/system-design.md) · [Low-level design (230)](formats/low-level-design.md) · [AI coding (159)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -33,6 +33,8 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <!-- question-pages:end -->
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Design Music Search, Playlists, and Playback](https://www.fastprep.io/low-level-design/amazon-music-search-and-playback)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/amazon-music-search-and-playback)|🔥 Nov 20, 2026|
+|**Capital One**|[Design and Implement a Simple Web Chat](https://www.fastprep.io/low-level-design/simple-web-chat-object-model)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/simple-web-chat-object-model)|🔥 Nov 20, 2026|
 |**Bloomberg LP**|[Design a Book Upload and Search Service](https://www.fastprep.io/system-design/book-upload-and-search-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/book-upload-and-search-service)|🔥 Nov 19, 2026|
 |**Bloomberg LP**|[Design App Version Targeting for User Groups](https://www.fastprep.io/system-design/app-version-targeting-by-user-group)|System design|[![Practice][p]](https://www.fastprep.io/system-design/app-version-targeting-by-user-group)|🔥 Nov 19, 2026|
 |**Amazon / Meta / ByteDance / Harvey / Clio / Microsoft / Wayfair / Apple**|[Design a Cloud File Storage System](https://www.fastprep.io/system-design/cloud-file-storage)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cloud-file-storage)|🔥 Nov 19, 2026|
@@ -1176,7 +1178,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Microsoft**|[Design a Web Crawler and Inverted Index](https://www.fastprep.io/system-design/web-crawler-inverted-search-index)|System design|[![Practice][p]](https://www.fastprep.io/system-design/web-crawler-inverted-search-index)|Aug 23, 2026|
 |**Walmart / Crowdstrike**|[Design Multi-Cloud Blob Malware Scanning](https://www.fastprep.io/system-design/multicloud-blob-malware-scanning)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multicloud-blob-malware-scanning)|Aug 23, 2026|
 |**Salesforce / Bloomberg LP**|[Design a Connect Four Game](https://www.fastprep.io/low-level-design/connect-four-game-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/connect-four-game-domain)|Aug 23, 2026|
-|**Walmart**|[Design a Job Marketplace Domain](https://www.fastprep.io/low-level-design/job-marketplace-person-job-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/job-marketplace-person-job-domain)|Aug 23, 2026|
+|**Walmart / Capital One**|[Design a Job Marketplace Domain](https://www.fastprep.io/low-level-design/job-marketplace-person-job-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/job-marketplace-person-job-domain)|Aug 23, 2026|
 |**Barclays**|[Allocate Workers for a Production Ratio](https://www.fastprep.io/problems/barclays-production-ratio-worker-allocation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/barclays-production-ratio-worker-allocation)|Aug 22, 2026|
 |**Anthropic**|[Cloud Storage System](https://www.fastprep.io/problems/anthropic-cloud-storage-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/anthropic-cloud-storage-system)|Aug 22, 2026|
 |**Uber**|[Design a Price Movement Alert Platform](https://www.fastprep.io/system-design/price-movement-alert-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/price-movement-alert-platform)|Aug 22, 2026|
@@ -1508,7 +1510,6 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Amazon**|[Loyal Customers Across Two Days](https://www.fastprep.io/problems/amazon-loyal-customers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-loyal-customers)|Jul 21, 2026|
 |**Amazon**|[Smallest Number With a Given Digit Sum](https://www.fastprep.io/problems/amazon-smallest-number-with-digit-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-smallest-number-with-digit-sum)|Jul 21, 2026|
 |**Oracle**|[Merge k Sorted Lists](https://www.fastprep.io/problems/oracle-merge-k-sorted-lists)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-merge-k-sorted-lists)|Jul 21, 2026|
-|**Amazon**|[Design Music Search, Playlists, and Playback](https://www.fastprep.io/low-level-design/amazon-music-search-and-playback)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/amazon-music-search-and-playback)|Jul 21, 2026|
 |**Capital One**|[Design an Online Banking System](https://www.fastprep.io/system-design/online-banking-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/online-banking-system)|Jul 21, 2026|
 |**Airbnb**|[Most Frequent Reduced Digit](https://www.fastprep.io/problems/airbnb-most-frequent-reduced-digit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-most-frequent-reduced-digit)|Jul 20, 2026|
 |**Airbnb**|[Rectangle Fit Queries](https://www.fastprep.io/problems/airbnb-rectangle-fit-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-rectangle-fit-queries)|Jul 20, 2026|
@@ -1675,5 +1676,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Google**|[String Pattern Replacement](https://www.fastprep.io/problems/google-string-pattern-replacement)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-string-pattern-replacement)|Jul 08, 2026|
 |**Google**|[Template Variable Expansion](https://www.fastprep.io/problems/google-template-variable-expansion)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-template-variable-expansion)|Jul 08, 2026|
 |**Meta**|[Highest Rating Price Ratio](https://www.fastprep.io/problems/meta-highest-rating-price-ratio)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-highest-rating-price-ratio)|Jul 08, 2026|
-|**Snowflake**|[Closest Target Character](https://www.fastprep.io/problems/snowflake-closest-target-character)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-closest-target-character)|Jul 08, 2026|
 <a id="bottom"></a>
