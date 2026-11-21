@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,138)](formats/coding.md) · [SQL (29)](formats/sql.md) · [System design (736)](formats/system-design.md) · [Low-level design (234)](formats/low-level-design.md) · [AI coding (160)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,138)](formats/coding.md) · [SQL (29)](formats/sql.md) · [System design (736)](formats/system-design.md) · [Low-level design (234)](formats/low-level-design.md) · [AI coding (162)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -56,6 +56,8 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Meta**|[Design an Agentic Support Ticket Triage System](https://www.fastprep.io/system-design/agentic-support-ticket-triage)|System design|[![Practice][p]](https://www.fastprep.io/system-design/agentic-support-ticket-triage)|🔥 Nov 19, 2026|
 |**Meta**|[Design Friend-Shared Charts for a Music Player](https://www.fastprep.io/system-design/friend-shared-music-charts)|System design|[![Practice][p]](https://www.fastprep.io/system-design/friend-shared-music-charts)|🔥 Nov 19, 2026|
 |**Amazon**|[Design a Package Locker System](https://www.fastprep.io/low-level-design/package-locker-system)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/package-locker-system)|🔥 Nov 19, 2026|
+|**Snorkel AI**|[Build a Dataset Tagging Review Service](https://www.fastprep.io/project-coding/snorkel-dataset-tagging-review)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/snorkel-dataset-tagging-review)|🔥 Nov 19, 2026|
+|**Adobe**|[Fix Confirming a Held Ticket](https://www.fastprep.io/project-coding/adobe-held-ticket-confirmation)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/adobe-held-ticket-confirmation)|🔥 Nov 19, 2026|
 |**Charta Health**|[Design an AI Chart Review Pipeline for EMR Encounter Codes](https://www.fastprep.io/system-design/ai-chart-review-encounter-code-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ai-chart-review-encounter-code-pipeline)|🔥 Nov 18, 2026|
 |**Rippling**|[Design Read-Only User Impersonation](https://www.fastprep.io/system-design/read-only-user-impersonation)|System design|[![Practice][p]](https://www.fastprep.io/system-design/read-only-user-impersonation)|🔥 Nov 18, 2026|
 |**Charta Health**|[Build an Autocomplete Search Box for Wikipedia Titles](https://www.fastprep.io/project-coding/charta-health-autocomplete-title-search)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/charta-health-autocomplete-title-search)|🔥 Nov 18, 2026|
@@ -1672,7 +1674,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Capital One**|[Predict Taxi Driver Classes](https://www.fastprep.io/problems/capital-one-predict-driver-classes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-predict-driver-classes)|Jul 09, 2026|
 |**Rupeek**|[Trapping Rain Water](https://www.fastprep.io/problems/rupeek-trapping-rain-water)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rupeek-trapping-rain-water)|Jul 08, 2026|
 |**OpenAI**|[DSA Round: Maximum Score Grid Path](https://www.fastprep.io/problems/openai-dsa-round-maximum-score-grid-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-dsa-round-maximum-score-grid-path)|Jul 08, 2026|
-|**Amazon**|[Closest Version Date](https://www.fastprep.io/problems/amazon-closest-version-date)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-closest-version-date)|Jul 08, 2026|
-|**Amazon**|[Maximum Concurrent Processes (Bar Raiser Round)](https://www.fastprep.io/problems/amazon-max-concurrent-processes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-max-concurrent-processes)|Jul 08, 2026|
-|**Amazon**|[Package Dependency Order](https://www.fastprep.io/problems/amazon-package-dependency-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-package-dependency-order)|Jul 08, 2026|
 <a id="bottom"></a>
