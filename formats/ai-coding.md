@@ -8,6 +8,7 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Amazon**|[Repair MovieDB Reviews and Ratings](https://www.fastprep.io/project-coding/amazon-repair-moviedb-reviews)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-moviedb-reviews)|🔥 Nov 25, 2026|
 |**DoorDash**|[Build a Refund Workflow DAG with Local HTTP Services](https://www.fastprep.io/project-coding/doordash-refund-dag-local-services)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-refund-dag-local-services)|🔥 Nov 24, 2026|
 |**Amazon**|[Repair Workflow Issue and Sub-Issue Creation](https://www.fastprep.io/project-coding/amazon-repair-workflow-issues)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-workflow-issues)|🔥 Nov 22, 2026|
 |**Rippling**|[Schedule Future Employee Changes in an HR API](https://www.fastprep.io/project-coding/rippling-scheduled-employee-changes)|[![Practice][p]](https://www.fastprep.io/project-coding/rippling-scheduled-employee-changes)|🔥 Nov 21, 2026|
@@ -22,7 +23,6 @@
 |**Charta Health**|[Build an Autocomplete Search Box for Wikipedia Titles](https://www.fastprep.io/project-coding/charta-health-autocomplete-title-search)|[![Practice][p]](https://www.fastprep.io/project-coding/charta-health-autocomplete-title-search)|🔥 Nov 18, 2026|
 |**Stripe**|[Repair Dynamic-ID Request Replay](https://www.fastprep.io/project-coding/stripe-request-replay-integration)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-request-replay-integration)|🔥 Nov 18, 2026|
 |**Affirm**|[Fix Learning Badges and Add a Course Progress API](https://www.fastprep.io/project-coding/affirm-learning-platform-badges-progress)|[![Practice][p]](https://www.fastprep.io/project-coding/affirm-learning-platform-badges-progress)|🔥 Nov 18, 2026|
-|**Amazon**|[Repair MovieDB Reviews and Ratings](https://www.fastprep.io/project-coding/amazon-repair-moviedb-reviews)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-moviedb-reviews)|🔥 Nov 17, 2026|
 |**DoorDash**|[Fix a Traffic Router and Add Consistent Hashing](https://www.fastprep.io/project-coding/doordash-routing-strategy-debugger)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-routing-strategy-debugger)|🔥 Nov 16, 2026|
 |**Amazon**|[Repair the Wallet Loan Marketplace](https://www.fastprep.io/project-coding/repair-wallet-loan-marketplace)|[![Practice][p]](https://www.fastprep.io/project-coding/repair-wallet-loan-marketplace)|🔥 Nov 16, 2026|
 |**IBM**|[Repair MovieDB Search and Recommendations](https://www.fastprep.io/project-coding/ibm-repair-moviedb-recommendations)|[![Practice][p]](https://www.fastprep.io/project-coding/ibm-repair-moviedb-recommendations)|🔥 Nov 16, 2026|

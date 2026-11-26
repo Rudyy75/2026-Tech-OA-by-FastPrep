@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**758 questions**
+**760 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -12,6 +12,9 @@
 |**Salesforce / Replit / Sarvam AI / Microsoft / Gojek / Goldman Sachs / Amazon / Blinkit / Reddit / Qualified Health AI / Suno / WhatNot / Apple**|[Design an Event-Driven Notification System](https://www.fastprep.io/system-design/event-driven-notification-system)|[![Practice][p]](https://www.fastprep.io/system-design/event-driven-notification-system)|🔥 Nov 25, 2026|
 |**Mercor / Salesforce / Nuro / Rippling / Qualified Health AI / Solytics Partners**|[Design a Durable Work Orchestration Platform](https://www.fastprep.io/system-design/durable-work-orchestration-platform)|[![Practice][p]](https://www.fastprep.io/system-design/durable-work-orchestration-platform)|🔥 Nov 25, 2026|
 |**Roblox**|[Design a Resource Loader for a Desktop Client](https://www.fastprep.io/system-design/desktop-client-resource-loader)|[![Practice][p]](https://www.fastprep.io/system-design/desktop-client-resource-loader)|🔥 Nov 25, 2026|
+|**Netflix / Oracle / Google / Meta / ByteDance / Astrotalk / LinkedIn / Microsoft / Snap Inc. / Shopify / The Walt Disney Company / Palantir / Roblox / Yahoo**|[Design a Personalized Recommendation System](https://www.fastprep.io/system-design/personalized-recommendation-system)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-recommendation-system)|🔥 Nov 25, 2026|
+|**StackAdapt**|[Design a Community Discussion Forum](https://www.fastprep.io/system-design/community-discussion-forum)|[![Practice][p]](https://www.fastprep.io/system-design/community-discussion-forum)|🔥 Nov 25, 2026|
+|**Amazon**|[Design an Online Multiplayer Battleship Game](https://www.fastprep.io/system-design/online-multiplayer-battleship)|[![Practice][p]](https://www.fastprep.io/system-design/online-multiplayer-battleship)|🔥 Nov 25, 2026|
 |**Amazon / Meta / ByteDance / Harvey / Clio / Microsoft / Wayfair / Apple**|[Design a Cloud File Storage System](https://www.fastprep.io/system-design/cloud-file-storage)|[![Practice][p]](https://www.fastprep.io/system-design/cloud-file-storage)|🔥 Nov 24, 2026|
 |**DoorDash / ION Group**|[Food Review System](https://www.fastprep.io/system-design/food-review-system)|[![Practice][p]](https://www.fastprep.io/system-design/food-review-system)|🔥 Nov 24, 2026|
 |**Gusto**|[Design a Restaurant Staff Scheduling System](https://www.fastprep.io/system-design/restaurant-scheduling-system)|[![Practice][p]](https://www.fastprep.io/system-design/restaurant-scheduling-system)|🔥 Nov 24, 2026|
@@ -41,7 +44,6 @@
 |**Zscaler / Amazon / Walmart / Stripe / ByteDance / Bloomberg LP / OpenAI / New Relic / Datadog / WhatNot / LinkedIn**|[Design a Global Service Metrics Monitoring and Alerting Platform](https://www.fastprep.io/system-design/global-service-metrics-monitoring-and-alerting)|[![Practice][p]](https://www.fastprep.io/system-design/global-service-metrics-monitoring-and-alerting)|🔥 Nov 19, 2026|
 |**Oracle / Retell AI / Apple / Google / Walmart / Flipkart / Globalization Partners / Amazon / Reddit / Atlassian / Snowflake / Tennr / Teradata / Securonix / slice / Decagon**|[Design a Distributed Rate Limiter](https://www.fastprep.io/system-design/distributed-rate-limiter)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-rate-limiter)|🔥 Nov 19, 2026|
 |**Teradata**|[Design an Organization Knowledge Assistant with Tool Use](https://www.fastprep.io/system-design/organization-knowledge-rag-with-tools)|[![Practice][p]](https://www.fastprep.io/system-design/organization-knowledge-rag-with-tools)|🔥 Nov 19, 2026|
-|**Netflix / Oracle / Google / Meta / ByteDance / Astrotalk / LinkedIn / Microsoft / Snap Inc. / Shopify / The Walt Disney Company / Palantir / Roblox / Yahoo**|[Design a Personalized Recommendation System](https://www.fastprep.io/system-design/personalized-recommendation-system)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-recommendation-system)|🔥 Nov 19, 2026|
 |**DoorDash**|[Design a Three-Day Charity Donation Drive](https://www.fastprep.io/system-design/three-day-charity-event-system)|[![Practice][p]](https://www.fastprep.io/system-design/three-day-charity-event-system)|🔥 Nov 19, 2026|
 |**Pinterest / Instacart / Amazon / Coupa Software / Visa / Microsoft**|[Design an Inventory Management Service](https://www.fastprep.io/system-design/inventory-management-service)|[![Practice][p]](https://www.fastprep.io/system-design/inventory-management-service)|🔥 Nov 19, 2026|
 |**Snorkel AI**|[Design a Human Data Labeling Task Platform](https://www.fastprep.io/system-design/human-data-labeling-task-platform)|[![Practice][p]](https://www.fastprep.io/system-design/human-data-labeling-task-platform)|🔥 Nov 19, 2026|
