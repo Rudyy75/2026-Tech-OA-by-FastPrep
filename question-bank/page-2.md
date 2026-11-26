@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Stripe**|[Directly Linked Users](https://www.fastprep.io/problems/stripe-directly-linked-users)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-directly-linked-users)|Jul 10, 2026|
 |**Stripe**|[Fraud Ring Size](https://www.fastprep.io/problems/stripe-fraud-ring-size)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-fraud-ring-size)|Jul 10, 2026|
 |**Stripe**|[Risky Fraud Ring](https://www.fastprep.io/problems/stripe-risky-fraud-ring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-risky-fraud-ring)|Jul 10, 2026|
 |**Two Sigma**|[Balanced Split String with Wildcards](https://www.fastprep.io/problems/two-sigma-balanced-split-string-with-wildcards)|Coding|[![Practice][p]](https://www.fastprep.io/problems/two-sigma-balanced-split-string-with-wildcards)|Jul 10, 2026|
