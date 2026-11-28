@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Google**|[Ad Rotation Scheduler With Cooldown](https://www.fastprep.io/problems/google-ad-rotation-scheduler-with-cooldown)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-ad-rotation-scheduler-with-cooldown)|Jul 10, 2026|
+|**Google**|[Consolidated On-Call Rotations](https://www.fastprep.io/problems/google-consolidated-on-call-rotations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-consolidated-on-call-rotations)|Jul 10, 2026|
 |**Google**|[Count Connected Point Clusters](https://www.fastprep.io/problems/google-count-connected-point-clusters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-count-connected-point-clusters)|Jul 10, 2026|
 |**Google**|[Longest Target Run After Replacements](https://www.fastprep.io/problems/google-longest-target-run-after-replacements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-longest-target-run-after-replacements)|Jul 10, 2026|
 |**Hudson River Trading**|[Backtick Identifier Converter](https://www.fastprep.io/problems/hrt-backtick-identifier-converter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hrt-backtick-identifier-converter)|Jul 10, 2026|

@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,138)](formats/coding.md) · [SQL (29)](formats/sql.md) · [System design (760)](formats/system-design.md) · [Low-level design (235)](formats/low-level-design.md) · [AI coding (163)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,138)](formats/coding.md) · [SQL (29)](formats/sql.md) · [System design (762)](formats/system-design.md) · [Low-level design (235)](formats/low-level-design.md) · [AI coding (163)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -34,6 +34,9 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
 |**Postman / Anduril / DigitalOcean / Oracle / Adobe / Uber Freight / Grab / Goldman Sachs / Salesforce / Vercel / Sentry / Motive / Deloitte / ZipRecruiter / DoorDash / Expedia / Bloomberg LP / CHECK24 / eBay**|[Design a URL Shortening Service](https://www.fastprep.io/system-design/url-shortening-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/url-shortening-service)|🔥 Nov 27, 2026|
+|**OpenAI / Figma / Cresta / Tekion**|[Design an Agent Evaluation Platform](https://www.fastprep.io/system-design/agent-evaluation-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/agent-evaluation-platform)|🔥 Nov 27, 2026|
+|**Headway**|[Design a Doctor Appointment Booking and Search System](https://www.fastprep.io/system-design/doctor-appointment-booking-and-search)|System design|[![Practice][p]](https://www.fastprep.io/system-design/doctor-appointment-booking-and-search)|🔥 Nov 27, 2026|
+|**Rivian**|[Design a Multi-Tenant Vehicle-to-Cloud Platform](https://www.fastprep.io/system-design/vehicle-to-cloud-platform-multi-tenant-scaling)|System design|[![Practice][p]](https://www.fastprep.io/system-design/vehicle-to-cloud-platform-multi-tenant-scaling)|🔥 Nov 27, 2026|
 |**OpenAI**|[Design a Fair Multiplayer Typing Race](https://www.fastprep.io/system-design/multiplayer-typing-race)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multiplayer-typing-race)|🔥 Nov 26, 2026|
 |**PayPay / Stripe**|[Design a Coupon Generation and Redemption Service](https://www.fastprep.io/system-design/coupon-generation-and-redemption-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/coupon-generation-and-redemption-service)|🔥 Nov 26, 2026|
 |**Salesforce / Replit / Sarvam AI / Microsoft / Gojek / Goldman Sachs / Amazon / Blinkit / Reddit / Qualified Health AI / Suno / WhatNot / Apple**|[Design an Event-Driven Notification System](https://www.fastprep.io/system-design/event-driven-notification-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/event-driven-notification-system)|🔥 Nov 25, 2026|
@@ -460,7 +463,6 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Amazon**|[Repair Blog Post Creation](https://www.fastprep.io/project-coding/amazon-django-blog-post-creation)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-django-blog-post-creation)|Sep 28, 2026|
 |**Aurora Innovation**|[Safe LLM Driving Intent Platform](https://www.fastprep.io/system-design/llm-assisted-driving-intent-safety-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/llm-assisted-driving-intent-safety-platform)|Sep 27, 2026|
 |**Snowflake / Dropbox / Temporal / Attentive / Navan**|[Design a Fault-Tolerant Cloud Queue Service](https://www.fastprep.io/system-design/fault-tolerant-cloud-queue-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/fault-tolerant-cloud-queue-service)|Sep 27, 2026|
-|**OpenAI / Figma / Cresta / Tekion**|[Design an Agent Evaluation Platform](https://www.fastprep.io/system-design/agent-evaluation-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/agent-evaluation-platform)|Sep 27, 2026|
 |**Uber / Mercor / Tekion**|[Design a Persistent Multi-Thread AI Chat](https://www.fastprep.io/system-design/persistent-multi-thread-ai-chat)|System design|[![Practice][p]](https://www.fastprep.io/system-design/persistent-multi-thread-ai-chat)|Sep 27, 2026|
 |**Headway / Expedia**|[Vacation Rental Search and Booking](https://www.fastprep.io/system-design/vacation-rental-search-and-booking)|System design|[![Practice][p]](https://www.fastprep.io/system-design/vacation-rental-search-and-booking)|Sep 27, 2026|
 |**Tekion**|[Design a Durable Agent Workflow Runtime](https://www.fastprep.io/system-design/durable-agent-workflow-runtime)|System design|[![Practice][p]](https://www.fastprep.io/system-design/durable-agent-workflow-runtime)|Sep 27, 2026|
@@ -1667,6 +1669,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Amazon**|[Domain Weight Calculation](https://www.fastprep.io/problems/amazon-domain-weight-calculation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-domain-weight-calculation)|Jul 10, 2026|
 |**Amazon**|[Minimum Contiguous Replacements](https://www.fastprep.io/problems/amazon-minimum-contiguous-replacements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-contiguous-replacements)|Jul 10, 2026|
 |**Walmart**|[K-Capable Model Costs](https://www.fastprep.io/problems/walmart-k-capable-model-costs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/walmart-k-capable-model-costs)|Jul 10, 2026|
-|**Google**|[Ad Rotation Scheduler With Cooldown](https://www.fastprep.io/problems/google-ad-rotation-scheduler-with-cooldown)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-ad-rotation-scheduler-with-cooldown)|Jul 10, 2026|
-|**Google**|[Consolidated On-Call Rotations](https://www.fastprep.io/problems/google-consolidated-on-call-rotations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-consolidated-on-call-rotations)|Jul 10, 2026|
 <a id="bottom"></a>
